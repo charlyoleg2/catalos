@@ -22,6 +22,7 @@ It can be compiled in two variants:
 
 1. catalui: the *astro* frontend
 
+The mono-repo allows splitting the backend in several hono-packages is needed.
 The *code source* is available on [github](https://github.com/charlyoleg2/catalos).
 
 

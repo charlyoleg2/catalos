@@ -1,7 +1,9 @@
 {
 	"name": "catalui",
-	"type": "module",
 	"version": "0.0.1",
+	"description": "The astro frontend",
+	"private": true,
+	"type": "module",
 	"scripts": {
 		"dev": "astro dev",
 		"build": "astro build",
