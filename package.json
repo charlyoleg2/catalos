@@ -1,0 +1,41 @@
+{
+	"name": "catalos",
+	"version": "0.1.1",
+	"description": "The mono-repo for the astro website catalos",
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/charlyoleg2/catalos.git"
+	},
+	"homepage": "https://charlyoleg2.github.io/catalos/",
+	"author": "charlyoleg2",
+	"license": "ISC",
+	"keywords": [
+		"crud",
+		"parametrix",
+		"astro"
+	],
+	"type": "module",
+	"workspaces": [
+		"pkg/*"
+	],
+	"scripts": {
+		"dedalas:dev": "npm -w dedalas run dev",
+		"dedalas:ci": "npm -w dedalas run ci",
+		"dedalas:clean": "npm -w dedalas run clean",
+		"dedalas:preview": "npm -w dedalas run preview",
+		"dedalas:version": "npm -w dedalas version patch",
+		"ci": "run-s dedalas:ci",
+		"clean-root": "rimraf tmp output output2 build",
+		"clean": "run-s clean-root dedalas:clean",
+		"preview": "run-p dedalas:preview",
+		"versions": "run-s dedalas:version",
+		"ls-workspaces": "npm -ws exec -c pwd",
+		"ls-pkg": "ls -la pkg"
+	},
+	"devDependencies": {
+		"@atao60/fse-cli": "^0.1.9",
+		"npm-run-all2": "^7.0.1",
+		"rimraf": "^6.0.1"
+	}
+}
