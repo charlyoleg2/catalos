@@ -1,21 +1,21 @@
 {
-  "name": "catalui",
-  "type": "module",
-  "version": "0.0.1",
-  "scripts": {
-    "dev": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro",
+	"name": "catalui",
+	"type": "module",
+	"version": "0.0.1",
+	"scripts": {
+		"dev": "astro dev",
+		"build": "astro build",
+		"preview": "astro preview",
+		"astro": "astro",
 		"format": "prettier --write .",
 		"lint": "prettier --check .",
 		"ci": "run-s build lint",
 		"github-pages-fix": "touch dist/.nojekyll",
 		"clean": "rimraf .astro dist node_modules"
-  },
-  "dependencies": {
+	},
+	"dependencies": {
 		"@astrojs/node": "^9.0.0",
-    "astro": "^5.0.8"
+		"astro": "^5.0.8"
 	},
 	"devDependencies": {
 		"npm-run-all2": "^7.0.1",
