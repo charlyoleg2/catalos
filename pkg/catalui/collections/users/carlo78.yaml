@@ -1,0 +1,21 @@
+carlo78:
+    userId: 1
+    username: charlyoleg
+    firstName: Carlo
+    familyName: Givonne
+    birthDate: 1978-08-01
+    country: France
+    city: Sedan
+	photoPath:
+	email: charles.braquet@gmx.fr
+	passwd: 12345
+	createdAt: 2016-11-28T14:10:11.338Z
+	verifiedAt: 2016-11-28T14:10:11.338Z
+	updatedAt: 2016-11-28T14:10:11.338Z
+	updateCount: 5
+	lastLoginAt: 2016-11-28T14:10:11.338Z
+	lastIP: 94.121.163.63
+	loginCount: 15
+	deletedUserAt:
+	deletedAdminAt:
+	admin: true
