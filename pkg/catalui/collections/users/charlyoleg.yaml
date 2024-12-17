@@ -1,21 +1,20 @@
-charlyoleg:
-    userId: 1
-    username: charlyoleg
-    firstName: Charles
-    familyName: Braquet
-    birthDate: 1978-08-30
-    country: France
-    city: Charleville-meziere
-	photoPath:
-	email: charles.braquet@gmx.fr
-	passwd: 12345
-	createdAt: 2016-11-28T14:10:11.338Z
-	verifiedAt: 2016-11-28T14:10:11.338Z
-	updatedAt: 2016-11-28T14:10:11.338Z
-	updateCount: 5
-	lastLoginAt: 2016-11-28T14:10:11.338Z
-	lastIP: 94.121.163.63
-	loginCount: 15
-	deletedUserAt:
-	deletedAdminAt:
-	admin: true
+userId: 1
+username: charlyoleg
+firstName: Charles
+familyName: Braquet
+birthDate: 1978-08-30
+country: France
+city: Charleville-meziere
+photoPath: path/to/photo.jpg
+email: charles.braquet@gmx.fr
+passwd: 12345
+createdAt: 2016-11-28T14:10:11.338Z
+verifiedAt: 2016-11-28T14:10:11.338Z
+updatedAt: 2016-11-28T14:10:11.338Z
+updateCount: 5
+lastLoginAt: 2016-11-28T14:10:11.338Z
+lastIP: 94.121.163.63
+loginCount: 15
+deletedUserAt:
+deletedAdminAt:
+admin: true
