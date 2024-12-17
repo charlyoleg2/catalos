@@ -3,15 +3,27 @@ import Layout from '../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 
 const users = await getCollection('users');
+const designs = await getCollection('designs');
 ---
 
 <Layout>
 	<h1>Hello from catalos</h1>
+	<h2>Users</h2>
 	<ul>
 		{
 			users.map((user) => (
 				<li>
 					<a href={`/user/${user.data.username}`}>{user.data.username}</a>
+				</li>
+			))
+		}
+	</ul>
+	<h2>Designs</h2>
+	<ul>
+		{
+			designs.map((design) => (
+				<li>
+					<a href={`/user/${design.data.owner}`}>{design.data.designName}</a>
 				</li>
 			))
 		}
