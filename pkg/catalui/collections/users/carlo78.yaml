@@ -5,7 +5,7 @@ familyName: Givonne
 birthDate: 1978-08-01
 country: France
 city: Sedan
-photoPath: path/to/photo.jpg
+photoPath: ./carlo78.svg
 email: charles.braquet@gmx.fr
 passwd: 12345
 createdAt: 2016-11-28T14:10:11.338Z

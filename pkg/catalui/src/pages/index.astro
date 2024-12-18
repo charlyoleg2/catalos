@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
 
 const users = await getCollection('users');
 const designs = await getCollection('designs');
@@ -9,15 +10,14 @@ const designs = await getCollection('designs');
 <Layout>
 	<h1>Hello from catalos</h1>
 	<h2>Users</h2>
-	<ul>
-		{
-			users.map((user) => (
-				<li>
-					<a href={`/user/${user.data.username}`}>{user.data.username}</a>
-				</li>
-			))
-		}
-	</ul>
+	{
+		users.map((user) => (
+			<div>
+				<a href={`/user/${user.data.username}`}>{user.data.username}</a>
+				<Image src={user.data.photoPath} alt={user.data.firstName} />
+			</div>
+		))
+	}
 	<h2>Designs</h2>
 	<ul>
 		{
