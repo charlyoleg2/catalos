@@ -1,0 +1,11 @@
+---
+import { getEntry } from 'astro:content';
+
+const { design } = Astro.props;
+const user = await getEntry(design.data.owner);
+---
+
+<li>
+	design: {design.data.designName}
+	owner: {user.username}
+</li>
