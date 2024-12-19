@@ -11,15 +11,19 @@
 		"astro": "astro",
 		"format": "prettier --write .",
 		"lint": "prettier --check .",
-		"ci": "run-s build lint",
+		"cpFiles": "./copy_d1_files.js",
+		"ci": "run-s cpFiles build lint",
 		"github-pages-fix": "touch dist/.nojekyll",
-		"clean": "rimraf .astro dist node_modules"
+		"clean-astro": "rimraf .astro dist node_modules",
+		"clean-u": "rimraf public/u",
+		"clean": "run-s clean-astro clean-u"
 	},
 	"dependencies": {
 		"@astrojs/node": "^9.0.0",
 		"astro": "^5.0.8"
 	},
 	"devDependencies": {
+		"fs-extra": "^11.2.0",
 		"npm-run-all2": "^7.0.1",
 		"prettier": "^3.4.2",
 		"prettier-plugin-astro": "^0.14.1",
