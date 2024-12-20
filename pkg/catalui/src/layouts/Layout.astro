@@ -1,5 +1,7 @@
 ---
 //import { prefixBase } from '../lib/util.ts';
+const base = import.meta.env.BASE_URL;
+const base2 = base === '/' ? '/' : `${base}/`;
 ---
 
 <!doctype html>
@@ -7,7 +9,7 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
-		<base href={import.meta.env.BASE_URL} />
+		<base href={base2} />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
 		<title>Astro Basics</title>

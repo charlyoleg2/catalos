@@ -5,7 +5,7 @@ familyName: Braquet
 birthDate: 1978-08-30
 country: France
 city: Charleville-meziere
-photoPath: ./charlyoleg.svg
+photoPath: charlyoleg.svg
 email: charles.braquet@gmx.fr
 passwd: 12345
 createdAt: 2016-11-28T14:10:11.338Z
