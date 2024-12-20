@@ -10,7 +10,7 @@
 		"preview": "astro preview",
 		"astro": "astro",
 		"format": "prettier --write .",
-		"lint": "prettier --check .",
+		"lint": "prettier --check . && astro check",
 		"cpFiles": "./copy_d1_files.js",
 		"ci": "run-s cpFiles build lint",
 		"github-pages-fix": "touch dist/.nojekyll",

@@ -1,5 +1,10 @@
 ---
+import type { CollectionEntry } from 'astro:content';
 import { getEntry } from 'astro:content';
+
+interface Props {
+	design: CollectionEntry<'designs'>;
+}
 
 const { design } = Astro.props;
 const user = await getEntry(design.data.owner);
