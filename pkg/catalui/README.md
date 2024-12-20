@@ -24,6 +24,4 @@ ToDo
 ----
 
 - complete copyFiles.js
-- add types to Astro.props
-- add Astro check in lint-script
 
