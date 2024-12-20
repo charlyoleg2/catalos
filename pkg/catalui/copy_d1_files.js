@@ -18,7 +18,7 @@ async function copyFiles() {
 		const designs = await glob('./d1/users/*.yaml');
 		for (const pdesign of designs) {
 			const bname = path.basename(pdesign, '.yaml');
-			const porig = `./d1/users/${bname}`;
+			const porig = `./d1/designs/${bname}`;
 			if (await fs.pathExists(porig)) {
 				console.log(`copy dir: ${bname}`);
 				await fs.copy(porig, `./public/u/${bname}`);
