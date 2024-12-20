@@ -3,7 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import OneDesign from '../components/OneDesign.astro';
 import { getCollection, getEntry } from 'astro:content';
 //import { getCollection } from 'astro:content';
-import { prefixBase } from '../lib/util.ts';
+//import { prefixBase } from '../lib/util.ts';
 
 const users = await getCollection('users');
 const designs = await getCollection('designs');
@@ -15,8 +15,8 @@ const designs = await getCollection('designs');
 	{
 		users.map((user) => (
 			<div>
-				<a href={prefixBase(`/user/${user.data.username}`)}>{user.data.username}</a>
-				<img src={prefixBase(`/u/${user.data.photoPath}`)} alt={user.data.firstName} />
+				<a href={`user/${user.data.username}`}>{user.data.username}</a>
+				<img src={`u/${user.data.photoPath}`} alt={user.data.firstName} />
 			</div>
 		))
 	}
