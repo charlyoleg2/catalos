@@ -20,8 +20,14 @@ async function copyFiles() {
 			const bname = path.basename(pdesign, '.yaml');
 			const porig = `./d1/designs/${bname}`;
 			if (await fs.pathExists(porig)) {
-				console.log(`copy dir: ${bname}`);
-				await fs.copy(porig, `./public/u/${bname}`);
+				if ((await fs.stat(porig)).isDirectory()) {
+					console.log(`copy dir: ${bname}`);
+					await fs.copy(porig, `./public/u/${bname}`);
+				} else {
+					console.log(`warn382: ${porig} is not a directory!`);
+				}
+			} else {
+				console.log(`warn209: the directory ${porig} doesn't exist!`);
 			}
 		}
 	} catch (err) {
