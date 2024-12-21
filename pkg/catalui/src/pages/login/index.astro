@@ -5,9 +5,40 @@ import TopMenu from '@src/components/TopMenu.astro';
 
 <Layout title="Catalos">
 	<TopMenu />
-	<h1>Login</h1>
+	<article>
+		<h1>Login</h1>
+		<label
+			>Username:
+			<input type="text" name="suUsername" size="40/" />
+		</label>
+		<label
+			>Password:
+			<input type="text" name="suPassword" size="40/" />
+		</label>
+		<div>
+			<button>Log in</button>
+			<button>Cancel</button>
+		</div>
+	</article>
 	<article>
 		Don't have an account yet?
 		<a href="signup">Sign up</a>
 	</article>
 </Layout>
+
+<style>
+	article {
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-start;
+		background-color: AliceBlue;
+	}
+	label {
+		display: block;
+	}
+	button {
+		font-weight: bold;
+		color: white;
+		background-color: DarkGreen;
+	}
+</style>
