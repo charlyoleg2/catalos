@@ -1,0 +1,51 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import TopMenu from '../../components/TopMenu.astro';
+---
+
+<Layout title="Catalos">
+	<TopMenu />
+	<h1>Sign up</h1>
+	<article>
+		<label
+			>Username:
+			<input type="text" name="suUsername" size="40/" />
+		</label>
+		<label
+			>First name:
+			<input type="text" name="suFirstname" size="40/" />
+		</label>
+		<label
+			>Familly name:
+			<input type="text" name="suFamillyname" size="40/" />
+		</label>
+		<label
+			>Email:
+			<input type="text" name="suEmail" size="40/" />
+		</label>
+		<label
+			>Password:
+			<input type="text" name="suPassword" size="40/" />
+		</label>
+		<div>
+			<button>Create an account</button>
+			<button>Cancel</button>
+		</div>
+	</article>
+</Layout>
+
+<style>
+	article {
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-start;
+	}
+	label {
+		display: block;
+	}
+	button {
+		font-weight: bold;
+		color: white;
+		background-color: DarkGreen;
+	}
+</style>
