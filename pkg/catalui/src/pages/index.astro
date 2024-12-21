@@ -17,8 +17,8 @@ const desiGear19 = await getEntry('designs', 'charlyoleg/gearwheel-19');
 <Layout title="Catalos">
 	<TopMenu />
 	<SimpleSearch />
-	<DesiCard design={desiGear29}/>
-	<DesiCard design={desiGear19}/>
+	<DesiCard design={desiGear29} />
+	<DesiCard design={desiGear19} />
 	<h1>Hello from catalos</h1>
 	<h2>Users</h2>
 	{
@@ -33,7 +33,9 @@ const desiGear19 = await getEntry('designs', 'charlyoleg/gearwheel-19');
 	<ul>
 		{
 			designs.map(async (desi) => (
-				<li>la: {(await getEntry(desi.data.owner)).data.firstName} id: {desi.id}</li>
+				<li>
+					la: {(await getEntry(desi.data.owner)).data.firstName} id: {desi.id}
+				</li>
 			))
 		}
 		{designs.map((desi) => <OneDesign design={desi} />)}
