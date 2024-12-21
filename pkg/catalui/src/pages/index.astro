@@ -10,15 +10,18 @@ import { getCollection, getEntry } from 'astro:content';
 
 const users = await getCollection('users');
 const designs = await getCollection('designs');
-const desiGear29 = await getEntry('designs', 'charlyoleg/gearwheel-29');
-const desiGear19 = await getEntry('designs', 'charlyoleg/gearwheel-19');
+//const desiGear29 = await getEntry('designs', 'charlyoleg/gearwheel-29');
+//const desiGear19 = await getEntry('designs', 'charlyoleg/gearwheel-19');
 ---
 
 <Layout title="Catalos">
 	<TopMenu />
 	<SimpleSearch />
+	<!--
 	<DesiCard design={desiGear29} />
 	<DesiCard design={desiGear19} />
+	-->
+	{designs.map((desi) => <DesiCard design={desi} />)}
 	<h1>Hello from catalos</h1>
 	<h2>Users</h2>
 	{
