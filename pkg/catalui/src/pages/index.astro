@@ -2,6 +2,7 @@
 import Layout from '@src/layouts/Layout.astro';
 import TopMenu from '@src/components/TopMenu.astro';
 import SimpleSearch from '@src/components/SimpleSearch.astro';
+import DesiCard from '@src/components/DesiCard.astro';
 import OneDesign from '@src/components/OneDesign.astro';
 import { getCollection, getEntry } from 'astro:content';
 //import { getCollection } from 'astro:content';
@@ -14,6 +15,7 @@ const designs = await getCollection('designs');
 <Layout title="Catalos">
 	<TopMenu />
 	<SimpleSearch />
+	<DesiCard />
 	<h1>Hello from catalos</h1>
 	<h2>Users</h2>
 	{
