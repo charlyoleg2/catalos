@@ -10,12 +10,15 @@ import { getCollection, getEntry } from 'astro:content';
 
 const users = await getCollection('users');
 const designs = await getCollection('designs');
+const desiGear29 = await getEntry('designs', 'charlyoleg/gearwheel-29');
+const desiGear19 = await getEntry('designs', 'charlyoleg/gearwheel-19');
 ---
 
 <Layout title="Catalos">
 	<TopMenu />
 	<SimpleSearch />
-	<DesiCard />
+	<DesiCard design={desiGear29}/>
+	<DesiCard design={desiGear19}/>
 	<h1>Hello from catalos</h1>
 	<h2>Users</h2>
 	{
@@ -30,7 +33,7 @@ const designs = await getCollection('designs');
 	<ul>
 		{
 			designs.map(async (desi) => (
-				<li>la: {(await getEntry(desi.data.owner)).data.firstName}</li>
+				<li>la: {(await getEntry(desi.data.owner)).data.firstName} id: {desi.id}</li>
 			))
 		}
 		{designs.map((desi) => <OneDesign design={desi} />)}
