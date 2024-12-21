@@ -1,11 +1,11 @@
 ---
-import Layout from '../layouts/Layout.astro';
-import TopMenu from '../components/TopMenu.astro';
-import SimpleSearch from '../components/SimpleSearch.astro';
-import OneDesign from '../components/OneDesign.astro';
+import Layout from '@src/layouts/Layout.astro';
+import TopMenu from '@src/components/TopMenu.astro';
+import SimpleSearch from '@src/components/SimpleSearch.astro';
+import OneDesign from '@src/components/OneDesign.astro';
 import { getCollection, getEntry } from 'astro:content';
 //import { getCollection } from 'astro:content';
-//import { prefixBase } from '../lib/util.ts';
+//import { prefixBase } from '@src/lib/util.ts';
 
 const users = await getCollection('users');
 const designs = await getCollection('designs');
