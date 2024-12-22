@@ -2,6 +2,7 @@
 import type { CollectionEntry } from 'astro:content';
 import { getEntry } from 'astro:content';
 import { prunePrefix } from '@src/lib/util.ts';
+import '@src/styles/colors.css';
 
 interface Props {
 	design: CollectionEntry<'designs'>;
@@ -9,7 +10,7 @@ interface Props {
 
 const { design } = Astro.props;
 const user = await getEntry(design.data.owner);
-const vColor = design.data.color;
+//const vColor = design.data.color;
 ---
 
 <article>
@@ -18,10 +19,10 @@ const vColor = design.data.color;
 	<div><div class="vignette"></div><div class="vignette"></div></div>
 </article>
 
-<style define:vars={{ vColor }}>
+<style>
 	article {
 		width: 20rem;
-		background-color: var(--vColor);
+		background-color: var(--c1w);
 		padding: 0.2rem;
 		margin: 1rem;
 		border-radius: 2rem;

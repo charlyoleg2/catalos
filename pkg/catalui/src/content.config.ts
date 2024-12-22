@@ -37,7 +37,6 @@ const designs = defineCollection({
 		designName: z.string().optional(), // already in the object-filename
 		description: z.string(),
 		tags: z.string().array(),
-		color: z.string(),
 		owner: reference('users'),
 		createdAt: z.coerce.date(),
 		updatedAt: z.coerce.date(),
