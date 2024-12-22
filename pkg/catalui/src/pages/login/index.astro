@@ -1,6 +1,7 @@
 ---
 import Layout from '@src/layouts/Layout.astro';
 import TopMenu from '@src/components/TopMenu.astro';
+import '@src/styles/colors.css';
 ---
 
 <Layout title="Catalos">
@@ -16,7 +17,7 @@ import TopMenu from '@src/components/TopMenu.astro';
 			<input type="text" name="suPassword" size="40/" />
 		</label>
 		<div>
-			<button>Log in</button>
+			<button class="prim">Log in</button>
 			<button>Cancel</button>
 		</div>
 	</article>
@@ -31,14 +32,17 @@ import TopMenu from '@src/components/TopMenu.astro';
 		display: flex;
 		flex-direction: column;
 		justify-content: flex-start;
-		background-color: AliceBlue;
+		background-color: var(--cBg);
 	}
 	label {
 		display: block;
 	}
 	button {
 		font-weight: bold;
-		color: white;
-		background-color: DarkGreen;
+		color: var(--cLight);
+		background-color: var(--c3b);
+	}
+	button.prim {
+		background-color: var(--c1b);
 	}
 </style>
