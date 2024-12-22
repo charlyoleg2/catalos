@@ -9,8 +9,8 @@ import svgLoupe from '@src/svg/svgLoupe.svg';
 		<label
 			><h1>Key words for finding designs</h1>
 			<input type="text" name="desiName" size="40/" />
-			<button><Image src={svgLoupe} alt='une loupe' />Search</button>
 		</label>
+		<button><Image src={svgLoupe} alt="une loupe" width="40" height="40" />Search</button>
 	</article>
 </section>
 
@@ -24,6 +24,8 @@ import svgLoupe from '@src/svg/svgLoupe.svg';
 		padding: 2rem;
 	}
 	article {
+		display: flex;
+		align-items: flex-end;
 		background-color: var(--c4w);
 		padding: 2rem 5rem;
 		border-radius: 1rem;
@@ -38,12 +40,15 @@ import svgLoupe from '@src/svg/svgLoupe.svg';
 		font-size: 2rem;
 	}
 	button {
+		display: flex;
+		align-items: center;
 		font-size: 2rem;
 		font-weight: bold;
 		color: var(--cLight);
 		background-color: var(--c1w);
 		border: none;
 		border-radius: 1rem;
-		padding: 0.2rem 1rem;
+		padding: 0.5rem 1rem;
+		margin-left: 2rem;
 	}
 </style>
