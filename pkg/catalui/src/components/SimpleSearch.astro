@@ -1,5 +1,7 @@
 ---
 import '@src/styles/colors.css';
+import { Image } from 'astro:assets';
+import svgLoupe from '@src/svg/svgLoupe.svg';
 ---
 
 <section>
@@ -7,7 +9,7 @@ import '@src/styles/colors.css';
 		<label
 			><h1>Key words for finding designs</h1>
 			<input type="text" name="desiName" size="40/" />
-			<button>Search</button>
+			<button><Image src={svgLoupe} alt='une loupe' />Search</button>
 		</label>
 	</article>
 </section>
