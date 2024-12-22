@@ -1,0 +1,28 @@
+---
+import DesiCard from '@src/components/DesiCard.astro';
+import { getCollection } from 'astro:content';
+import '@src/styles/colors.css';
+
+interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+const designs = await getCollection('designs');
+---
+
+<section>
+	<h1>{title}</h1>
+	{designs.map((desi) => <DesiCard design={desi} />)}
+</section>
+
+<style>
+	section {
+		width: 25rem;
+		background-color: var(--c4w);
+		border-radius: 1rem;
+	}
+	h1 {
+		color: var(--c2w);
+	}
+</style>

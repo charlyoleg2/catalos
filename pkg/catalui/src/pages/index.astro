@@ -2,6 +2,7 @@
 import Layout from '@src/layouts/Layout.astro';
 import TopMenu from '@src/components/TopMenu.astro';
 import SimpleSearch from '@src/components/SimpleSearch.astro';
+import TopDesign from '@src/components/TopDesign.astro';
 import DesiCard from '@src/components/DesiCard.astro';
 import OneDesign from '@src/components/OneDesign.astro';
 import { getCollection, getEntry } from 'astro:content';
@@ -17,6 +18,12 @@ const designs = await getCollection('designs');
 <Layout title="Catalos">
 	<TopMenu />
 	<SimpleSearch />
+	<section>
+		<TopDesign title="Newest designs" />
+		<TopDesign title="Most popular" />
+		<TopDesign title="Most documented" />
+		<TopDesign title="Random designs" />
+	</section>
 	<!--
 	<DesiCard design={desiGear29} />
 	<DesiCard design={desiGear19} />
@@ -44,3 +51,10 @@ const designs = await getCollection('designs');
 		{designs.map((desi) => <OneDesign design={desi} />)}
 	</ul>
 </Layout>
+
+<style>
+	section {
+		display: flex;
+		background-color: var(--cBg);
+	}
+</style>
