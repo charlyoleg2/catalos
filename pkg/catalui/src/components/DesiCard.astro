@@ -10,7 +10,6 @@ interface Props {
 
 const { design } = Astro.props;
 const user = await getEntry(design.data.owner);
-//const vColor = design.data.color;
 ---
 
 <article>
@@ -22,21 +21,22 @@ const user = await getEntry(design.data.owner);
 <style>
 	article {
 		width: 20rem;
-		background-color: var(--c1w);
+		background-color: var(--c5b);
 		padding: 0.2rem;
 		margin: 1rem;
 		border-radius: 2rem;
 	}
 	h2 {
 		font-size: 1rem;
+		font-style: italic;
 		font-weight: bold;
-		color: Yellow;
+		color: var(--c3w);
 		margin: 0.5rem 2rem;
 	}
 	h1 {
 		font-size: 2rem;
 		font-weight: regular;
-		color: DarkGrey;
+		color: var(--cLight);
 		margin: 0.2rem 2rem;
 	}
 	div.vignette {
@@ -44,6 +44,6 @@ const user = await getEntry(design.data.owner);
 		width: 8rem;
 		height: 8rem;
 		margin: 0.5rem 1rem;
-		background-color: LightGreen;
+		background-color: var(--c2w);
 	}
 </style>
