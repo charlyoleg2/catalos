@@ -1,5 +1,7 @@
 ---
 //import { prefixBase } from '../lib/util.ts';
+import TopMenu from '@src/components/TopMenu.astro';
+import Footy from '@src/components/Footy.astro';
 import '@src/styles/colors.css';
 
 interface Props {
@@ -22,7 +24,9 @@ const base2 = base === '/' ? '/' : `${base}/`;
 		<title>{title}</title>
 	</head>
 	<body>
+		<TopMenu />
 		<slot />
+		<Footy />
 	</body>
 </html>
 

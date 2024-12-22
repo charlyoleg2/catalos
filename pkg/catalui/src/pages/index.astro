@@ -1,6 +1,5 @@
 ---
 import Layout from '@src/layouts/Layout.astro';
-import TopMenu from '@src/components/TopMenu.astro';
 import SimpleSearch from '@src/components/SimpleSearch.astro';
 import TopDesign from '@src/components/TopDesign.astro';
 import DesiCard from '@src/components/DesiCard.astro';
@@ -16,7 +15,6 @@ const designs = await getCollection('designs');
 ---
 
 <Layout title="Catalos">
-	<TopMenu />
 	<SimpleSearch />
 	<section>
 		<TopDesign title="Newest designs" />
@@ -55,6 +53,7 @@ const designs = await getCollection('designs');
 <style>
 	section {
 		display: flex;
+		align-items: flex-start;
 		justify-content: space-around;
 		padding: 2rem;
 		background-color: var(--cBg);
