@@ -2,16 +2,6 @@
 import Layout from '@src/layouts/Layout.astro';
 import SimpleSearch from '@src/components/SimpleSearch.astro';
 import TopDesign from '@src/components/TopDesign.astro';
-import DesiCard from '@src/components/DesiCard.astro';
-import OneDesign from '@src/components/OneDesign.astro';
-import { getCollection, getEntry } from 'astro:content';
-//import { getCollection } from 'astro:content';
-//import { prefixBase } from '@src/lib/util.ts';
-
-const users = await getCollection('users');
-const designs = await getCollection('designs');
-//const desiGear29 = await getEntry('designs', 'charlyoleg/gearwheel-29');
-//const desiGear19 = await getEntry('designs', 'charlyoleg/gearwheel-19');
 ---
 
 <Layout title="Catalos">
@@ -22,32 +12,6 @@ const designs = await getCollection('designs');
 		<TopDesign title="Most documented" />
 		<TopDesign title="Random designs" />
 	</section>
-	<!--
-	<DesiCard design={desiGear29} />
-	<DesiCard design={desiGear19} />
-	-->
-	{designs.map((desi) => <DesiCard design={desi} />)}
-	<h1>Hello from catalos</h1>
-	<h2>Users</h2>
-	{
-		users.map((user) => (
-			<div>
-				<a href={`user/${user.id}`}>{user.id}</a>
-				<img src={`u/${user.data.photoPath}`} alt={user.data.firstName} />
-			</div>
-		))
-	}
-	<h2>Designs</h2>
-	<ul>
-		{
-			designs.map(async (desi) => (
-				<li>
-					la: {(await getEntry(desi.data.owner)).data.firstName} id: {desi.id}
-				</li>
-			))
-		}
-		{designs.map((desi) => <OneDesign design={desi} />)}
-	</ul>
 </Layout>
 
 <style>
