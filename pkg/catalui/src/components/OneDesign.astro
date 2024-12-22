@@ -11,6 +11,8 @@ const user = await getEntry(design.data.owner);
 ---
 
 <li>
-	design: {design.data.designName}
-	owner: {user.data.username}
+	design: {design.id}
+	description: {design.data.description}
+	owner: {user.id}
+	country: {user.data.country}
 </li>
