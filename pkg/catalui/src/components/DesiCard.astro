@@ -1,6 +1,7 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import { getEntry } from 'astro:content';
+import { prunePrefix } from '@src/lib/util.ts';
 
 interface Props {
 	design: CollectionEntry<'designs'>;
@@ -13,7 +14,7 @@ const vColor = design.data.color;
 
 <article>
 	<h2>by {user.id}</h2>
-	<h1>{design.id}</h1>
+	<h1>{prunePrefix(design.id)}</h1>
 	<div><div class="vignette"></div><div class="vignette"></div></div>
 </article>
 

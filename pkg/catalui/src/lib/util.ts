@@ -1,11 +1,15 @@
 // src/lib/util.ts
 
-const base = import.meta.env.BASE_URL;
-
 function prefixBase(iPath: string): string {
+	const base = import.meta.env.BASE_URL;
 	const base2 = base === '/' ? '' : base;
 	const rPath = `${base2}${iPath}`;
 	return rPath;
 }
 
-export { prefixBase };
+function prunePrefix(iDesi: string): string {
+	const rDname = iDesi.replace(/^.*\//, '');
+	return rDname;
+}
+
+export { prefixBase, prunePrefix };
