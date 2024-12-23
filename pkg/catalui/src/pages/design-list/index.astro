@@ -1,0 +1,30 @@
+---
+import Layout from '@src/layouts/Layout.astro';
+import DesiMicroCard from '@src/components/DesiMicroCard.astro';
+import { getCollection } from 'astro:content';
+import '@src/styles/styling-vars.css';
+
+const designs = await getCollection('designs');
+---
+
+<Layout title="All design list">
+	<h1>List of all designs</h1>
+	<section>
+		{designs.map((desi) => <DesiMicroCard design={desi} />)}
+	</section>
+</Layout>
+
+<style>
+	h1 {
+		font-size: 2rem;
+		font-weight: bold;
+		color: var(--c2w);
+	}
+	section {
+		display: flex;
+		flex-direction: row;
+		align-items: flex-start;
+		width: 100%;
+		background-color: var(--cBg);
+	}
+</style>

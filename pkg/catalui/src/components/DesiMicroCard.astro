@@ -1,0 +1,41 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { getEntry } from 'astro:content';
+import { prunePrefix } from '@src/lib/util.ts';
+import '@src/styles/styling-vars.css';
+
+interface Props {
+	design: CollectionEntry<'designs'>;
+}
+
+const { design } = Astro.props;
+const user = await getEntry(design.data.owner);
+---
+
+<article>
+	<h2>by {user.id}</h2>
+	<h1>{prunePrefix(design.id)}</h1>
+</article>
+
+<style>
+	article {
+		width: 12rem;
+		background-color: var(--c5b);
+		padding: 0.2rem;
+		margin: 1rem;
+		border-radius: var(--cornerSurface);
+	}
+	h2 {
+		font-size: 0.8rem;
+		font-style: italic;
+		font-weight: bold;
+		color: var(--c4w);
+		margin: 0.5rem 2rem;
+	}
+	h1 {
+		font-size: 1rem;
+		font-weight: regular;
+		color: var(--c1w);
+		margin: 0.2rem 2rem;
+	}
+</style>
