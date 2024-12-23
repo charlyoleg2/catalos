@@ -1,0 +1,21 @@
+---
+import Top3Design from '@src/components/Top3Design.astro';
+import '@src/styles/styling-vars.css';
+---
+
+<section>
+	<Top3Design title="Newest designs" />
+	<Top3Design title="Most popular" />
+	<Top3Design title="Most documented" />
+	<Top3Design title="Random designs" />
+</section>
+
+<style>
+	section {
+		display: flex;
+		align-items: flex-start;
+		justify-content: space-around;
+		padding: 2rem;
+		background-color: var(--cBg);
+	}
+</style>
