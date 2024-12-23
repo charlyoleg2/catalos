@@ -25,7 +25,9 @@ const base2 = base === '/' ? '/' : `${base}/`;
 	</head>
 	<body>
 		<TopMenu />
-		<slot />
+		<main>
+			<slot />
+		</main>
 		<Footy />
 	</body>
 </html>
@@ -38,6 +40,9 @@ const base2 = base === '/' ? '/' : `${base}/`;
 		height: 100%;
 		font-family: 'Courier New', 'Helvetica', 'Arial', 'Verdana';
 		background-color: var(--cBg);
+	}
+	main {
+		min-height: 70vh;
 	}
 </style>
 <style is:global>
