@@ -1,6 +1,7 @@
-/* catalos colors*/
+/* catalos styling-vars */
 
 :root {
+	/* colors */
 	--c1w: #003081;
 	--c2w: #1b5ab2;
 	--c3w: #3584e4;
@@ -11,4 +12,7 @@
 	--cBgWork: Yellow;
 	--cDark: Black;
 	--cLight: White;
+	/* cornes */
+	--cornerButton: 1rem;
+	--cornerSurface: 1rem;
 }
