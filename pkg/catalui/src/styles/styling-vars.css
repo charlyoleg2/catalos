@@ -13,6 +13,6 @@
 	--cDark: Black;
 	--cLight: White;
 	/* cornes */
-	--cornerButton: 1rem;
+	--cornerButton: 0.5rem;
 	--cornerSurface: 1rem;
 }
