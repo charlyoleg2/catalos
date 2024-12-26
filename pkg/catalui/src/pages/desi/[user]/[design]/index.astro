@@ -2,14 +2,22 @@
 import Layout from '@src/layouts/Layout.astro';
 import DesiPoster from '@src/components/DesiPoster.astro';
 import type { CollectionEntry } from 'astro:content';
-import { getEntry } from 'astro:content';
+import { getCollection, getEntry } from 'astro:content';
+import type { tOneDesi } from '@src/lib/util.ts';
+import { splitDesiPath } from '@src/lib/util.ts';
 import '@src/styles/styling-vars.css';
 
-export function getStaticPaths() {
-	return [
-		{ params: { user: 'charlyoleg', design: 'gearwheel-19' } },
-		{ params: { user: 'charlyoleg', design: 'gearwheel-29' } },
-	];
+interface tOneP {
+	params: tOneDesi;
+}
+
+export async function getStaticPaths() {
+	const designs = await getCollection('designs');
+	const listPath: Array<tOneP> = [];
+	for (const oneD of designs) {
+		listPath.push({ params: splitDesiPath(oneD.id) });
+	}
+	return listPath;
 }
 
 const { user, design } = Astro.params;
