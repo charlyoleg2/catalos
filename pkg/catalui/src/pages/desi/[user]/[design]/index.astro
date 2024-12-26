@@ -1,0 +1,24 @@
+---
+import Layout from '@src/layouts/Layout.astro';
+import DesiPoster from '@src/components/DesiPoster.astro';
+import type { CollectionEntry } from 'astro:content';
+import { getEntry } from 'astro:content';
+import '@src/styles/styling-vars.css';
+
+export function getStaticPaths() {
+	return [
+		{ params: { user: 'charlyoleg', design: 'gearwheel-19' } },
+		{ params: { user: 'charlyoleg', design: 'gearwheel-29' } },
+	];
+}
+
+const { user, design } = Astro.params;
+const designId = `${user}/${design}`;
+const desi = (await getEntry('designs', designId)) as CollectionEntry<'designs'>;
+---
+
+<Layout title={`Design ${desi.id}`}>
+	<DesiPoster design={desi} />
+</Layout>
+
+<style></style>
