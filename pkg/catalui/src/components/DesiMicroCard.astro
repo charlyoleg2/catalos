@@ -10,12 +10,15 @@ interface Props {
 
 const { design } = Astro.props;
 const user = await getEntry(design.data.owner);
+const durl = `desi/${design.id}`;
 ---
 
-<article>
-	<h2>by {user.id}</h2>
-	<h1>{prunePrefix(design.id)}</h1>
-</article>
+<a href={durl}>
+	<article>
+		<h2>by {user.id}</h2>
+		<h1>{prunePrefix(design.id)}</h1>
+	</article>
+</a>
 
 <style>
 	article {
