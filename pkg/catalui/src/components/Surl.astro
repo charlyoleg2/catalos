@@ -1,0 +1,17 @@
+---
+import '@src/styles/styling-vars.css';
+
+interface Props {
+	url: string;
+}
+
+const { url } = Astro.props;
+---
+
+<a href={url}>{url}</a>
+
+<style>
+	a {
+		color: var(--c1w);
+	}
+</style>
