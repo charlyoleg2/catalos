@@ -3,9 +3,10 @@
 import { defineCollection, reference, z } from 'astro:content';
 //import { glob, file } from 'astro/loaders';
 import { glob } from 'astro/loaders';
+import { DBDIR } from "astro:env/server";
 
 const users = defineCollection({
-	loader: glob({ pattern: '*.yaml', base: './d1/users' }),
+	loader: glob({ pattern: '*.yaml', base: `${DBDIR}/users` }),
 	schema: z.object({
 		userId: z.number().optional(),
 		username: z.string().optional(), // already in the object-filename
@@ -31,7 +32,7 @@ const users = defineCollection({
 });
 
 const designs = defineCollection({
-	loader: glob({ pattern: '**/*.yaml', base: './d1/designs' }),
+	loader: glob({ pattern: '**/*.yaml', base: `${DBDIR}/designs` }),
 	schema: z.object({
 		designId: z.number().optional(),
 		designName: z.string().optional(), // already in the object-filename
