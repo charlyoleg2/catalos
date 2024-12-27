@@ -21,7 +21,9 @@ async function genDesigns(iOrig, iDest) {
 			throw `ERR522: Error, the origin ${dOrig} is not a directory!`;
 		}
 		if (!(await fs.pathExists(dDest))) {
-			console.log(`warn121: Warning, the destination directory ${dDest} doesn't exist and will be created!`);
+			console.log(
+				`warn121: Warning, the destination directory ${dDest} doesn't exist and will be created!`
+			);
 		} else if (!(await fs.stat(dDest)).isDirectory()) {
 			throw `ERR722: Error, the destination ${dDest} is not a directory!`;
 		}
@@ -40,7 +42,9 @@ async function genDesigns(iOrig, iDest) {
 		console.log('ERR643: Error while generating designs');
 		console.log(err);
 	}
-	console.log(`info439: from ${dOrig} gen_desi.js has created or updated ${cntDesi} designs in ${dDest}`);
+	console.log(
+		`info439: from ${dOrig} gen_desi.js has created or updated ${cntDesi} designs in ${dDest}`
+	);
 }
 
 const argv = yargs(hideBin(process.argv))
@@ -50,13 +54,13 @@ const argv = yargs(hideBin(process.argv))
 		alias: 'i',
 		type: 'string',
 		description: 'input directory-path for searching designs',
-		demandOption: true
+		demandOption: true,
 	})
 	.option('outDir', {
 		alias: 'o',
 		type: 'string',
 		description: 'output directory-path for creating or updating designs',
-		demandOption: true
+		demandOption: true,
 	})
 	.strict()
 	.parseSync();

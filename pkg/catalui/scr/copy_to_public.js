@@ -56,7 +56,9 @@ async function copyFiles(iOrig, iDest) {
 		console.log(`ERR543: Error while copying files to destination ${dDest}`);
 		console.log(err);
 	}
-	console.log(`info139: from ${dOrig} copy_to_public.js has copied ${cntDesi} designs to ${dDest}`);
+	console.log(
+		`info139: from ${dOrig} copy_to_public.js has copied ${cntDesi} designs to ${dDest}`
+	);
 }
 
 const argv = yargs(hideBin(process.argv))
@@ -66,14 +68,14 @@ const argv = yargs(hideBin(process.argv))
 		alias: 'i',
 		type: 'string',
 		description: 'input directory-path for copying designs',
-		demandOption: true
+		demandOption: true,
 	})
 	.option('outDir', {
 		alias: 'o',
 		type: 'string',
 		description: 'output directory-path for copying designs',
 		demandOption: true,
-		default: './public'
+		default: './public',
 	})
 	.strict()
 	.parseSync();
