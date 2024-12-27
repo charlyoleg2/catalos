@@ -11,7 +11,7 @@
 		"astro": "astro",
 		"format": "prettier --write .",
 		"lint": "prettier --check . && astro check",
-		"cpFiles": "./scr/copy_d1_files.js",
+		"cpFiles": "./scr/copy_to_public.js --inDir ./d1",
 		"ci": "run-s cpFiles build lint",
 		"github-pages-fix": "touch dist/.nojekyll",
 		"clean-astro": "rimraf .astro dist node_modules",
