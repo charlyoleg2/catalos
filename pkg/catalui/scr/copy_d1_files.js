@@ -15,9 +15,9 @@ async function copyFiles() {
 			//console.log(`copy svg,png,jpg: ${bname}`);
 			await fs.copy(`./d1/users/${bname}`, `./public/u/${bname}`);
 		}
-		const designs = await glob('./d1/users/*.yaml');
-		for (const pdesign of designs) {
-			const bname = path.basename(pdesign, '.yaml');
+		const users = await glob('./d1/users/*.yaml');
+		for (const iUser of users) {
+			const bname = path.basename(iUser, '.yaml');
 			const porig = `./d1/designs/${bname}`;
 			if (await fs.pathExists(porig)) {
 				if ((await fs.stat(porig)).isDirectory()) {
