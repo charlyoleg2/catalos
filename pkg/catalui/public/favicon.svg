@@ -38,43 +38,44 @@
         }
     </style>
   <path
-     style="fill:#003081;stroke:#003081;stroke-width:4;stroke-linejoin:round;fill-opacity:1;stroke-opacity:1"
-     d="M 64.508513,2.61521 3.6322361,58.842225 3.1963678,122.479 124.07718,122.62429 123.49603,60.440409 64.072645,36.467651 Z"
+     style="fill:#003081;fill-opacity:1;stroke:#003081;stroke-width:4;stroke-linejoin:round;stroke-opacity:1"
+     d="M 44.603859,2.4699205 2.9057889,2.7604997 3.1963678,122.479 124.07718,122.62429 123.93189,81.797957 67.123723,60.004541 Z"
      id="path2"
      sodipodi:nodetypes="ccccccc" />
   <ellipse
-     style="fill:#ade5ff;stroke:#003081;stroke-width:4.00001;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1"
+     style="fill:#ade5ff;fill-opacity:1;stroke:#003081;stroke-width:4.00001;stroke-linejoin:round;stroke-opacity:1"
      id="path3"
-     cx="64.072639"
-     cy="84.921677"
+     cx="4.7017055"
+     cy="89.841751"
      rx="55.064701"
-     ry="35.813847" />
+     ry="35.813847"
+     transform="rotate(-43.214786)" />
   <ellipse
-     style="fill:#003081;stroke:#3584e4;stroke-width:4;stroke-linejoin:round;fill-opacity:1;stroke-opacity:1"
+     style="fill:#003081;fill-opacity:1;stroke:#3584e4;stroke-width:4;stroke-linejoin:round;stroke-opacity:1"
      id="path4"
-     cx="29.130533"
-     cy="82.669693"
+     cx="41.189556"
+     cy="84.558456"
      rx="6.9012485"
      ry="6.8286037" />
   <ellipse
-     style="fill:#003081;stroke:#3584e4;stroke-width:4;stroke-linejoin:round;fill-opacity:1;stroke-opacity:1"
+     style="fill:#003081;fill-opacity:1;stroke:#3584e4;stroke-width:4;stroke-linejoin:round;stroke-opacity:1"
      id="path4-5"
-     cx="52.486946"
-     cy="72.9319"
+     cx="84.450623"
+     cy="16.269016"
      rx="6.9012485"
      ry="6.8286037" />
   <ellipse
-     style="fill:#003081;stroke:#3584e4;stroke-width:4;stroke-linejoin:round;fill-opacity:1;stroke-opacity:1"
+     style="fill:#003081;fill-opacity:1;stroke:#3584e4;stroke-width:4;stroke-linejoin:round;stroke-opacity:1"
      id="path4-2"
-     cx="71.391602"
-     cy="90.528946"
+     cx="112.94438"
+     cy="37.788879"
      rx="6.9012485"
      ry="6.8286037" />
   <ellipse
-     style="fill:#003081;stroke:#3584e4;stroke-width:4;stroke-linejoin:round;fill-opacity:1;stroke-opacity:1"
+     style="fill:#003081;fill-opacity:1;stroke:#3584e4;stroke-width:4;stroke-linejoin:round;stroke-opacity:1"
      id="path4-7"
-     cx="95.304199"
-     cy="83.188423"
+     cx="60.434731"
+     cy="66.770721"
      rx="6.9012485"
      ry="6.8286037" />
 </svg>
