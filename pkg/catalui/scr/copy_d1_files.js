@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// copy_d1_files.js
+// scr/copy_d1_files.js
 import path from 'node:path';
 import fs from 'fs-extra';
 import { glob } from 'glob';
