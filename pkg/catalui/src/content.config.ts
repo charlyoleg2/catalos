@@ -3,7 +3,7 @@
 import { defineCollection, reference, z } from 'astro:content';
 //import { glob, file } from 'astro/loaders';
 import { glob } from 'astro/loaders';
-import { DBDIR } from "astro:env/server";
+import { DBDIR } from 'astro:env/server';
 
 const users = defineCollection({
 	loader: glob({ pattern: '*.yaml', base: `${DBDIR}/users` }),

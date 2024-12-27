@@ -8,8 +8,8 @@ const basePath = process.env.BASE_PATH;
 export default defineConfig({
 	env: {
 		schema: {
-			DBDIR: envField.string({ context: "server", access: "public", default: "./d1" })
-		}
+			DBDIR: envField.string({ context: 'server', access: 'public', default: './d1' }),
+		},
 	},
 	base: basePath ? basePath : '/',
 	output: 'static',
