@@ -1,15 +1,15 @@
-description: ""
-tags: []
+description: "A japanese holder for pens"
+tags: ['3D-print']
 owner: tuto-1
 createdAt: 2024-12-28T22:18:09.480Z
 updatedAt: 2024-12-28T22:32:16.461Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: "https://charlyoleg2.github.io/parame82/desi82/pencil_holder"
+linkToSrc: "https://github.com/charlyoleg2/parame82"
+linkToPkg: "https://www.npmjs.com/package/desi82"
+linkToCli: "https://www.npmjs.com/package/desi82-cli"
+linkToUis: "https://www.npmjs.com/package/desi82-uis"
+linkToRepo: "https://github.com/charlyoleg2/ustensile"
 linkOthers: []
 files: []
