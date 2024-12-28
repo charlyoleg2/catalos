@@ -36,8 +36,8 @@ function defaultObj(iOwner) {
 		description: '',
 		tags: [],
 		owner: iOwner,
-		createdAt: '',
-		updatedAt: '',
+		createdAt: new Date().toISOString(),
+		updatedAt: new Date().toISOString(),
 		updateCount: 0,
 		visible: true,
 		linkToUi: '',
@@ -54,6 +54,33 @@ function defaultObj(iOwner) {
 
 function updateYaml(iObj) {
 	const rObj = iObj;
+	for (const prop of [
+		'description',
+		'owner',
+		'linkToUi',
+		'linkToSrc',
+		'linkToPkg',
+		'linkToCli',
+		'linkToUis',
+		'linkToRepo',
+	]) {
+		if (!(prop in rObj)) {
+			rObj[prop] = '';
+		}
+	}
+	for (const prop of ['tags', 'linkOthers', 'files']) {
+		if (!(prop in rObj)) {
+			rObj[prop] = [];
+		}
+	}
+	if (!('createdAt' in rObj)) {
+		rObj.createdAt = new Date().toISOString();
+	}
+	rObj.updatedAt = new Date().toISOString();
+	if (!('updateCount' in rObj)) {
+		rObj.updateCount = 0;
+	}
+	rObj.updateCount = parseInt(rObj.updateCount) + 1;
 	return rObj;
 }
 
