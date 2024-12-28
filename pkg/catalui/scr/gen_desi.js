@@ -2,10 +2,63 @@
 // scr/gen_desi.js
 
 import path from 'node:path';
-import fs from 'fs-extra';
+import fs from 'fs-extra'; // both fs and fs-extra methods are defined
 import { glob } from 'glob';
 import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
+
+const extValid = [
+	'.png',
+	'.jpg',
+	//'.pxJson',
+	//'.paxJson',
+	'.json',
+	'.dxf',
+	'.svg',
+	'.stl',
+	'.brep',
+	'.step',
+	'.glb',
+	'.3mf',
+	// '.txtLog',
+	'.txt',
+	'.scad',
+	//'.jsCad',
+	//'.jsManifold',
+	'.js',
+	//'.pyFreecad',
+	'.py',
+];
+
+async function genOneDesi(iDir, iDest) {
+	const bFile = path.basename(iDir);
+	const fyaml = `${iDest}/${bFile}.yaml`;
+	const ddesi = `${iDest}/${bFile}`;
+	if (await fs.pathExists(fyaml)) {
+		if ((await fs.stat(fyaml)).isFile()) {
+			console.log(`Update design: ${bFile}`);
+		} else {
+			throw `ERR409: ${fyaml} exists but is not a yaml-file!`;
+		}
+	} else {
+		console.log(`Generate new design: ${bFile}`);
+	}
+	await fs.ensureDir(ddesi);
+	const lFiles = await glob(`${iDir}/*`);
+	for (const iFile of lFiles) {
+		if ((await fs.stat(iFile)).isFile()) {
+			const fBasename = path.basename(iFile);
+			const fExtname = path.extname(iFile);
+			if (extValid.includes(fExtname)) {
+				await fs.copy(iFile, `${ddesi}/${fBasename}`);
+			} else {
+				console.log(`warn493: ${fBasename} with extension ${fExtname} is ignored!`);
+			}
+		} else {
+			console.log(`warn494: ${iFile} is ignored!`);
+		}
+	}
+}
 
 async function genDesigns(iOrig, iDest) {
 	let cntDesi = 0;
@@ -21,9 +74,8 @@ async function genDesigns(iOrig, iDest) {
 			throw `ERR522: Error, the origin ${dOrig} is not a directory!`;
 		}
 		if (!(await fs.pathExists(dDest))) {
-			console.log(
-				`warn121: Warning, the destination directory ${dDest} doesn't exist and will be created!`
-			);
+			console.log(`warn121: Warning, ${dDest} doesn't exist and will be created!`);
+			await fs.ensureDir(dDest);
 		} else if (!(await fs.stat(dDest)).isDirectory()) {
 			throw `ERR722: Error, the destination ${dDest} is not a directory!`;
 		}
@@ -31,8 +83,8 @@ async function genDesigns(iOrig, iDest) {
 		for (const iFile of lFiles) {
 			const bFile = path.basename(iFile);
 			if ((await fs.stat(iFile)).isDirectory()) {
-				console.log(`generate design: ${bFile}`);
-				//await fs.copy(porig, `./public/u/${bname}`);
+				//console.log(`generate design: ${bFile}`);
+				await genOneDesi(iFile, dDest);
 				cntDesi += 1;
 			} else {
 				console.log(`warn382: ${bFile} is not a directory!`);
