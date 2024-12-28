@@ -6,6 +6,7 @@ import fs from 'fs-extra'; // both fs and fs-extra methods are defined
 import { glob } from 'glob';
 import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
+import YAML from 'yaml';
 
 const extValid = [
 	'.png',
@@ -30,18 +31,59 @@ const extValid = [
 	'.py',
 ];
 
+function defaultObj(iOwner) {
+	const rObj = {
+		description: '',
+		tags: [],
+		owner: iOwner,
+		createdAt: '',
+		updatedAt: '',
+		updateCount: 0,
+		visible: true,
+		linkToUi: '',
+		linkToSrc: '',
+		linkToPkg: '',
+		linkToCli: '',
+		linkToUis: '',
+		linkToRepo: '',
+		linkOthers: [],
+		files: [],
+	};
+	return rObj;
+}
+
+function updateYaml(iObj) {
+	const rObj = iObj;
+	return rObj;
+}
+
+async function readYaml(fyaml) {
+	const stry = await fs.readFile(fyaml, { encoding: 'utf8' });
+	const obj1 = YAML.parse(stry);
+	const rObj = updateYaml(obj1);
+	return rObj;
+}
+
+async function writeYaml(iObj, fyaml) {
+	const stry = YAML.stringify(iObj);
+	await fs.writeFile(fyaml, stry);
+}
+
 async function genOneDesi(iDir, iDest) {
 	const bFile = path.basename(iDir);
+	const owner = path.basename(iDest);
 	const fyaml = `${iDest}/${bFile}.yaml`;
 	const ddesi = `${iDest}/${bFile}`;
+	let objDesi = defaultObj(owner);
 	if (await fs.pathExists(fyaml)) {
 		if ((await fs.stat(fyaml)).isFile()) {
-			console.log(`Update design: ${bFile}`);
+			console.log(`info213: Update design: ${bFile}`);
+			objDesi = await readYaml(fyaml);
 		} else {
 			throw `ERR409: ${fyaml} exists but is not a yaml-file!`;
 		}
 	} else {
-		console.log(`Generate new design: ${bFile}`);
+		console.log(`info212: Generate new design: ${bFile}`);
 	}
 	await fs.ensureDir(ddesi);
 	const lFiles = await glob(`${iDir}/*`);
@@ -58,6 +100,7 @@ async function genOneDesi(iDir, iDest) {
 			console.log(`warn494: ${iFile} is ignored!`);
 		}
 	}
+	await writeYaml(objDesi, fyaml);
 }
 
 async function genDesigns(iOrig, iDest) {
@@ -66,7 +109,7 @@ async function genDesigns(iOrig, iDest) {
 	const dDest = iDest.replace(/\/$/, '');
 	try {
 		const explorePath = `${dOrig}/*`;
-		console.log(`dbg281: explorePath: ${explorePath}`);
+		//console.log(`dbg281: explorePath: ${explorePath}`);
 		if (!(await fs.pathExists(dOrig))) {
 			throw `ERR521: Error, the origin ${dOrig} doesn't exist!`;
 		}

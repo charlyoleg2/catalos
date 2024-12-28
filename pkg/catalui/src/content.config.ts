@@ -41,7 +41,7 @@ const designs = defineCollection({
 		owner: reference('users'),
 		createdAt: z.coerce.date(),
 		updatedAt: z.coerce.date(),
-		updateCount: z.number().optional(),
+		updateCount: z.number(),
 		visitedAt: z.coerce.date().optional(),
 		visitCount: z.number().optional(),
 		deletedAt: z.coerce.date().optional(),
