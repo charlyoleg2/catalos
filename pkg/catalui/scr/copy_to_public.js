@@ -38,18 +38,27 @@ async function copyFiles(iOrig, iDest) {
 		// copy designs
 		const users = await glob(`${dOrig}/users/*.yaml`);
 		for (const iUser of users) {
-			const bname = path.basename(iUser, '.yaml');
-			const porig = `${dOrig}/designs/${bname}`;
-			if (await fs.pathExists(porig)) {
-				if ((await fs.stat(porig)).isDirectory()) {
-					console.log(`copy dir: ${bname}`);
-					await fs.copy(porig, `${dDest}/u/${bname}`);
-					cntDesi += 1;
+			const bUser = path.basename(iUser, '.yaml');
+			const pUser = `${dOrig}/designs/${bUser}`;
+			if (await fs.pathExists(pUser)) {
+				if ((await fs.stat(pUser)).isDirectory()) {
+					//console.log(`copy dir: ${bUser}`);
+					//await fs.copy(pUser, `${dDest}/u/${bUser}`);
+					//cntDesi += 1;
+					const desis = await glob(`${pUser}/*`);
+					for (const iDesi of desis) {
+						const bDesi = path.basename(iDesi);
+						if ((await fs.stat(iDesi)).isDirectory()) {
+							console.log(`copy dir: ${bDesi}`);
+							await fs.copy(iDesi, `${dDest}/u/${bUser}/${bDesi}`);
+							cntDesi += 1;
+						}
+					}
 				} else {
-					console.log(`warn382: ${porig} is not a directory!`);
+					console.log(`warn382: ${pUser} is not a directory!`);
 				}
 			} else {
-				console.log(`warn209: the directory ${porig} doesn't exist!`);
+				console.log(`warn209: the directory ${pUser} doesn't exist!`);
 			}
 		}
 	} catch (err) {
