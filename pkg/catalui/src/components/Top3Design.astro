@@ -1,22 +1,26 @@
 ---
-import type { CollectionEntry } from 'astro:content';
 import DesiCard from '@src/components/DesiCard.astro';
 //import { getCollection } from 'astro:content';
+import type { tDSortedKey } from '@src/lib/sortedDesigns.ts';
+import { dSorted } from '@src/lib/sortedDesigns.ts';
 import '@src/styles/styling-vars.css';
 
 interface Props {
 	title: string;
-	designs: CollectionEntry<'designs'>[];
+	sortKey: string;
 }
 
-const { title, designs } = Astro.props;
+const { title, sortKey } = Astro.props;
+const designs = dSorted[sortKey as tDSortedKey].designs;
 //const designs = await getCollection('designs');
 ---
 
-<section>
-	<h1>{title}</h1>
-	{designs.slice(0, 3).map((desi) => <DesiCard design={desi} />)}
-</section>
+<a href=`sorted-design/${sortKey}`>
+	<section>
+		<h1>{title}</h1>
+		{designs.slice(0, 3).map((desi) => <DesiCard design={desi} />)}
+	</section>
+</a>
 
 <style>
 	section {

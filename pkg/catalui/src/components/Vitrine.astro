@@ -1,34 +1,13 @@
 ---
-import type { CollectionEntry } from 'astro:content';
 import Top3Design from '@src/components/Top3Design.astro';
-import { getCollection } from 'astro:content';
 import '@src/styles/styling-vars.css';
-
-function randomSort(iArr: CollectionEntry<'designs'>[]): CollectionEntry<'designs'>[] {
-	const rArr = iArr
-		.map((val) => ({ val, sort: Math.random() }))
-		.sort((a, b) => a.sort - b.sort)
-		.map(({ val }) => val);
-	return rArr;
-}
-
-const desiNewest = (await getCollection('designs')).sort(
-	(a, b) => b.data.updatedAt.getTime() - a.data.updatedAt.getTime()
-);
-const desiActive = (await getCollection('designs')).sort(
-	(a, b) => b.data.updateCount - a.data.updateCount
-);
-const desiDocumented = (await getCollection('designs')).sort(
-	(a, b) => b.data.files.length - a.data.files.length
-);
-const desiRandom = randomSort(await getCollection('designs'));
 ---
 
 <section>
-	<Top3Design title="Newest designs" designs={desiNewest} />
-	<Top3Design title="Most active" designs={desiActive} />
-	<Top3Design title="Most documented" designs={desiDocumented} />
-	<Top3Design title="Random designs" designs={desiRandom} />
+	<Top3Design title="Newest designs" sortKey="newest" />
+	<Top3Design title="Most active" sortKey="active" />
+	<Top3Design title="Most documented" sortKey="documented" />
+	<Top3Design title="Random designs" sortKey="random" />
 </section>
 
 <style>

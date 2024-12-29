@@ -1,0 +1,45 @@
+---
+import Layout from '@src/layouts/Layout.astro';
+import DesiCard from '@src/components/DesiCard.astro';
+//import { getCollection } from 'astro:content';
+import type { tDSortedKey } from '@src/lib/sortedDesigns.ts';
+import { dSorted } from '@src/lib/sortedDesigns.ts';
+import '@src/styles/styling-vars.css';
+
+export async function getStaticPaths() {
+	return [
+		{ params: { sortKey: 'newest' } },
+		{ params: { sortKey: 'active' } },
+		{ params: { sortKey: 'documented' } },
+		{ params: { sortKey: 'random' } },
+	];
+}
+
+const { sortKey } = Astro.params;
+
+const title = dSorted[sortKey as tDSortedKey].title;
+const designs = dSorted[sortKey as tDSortedKey].designs;
+//const designs = await getCollection('designs');
+---
+
+<Layout title={title}>
+	<h1>{title}</h1>
+	<section>
+		{designs.slice(0, 50).map((desi) => <DesiCard design={desi} />)}
+	</section>
+</Layout>
+
+<style>
+	h1 {
+		font-size: 2rem;
+		font-weight: bold;
+		color: var(--c2w);
+	}
+	section {
+		display: flex;
+		flex-direction: row;
+		align-items: flex-start;
+		width: 100%;
+		background-color: var(--cBg);
+	}
+</style>
