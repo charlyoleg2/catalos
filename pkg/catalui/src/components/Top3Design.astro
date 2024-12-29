@@ -1,19 +1,21 @@
 ---
+import type { CollectionEntry } from 'astro:content';
 import DesiCard from '@src/components/DesiCard.astro';
-import { getCollection } from 'astro:content';
+//import { getCollection } from 'astro:content';
 import '@src/styles/styling-vars.css';
 
 interface Props {
 	title: string;
+	designs: CollectionEntry<'designs'>[];
 }
 
-const { title } = Astro.props;
-const designs = await getCollection('designs');
+const { title, designs } = Astro.props;
+//const designs = await getCollection('designs');
 ---
 
 <section>
 	<h1>{title}</h1>
-	{designs.map((desi) => <DesiCard design={desi} />)}
+	{designs.slice(0, 3).map((desi) => <DesiCard design={desi} />)}
 </section>
 
 <style>

@@ -1,13 +1,25 @@
 ---
 import Top3Design from '@src/components/Top3Design.astro';
+import { getCollection } from 'astro:content';
 import '@src/styles/styling-vars.css';
+
+const desiNewest = (await getCollection('designs')).sort(
+	(a, b) => b.data.updatedAt.getTime() - a.data.updatedAt.getTime()
+);
+const desiActive = (await getCollection('designs')).sort(
+	(a, b) => b.data.updateCount - a.data.updateCount
+);
+const desiDocumented = (await getCollection('designs')).sort(
+	(a, b) => b.data.files.length - a.data.files.length
+);
+const desiRandom = await getCollection('designs');
 ---
 
 <section>
-	<Top3Design title="Newest designs" />
-	<Top3Design title="Most popular" />
-	<Top3Design title="Most documented" />
-	<Top3Design title="Random designs" />
+	<Top3Design title="Newest designs" designs={desiNewest} />
+	<Top3Design title="Most active" designs={desiActive} />
+	<Top3Design title="Most documented" designs={desiDocumented} />
+	<Top3Design title="Random designs" designs={desiRandom} />
 </section>
 
 <style>
