@@ -1,7 +1,16 @@
 ---
+import type { CollectionEntry } from 'astro:content';
 import Top3Design from '@src/components/Top3Design.astro';
 import { getCollection } from 'astro:content';
 import '@src/styles/styling-vars.css';
+
+function randomSort(iArr: CollectionEntry<'designs'>[]): CollectionEntry<'designs'>[] {
+	const rArr = iArr
+		.map((val) => ({ val, sort: Math.random() }))
+		.sort((a, b) => a.sort - b.sort)
+		.map(({ val }) => val);
+	return rArr;
+}
 
 const desiNewest = (await getCollection('designs')).sort(
 	(a, b) => b.data.updatedAt.getTime() - a.data.updatedAt.getTime()
@@ -12,7 +21,7 @@ const desiActive = (await getCollection('designs')).sort(
 const desiDocumented = (await getCollection('designs')).sort(
 	(a, b) => b.data.files.length - a.data.files.length
 );
-const desiRandom = await getCollection('designs');
+const desiRandom = randomSort(await getCollection('designs'));
 ---
 
 <section>
