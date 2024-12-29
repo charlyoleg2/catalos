@@ -15,12 +15,12 @@ const designs = dSorted[sortKey as tDSortedKey].designs;
 //const designs = await getCollection('designs');
 ---
 
-<a href=`sorted-design/${sortKey}`>
-	<section>
+<section>
+	<a href=`sorted-designs/${sortKey}`>
 		<h1>{title}</h1>
-		{designs.slice(0, 3).map((desi) => <DesiCard design={desi} />)}
-	</section>
-</a>
+	</a>
+	{designs.slice(0, 3).map((desi) => <DesiCard design={desi} />)}
+</section>
 
 <style>
 	section {
@@ -31,9 +31,17 @@ const designs = dSorted[sortKey as tDSortedKey].designs;
 		background-color: var(--c4w);
 		border-radius: var(--cornerSurface);
 	}
-	h1 {
+	a {
 		font-size: 2rem;
 		font-weight: bold;
-		color: var(--c2w);
+		color: var(--cLight);
+		background-color: var(--c1w);
+		border: none;
+		border-radius: var(--cornerButton);
+		padding: 0.5rem 1rem;
+		margin: 1rem 0;
+	}
+	h1 {
+		margin: 0;
 	}
 </style>
