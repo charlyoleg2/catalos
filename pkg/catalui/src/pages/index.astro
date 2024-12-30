@@ -1,12 +1,31 @@
 ---
 import Layout from '@src/layouts/Layout.astro';
-import SimpleSearch from '@src/components/SimpleSearch.astro';
+//import SimpleSearch from '@src/components/SimpleSearch.astro';
 import Vitrine from '@src/components/Vitrine.astro';
+import '@src/styles/styling-vars.css';
 ---
 
 <Layout title="Catalos">
-	<SimpleSearch />
+	<link href="pagefind/pagefind-ui.css" rel="stylesheet" />
+	<script src="pagefind/pagefind-ui.js" is:inline></script>
+	<div class="pfwrap"><div id="search"></div></div>
+	<script is:inline>
+		window.addEventListener('DOMContentLoaded', () => {
+			new PagefindUI({ element: '#search', showSubResults: true });
+		});
+	</script>
+	<!--SimpleSearch /-->
 	<Vitrine />
 </Layout>
 
-<style></style>
+<style>
+	div.pfwrap {
+		padding: 1rem;
+		border-radius: var(--cornerSurface);
+		border-style: solid;
+		border-width: 0.2rem;
+		border-color: var(--c1w);
+		background-color: var(--c5b);
+		margin: 1rem;
+	}
+</style>
