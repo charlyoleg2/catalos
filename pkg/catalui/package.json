@@ -14,6 +14,7 @@
 		"cpFiles": "./scr/copy_to_public.js --inDir ./d1",
 		"pf-build": "npx pagefind --site dist --glob 'desi/**/*.{html}'",
 		"ci": "run-s cpFiles build lint pf-build",
+		"ci2": "run-s build lint pf-build",
 		"github-pages-fix": "touch dist/.nojekyll",
 		"clean-astro": "rimraf .astro dist node_modules",
 		"clean-u": "rimraf public/u",
