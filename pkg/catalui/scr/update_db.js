@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// scr/gen_desi.js
+// scr/update_db.js
 
 import path from 'node:path';
 import fs from 'fs-extra'; // both fs and fs-extra methods are defined
@@ -165,12 +165,12 @@ async function genDesigns(iOrig, iDest) {
 		console.log(err);
 	}
 	console.log(
-		`info439: from ${dOrig} gen_desi.js has created or updated ${cntDesi} designs in ${dDest}`
+		`info439: from ${dOrig} update_db.js has created or updated ${cntDesi} designs in ${dDest}`
 	);
 }
 
 const argv = yargs(hideBin(process.argv))
-	.scriptName('gen_desi.js')
+	.scriptName('update_db.js')
 	.usage('Usage: $0 --inDir <dir-path> --outDir <dir-path>')
 	.option('inDir', {
 		alias: 'i',
