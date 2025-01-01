@@ -15,50 +15,50 @@ linkToRepo: https://github.com/charlyoleg2/ustensile
 linkOthers: []
 files:
   - fileName: px_pencil_holder_v01.json
-    fileType: .json
+    fileType: pxJson
     filePath: pencil_holder/px_pencil_holder_v01.json
     fileSize: 287
-    createdAt: 2025-01-01T21:40:37.997Z
-    updatedAt: 2025-01-01T21:40:37.997Z
+    createdAt: 2025-01-01T22:04:34.229Z
+    updatedAt: 2025-01-01T22:04:34.229Z
   - fileName: pencil_holder_v01_oscad.stl
-    fileType: .stl
+    fileType: stl
     filePath: pencil_holder/pencil_holder_v01_oscad.stl
     fileSize: 817860
-    createdAt: 2025-01-01T21:40:38.004Z
-    updatedAt: 2025-01-01T21:40:38.004Z
+    createdAt: 2025-01-01T22:04:34.233Z
+    updatedAt: 2025-01-01T22:04:34.233Z
   - fileName: pencil_holder_v01_jscad.stl
-    fileType: .stl
+    fileType: stl
     filePath: pencil_holder/pencil_holder_v01_jscad.stl
     fileSize: 266284
-    createdAt: 2025-01-01T21:40:38.009Z
-    updatedAt: 2025-01-01T21:40:38.009Z
+    createdAt: 2025-01-01T22:04:34.236Z
+    updatedAt: 2025-01-01T22:04:34.236Z
   - fileName: pencil_holder_v01_fc.stl
-    fileType: .stl
+    fileType: stl
     filePath: pencil_holder/pencil_holder_v01_fc.stl
     fileSize: 8632376
-    createdAt: 2025-01-01T21:40:38.016Z
-    updatedAt: 2025-01-01T21:40:38.016Z
+    createdAt: 2025-01-01T22:04:34.238Z
+    updatedAt: 2025-01-01T22:04:34.238Z
   - fileName: pencil_holder_v01.scad
-    fileType: .scad
+    fileType: scad
     filePath: pencil_holder/pencil_holder_v01.scad
     fileSize: 40580
-    createdAt: 2025-01-01T21:40:38.033Z
-    updatedAt: 2025-01-01T21:40:38.033Z
+    createdAt: 2025-01-01T22:04:34.250Z
+    updatedAt: 2025-01-01T22:04:34.250Z
   - fileName: pencil_holder_v01.py
-    fileType: .py
+    fileType: pyFreecad
     filePath: pencil_holder/pencil_holder_v01.py
     fileSize: 41673
-    createdAt: 2025-01-01T21:40:38.038Z
-    updatedAt: 2025-01-01T21:40:38.038Z
+    createdAt: 2025-01-01T22:04:34.255Z
+    updatedAt: 2025-01-01T22:04:34.255Z
   - fileName: pencil_holder_v01.log.txt
-    fileType: .txt
+    fileType: txtLog
     filePath: pencil_holder/pencil_holder_v01.log.txt
     fileSize: 96
-    createdAt: 2025-01-01T21:40:38.043Z
-    updatedAt: 2025-01-01T21:40:38.043Z
+    createdAt: 2025-01-01T22:04:34.259Z
+    updatedAt: 2025-01-01T22:04:34.259Z
   - fileName: pencil_holder_v01.js
-    fileType: .js
+    fileType: jsCad
     filePath: pencil_holder/pencil_holder_v01.js
     fileSize: 36866
-    createdAt: 2025-01-01T21:40:38.049Z
-    updatedAt: 2025-01-01T21:40:38.049Z
+    createdAt: 2025-01-01T22:04:34.260Z
+    updatedAt: 2025-01-01T22:04:34.260Z

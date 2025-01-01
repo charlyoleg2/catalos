@@ -101,7 +101,14 @@ async function writeYaml(iObj, fyaml) {
 async function oneFile(iFile, iObj, designName) {
 	const fsize = (await fs.stat(iFile)).size;
 	const fBasename = path.basename(iFile);
-	const fExtname = path.extname(iFile);
+	// TODO refine extension
+	const fExtname = path
+		.extname(iFile)
+		.replace(/^\./, '')
+		.replace(/^txt$/, 'txtLog')
+		.replace(/^json$/, 'pxJson')
+		.replace(/^js$/, 'jsCad')
+		.replace(/^py/, 'pyFreecad');
 	const fPath = `${designName}/${fBasename}`;
 	const rObj = {
 		fileName: path.basename(iFile),
@@ -132,13 +139,14 @@ async function genOneDesi(iDir, iDest) {
 	}
 	await fs.ensureDir(ddesi);
 	const lFiles = await glob(`${iDir}/*`);
+	const nFiles = [];
 	for (const iFile of lFiles) {
 		if ((await fs.stat(iFile)).isFile()) {
 			const fBasename = path.basename(iFile);
 			const fExtname = path.extname(iFile);
 			if (extValid.includes(fExtname)) {
 				const objF = await oneFile(iFile, objDesi, dName);
-				objDesi.files.push(objF);
+				nFiles.push(objF);
 				await fs.copy(iFile, path.join(iDest, objF.filePath));
 			} else {
 				console.log(`warn493: ${fBasename} with extension ${fExtname} is ignored!`);
@@ -147,6 +155,7 @@ async function genOneDesi(iDir, iDest) {
 			console.log(`warn494: ${iFile} is ignored!`);
 		}
 	}
+	objDesi.files = nFiles;
 	await writeYaml(objDesi, fyaml);
 }
 

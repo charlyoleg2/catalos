@@ -15,50 +15,50 @@ linkToRepo: https://github.com/charlyoleg2/ustensile
 linkOthers: []
 files:
   - fileName: px_doorstop_v01.json
-    fileType: .json
+    fileType: pxJson
     filePath: doorstop/px_doorstop_v01.json
     fileSize: 201
-    createdAt: 2025-01-01T21:40:38.058Z
-    updatedAt: 2025-01-01T21:40:38.058Z
+    createdAt: 2025-01-01T22:04:34.271Z
+    updatedAt: 2025-01-01T22:04:34.271Z
   - fileName: doorstop_v01_oscad.stl
-    fileType: .stl
+    fileType: stl
     filePath: doorstop/doorstop_v01_oscad.stl
     fileSize: 144321
-    createdAt: 2025-01-01T21:40:38.060Z
-    updatedAt: 2025-01-01T21:40:38.060Z
+    createdAt: 2025-01-01T22:04:34.273Z
+    updatedAt: 2025-01-01T22:04:34.273Z
   - fileName: doorstop_v01_jscad.stl
-    fileType: .stl
+    fileType: stl
     filePath: doorstop/doorstop_v01_jscad.stl
     fileSize: 45684
-    createdAt: 2025-01-01T21:40:38.062Z
-    updatedAt: 2025-01-01T21:40:38.062Z
+    createdAt: 2025-01-01T22:04:34.277Z
+    updatedAt: 2025-01-01T22:04:34.277Z
   - fileName: doorstop_v01_fc.stl
-    fileType: .stl
+    fileType: stl
     filePath: doorstop/doorstop_v01_fc.stl
     fileSize: 1400624
-    createdAt: 2025-01-01T21:40:38.064Z
-    updatedAt: 2025-01-01T21:40:38.064Z
+    createdAt: 2025-01-01T22:04:34.279Z
+    updatedAt: 2025-01-01T22:04:34.279Z
   - fileName: doorstop_v01.scad
-    fileType: .scad
+    fileType: scad
     filePath: doorstop/doorstop_v01.scad
     fileSize: 7654
-    createdAt: 2025-01-01T21:40:38.068Z
-    updatedAt: 2025-01-01T21:40:38.068Z
+    createdAt: 2025-01-01T22:04:34.283Z
+    updatedAt: 2025-01-01T22:04:34.283Z
   - fileName: doorstop_v01.py
-    fileType: .py
+    fileType: pyFreecad
     filePath: doorstop/doorstop_v01.py
     fileSize: 5943
-    createdAt: 2025-01-01T21:40:38.069Z
-    updatedAt: 2025-01-01T21:40:38.069Z
+    createdAt: 2025-01-01T22:04:34.286Z
+    updatedAt: 2025-01-01T22:04:34.286Z
   - fileName: doorstop_v01.log.txt
-    fileType: .txt
+    fileType: txtLog
     filePath: doorstop/doorstop_v01.log.txt
     fileSize: 95
-    createdAt: 2025-01-01T21:40:38.070Z
-    updatedAt: 2025-01-01T21:40:38.070Z
+    createdAt: 2025-01-01T22:04:34.289Z
+    updatedAt: 2025-01-01T22:04:34.289Z
   - fileName: doorstop_v01.js
-    fileType: .js
+    fileType: jsCad
     filePath: doorstop/doorstop_v01.js
     fileSize: 7744
-    createdAt: 2025-01-01T21:40:38.071Z
-    updatedAt: 2025-01-01T21:40:38.071Z
+    createdAt: 2025-01-01T22:04:34.291Z
+    updatedAt: 2025-01-01T22:04:34.291Z
