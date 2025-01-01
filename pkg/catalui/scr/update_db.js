@@ -52,7 +52,7 @@ function defaultObj(iOwner) {
 	return rObj;
 }
 
-function updateYaml(iObj) {
+function updateYaml(iObj, notifyUpdate) {
 	const rObj = iObj;
 	for (const prop of [
 		'description',
@@ -76,18 +76,20 @@ function updateYaml(iObj) {
 	if (!('createdAt' in rObj)) {
 		rObj.createdAt = new Date().toISOString();
 	}
-	rObj.updatedAt = new Date().toISOString();
 	if (!('updateCount' in rObj)) {
 		rObj.updateCount = 0;
 	}
-	rObj.updateCount = parseInt(rObj.updateCount) + 1;
+	if (notifyUpdate) {
+		rObj.updatedAt = new Date().toISOString();
+		rObj.updateCount = parseInt(rObj.updateCount) + 1;
+	}
 	return rObj;
 }
 
 async function readYaml(fyaml) {
 	const stry = await fs.readFile(fyaml, { encoding: 'utf8' });
 	const obj1 = YAML.parse(stry);
-	const rObj = updateYaml(obj1);
+	const rObj = updateYaml(obj1, false);
 	return rObj;
 }
 
@@ -96,21 +98,37 @@ async function writeYaml(iObj, fyaml) {
 	await fs.writeFile(fyaml, stry);
 }
 
+async function oneFile(iFile, iObj, designName) {
+	const fsize = (await fs.stat(iFile)).size;
+	const fBasename = path.basename(iFile);
+	const fExtname = path.extname(iFile);
+	const fPath = `${designName}/${fBasename}`;
+	const rObj = {
+		fileName: path.basename(iFile),
+		fileType: fExtname,
+		filePath: fPath,
+		fileSize: fsize,
+		createdAt: new Date().toISOString(),
+		updatedAt: new Date().toISOString(),
+	};
+	return rObj;
+}
+
 async function genOneDesi(iDir, iDest) {
-	const bFile = path.basename(iDir);
+	const dName = path.basename(iDir);
 	const owner = path.basename(iDest);
-	const fyaml = `${iDest}/${bFile}.yaml`;
-	const ddesi = `${iDest}/${bFile}`;
+	const fyaml = `${iDest}/${dName}.yaml`;
+	const ddesi = `${iDest}/${dName}`;
 	let objDesi = defaultObj(owner);
 	if (await fs.pathExists(fyaml)) {
 		if ((await fs.stat(fyaml)).isFile()) {
-			console.log(`info213: Update design: ${bFile}`);
+			console.log(`info213: Update design: ${dName}`);
 			objDesi = await readYaml(fyaml);
 		} else {
 			throw `ERR409: ${fyaml} exists but is not a yaml-file!`;
 		}
 	} else {
-		console.log(`info212: Generate new design: ${bFile}`);
+		console.log(`info212: Generate new design: ${dName}`);
 	}
 	await fs.ensureDir(ddesi);
 	const lFiles = await glob(`${iDir}/*`);
@@ -119,7 +137,9 @@ async function genOneDesi(iDir, iDest) {
 			const fBasename = path.basename(iFile);
 			const fExtname = path.extname(iFile);
 			if (extValid.includes(fExtname)) {
-				await fs.copy(iFile, `${ddesi}/${fBasename}`);
+				const objF = await oneFile(iFile, objDesi, dName);
+				objDesi.files.push(objF);
+				await fs.copy(iFile, path.join(iDest, objF.filePath));
 			} else {
 				console.log(`warn493: ${fBasename} with extension ${fExtname} is ignored!`);
 			}

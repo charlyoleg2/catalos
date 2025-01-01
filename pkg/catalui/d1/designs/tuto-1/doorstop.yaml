@@ -13,4 +13,52 @@ linkToCli: https://www.npmjs.com/package/desi82-cli
 linkToUis: https://www.npmjs.com/package/desi82-uis
 linkToRepo: https://github.com/charlyoleg2/ustensile
 linkOthers: []
-files: []
+files:
+  - fileName: px_doorstop_v01.json
+    fileType: .json
+    filePath: doorstop/px_doorstop_v01.json
+    fileSize: 201
+    createdAt: 2025-01-01T21:40:38.058Z
+    updatedAt: 2025-01-01T21:40:38.058Z
+  - fileName: doorstop_v01_oscad.stl
+    fileType: .stl
+    filePath: doorstop/doorstop_v01_oscad.stl
+    fileSize: 144321
+    createdAt: 2025-01-01T21:40:38.060Z
+    updatedAt: 2025-01-01T21:40:38.060Z
+  - fileName: doorstop_v01_jscad.stl
+    fileType: .stl
+    filePath: doorstop/doorstop_v01_jscad.stl
+    fileSize: 45684
+    createdAt: 2025-01-01T21:40:38.062Z
+    updatedAt: 2025-01-01T21:40:38.062Z
+  - fileName: doorstop_v01_fc.stl
+    fileType: .stl
+    filePath: doorstop/doorstop_v01_fc.stl
+    fileSize: 1400624
+    createdAt: 2025-01-01T21:40:38.064Z
+    updatedAt: 2025-01-01T21:40:38.064Z
+  - fileName: doorstop_v01.scad
+    fileType: .scad
+    filePath: doorstop/doorstop_v01.scad
+    fileSize: 7654
+    createdAt: 2025-01-01T21:40:38.068Z
+    updatedAt: 2025-01-01T21:40:38.068Z
+  - fileName: doorstop_v01.py
+    fileType: .py
+    filePath: doorstop/doorstop_v01.py
+    fileSize: 5943
+    createdAt: 2025-01-01T21:40:38.069Z
+    updatedAt: 2025-01-01T21:40:38.069Z
+  - fileName: doorstop_v01.log.txt
+    fileType: .txt
+    filePath: doorstop/doorstop_v01.log.txt
+    fileSize: 95
+    createdAt: 2025-01-01T21:40:38.070Z
+    updatedAt: 2025-01-01T21:40:38.070Z
+  - fileName: doorstop_v01.js
+    fileType: .js
+    filePath: doorstop/doorstop_v01.js
+    fileSize: 7744
+    createdAt: 2025-01-01T21:40:38.071Z
+    updatedAt: 2025-01-01T21:40:38.071Z

@@ -13,4 +13,52 @@ linkToCli: https://www.npmjs.com/package/desi82-cli
 linkToUis: https://www.npmjs.com/package/desi82-uis
 linkToRepo: https://github.com/charlyoleg2/ustensile
 linkOthers: []
-files: []
+files:
+  - fileName: px_pencil_holder_v01.json
+    fileType: .json
+    filePath: pencil_holder/px_pencil_holder_v01.json
+    fileSize: 287
+    createdAt: 2025-01-01T21:40:37.997Z
+    updatedAt: 2025-01-01T21:40:37.997Z
+  - fileName: pencil_holder_v01_oscad.stl
+    fileType: .stl
+    filePath: pencil_holder/pencil_holder_v01_oscad.stl
+    fileSize: 817860
+    createdAt: 2025-01-01T21:40:38.004Z
+    updatedAt: 2025-01-01T21:40:38.004Z
+  - fileName: pencil_holder_v01_jscad.stl
+    fileType: .stl
+    filePath: pencil_holder/pencil_holder_v01_jscad.stl
+    fileSize: 266284
+    createdAt: 2025-01-01T21:40:38.009Z
+    updatedAt: 2025-01-01T21:40:38.009Z
+  - fileName: pencil_holder_v01_fc.stl
+    fileType: .stl
+    filePath: pencil_holder/pencil_holder_v01_fc.stl
+    fileSize: 8632376
+    createdAt: 2025-01-01T21:40:38.016Z
+    updatedAt: 2025-01-01T21:40:38.016Z
+  - fileName: pencil_holder_v01.scad
+    fileType: .scad
+    filePath: pencil_holder/pencil_holder_v01.scad
+    fileSize: 40580
+    createdAt: 2025-01-01T21:40:38.033Z
+    updatedAt: 2025-01-01T21:40:38.033Z
+  - fileName: pencil_holder_v01.py
+    fileType: .py
+    filePath: pencil_holder/pencil_holder_v01.py
+    fileSize: 41673
+    createdAt: 2025-01-01T21:40:38.038Z
+    updatedAt: 2025-01-01T21:40:38.038Z
+  - fileName: pencil_holder_v01.log.txt
+    fileType: .txt
+    filePath: pencil_holder/pencil_holder_v01.log.txt
+    fileSize: 96
+    createdAt: 2025-01-01T21:40:38.043Z
+    updatedAt: 2025-01-01T21:40:38.043Z
+  - fileName: pencil_holder_v01.js
+    fileType: .js
+    filePath: pencil_holder/pencil_holder_v01.js
+    fileSize: 36866
+    createdAt: 2025-01-01T21:40:38.049Z
+    updatedAt: 2025-01-01T21:40:38.049Z

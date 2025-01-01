@@ -14,4 +14,52 @@ linkToCli: https://www.npmjs.com/package/desi82-cli
 linkToUis: https://www.npmjs.com/package/desi82-uis
 linkToRepo: https://github.com/charlyoleg2/ustensile
 linkOthers: []
-files: []
+files:
+  - fileName: spiral_v01_oscad.stl
+    fileType: .stl
+    filePath: spiral/spiral_v01_oscad.stl
+    fileSize: 489526
+    createdAt: 2025-01-01T21:40:37.948Z
+    updatedAt: 2025-01-01T21:40:37.948Z
+  - fileName: spiral_v01_jscad.stl
+    fileType: .stl
+    filePath: spiral/spiral_v01_jscad.stl
+    fileSize: 150084
+    createdAt: 2025-01-01T21:40:37.954Z
+    updatedAt: 2025-01-01T21:40:37.954Z
+  - fileName: spiral_v01_fc.stl
+    fileType: .stl
+    filePath: spiral/spiral_v01_fc.stl
+    fileSize: 1315616
+    createdAt: 2025-01-01T21:40:37.957Z
+    updatedAt: 2025-01-01T21:40:37.957Z
+  - fileName: spiral_v01.scad
+    fileType: .scad
+    filePath: spiral/spiral_v01.scad
+    fileSize: 21641
+    createdAt: 2025-01-01T21:40:37.964Z
+    updatedAt: 2025-01-01T21:40:37.964Z
+  - fileName: spiral_v01.py
+    fileType: .py
+    filePath: spiral/spiral_v01.py
+    fileSize: 7362
+    createdAt: 2025-01-01T21:40:37.967Z
+    updatedAt: 2025-01-01T21:40:37.967Z
+  - fileName: spiral_v01.log.txt
+    fileType: .txt
+    filePath: spiral/spiral_v01.log.txt
+    fileSize: 94
+    createdAt: 2025-01-01T21:40:37.970Z
+    updatedAt: 2025-01-01T21:40:37.970Z
+  - fileName: spiral_v01.js
+    fileType: .js
+    filePath: spiral/spiral_v01.js
+    fileSize: 20321
+    createdAt: 2025-01-01T21:40:37.974Z
+    updatedAt: 2025-01-01T21:40:37.974Z
+  - fileName: px_spiral_v01.json
+    fileType: .json
+    filePath: spiral/px_spiral_v01.json
+    fileSize: 205
+    createdAt: 2025-01-01T21:40:37.977Z
+    updatedAt: 2025-01-01T21:40:37.977Z
