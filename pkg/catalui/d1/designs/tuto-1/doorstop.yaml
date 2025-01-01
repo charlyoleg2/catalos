@@ -1,15 +1,16 @@
-description: "A useful doorstop"
-tags: ['ustensile']
+description: A useful doorstop
+tags:
+  - ustensile
 owner: tuto-1
 createdAt: 2024-12-28T22:18:09.536Z
-updatedAt: 2024-12-28T22:32:16.490Z
-updateCount: 1
+updatedAt: 2025-01-01T20:39:18.887Z
+updateCount: 2
 visible: true
-linkToUi: "https://charlyoleg2.github.io/parame82/desi82/doorstop"
-linkToSrc: "https://github.com/charlyoleg2/parame82"
-linkToPkg: "https://www.npmjs.com/package/desi82"
-linkToCli: "https://www.npmjs.com/package/desi82-cli"
-linkToUis: "https://www.npmjs.com/package/desi82-uis"
-linkToRepo: "https://github.com/charlyoleg2/ustensile"
+linkToUi: https://charlyoleg2.github.io/parame82/desi82/doorstop
+linkToSrc: https://github.com/charlyoleg2/parame82
+linkToPkg: https://www.npmjs.com/package/desi82
+linkToCli: https://www.npmjs.com/package/desi82-cli
+linkToUis: https://www.npmjs.com/package/desi82-uis
+linkToRepo: https://github.com/charlyoleg2/ustensile
 linkOthers: []
 files: []
