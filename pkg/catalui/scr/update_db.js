@@ -167,9 +167,11 @@ async function oneFile(iFile, iObj, designName, iDest) {
 		if (ikey in oldObj) {
 			if (rObj[ikey] !== oldObj[ikey]) {
 				oneUpdated = true;
+				console.log(`dbg323: key ${ikey} : ${rObj[ikey]} : ${oldObj[ikey]}`);
 			}
 		} else {
 			oneUpdated = true;
+			console.log(`dbg324: key ${ikey}`);
 		}
 	}
 	if (oneUpdated) {
