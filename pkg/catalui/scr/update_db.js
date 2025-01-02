@@ -106,6 +106,7 @@ async function compareFiles(iFile1, iFile2) {
 		throw `err288: ${iFile2} exsits but is not a file`;
 		return rDiff;
 	} else {
+		// TODO: improve memory usage with readStream
 		const fBuffer1 = await fs.readFile(iFile1);
 		const fBuffer2 = await fs.readFile(iFile2);
 		const cmp = Buffer.compare(fBuffer1, fBuffer2);
@@ -115,6 +116,26 @@ async function compareFiles(iFile1, iFile2) {
 		}
 	}
 	return rDiff;
+}
+
+function getExtname(iFile) {
+	// TODO refine extension
+	const fBasename = path.basename(iFile);
+	let rExtname = path
+		.extname(iFile)
+		.replace(/^\./, '')
+		.replace(/^txt$/, 'txtLog')
+		//.replace(/^json$/, 'pxJson')
+		.replace(/^js$/, 'jsCad')
+		.replace(/^py$/, 'pyFreecad');
+	if (rExtname === 'json') {
+		if (/^px_/.test(fBasename)) {
+			rExtname = 'pxJson';
+		} else {
+			rExtname = 'paxJson';
+		}
+	}
+	return rExtname;
 }
 
 function findObj(iObj, fName) {
@@ -139,17 +160,9 @@ async function oneFile(iFile, iObj, designName, iDest) {
 		await fs.copy(iFile, File2);
 		oneUpdated = true;
 	}
-	// TODO refine extension
-	const fExtname = path
-		.extname(iFile)
-		.replace(/^\./, '')
-		.replace(/^txt$/, 'txtLog')
-		.replace(/^json$/, 'pxJson')
-		.replace(/^js$/, 'jsCad')
-		.replace(/^py$/, 'pyFreecad');
 	const rObj = {
 		fileName: fBasename,
-		fileType: fExtname,
+		fileType: getExtname(iFile),
 		filePath: fPath,
 		fileSize: fsize,
 		createdAt: '',
