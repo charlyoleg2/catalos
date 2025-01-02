@@ -106,10 +106,10 @@ async function compareFiles(iFile1, iFile2) {
 		throw `err288: ${iFile2} exsits but is not a file`;
 		return rDiff;
 	} else {
-		fBuffer1 = fs.readFile(iFile1);
-		fBuffer2 = fs.readFile(iFile2);
+		const fBuffer1 = await fs.readFile(iFile1);
+		const fBuffer2 = await fs.readFile(iFile2);
 		const cmp = Buffer.compare(fBuffer1, fBuffer2);
-		rDfiff = cmp === 0 ? true : false;
+		rDiff = cmp === 0 ? true : false;
 	}
 	return rDiff;
 }
@@ -117,7 +117,7 @@ async function compareFiles(iFile1, iFile2) {
 function findObj(iObj, fName) {
 	let rObj = {};
 	if ('files' in iObj) {
-		for (iFileObj of iObj.files) {
+		for (const iFileObj of iObj.files) {
 			if ('fileName' in iFileObj && iFileObj.fileName === fName) {
 				rObj = iFileObj;
 			}
@@ -212,8 +212,8 @@ async function update_one_design(iDir, iDest) {
 	}
 	objDesi.files = nFiles;
 	if (filesUpdated) {
-		rObj.updatedAt = new Date().toISOString();
-		rObj.updateCount = parseInt(rObj.updateCount) + 1;
+		objDesi.updatedAt = new Date().toISOString();
+		objDesi.updateCount = parseInt(objDesi.updateCount) + 1;
 	}
 	await writeYaml(objDesi, fyaml);
 }
