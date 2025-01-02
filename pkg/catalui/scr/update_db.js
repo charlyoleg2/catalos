@@ -104,7 +104,7 @@ async function compareFiles(iFile1, iFile2) {
 		return rDiff;
 	} else if (!(await fs.stat(iFile2)).isFile()) {
 		throw `err288: ${iFile2} exsits but is not a file`;
-		return rDiff;
+		//return rDiff;
 	} else {
 		// TODO: improve memory usage with readStream
 		const fBuffer1 = await fs.readFile(iFile1);
