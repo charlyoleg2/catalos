@@ -26,6 +26,7 @@ pnpm-debug.log*
 # copied assets
 public/u/
 
-# degit downlaod
+# degit download
 tmp/
-d1/designs/tuto-2/
+d1/designs/tuto-2/*
+!d1/designs/tuto-2/*.yaml
