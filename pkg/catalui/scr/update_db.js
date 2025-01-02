@@ -148,14 +148,14 @@ async function oneFile(iFile, iObj, designName, iDest) {
 		.replace(/^js$/, 'jsCad')
 		.replace(/^py$/, 'pyFreecad');
 	const rObj = {
-		fileName: path.basename(iFile),
+		fileName: fBasename,
 		fileType: fExtname,
 		filePath: fPath,
 		fileSize: fsize,
 		createdAt: '',
 		updatedAt: '',
 	};
-	const oldObj = findObj(iObj);
+	const oldObj = findObj(iObj, fBasename);
 	for (const ikey of ['createdAt', 'updatedAt']) {
 		if (ikey in oldObj) {
 			rObj[ikey] = oldObj[ikey];
