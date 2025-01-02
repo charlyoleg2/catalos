@@ -98,9 +98,44 @@ async function writeYaml(iObj, fyaml) {
 	await fs.writeFile(fyaml, stry);
 }
 
-async function oneFile(iFile, iObj, designName) {
+async function compareFiles(iFile1, iFile2) {
+	let rDiff = true;
+	if (!(await fs.pathExists(iFile2))) {
+		return rDiff;
+	} else if (!(await fs.stat(iFile2)).isFile()) {
+		throw `err288: ${iFile2} exsits but is not a file`;
+		return rDiff;
+	} else {
+		fBuffer1 = fs.readFile(iFile1);
+		fBuffer2 = fs.readFile(iFile2);
+		const cmp = Buffer.compare(fBuffer1, fBuffer2);
+		rDfiff = cmp === 0 ? true : false;
+	}
+	return rDiff;
+}
+
+function findObj(iObj, fName) {
+	let rObj = {};
+	if ('files' in iObj) {
+		for (iFileObj of iObj.files) {
+			if ('fileName' in iFileObj && iFileObj.fileName === fName) {
+				rObj = iFileObj;
+			}
+		}
+	}
+	return rObj;
+}
+
+async function oneFile(iFile, iObj, designName, iDest) {
 	const fsize = (await fs.stat(iFile)).size;
 	const fBasename = path.basename(iFile);
+	const fPath = `${designName}/${fBasename}`;
+	const File2 = path.join(iDest, fPath);
+	let oneUpdated = false;
+	if (await compareFiles(iFile, File2)) {
+		await fs.copy(iFile, File2);
+		oneUpdated = true;
+	}
 	// TODO refine extension
 	const fExtname = path
 		.extname(iFile)
@@ -108,20 +143,39 @@ async function oneFile(iFile, iObj, designName) {
 		.replace(/^txt$/, 'txtLog')
 		.replace(/^json$/, 'pxJson')
 		.replace(/^js$/, 'jsCad')
-		.replace(/^py/, 'pyFreecad');
-	const fPath = `${designName}/${fBasename}`;
+		.replace(/^py$/, 'pyFreecad');
 	const rObj = {
 		fileName: path.basename(iFile),
 		fileType: fExtname,
 		filePath: fPath,
 		fileSize: fsize,
-		createdAt: new Date().toISOString(),
-		updatedAt: new Date().toISOString(),
+		createdAt: '',
+		updatedAt: '',
 	};
-	return rObj;
+	const oldObj = findObj(iObj);
+	for (const ikey of ['createdAt', 'updatedAt']) {
+		if (ikey in oldObj) {
+			rObj[ikey] = oldObj[ikey];
+		} else {
+			rObj[ikey] = new Date().toISOString();
+		}
+	}
+	for (const ikey of ['fileName', 'fileType', 'filePath', 'fileSize']) {
+		if (ikey in oldObj) {
+			if (rObj[ikey] !== oldObj[ikey]) {
+				oneUpdated = true;
+			}
+		} else {
+			oneUpdated = true;
+		}
+	}
+	if (oneUpdated) {
+		rObj.updatedAt = new Date().toISOString();
+	}
+	return [rObj, oneUpdated];
 }
 
-async function genOneDesi(iDir, iDest) {
+async function update_one_design(iDir, iDest) {
 	const dName = path.basename(iDir);
 	const owner = path.basename(iDest);
 	const fyaml = `${iDest}/${dName}.yaml`;
@@ -140,14 +194,15 @@ async function genOneDesi(iDir, iDest) {
 	await fs.ensureDir(ddesi);
 	const lFiles = await glob(`${iDir}/*`);
 	const nFiles = [];
+	let filesUpdated = false;
 	for (const iFile of lFiles) {
 		if ((await fs.stat(iFile)).isFile()) {
 			const fBasename = path.basename(iFile);
 			const fExtname = path.extname(iFile);
 			if (extValid.includes(fExtname)) {
-				const objF = await oneFile(iFile, objDesi, dName);
+				const [objF, oneUpdated] = await oneFile(iFile, objDesi, dName, iDest);
 				nFiles.push(objF);
-				await fs.copy(iFile, path.join(iDest, objF.filePath));
+				filesUpdated |= oneUpdated;
 			} else {
 				console.log(`warn493: ${fBasename} with extension ${fExtname} is ignored!`);
 			}
@@ -156,10 +211,14 @@ async function genOneDesi(iDir, iDest) {
 		}
 	}
 	objDesi.files = nFiles;
+	if (filesUpdated) {
+		rObj.updatedAt = new Date().toISOString();
+		rObj.updateCount = parseInt(rObj.updateCount) + 1;
+	}
 	await writeYaml(objDesi, fyaml);
 }
 
-async function genDesigns(iOrig, iDest) {
+async function inspect_designs(iOrig, iDest) {
 	let cntDesi = 0;
 	const dOrig = iOrig.replace(/\/$/, '');
 	const dDest = iDest.replace(/\/$/, '');
@@ -183,7 +242,7 @@ async function genDesigns(iOrig, iDest) {
 			const bFile = path.basename(iFile);
 			if ((await fs.stat(iFile)).isDirectory()) {
 				//console.log(`generate design: ${bFile}`);
-				await genOneDesi(iFile, dDest);
+				await update_one_design(iFile, dDest);
 				cntDesi += 1;
 			} else {
 				console.log(`warn382: ${bFile} is not a directory!`);
@@ -216,4 +275,4 @@ const argv = yargs(hideBin(process.argv))
 	.strict()
 	.parseSync();
 
-await genDesigns(argv.inDir, argv.outDir);
+await inspect_designs(argv.inDir, argv.outDir);
