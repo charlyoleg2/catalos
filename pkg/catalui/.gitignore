@@ -25,3 +25,6 @@ pnpm-debug.log*
 
 # copied assets
 public/u/
+
+# degit downlaod
+tmp/
