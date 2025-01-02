@@ -19,7 +19,8 @@
 		"github-pages-fix": "touch dist/.nojekyll",
 		"clean-astro": "rimraf .astro dist node_modules",
 		"clean-u": "rimraf public/u",
-		"clean": "run-s clean-astro clean-u"
+		"clean-tmp": "rimraf tmp",
+		"clean": "run-s clean-astro clean-u clean-tmp"
 	},
 	"dependencies": {
 		"@astrojs/node": "^9.0.0",
