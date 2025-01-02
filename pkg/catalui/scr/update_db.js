@@ -111,9 +111,9 @@ async function compareFiles(iFile1, iFile2) {
 		const fBuffer2 = await fs.readFile(iFile2);
 		const cmp = Buffer.compare(fBuffer1, fBuffer2);
 		rDiff = cmp === 0 ? false : true;
-		if (cmp !== 0) {
-			console.log(`dbg789: ${iFile1} ${iFile2} differ! cmp: ${cmp}`);
-		}
+		//if (cmp !== 0) {
+		//	console.log(`dbg789: ${iFile1} ${iFile2} differ! cmp: ${cmp}`);
+		//}
 	}
 	return rDiff;
 }
@@ -180,11 +180,11 @@ async function oneFile(iFile, iObj, designName, iDest) {
 		if (ikey in oldObj) {
 			if (rObj[ikey] !== oldObj[ikey]) {
 				oneUpdated = true;
-				console.log(`dbg323: key ${ikey} : ${rObj[ikey]} : ${oldObj[ikey]}`);
+				//console.log(`dbg323: key ${ikey} : ${rObj[ikey]} : ${oldObj[ikey]}`);
 			}
 		} else {
 			oneUpdated = true;
-			console.log(`dbg324: key ${ikey}`);
+			//console.log(`dbg324: key ${ikey}`);
 		}
 	}
 	if (oneUpdated) {
