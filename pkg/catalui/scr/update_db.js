@@ -110,6 +110,9 @@ async function compareFiles(iFile1, iFile2) {
 		const fBuffer2 = await fs.readFile(iFile2);
 		const cmp = Buffer.compare(fBuffer1, fBuffer2);
 		rDiff = cmp === 0 ? false : true;
+		if (cmp !== 0) {
+			console.log(`dbg789: ${iFile1} ${iFile2} differ! cmp: ${cmp}`)
+		}
 	}
 	return rDiff;
 }
