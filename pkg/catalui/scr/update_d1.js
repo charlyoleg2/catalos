@@ -34,7 +34,9 @@ async function degit_and_update(iURL, iUser, iDB) {
 	console.log(`degit_and_update: ${onedir}`);
 	await execCmd(`rm -fr tmp/${onedir}`);
 	await execCmd(`npx degit ${iURL} tmp/${onedir}`);
-	await execCmd(`node scr/update_db.js --inDir tmp/${onedir}/refs --outDir ${iDB}/designs/${iUser}`);
+	await execCmd(
+		`node scr/update_db.js --inDir tmp/${onedir}/refs --outDir ${iDB}/designs/${iUser}`
+	);
 }
 
 // get environment variable
