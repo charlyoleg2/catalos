@@ -158,7 +158,9 @@ async function oneFile(iFile, iObj, designName, iDest) {
 	let oneUpdated = false;
 	if (await compareFiles(iFile, File2)) {
 		await fs.copy(iFile, File2);
-		oneUpdated = true;
+		// oneUpdated commented because assume d1 is without design-files
+		// fileSize is the remaining hint for tracking changes
+		//oneUpdated = true;
 	}
 	const rObj = {
 		fileName: fBasename,
