@@ -40,15 +40,15 @@ async function degit_and_update(iURL, iUser, iDB) {
 }
 
 // get environment variable
-const eCATALDB = process.env.CATALDB;
+const eDBDIR = process.env.DBDIR;
 
-if (eCATALDB === '2') {
-	console.log('update_d1.js says Hello with CATALDB=2!');
+if (eDBDIR === 'd2') {
+	console.log('update_d1.js says Hello with DBDIR=d2!');
 	await degit_and_update('https://github.com/charlyoleg2/gears_and_springs', 'tuto-2', 'd2');
-	console.log('update_d1.js says Bye with CATALDB=2!');
+	console.log('update_d1.js says Bye with DBDIR=d2!');
 } else {
-	console.log('update_d1.js says Hello with CATALDB=1!');
+	console.log('update_d1.js says Hello with DBDIR=d1!');
 	await degit_and_update('https://github.com/charlyoleg2/ustensile', 'tuto-1', 'db1');
 	await degit_and_update('https://github.com/charlyoleg2/gears_and_springs', 'tuto-2', 'db1');
-	console.log('update_d1.js says Bye with CATALDB=1!');
+	console.log('update_d1.js says Bye with DBDIR=d1!');
 }
