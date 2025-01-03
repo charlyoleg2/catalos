@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 31.749999 31.75"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   sodipodi:docname="tuto-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="6.2787318"
+     inkscape:cx="59.406901"
+     inkscape:cy="65.220177"
+     inkscape:window-width="1854"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffcc00;stroke:#ffe680;stroke-width:0.264583;stroke-linejoin:round"
+       d="m 14.078621,16.909931 3.373485,4.1483 1.099485,2.35284 0.520167,-1.236955 0.638596,3.020556 0.771172,-1.479751 1.425385,2.422882 1.157474,-0.673614 2.422078,1.79988 -0.558976,-1.635345 1.93531,-0.167439 -0.908079,-1.481271 -0.5761,-1.409064 -1.435845,-0.210676 0.292543,-0.754765 -3.210375,-0.09385 0.80019,-0.826213 -3.194727,-1.026515 0.51735,-1.444028 z"
+       id="path3"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
+    <path
+       style="fill:#37c837;stroke:#37c837;stroke-width:0.264583;stroke-linejoin:round"
+       d="M 16.139472,23.598184 12.210374,18.359387 10.397055,27.698052 7.0373154,24.609534 10.574377,16.2017 8.0065265,12.936861 8.7228999,10.534903 6.0681044,8.4700622 c 0,0 0.046948,-1.8626849 0.632094,-2.4862372 C 7.3567725,5.2841561 9.4392733,5.0988932 9.4392733,5.0988932 l 1.4748867,1.3484676 -0.04214,2.9076334 2.317679,-1.5591657 5.773127,0.04214 -0.716374,-2.2333996 c 0,0 1.495944,-2.0387412 2.612657,-2.1069806 1.486161,-0.090816 3.457286,0.9091252 3.792565,2.3598179 0.250118,1.0822156 -1.769864,2.823354 -1.769864,2.823354 l -2.106981,2.1912598 -0.505675,2.865494 2.064841,-0.168559 0.505675,0.884932 0.969211,-0.547815 0.294978,0.884932 1.432747,-0.126419 0.505675,1.559166 0.884932,-1.601305 3.034053,1.095629 -0.800653,2.528377 -2.022702,0.632095 -3.708286,1.474886 -1.179909,1.432747 -2.359819,-0.294977 -1.222049,-2.2334 1.13777,-1.306328 1.432747,0.421396 -6.320942,-1.264188 2.405204,4.616969 0.965965,0.90332 z"
+       id="path1"
+       sodipodi:nodetypes="ccccccccaccccccaaccccccccccccccccccccccc" />
+    <ellipse
+       style="fill:#165016;stroke:#d40000;stroke-width:0.264583;stroke-linejoin:round"
+       id="path2-2-6"
+       cx="8.7647343"
+       cy="7.7858357"
+       rx="1.4327468"
+       ry="1.5591656" />
+    <ellipse
+       style="fill:#165016;stroke:#d40000;stroke-width:0.264583;stroke-linejoin:round"
+       id="path2"
+       cx="15.35989"
+       cy="12.178349"
+       rx="1.2852582"
+       ry="1.6013052" />
+    <ellipse
+       style="fill:#165016;stroke:#d40000;stroke-width:0.264583;stroke-linejoin:round"
+       id="path2-5"
+       cx="18.624428"
+       cy="11.964673"
+       rx="1.2852582"
+       ry="1.6013052" />
+    <ellipse
+       style="fill:#165016;stroke:#d40000;stroke-width:0.264583;stroke-linejoin:round"
+       id="path2-2"
+       cx="21.179443"
+       cy="19.772608"
+       rx="1.0113506"
+       ry="1.07456" />
+    <ellipse
+       style="fill:#165016;stroke:#d40000;stroke-width:0.264583;stroke-linejoin:round"
+       id="path2-2-7"
+       cx="28.08828"
+       cy="16.762049"
+       rx="1.0113506"
+       ry="1.07456" />
+    <ellipse
+       style="fill:#165016;stroke:#d40000;stroke-width:0.264583;stroke-linejoin:round"
+       id="path2-2-6-6"
+       cx="21.44355"
+       cy="6.3634987"
+       rx="2.0016315"
+       ry="1.8541429" />
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+description: ""
+tags: []
+owner: tuto-2
+createdAt: 2025-01-03T19:36:08.288Z
+updatedAt: 2025-01-03T19:36:08.313Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_gear_wheel_v01.json
+    fileType: pxJson
+    filePath: gear_wheel/px_gear_wheel_v01.json
+    fileSize: 1361
+    createdAt: 2025-01-03T19:36:08.294Z
+    updatedAt: 2025-01-03T19:36:08.294Z
+  - fileName: gear_wheel_v01_oscad.stl
+    fileType: stl
+    filePath: gear_wheel/gear_wheel_v01_oscad.stl
+    fileSize: 1978379
+    createdAt: 2025-01-03T19:36:08.303Z
+    updatedAt: 2025-01-03T19:36:08.303Z
+  - fileName: gear_wheel_v01.scad
+    fileType: scad
+    filePath: gear_wheel/gear_wheel_v01.scad
+    fileSize: 46755
+    createdAt: 2025-01-03T19:36:08.309Z
+    updatedAt: 2025-01-03T19:36:08.309Z
+  - fileName: gear_wheel_v01.log.txt
+    fileType: txtLog
+    filePath: gear_wheel/gear_wheel_v01.log.txt
+    fileSize: 872
+    createdAt: 2025-01-03T19:36:08.313Z
+    updatedAt: 2025-01-03T19:36:08.313Z
