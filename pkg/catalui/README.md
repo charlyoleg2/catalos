@@ -20,8 +20,10 @@ npm -w catalui run preview
 npm -w catalui run clean
 ```
 
-ToDo
-----
+Build for Vercel
+----------------
 
-- complete copyFiles.js
+```bash
+DBDIR=d2 npm -w catalui run ci3
+```
 
