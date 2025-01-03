@@ -3,7 +3,7 @@
 
 import path from 'node:path';
 import { chdir } from 'node:process';
-import { exec } from "node:child_process";
+import { exec } from 'node:child_process';
 import { promisify } from 'node:util';
 
 // change working directory
@@ -37,7 +37,7 @@ async function degit_and_update(iURL, iUser) {
 	await execCmd(`node scr/update_db.js --inDir tmp/${onedir}/refs --outDir d1/designs/${iUser}`);
 }
 
-console.log('update_d1.js says Hello!')
-await degit_and_update("https://github.com/charlyoleg2/ustensile", "tuto-1");
-await degit_and_update("https://github.com/charlyoleg2/gears_and_springs", "tuto-2");
-console.log('update_d1.js says Bye!')
+console.log('update_d1.js says Hello!');
+await degit_and_update('https://github.com/charlyoleg2/ustensile', 'tuto-1');
+await degit_and_update('https://github.com/charlyoleg2/gears_and_springs', 'tuto-2');
+console.log('update_d1.js says Bye!');
