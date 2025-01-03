@@ -28,5 +28,5 @@ public/u/
 
 # degit download
 tmp/
-d1/designs/tuto-2/*
-!d1/designs/tuto-2/*.yaml
+d1/designs/*/*
+!d1/designs/*/*.yaml
