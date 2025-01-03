@@ -30,3 +30,5 @@ public/u/
 tmp/
 d1/designs/*/*
 !d1/designs/*/*.yaml
+d2/designs/*/*
+!d2/designs/*/*.yaml
