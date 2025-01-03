@@ -1,3 +1,0 @@
-doorstop simTime: 0
-doorstop length 140.00 mm, angle 21.80 degree
-doorstop drawn successfully!

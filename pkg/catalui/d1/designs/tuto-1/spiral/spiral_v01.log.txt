@@ -1,4 +1,0 @@
-spiral simTime: 0
-spiral step 3.75 mm
-pi -40 4.898587196589413e-15
-spiral drawn successfully!
