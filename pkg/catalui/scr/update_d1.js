@@ -48,7 +48,7 @@ if (eDBDIR === 'd2') {
 	console.log('update_d1.js says Bye with DBDIR=d2!');
 } else {
 	console.log('update_d1.js says Hello with DBDIR=d1!');
-	await degit_and_update('https://github.com/charlyoleg2/ustensile', 'tuto-1', 'db1');
-	await degit_and_update('https://github.com/charlyoleg2/gears_and_springs', 'tuto-2', 'db1');
+	await degit_and_update('https://github.com/charlyoleg2/ustensile', 'tuto-1', 'd1');
+	await degit_and_update('https://github.com/charlyoleg2/gears_and_springs', 'tuto-2', 'd1');
 	console.log('update_d1.js says Bye with DBDIR=d1!');
 }
