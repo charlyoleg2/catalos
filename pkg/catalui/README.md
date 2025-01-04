@@ -24,6 +24,6 @@ Build for Vercel
 ----------------
 
 ```bash
-DBDIR=d2 npm -w catalui run ci3
+DBDIR=d2 npm -w catalui run ci
 ```
 

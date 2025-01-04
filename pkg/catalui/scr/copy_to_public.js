@@ -70,6 +70,7 @@ async function copyFiles(iOrig, iDest) {
 	);
 }
 
+const eDBDIR = process.env.DBDIR;
 const argv = yargs(hideBin(process.argv))
 	.scriptName('copy_to_public.js')
 	.usage('Usage: $0 --inDir <dir-path> --outDir <dir-path>')
@@ -78,6 +79,7 @@ const argv = yargs(hideBin(process.argv))
 		type: 'string',
 		description: 'input directory-path for copying designs',
 		demandOption: true,
+		default: eDBDIR ? eDBDIR : 'd1',
 	})
 	.option('outDir', {
 		alias: 'o',
