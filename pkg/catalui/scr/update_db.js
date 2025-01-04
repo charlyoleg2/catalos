@@ -10,7 +10,15 @@ import YAML from 'yaml';
 
 const extValid = [
 	'.png',
+	'.apng',
+	'.avif',
+	'.gif',
 	'.jpg',
+	'.jpeg',
+	'.jfif',
+	'.pjpeg',
+	'.pjp',
+	'.webp',
 	//'.pxJson',
 	//'.paxJson',
 	'.json',

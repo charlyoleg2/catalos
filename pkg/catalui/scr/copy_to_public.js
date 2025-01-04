@@ -28,7 +28,10 @@ async function copyFiles(iOrig, iDest) {
 		// copy avatars
 		//await fs.copy('./d1/users/charlyoleg.svg', './public/u/charlyoleg.svg');
 		//await fs.copy('./d1/users/carlo78.svg', './public/u/carlo78.svg');
-		const avatars = await glob(`${dOrig}/users/*.{svg,png,jpeg,jpg}`);
+		// list of image format from https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types
+		const avatars = await glob(
+			`${dOrig}/users/*.{svg,png,apng,avif,gif,jpeg,jpg,jfif,pjpeg,pjp,webp}`
+		);
 		for (const pavatar of avatars) {
 			const bname = path.basename(pavatar);
 			//console.log(bname);
