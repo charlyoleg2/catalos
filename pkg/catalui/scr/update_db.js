@@ -143,7 +143,7 @@ function findObj(iObj, fName) {
 	if ('files' in iObj) {
 		for (const iFileObj of iObj.files) {
 			if ('fileName' in iFileObj && iFileObj.fileName === fName) {
-				rObj = iFileObj;
+				rObj = structuredClone(iFileObj);
 			}
 		}
 	}
@@ -195,7 +195,48 @@ async function oneFile(iFile, iObj, designName, iDest) {
 	return [rObj, oneUpdated];
 }
 
-async function update_one_design(iDir, iDest) {
+async function chooseFiles(nFiles, objDesi, ddesi, dName, iCleanNonExistingFiles) {
+	const rFiles = [];
+	const lNewFiles = [];
+	for (const iFileObj of nFiles) {
+		if ('fileName' in iFileObj) {
+			lNewFiles.push(iFileObj.fileName);
+		}
+	}
+	const lExtraFiles = [];
+	if ('files' in objDesi) {
+		for (const iFileObj of objDesi.files) {
+			if ('fileName' in iFileObj && !lNewFiles.includes(iFileObj.fileName)) {
+				lExtraFiles.push(iFileObj.fileName);
+			}
+		}
+	}
+	// add old Files if they exists or no-clean-flag
+	for (const fName of lExtraFiles) {
+		let keepFile = false;
+		const fPath = path.join(ddesi, fName);
+		if (await fs.pathExists(fPath)) {
+			if ((await fs.stat(fPath)).isFile()) {
+				keepFile = true;
+			}
+		}
+		if (!keepFile && iCleanNonExistingFiles) {
+			console.log(`info224: design ${dName} removes non-existing file ${fName}`);
+		}
+		if (keepFile || !iCleanNonExistingFiles) {
+			//console.log(`dbg342: keep old file: ${fName}`);
+			rFiles.push(findObj(objDesi, fName));
+		}
+	}
+	// add new Files
+	for (const iFileObj of nFiles) {
+		//console.log(`dbg343: keep new file: ${iFileObj.fileName}`);
+		rFiles.push(structuredClone(iFileObj));
+	}
+	return rFiles;
+}
+
+async function update_one_design(iDir, iDest, iCleanNonExistingFiles) {
 	const dName = path.basename(iDir);
 	const owner = path.basename(iDest);
 	const fyaml = `${iDest}/${dName}.yaml`;
@@ -230,7 +271,7 @@ async function update_one_design(iDir, iDest) {
 			console.log(`warn494: ${iFile} is ignored!`);
 		}
 	}
-	objDesi.files = nFiles;
+	objDesi.files = await chooseFiles(nFiles, objDesi, ddesi, dName, iCleanNonExistingFiles);
 	if (filesUpdated) {
 		objDesi.updatedAt = new Date().toISOString();
 		objDesi.updateCount = parseInt(objDesi.updateCount) + 1;
@@ -238,7 +279,7 @@ async function update_one_design(iDir, iDest) {
 	await writeYaml(objDesi, fyaml);
 }
 
-async function inspect_designs(iOrig, iDest) {
+async function inspect_designs(iOrig, iDest, iCleanNonExistingFiles) {
 	let cntDesi = 0;
 	const dOrig = iOrig.replace(/\/$/, '');
 	const dDest = iDest.replace(/\/$/, '');
@@ -262,7 +303,7 @@ async function inspect_designs(iOrig, iDest) {
 			const bFile = path.basename(iFile);
 			if ((await fs.stat(iFile)).isDirectory()) {
 				//console.log(`generate design: ${bFile}`);
-				await update_one_design(iFile, dDest);
+				await update_one_design(iFile, dDest, iCleanNonExistingFiles);
 				cntDesi += 1;
 			} else {
 				console.log(`warn382: ${bFile} is not a directory!`);
@@ -292,7 +333,14 @@ const argv = yargs(hideBin(process.argv))
 		description: 'output directory-path for creating or updating designs',
 		demandOption: true,
 	})
+	.option('cleanNonExistingFiles', {
+		alias: 'c',
+		type: 'boolean',
+		description: 'clean the file-list of the non-existing files',
+		demandOption: true,
+		default: true,
+	})
 	.strict()
 	.parseSync();
 
-await inspect_designs(argv.inDir, argv.outDir);
+await inspect_designs(argv.inDir, argv.outDir, argv.cleanNonExistingFiles);
