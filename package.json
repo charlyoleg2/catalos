@@ -34,7 +34,7 @@
 		"ls-pkg": "ls -la pkg"
 	},
 	"devDependencies": {
-		"npm-run-all2": "^7.0.1",
+		"npm-run-all2": "^7.0.2",
 		"rimraf": "^6.0.1"
 	}
 }
