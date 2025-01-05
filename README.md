@@ -30,8 +30,8 @@ The *code source* is available on [github](https://github.com/charlyoleg2/catalo
 Prerequisite
 ------------
 
-- [node](https://nodejs.org) version 20.10.0 or higher
-- [npm](https://docs.npmjs.com/cli/v10/commands/npm) version 10.2.4 or higher
+- [node](https://nodejs.org) version 22.12.0 or higher
+- [npm](https://docs.npmjs.com/cli/v10/commands/npm) version 11.0.0 or higher
 
 
 Develop catalos
