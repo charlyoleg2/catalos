@@ -97,7 +97,7 @@ async function check_db(iDBdir, iUpdate) {
 		console.log(err);
 	}
 	console.log(
-		`info610: check_d1.js has found ${userList.length} users and ${cntDesi} designs in ${iDBdir} with ${cntErr} errors`
+		`info610: check_d1.js with iUpdate ${iUpdate} has found ${userList.length} users and ${cntDesi} designs in ${iDBdir} with ${cntErr} errors`
 	);
 	if (cntErr > 0) {
 		console.log(`err123: check_d1.js founds ${cntErr} errors in ${iDBdir}`);
