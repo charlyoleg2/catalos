@@ -45,6 +45,35 @@ async function check_user(iUser) {
 	return [rUser, cntErr];
 }
 
+async function check_desi(iDesi, bUser2, iUpdate) {
+	let cntErr = 0;
+	if (!((await fs.pathExists(iDesi)) && (await fs.stat(iDesi)).isFile())) {
+		console.log(`err229: ${iDesi} is not a file for user ${bUser2}`);
+		cntErr += 1;
+	}
+	if (iUpdate) {
+		cntErr += 1;
+	}
+	return cntErr;
+}
+
+async function check_userDesi(iUser2, userList, iUpdate) {
+	let cntDesi = 0;
+	let cntErr = 0;
+	const bUser2 = path.basename(iUser2);
+	if (userList.includes(bUser2)) {
+		const uDesis = await glob(`${iUser2}/*.yaml`);
+		for (const iDesi of uDesis) {
+			cntErr += await check_desi(iDesi, bUser2, iUpdate);
+			cntDesi += 1;
+		}
+	} else {
+		console.log(`err211: bUser2 ${bUser2} doesn't have its yaml-user`);
+		cntErr += 1;
+	}
+	return [cntDesi, cntErr];
+}
+
 async function check_db(iDBdir, iUpdate) {
 	const userList = [];
 	let cntErr = 0;
@@ -67,31 +96,25 @@ async function check_db(iDBdir, iUpdate) {
 			cntErr += userErr;
 		}
 		// check designs
-		//const users = await glob(`${dOrig}/users/*.yaml`);
-		//for (const iUser of users) {
-		//	const bUser = path.basename(iUser, '.yaml');
-		//	const pUser = `${dOrig}/designs/${bUser}`;
-		//	if (await fs.pathExists(pUser)) {
-		//		if ((await fs.stat(pUser)).isDirectory()) {
-		//			//console.log(`copy dir: ${bUser}`);
-		//			//await fs.copy(pUser, `${dDest}/u/${bUser}`);
-		//			//cntDesi += 1;
-		//			const desis = await glob(`${pUser}/*`);
-		//			for (const iDesi of desis) {
-		//				const bDesi = path.basename(iDesi);
-		//				if ((await fs.stat(iDesi)).isDirectory()) {
-		//					console.log(`copy dir: ${bDesi}`);
-		//					await fs.copy(iDesi, `${dDest}/u/${bUser}/${bDesi}`);
-		//					cntDesi += 1;
-		//				}
-		//			}
-		//		} else {
-		//			console.log(`warn382: ${pUser} is not a directory!`);
-		//		}
-		//	} else {
-		//		console.log(`warn209: the directory ${pUser} doesn't exist!`);
-		//	}
-		//}
+		const dUser = await glob(`${iDBdir}/designs/*`);
+		for (const iUser2 of dUser) {
+			if ((await fs.stat(iUser2)).isDirectory()) {
+				const [tCntDesi, tCntErr] = await check_userDesi(iUser2, userList, iUpdate);
+				cntErr += tCntErr;
+				cntDesi += tCntDesi;
+			} else {
+				console.log(`err721: ${iUser2} is not a directory`);
+				cntErr += 1;
+			}
+		}
+		// check missing userDesign
+		for (const user of userList) {
+			const pUserDesi = path.join(iDBdir, 'designs', user);
+			if (!(await fs.pathExists(pUserDesi))) {
+				console.log(`err722: ${pUserDesi} doesn't exist for user ${user}`);
+				cntErr += 1;
+			}
+		}
 	} catch (err) {
 		console.log(`ERR670: Error while checking iDBdir ${iDBdir}`);
 		console.log(err);
