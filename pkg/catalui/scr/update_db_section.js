@@ -8,7 +8,9 @@ import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
 import YAML from 'yaml';
 
+const imageExt = ['png', 'apng', 'avif', 'gif', 'jpg', 'jpeg', 'jfif', 'pjepg', 'pjp', 'webp'];
 const extValid = [
+	//'.image'
 	'.png',
 	'.apng',
 	'.avif',
@@ -136,6 +138,9 @@ function getExtname(iFile) {
 		//.replace(/^json$/, 'pxJson')
 		.replace(/^js$/, 'jsCad')
 		.replace(/^py$/, 'pyFreecad');
+	if (imageExt.includes(rExtname)) {
+		rExtname = 'image';
+	}
 	if (rExtname === 'json') {
 		if (/^px_/.test(fBasename)) {
 			rExtname = 'pxJson';

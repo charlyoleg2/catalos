@@ -8,6 +8,8 @@ import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
 import YAML from 'yaml';
 
+const imageExt = ['png', 'apng', 'avif', 'gif', 'jpg', 'jpeg', 'jfif', 'pjepg', 'pjp', 'webp'];
+
 async function readYaml(fyaml) {
 	const stry = await fs.readFile(fyaml, { encoding: 'utf8' });
 	const rObj = YAML.parse(stry);
@@ -45,14 +47,150 @@ async function check_user(iUser) {
 	return [rUser, cntErr];
 }
 
+function getExtname(iFile) {
+	// TODO refine extension
+	const fBasename = path.basename(iFile);
+	let rExtname = path
+		.extname(iFile)
+		.replace(/^\./, '')
+		.replace(/^txt$/, 'txtLog')
+		//.replace(/^json$/, 'pxJson')
+		.replace(/^js$/, 'jsCad')
+		.replace(/^py$/, 'pyFreecad');
+	if (imageExt.includes(rExtname)) {
+		rExtname = 'image';
+	}
+	if (rExtname === 'json') {
+		if (/^px_/.test(fBasename)) {
+			rExtname = 'pxJson';
+		} else {
+			rExtname = 'paxJson';
+		}
+	}
+	return rExtname;
+}
+
+async function check_desiFile(objFile, desiDir, iUpdate, desiName, bUser2) {
+	let cntErr = 0;
+	for (const iField of [
+		'fileName',
+		'fileType',
+		'filePath',
+		'fileSize',
+		'createdAt',
+		'updatedAt',
+	]) {
+		if (!(iField in objFile)) {
+			console.log(
+				`err520: field ${iField} is missing for desi ${desiName} of user ${bUser2}`
+			);
+			cntErr += 1;
+		}
+	}
+	// if all fields exists
+	if (cntErr === 0) {
+		const pFile = path.join(desiDir, '..', objFile.filePath);
+		if (!((await fs.pathExists(pFile)) && (await fs.stat(pFile)).isFile())) {
+			console.log(
+				`err521: file ${pFile} doesn't exist for desi ${desiName} of user ${bUser2}`
+			);
+			cntErr += 1;
+		} else {
+			const fsize = (await fs.stat(pFile)).size;
+			if (fsize !== objFile.fileSize) {
+				console.log(
+					`err525: fileSize ${fsize} versus ${objFile.fileSize} for desi ${desiName} of user ${bUser2}`
+				);
+				cntErr += 1;
+				if (iUpdate) {
+					console.log(
+						`info681: update fileSize from ${objFile.fileSize} to ${fsize} for ${pFile}`
+					);
+					objFile.fileSize = fsize;
+				} else {
+					cntErr += 1;
+				}
+			}
+		}
+		if (path.basename(objFile.filePath) !== objFile.fileName) {
+			console.log(
+				`err522: filePath ${objFile.filePath} mismatches fileName ${objFile.fileName} for desi ${desiName} of user ${bUser2}`
+			);
+			cntErr += 1;
+		}
+		if (path.dirname(objFile.filePath) !== desiName) {
+			console.log(
+				`err523: filePath ${objFile.filePath} directory doesn't fit for desi ${desiName} of user ${bUser2}`
+			);
+			cntErr += 1;
+		}
+		const expectedExt = getExtname(objFile.filePath);
+		if (expectedExt !== objFile.fileType) {
+			console.log(
+				`err524: fileType ${objFile.fileType} mismatches ${expectedExt} for ${objFile.filePath} of desi ${desiName} of user ${bUser2}`
+			);
+			cntErr += 1;
+		}
+	}
+	return cntErr;
+}
+
 async function check_desi(iDesi, bUser2, iUpdate) {
 	let cntErr = 0;
 	if (!((await fs.pathExists(iDesi)) && (await fs.stat(iDesi)).isFile())) {
 		console.log(`err229: ${iDesi} is not a file for user ${bUser2}`);
 		cntErr += 1;
 	}
-	if (iUpdate) {
+	const desiParent = path.dirname(iDesi);
+	const desiName = path.basename(iDesi, '.yaml');
+	const desiDir = path.join(desiParent, desiName);
+	if (!((await fs.pathExists(desiDir)) && (await fs.stat(desiDir)).isDirectory())) {
+		console.log(`err228: desiDir ${desiDir} doesn't exist or not a directory`);
 		cntErr += 1;
+		if (iUpdate) {
+			console.log(`info061: create directory ${desiDir}`);
+			await fs.ensureDir(desiDir);
+		}
+	}
+	const objDesi = await readYaml(iDesi);
+	for (const iField of [
+		'description',
+		'tags',
+		'owner',
+		'createdAt',
+		'updatedAt',
+		'updateCount',
+		'visible',
+		'linkToUi',
+		'linkToSrc',
+		'linkToPkg',
+		'linkToCli',
+		'linkToUis',
+		'linkToRepo',
+		'linkOthers',
+	]) {
+		if (!(iField in objDesi)) {
+			console.log(
+				`err326: field ${iField} is missing for desi ${desiName} of user ${bUser2}`
+			);
+			cntErr += 1;
+		}
+	}
+	if ('owner' in objDesi && objDesi.owner !== bUser2) {
+		console.log(
+			`err730: owner ${objDesi.owner} mismatches ${bUser2} for desi ${desiName} of user ${bUser2}`
+		);
+		cntErr += 1;
+	}
+	const desiFiles = await glob(`${desiDir}/*`);
+	if ('files' in objDesi && objDesi.files.length !== desiFiles.length) {
+		console.log(
+			`err731: files.length ${objDesi.files.length} mismatches ${desiFiles.length} for desi ${desiName} of user ${bUser2}`
+		);
+		cntErr += 1;
+	}
+	for (const objFile of objDesi.files) {
+		cntErr += await check_desiFile(objFile, desiDir, iUpdate, desiName, bUser2);
 	}
 	return cntErr;
 }
