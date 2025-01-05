@@ -17,8 +17,8 @@ async function readYaml(fyaml) {
 async function check_user(iUser) {
 	const rUser = path.basename(iUser, '.yaml');
 	let cntErr = 0;
-	objUser = await readYaml(iUser);
-	userDir = path.dirname(iUser);
+	const objUser = await readYaml(iUser);
+	const userDir = path.dirname(iUser);
 	if ('photoPath' in objUser) {
 		const pPhoto = path.join(userDir, objUser.photoPath);
 		if (!((await fs.pathExists(pPhoto)) && (await fs.stat(pPhoto)).isFile())) {
@@ -36,7 +36,7 @@ async function check_user(iUser) {
 		console.log(`err827: ${avatars.length} avatars for user ${rUser}`);
 		cntErr += 1;
 	}
-	for (const field in ['country', 'city', 'createdAt']) {
+	for (const iField of ['country', 'city', 'createdAt']) {
 		if (!(iField in objUser)) {
 			console.log(`err826: field ${iField} is missing for user ${rUser}`);
 			cntErr += 1;
@@ -46,8 +46,8 @@ async function check_user(iUser) {
 }
 
 async function check_db(iDBdir, iUpdate) {
+	const userList = [];
 	let cntErr = 0;
-	let userList = [];
 	let cntDesi = 0;
 	try {
 		// sanity basic check
@@ -58,12 +58,11 @@ async function check_db(iDBdir, iUpdate) {
 			throw `ERR162: Error, the iDBdir ${iDBdir} is not a directory!`;
 		}
 		// check users
-		const avatars = await glob(
-			`${iDBdir}/users/*.{svg,png,apng,avif,gif,jpeg,jpg,jfif,pjpeg,pjp,webp}`
-		);
-		const users = await glob(`${iDBdir}/users/*.{yaml}`);
+		const users = await glob(`${iDBdir}/users/*.yaml`);
+		//console.log(`dbg333: iDBdir ${iDBdir}`);
+		//console.log(users);
 		for (const iUser of users) {
-			const [bUser, userErr] = userList.push(await check_user(iUser, avatars));
+			const [bUser, userErr] = await check_user(iUser);
 			userList.push(bUser);
 			cntErr += userErr;
 		}
