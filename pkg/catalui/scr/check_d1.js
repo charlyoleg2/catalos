@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 // scr/check_d1.js
 
+//import { exit } from 'node:process';
 import path from 'node:path';
 import fs from 'fs-extra';
 import { glob } from 'glob';
@@ -262,6 +263,7 @@ async function check_db(iDBdir, iUpdate) {
 	);
 	if (cntErr > 0) {
 		console.log(`err123: check_d1.js founds ${cntErr} errors in ${iDBdir}`);
+		//exit(1);
 	}
 }
 
