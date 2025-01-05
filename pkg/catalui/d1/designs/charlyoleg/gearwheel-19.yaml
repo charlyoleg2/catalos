@@ -14,10 +14,4 @@ linkToCli: https://www.npmjs.com/package/desi82-cli
 linkToUis: https://www.npmjs.com/package/desi82-uis
 linkToRepo: https://github.com/charlyoleg2/gears_and_springs
 linkOthers: []
-files:
-    - fileName: toto.stl
-      fileType: stl
-      filePath: d001stl001.stl
-      fileSize: 3590
-      createdAt: 2016-11-28T14:10:11.338Z
-      updatedAt: 2016-11-28T14:10:11.338Z
+files: []
