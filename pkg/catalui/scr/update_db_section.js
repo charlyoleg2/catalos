@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// scr/update_db.js
+// scr/update_db_section.js
 
 import path from 'node:path';
 import fs from 'fs-extra'; // both fs and fs-extra methods are defined
@@ -322,12 +322,12 @@ async function inspect_designs(iOrig, iDest, iCleanNonExistingFiles) {
 		console.log(err);
 	}
 	console.log(
-		`info439: from ${dOrig} update_db.js has created or updated ${cntDesi} designs in ${dDest}`
+		`info439: from ${dOrig} update_db_section.js has created or updated ${cntDesi} designs in ${dDest}`
 	);
 }
 
 const argv = yargs(hideBin(process.argv))
-	.scriptName('update_db.js')
+	.scriptName('update_db_section.js')
 	.usage('Usage: $0 --inDir <dir-path> --outDir <dir-path>')
 	.option('inDir', {
 		alias: 'i',
