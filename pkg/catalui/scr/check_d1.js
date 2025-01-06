@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // scr/check_d1.js
 
-//import { exit } from 'node:process';
+import { exit } from 'node:process';
 import path from 'node:path';
 import fs from 'fs-extra';
 import { glob } from 'glob';
@@ -213,7 +213,7 @@ async function check_userDesi(iUser2, userList, iUpdate) {
 	return [cntDesi, cntErr];
 }
 
-async function check_db(iDBdir, iUpdate) {
+async function check_db(iDBdir, iUpdate, noExitCode) {
 	const userList = [];
 	let cntErr = 0;
 	let cntDesi = 0;
@@ -263,7 +263,9 @@ async function check_db(iDBdir, iUpdate) {
 	);
 	if (cntErr > 0) {
 		console.log(`err123: check_d1.js founds ${cntErr} errors in ${iDBdir}`);
-		//exit(1);
+		if (!noExitCode) {
+			exit(1);
+		}
 	}
 }
 
@@ -285,7 +287,14 @@ const argv = yargs(hideBin(process.argv))
 		demandOption: true,
 		default: false,
 	})
+	.option('noExitCode', {
+		alias: 'n',
+		type: 'boolean',
+		description: 'Exit-code 0 even if errors occur. Useful not to stop the CI',
+		demandOption: true,
+		default: false,
+	})
 	.strict()
 	.parseSync();
 
-check_db(argv.dbDir, argv.update);
+check_db(argv.dbDir, argv.update, argv.noExitCode);
