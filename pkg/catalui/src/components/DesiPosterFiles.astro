@@ -11,6 +11,7 @@ const { design } = Astro.props;
 
 <article>
 	<table>
+		<caption>Design files</caption>
 		<thead>
 			<tr>
 				<th>File</th>
@@ -32,7 +33,11 @@ const { design } = Astro.props;
 							<a href={`u/${design.id}/${item.fileName}`}>raw</a>
 						</td>
 						<td>view</td>
-						<td>download</td>
+						<td>
+							<a href={`u/${design.id}/${item.fileName}`} download={item.fileName}>
+								download
+							</a>
+						</td>
 					</tr>
 				))
 			}
@@ -40,4 +45,12 @@ const { design } = Astro.props;
 	</table>
 </article>
 
-<style></style>
+<style>
+	table > tbody > tr:nth-child(odd) {
+		background-color: var(--c4w);
+	}
+	th,
+	td {
+		padding: 0.2rem 2rem;
+	}
+</style>
