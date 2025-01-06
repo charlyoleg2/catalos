@@ -1,0 +1,24 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import '@src/styles/styling-vars.css';
+
+interface Props {
+	design: CollectionEntry<'designs'>;
+}
+
+const { design } = Astro.props;
+---
+
+<article>
+	{design.data.files.map((item) => <div class="vignette">{item.fileSize}</div>)}
+</article>
+
+<style>
+	div.vignette {
+		display: inline-block;
+		width: 8rem;
+		height: 8rem;
+		margin: 0.5rem 1rem;
+		background-color: var(--c2w);
+	}
+</style>

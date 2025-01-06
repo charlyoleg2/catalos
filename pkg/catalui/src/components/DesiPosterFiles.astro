@@ -1,0 +1,43 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import '@src/styles/styling-vars.css';
+
+interface Props {
+	design: CollectionEntry<'designs'>;
+}
+
+const { design } = Astro.props;
+---
+
+<article>
+	<table>
+		<thead>
+			<tr>
+				<th>File</th>
+				<th>Type</th>
+				<th>Size</th>
+				<th></th>
+				<th></th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			{
+				design.data.files.map((item) => (
+					<tr>
+						<td>{item.fileName}</td>
+						<td>{item.fileType}</td>
+						<td>{item.fileSize}</td>
+						<td>
+							<a href={`u/${design.id}/${item.fileName}`}>raw</a>
+						</td>
+						<td>view</td>
+						<td>download</td>
+					</tr>
+				))
+			}
+		</tbody>
+	</table>
+</article>
+
+<style></style>

@@ -1,0 +1,85 @@
+---
+import Surl from '@src/components/Surl.astro';
+import type { CollectionEntry } from 'astro:content';
+import { getEntry } from 'astro:content';
+import { prunePrefix } from '@src/lib/util.ts';
+import '@src/styles/styling-vars.css';
+
+interface Props {
+	design: CollectionEntry<'designs'>;
+}
+
+const { design } = Astro.props;
+const user = await getEntry(design.data.owner);
+---
+
+<article>
+	<h2>by {user.id}</h2>
+	<h1>{prunePrefix(design.id)}</h1>
+	<dl>
+		<dt><i>Description:</i></dt>
+		<dd>{design.data.description}</dd>
+		<dt><i>Tags:</i></dt>
+		<dd>{design.data.tags.join(', ')}</dd>
+	</dl>
+	<table>
+		<thead>
+			<tr>
+				<th>Target</th>
+				<th>URL</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>UI</td>
+				<td><Surl url={design.data.linkToUi} /> </td>
+			</tr>
+			<tr>
+				<td>Sources</td>
+				<td><Surl url={design.data.linkToSrc} /> </td>
+			</tr>
+			<tr>
+				<td>npm package</td>
+				<td><Surl url={design.data.linkToPkg} /> </td>
+			</tr>
+			<tr>
+				<td>npx cli</td>
+				<td><Surl url={design.data.linkToCli} /> </td>
+			</tr>
+			<tr>
+				<td>npx UI-server</td>
+				<td><Surl url={design.data.linkToUis} /> </td>
+			</tr>
+			<tr>
+				<td>Maker repo</td>
+				<td><Surl url={design.data.linkToRepo} /> </td>
+			</tr>
+			{
+				design.data.linkOthers.map((item) => (
+					<tr>
+						<td />
+						<td>
+							<Surl url={item} />
+						</td>
+					</tr>
+				))
+			}
+		</tbody>
+	</table>
+</article>
+
+<style>
+	h2 {
+		font-size: 1rem;
+		font-style: italic;
+		font-weight: bold;
+		color: var(--c4w);
+		margin: 0.5rem 2rem;
+	}
+	h1 {
+		font-size: 2rem;
+		font-weight: regular;
+		color: var(--c1w);
+		margin: 0.2rem 2rem;
+	}
+</style>
