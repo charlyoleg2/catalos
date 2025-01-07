@@ -3,15 +3,26 @@ import '@src/styles/styling-vars.css';
 ---
 
 <footer>
-	<p>List of all designs: <a href="design-list">design-list</a></p>
-	<p>Sources of Catalos: <a href="https://github.com/charlyoleg2/catalos">Github</a></p>
-	<p>
-		Catalos is a catalogue of designs made with: <a
-			href="https://charlyoleg2.github.io/parametrix/">Parametrix</a
-		>
-	</p>
-	<p>Made with: <a href="https://astro.build/">Astro</a></p>
-	<p>Online STEP viewer: <a href="https://stepbro.vercel.app/">stepbro</a></p>
+	<article>
+		<ol>
+			<li>List of all designs: <a href="design-list">design-list</a></li>
+			<li>Sources of Catalos: <a href="https://github.com/charlyoleg2/catalos">Github</a></li>
+			<li>
+				Catalos is a catalogue of designs made with: <a
+					href="https://charlyoleg2.github.io/parametrix/">Parametrix</a
+				>
+			</li>
+			<li>Made with: <a href="https://astro.build/">Astro</a></li>
+		</ol>
+	</article>
+	<article>
+		<ol>
+			<li>Online STEP viewer: <a href="https://stepbro.vercel.app/">stepbro</a></li>
+			<li>
+				Online STL viewer: <a href="https://stl-viewer.dualbox.com/">DualBox STL viewer</a>
+			</li>
+		</ol>
+	</article>
 </footer>
 
 <style>
@@ -24,8 +35,12 @@ import '@src/styles/styling-vars.css';
 		padding-top: 1rem;
 		padding-bottom: 5rem;
 		margin-top: 10rem;
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: space-between;
+		align-items: flex-start;
 	}
-	p {
+	li {
 		color: var(--c2w);
 		margin: 0.4rem 4rem;
 	}
