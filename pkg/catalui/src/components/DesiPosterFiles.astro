@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import { renameExt, selectFileTable } from '@src/lib/fileExt.ts';
 import '@src/styles/styling-vars.css';
 
 interface Props {
@@ -24,22 +25,27 @@ const { design } = Astro.props;
 		</thead>
 		<tbody>
 			{
-				design.data.files.map((item) => (
-					<tr>
-						<td>{item.fileName}</td>
-						<td>{item.fileType}</td>
-						<td>{item.fileSize}</td>
-						<td>
-							<a href={`u/${design.id}/${item.fileName}`}>raw</a>
-						</td>
-						<td>view</td>
-						<td>
-							<a href={`u/${design.id}/${item.fileName}`} download={item.fileName}>
-								download
-							</a>
-						</td>
-					</tr>
-				))
+				design.data.files
+					.filter((item) => selectFileTable(item.fileType))
+					.map((item) => (
+						<tr>
+							<td>{item.fileName}</td>
+							<td>{renameExt(item.fileType)}</td>
+							<td>{item.fileSize}</td>
+							<td class="rvd">
+								<a href={`u/${design.id}/${item.fileName}`}>raw</a>
+							</td>
+							<td class="rvd">view</td>
+							<td class="rvd">
+								<a
+									href={`u/${design.id}/${item.fileName}`}
+									download={item.fileName}
+								>
+									download
+								</a>
+							</td>
+						</tr>
+					))
 			}
 		</tbody>
 	</table>
@@ -52,5 +58,8 @@ const { design } = Astro.props;
 	th,
 	td {
 		padding: 0.2rem 2rem;
+	}
+	td.rvd {
+		padding: 0.2rem 0.5rem;
 	}
 </style>
