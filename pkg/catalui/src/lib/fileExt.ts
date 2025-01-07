@@ -8,7 +8,7 @@ function renameExt(iExt: string): string {
 		rExt = `1-log- ${iExt}`;
 	} else if (['svg', 'dxf'].includes(iExt)) {
 		rExt = `2d- ${iExt}`;
-	} else if (['step', 'stl', 'brep', 'glb', '3mf'].includes(iExt)) {
+	} else if (['step', 'stp', 'iges', 'igs', 'stl', 'brep', 'glb', '3mf'].includes(iExt)) {
 		rExt = `3d- ${iExt}`;
 	} else if (['paxJson'].includes(iExt)) {
 		rExt = `4-pax- ${iExt}`;
@@ -25,7 +25,7 @@ function selectFileTable(iExt: string): boolean {
 
 function selectFileVignette(iExt: string): boolean {
 	let rSelect = false;
-	if (['image', 'svg'].includes(iExt)) {
+	if (['image', 'svg', 'stl'].includes(iExt)) {
 		rSelect = true;
 	}
 	return rSelect;

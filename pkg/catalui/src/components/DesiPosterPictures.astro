@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import { selectFileVignette } from '@src/lib/fileExt.ts';
 import '@src/styles/styling-vars.css';
 
 interface Props {
@@ -10,7 +11,11 @@ const { design } = Astro.props;
 ---
 
 <article>
-	{design.data.files.map((item) => <div class="vignette">{item.fileSize}</div>)}
+	{
+		design.data.files
+			.filter((item) => selectFileVignette(item.fileType))
+			.map((item) => <div class="vignette">{item.fileSize}</div>)
+	}
 </article>
 
 <style>
