@@ -11,6 +11,7 @@ const { design } = Astro.props;
 ---
 
 <article>
+<action-table>
 	<table>
 		<caption>Design files</caption>
 		<thead>
@@ -49,7 +50,12 @@ const { design } = Astro.props;
 			}
 		</tbody>
 	</table>
+</action-table>
 </article>
+
+<script>
+
+</script>
 
 <style>
 	table > tbody > tr:nth-child(odd) {
