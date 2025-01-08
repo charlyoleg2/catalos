@@ -11,51 +11,53 @@ const { design } = Astro.props;
 ---
 
 <article>
-<action-table>
-	<table>
-		<caption>Design files</caption>
-		<thead>
-			<tr>
-				<th>File</th>
-				<th>Type</th>
-				<th>Size</th>
-				<th></th>
-				<th></th>
-				<th></th>
-			</tr>
-		</thead>
-		<tbody>
-			{
-				design.data.files
-					.filter((item) => selectFileTable(item.fileType))
-					.map((item) => (
-						<tr>
-							<td>{item.fileName}</td>
-							<td>{renameExt(item.fileType)}</td>
-							<td>{item.fileSize}</td>
-							<td class="rvd">
-								<a href={`u/${design.id}/${item.fileName}`}>raw</a>
-							</td>
-							<td class="rvd">view</td>
-							<td class="rvd">
-								<a
-									href={`u/${design.id}/${item.fileName}`}
-									download={item.fileName}
-								>
-									download
-								</a>
-							</td>
-						</tr>
-					))
-			}
-		</tbody>
-	</table>
-</action-table>
+	<action-table sort="Type">
+		<table>
+			<caption>Design files</caption>
+			<thead>
+				<tr>
+					<th>File</th>
+					<th>Type</th>
+					<th>Size</th>
+					<th no-sort></th>
+					<th no-sort></th>
+					<th no-sort></th>
+				</tr>
+			</thead>
+			<tbody>
+				{
+					design.data.files
+						.filter((item) => selectFileTable(item.fileType))
+						.map((item) => (
+							<tr>
+								<td>{item.fileName}</td>
+								<td>{renameExt(item.fileType)}</td>
+								<td>{item.fileSize}</td>
+								<td class="rvd">
+									<a href={`u/${design.id}/${item.fileName}`}>raw</a>
+								</td>
+								<td class="rvd">view</td>
+								<td class="rvd">
+									<a
+										href={`u/${design.id}/${item.fileName}`}
+										download={item.fileName}
+									>
+										download
+									</a>
+								</td>
+							</tr>
+						))
+				}
+			</tbody>
+		</table>
+	</action-table>
 </article>
 
-<script>
-
-</script>
+<script type="module" src="https://unpkg.com/@colinaut/action-table/dist/index.js" is:inline
+></script>
+<!-- optional: <script type="module" src="https://unpkg.com/@colinaut/action-table/dist/action-table-switch.js"></script> -->
+<link rel="stylesheet" href="https://unpkg.com/@colinaut/action-table/dist/action-table.css" />
+<!-- script></script -->
 
 <style>
 	table > tbody > tr:nth-child(odd) {
