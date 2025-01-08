@@ -2,6 +2,7 @@
 import type { CollectionEntry } from 'astro:content';
 import { renameExt, selectFileTable } from '@src/lib/fileExt.ts';
 import '@src/styles/styling-vars.css';
+import '@colinaut/action-table/dist/action-table.css';
 
 interface Props {
 	design: CollectionEntry<'designs'>;
@@ -53,16 +54,26 @@ const { design } = Astro.props;
 	</action-table>
 </article>
 
-<script type="module" src="https://unpkg.com/@colinaut/action-table/dist/index.js" is:inline
-></script>
-<!-- optional: <script type="module" src="https://unpkg.com/@colinaut/action-table/dist/action-table-switch.js"></script> -->
-<link rel="stylesheet" href="https://unpkg.com/@colinaut/action-table/dist/action-table.css" />
-<!-- script></script -->
+<script>
+	import '@colinaut/action-table';
+</script>
 
 <style>
+	table > caption {
+		color: var(--cLight);
+		background-color: var(--c3w);
+	}
 	table > tbody > tr:nth-child(odd) {
 		background-color: var(--c4w);
 	}
+	table > tbody > tr:nth-child(even) {
+		background-color: var(--c5b);
+	}
+	/*
+	table > tbody > tr.sorted:nth-child(even) {
+		background-color: var(--cLight);
+	}
+	*/
 	th,
 	td {
 		padding: 0.2rem 2rem;
