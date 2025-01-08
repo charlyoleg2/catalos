@@ -36,7 +36,9 @@ const { design } = Astro.props;
 								<td class="rvd">
 									<a href={`u/${design.id}/${item.fileName}`}>raw</a>
 								</td>
-								<td class="rvd">view</td>
+								<td class="rvd">
+									<button class="bview">view</button>
+								</td>
 								<td class="rvd">
 									<a
 										href={`u/${design.id}/${item.fileName}`}
@@ -52,11 +54,24 @@ const { design } = Astro.props;
 		</table>
 	</action-table>
 </article>
+<dialog id="dBview"><div></div><button class="bback">close - back - escape</button></dialog>
 
 <script>
 	//import '@colinaut/action-table';
 	import '@colinaut/action-table/dist/action-table.js';
 	import '@colinaut/action-table/dist/action-table.css';
+
+	const dialogBview = document.querySelector('dialog#dBview') as HTMLDialogElement;
+	const buttonBback = document.querySelector('dialog#dBview > button.bback') as HTMLButtonElement;
+	const buttonBviews = document.querySelectorAll('button.bview');
+	buttonBback.addEventListener('click', () => {
+		dialogBview.close();
+	});
+	buttonBviews.forEach((iButton) =>
+		iButton.addEventListener('click', () => {
+			dialogBview.showModal();
+		})
+	);
 </script>
 
 <style>
@@ -81,5 +96,36 @@ const { design } = Astro.props;
 	}
 	td.rvd {
 		padding: 0.2rem 0.5rem;
+	}
+	button.bview {
+		background-color: transparent;
+		border: none;
+		outline: none;
+	}
+	dialog#dBview {
+		display: none;
+	}
+	dialog#dBview[open] {
+		display: block;
+	}
+	dialog#dBview::backdrop {
+		background-color: rgba(0, 0, 0, 0.4);
+	}
+	dialog#dBview > div {
+		display: block;
+		background-color: grey;
+		width: 80vw;
+		height: 70vh;
+		margin: 0;
+	}
+	dialog#dBview > button.bback {
+		display: block;
+		color: white;
+		background-color: black;
+		border: none;
+		outline: none;
+		width: 100%;
+		height: 2rem;
+		margin: 1rem 0 0 0;
 	}
 </style>
