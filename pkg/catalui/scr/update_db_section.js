@@ -116,7 +116,7 @@ async function compareFiles(iFile1, iFile2) {
 	if (!(await fs.pathExists(iFile2))) {
 		return rDiff;
 	} else if (!(await fs.stat(iFile2)).isFile()) {
-		throw `err288: ${iFile2} exsits but is not a file`;
+		throw `ERR288: ${iFile2} exsits but is not a file`;
 		//return rDiff;
 	} else {
 		// TODO: improve memory usage with readStream
@@ -280,8 +280,10 @@ async function update_one_design(iDir, iDest, iCleanNonExistingFiles) {
 				const [objF, oneUpdated] = await oneFile(iFile, objDesi, dName, iDest);
 				nFiles.push(objF);
 				filesUpdated |= oneUpdated;
-			} else {
+			} else if (['.exampleExtWarn'].includes(fExtname)) {
 				console.log(`warn493: ${fBasename} with extension ${fExtname} is ignored!`);
+			} else {
+				throw `ERR393: ${fBasename} with extension unknown ${fExtname}`;
 			}
 		} else {
 			console.log(`warn494: ${iFile} is ignored!`);
@@ -328,6 +330,7 @@ async function inspect_designs(iOrig, iDest, iCleanNonExistingFiles) {
 	} catch (err) {
 		console.log('ERR643: Error while generating designs');
 		console.log(err);
+		process.exit(1);
 	}
 	console.log(
 		`info439: from ${dOrig} update_db_section.js has created or updated ${cntDesi} designs in ${dDest}`
