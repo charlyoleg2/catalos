@@ -67,13 +67,19 @@ const { design } = Astro.props;
 	import '@colinaut/action-table/dist/action-table.js';
 	import '@colinaut/action-table/dist/action-table.css';
 
+	import { urlStepViewer, urlStlViewer } from '@src/lib/viewer-url.ts';
+
 	const dialogBview = document.querySelector('dialog#dBview') as HTMLDialogElement;
 	const buttonBback = document.querySelector('dialog#dBview > button.bback') as HTMLButtonElement;
 	const buttonBviews = document.querySelectorAll('button.bview');
 
 	function actionView(dfUrl: string, dfType: string) {
 		//console.log(`dbg341: dfUrl: ${dfUrl} dfType: ${dfType}`);
-		if (['txtLog'].includes(dfType)) {
+		if (['step', 'stp'].includes(dfType)) {
+			window.open(urlStepViewer);
+		} else if (['stl'].includes(dfType)) {
+			window.open(urlStlViewer);
+		} else if (['txtLog'].includes(dfType)) {
 			window.open(dfUrl);
 		} else {
 			dialogBview.showModal();

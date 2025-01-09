@@ -1,5 +1,12 @@
 ---
-import { urlStepViewer, urlStlViewer } from '@src/lib/viewer-url.ts';
+import {
+	urlStepViewer,
+	urlStlViewer,
+	urlGltfViewer,
+	urlGlbViewer,
+	url3dViewer,
+	urlCadViewer,
+} from '@src/lib/viewer-url.ts';
 import '@src/styles/styling-vars.css';
 ---
 
@@ -19,9 +26,11 @@ import '@src/styles/styling-vars.css';
 	<article>
 		<ol>
 			<li>Online STEP viewer: <a href={urlStepViewer}>stepbro</a></li>
-			<li>
-				Online STL viewer: <a href={urlStlViewer}>DualBox STL viewer</a>
-			</li>
+			<li>Online STL viewer: <a href={urlStlViewer}>DualBox STL viewer</a></li>
+			<li>Online glTF viewer: <a href={urlGltfViewer}>glTF viewer</a></li>
+			<li>Online GLB viewer: <a href={urlGlbViewer}>web3d.be</a></li>
+			<li>Online 3D viewer: <a href={url3dViewer}>3dviewer.net</a></li>
+			<li>Online CAD viewer: <a href={urlCadViewer}>sharecad.org</a></li>
 		</ol>
 	</article>
 </footer>
