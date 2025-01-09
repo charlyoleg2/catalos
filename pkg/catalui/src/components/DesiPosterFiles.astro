@@ -88,9 +88,23 @@ const { design } = Astro.props;
 	function cleanDiv() {
 		removeAllChilds(dialogBdiv);
 	}
-	function addTxt(dfUrl: string) {
+	async function addTxt(dfUrl: string) {
 		cleanDiv();
-		console.log(`dbg649: addTxt with dfUrl: ${dfUrl}`);
+		//console.log(`dbg649: addTxt with dfUrl: ${dfUrl}`);
+		const elemTextarea = document.createElement('textarea');
+		dialogBdiv.appendChild(elemTextarea);
+		elemTextarea.setAttribute('readonly', '');
+		elemTextarea.style.display = 'block';
+		elemTextarea.style.width = '100%';
+		elemTextarea.style.height = '100%';
+		elemTextarea.style.backgroundColor = 'Pink';
+		elemTextarea.style.color = 'DarkBlue';
+		elemTextarea.style.resize = 'none';
+		const resp = await fetch(dfUrl);
+		if (resp.ok) {
+			const txt = await resp.text();
+			elemTextarea.value = txt;
+		}
 		dialogBview.showModal();
 	}
 	function addSvg(dfUrl: string) {
