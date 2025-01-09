@@ -18,7 +18,7 @@ const { design } = Astro.props;
 				<tr>
 					<th>File</th>
 					<th>Type</th>
-					<th>Size</th>
+					<th>Size (Bytes)</th>
 					<th no-sort></th>
 					<th no-sort></th>
 					<th no-sort></th>
@@ -32,7 +32,7 @@ const { design } = Astro.props;
 							<tr>
 								<td>{item.fileName}</td>
 								<td>{renameExt(item.fileType)}</td>
-								<td>{item.fileSize}</td>
+								<td class="taright">{item.fileSize}</td>
 								<td class="rvd">
 									<a href={`u/${design.id}/${item.fileName}`}>raw</a>
 								</td>
@@ -179,9 +179,14 @@ const { design } = Astro.props;
 		background-color: var(--cLight);
 	}
 	*/
-	th,
+	th {
+		padding: 0.2rem 1rem;
+	}
 	td {
 		padding: 0.2rem 2rem;
+	}
+	td.taright {
+		text-align: right;
 	}
 	td.rvd {
 		padding: 0.2rem 0.5rem;
