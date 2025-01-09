@@ -39,7 +39,7 @@ const { design } = Astro.props;
 								<td class="rvd">
 									<button
 										class="bview"
-										data-dfname={`u/${design.id}/${item.fileName}`}
+										data-dfurl={`u/${design.id}/${item.fileName}`}
 										data-dftype={item.fileType}
 									>
 										view
@@ -70,15 +70,26 @@ const { design } = Astro.props;
 	const dialogBview = document.querySelector('dialog#dBview') as HTMLDialogElement;
 	const buttonBback = document.querySelector('dialog#dBview > button.bback') as HTMLButtonElement;
 	const buttonBviews = document.querySelectorAll('button.bview');
+
+	function actionView(dfUrl: string, dfType: string) {
+		//console.log(`dbg341: dfUrl: ${dfUrl} dfType: ${dfType}`);
+		if (['txtLog'].includes(dfType)) {
+			window.open(dfUrl);
+		} else {
+			dialogBview.showModal();
+		}
+	}
+
 	buttonBback.addEventListener('click', () => {
 		dialogBview.close();
 	});
 	(buttonBviews as NodeListOf<HTMLElement>).forEach((iButton) =>
 		iButton.addEventListener('click', () => {
-			console.log(
-				`dbg123: dfName: ${iButton.dataset.dfname} dfType: ${iButton.dataset.dftype}`
-			);
-			dialogBview.showModal();
+			const dfUrl = iButton.dataset.dfurl as string;
+			const dfType = iButton.dataset.dftype as string;
+			//console.log(`dbg123: dfUrl: ${dfUrl} dfType: ${dfType}`);
+			actionView(dfUrl, dfType);
+			//dialogBview.showModal();
 		})
 	);
 </script>
