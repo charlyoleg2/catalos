@@ -67,27 +67,75 @@ const { design } = Astro.props;
 	import '@colinaut/action-table/dist/action-table.js';
 	import '@colinaut/action-table/dist/action-table.css';
 
-	import { urlStepViewer, urlStlViewer } from '@src/lib/viewer-url.ts';
+	import {
+		urlStepViewer,
+		urlStlViewer,
+		urlGlbViewer,
+		urlCadViewer,
+		url3dViewer,
+	} from '@src/lib/viewer-url.ts';
 
 	const dialogBview = document.querySelector('dialog#dBview') as HTMLDialogElement;
+	const dialogBdiv = document.querySelector('dialog#dBview > div') as HTMLDivElement;
 	const buttonBback = document.querySelector('dialog#dBview > button.bback') as HTMLButtonElement;
 	const buttonBviews = document.querySelectorAll('button.bview');
 
+	function removeAllChilds(parentElem: HTMLElement) {
+		while (parentElem.firstChild) {
+			parentElem.removeChild(parentElem.firstChild);
+		}
+	}
+	function cleanDiv() {
+		removeAllChilds(dialogBdiv);
+	}
+	function addTxt(dfUrl: string) {
+		cleanDiv();
+		console.log(`dbg649: addTxt with dfUrl: ${dfUrl}`);
+		dialogBview.showModal();
+	}
+	function addSvg(dfUrl: string) {
+		cleanDiv();
+		console.log(`dbg648: addSvg with dfUrl: ${dfUrl}`);
+		dialogBview.showModal();
+	}
+	function addDxf(dfUrl: string) {
+		cleanDiv();
+		console.log(`dbg647: addDxf with dfUrl: ${dfUrl}`);
+		dialogBview.showModal();
+	}
 	function actionView(dfUrl: string, dfType: string) {
 		//console.log(`dbg341: dfUrl: ${dfUrl} dfType: ${dfType}`);
 		if (['step', 'stp'].includes(dfType)) {
 			window.open(urlStepViewer);
 		} else if (['stl'].includes(dfType)) {
 			window.open(urlStlViewer);
-		} else if (['txtLog'].includes(dfType)) {
-			window.open(dfUrl);
+		} else if (['glb'].includes(dfType)) {
+			window.open(urlGlbViewer);
+		} else if (['brep'].includes(dfType)) {
+			window.open(urlCadViewer);
+		} else if (['iges', 'igs', '3mf'].includes(dfType)) {
+			window.open(url3dViewer);
+		} else if (
+			['pxJson', 'txtLog', 'paxJson', 'jsCad', 'jsManifold', 'scad', 'pyFreecad'].includes(
+				dfType
+			)
+		) {
+			//window.open(dfUrl);
+			//cleanDiv();
+			addTxt(dfUrl);
+			//dialogBview.showModal();
+		} else if (['svg'].includes(dfType)) {
+			addSvg(dfUrl);
+		} else if (['dxf'].includes(dfType)) {
+			addDxf(dfUrl);
 		} else {
-			dialogBview.showModal();
+			console.log(`dbg722: the viewer of dfType ${dfType} is not defined`);
 		}
 	}
 
 	buttonBback.addEventListener('click', () => {
 		dialogBview.close();
+		cleanDiv();
 	});
 	(buttonBviews as NodeListOf<HTMLElement>).forEach((iButton) =>
 		iButton.addEventListener('click', () => {
