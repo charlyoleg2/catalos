@@ -37,7 +37,13 @@ const { design } = Astro.props;
 									<a href={`u/${design.id}/${item.fileName}`}>raw</a>
 								</td>
 								<td class="rvd">
-									<button class="bview">view</button>
+									<button
+										class="bview"
+										data-dfname={`u/${design.id}/${item.fileName}`}
+										data-dftype={item.fileType}
+									>
+										view
+									</button>
 								</td>
 								<td class="rvd">
 									<a
@@ -67,8 +73,11 @@ const { design } = Astro.props;
 	buttonBback.addEventListener('click', () => {
 		dialogBview.close();
 	});
-	buttonBviews.forEach((iButton) =>
+	(buttonBviews as NodeListOf<HTMLElement>).forEach((iButton) =>
 		iButton.addEventListener('click', () => {
+			console.log(
+				`dbg123: dfName: ${iButton.dataset.dfname} dfType: ${iButton.dataset.dftype}`
+			);
 			dialogBview.showModal();
 		})
 	);
