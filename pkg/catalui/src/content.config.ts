@@ -59,8 +59,7 @@ const designs = defineCollection({
 			z.object({
 				fileName: z.string(),
 				fileType: z.enum([
-					'png',
-					'jpg',
+					'image',
 					'pxJson',
 					'paxJson',
 					'dxf',
@@ -68,6 +67,9 @@ const designs = defineCollection({
 					'stl',
 					'brep',
 					'step',
+					'stp',
+					'iges',
+					'igs',
 					'glb',
 					'3mf',
 					'txtLog',
