@@ -152,7 +152,8 @@ const { design } = Astro.props;
 		} else if (['svg'].includes(dfType)) {
 			addSvg(dfUrl);
 		} else if (['dxf'].includes(dfType)) {
-			const dxfUrl = `${urlDxfViewer}?file=${dfUrl}`;
+			//const dxfUrl = `${urlDxfViewer}?file=${dfUrl}`;
+			const dxfUrl = `${urlDxfViewer}`;
 			window.open(dxfUrl);
 		} else {
 			console.log(`dbg722: the viewer of dfType ${dfType} is not defined`);
