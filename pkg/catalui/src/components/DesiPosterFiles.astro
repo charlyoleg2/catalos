@@ -68,6 +68,7 @@ const { design } = Astro.props;
 	import '@colinaut/action-table/dist/action-table.css';
 
 	import {
+		urlDxfViewer,
 		urlStepViewer,
 		urlStlViewer,
 		urlGlbViewer,
@@ -113,11 +114,11 @@ const { design } = Astro.props;
 		console.log(`dbg648: addSvg with dfUrl: ${dfUrl}`);
 		dialogBview.showModal();
 	}
-	function addDxf(dfUrl: string) {
-		cleanDiv();
-		console.log(`dbg647: addDxf with dfUrl: ${dfUrl}`);
-		dialogBview.showModal();
-	}
+	//function addDxf(dfUrl: string) {
+	//	cleanDiv();
+	//	console.log(`dbg647: addDxf with dfUrl: ${dfUrl}`);
+	//	dialogBview.showModal();
+	//}
 	function actionView(dfUrl: string, dfType: string) {
 		//console.log(`dbg341: dfUrl: ${dfUrl} dfType: ${dfType}`);
 		if (['step', 'stp'].includes(dfType)) {
@@ -142,7 +143,8 @@ const { design } = Astro.props;
 		} else if (['svg'].includes(dfType)) {
 			addSvg(dfUrl);
 		} else if (['dxf'].includes(dfType)) {
-			addDxf(dfUrl);
+			const dxfUrl = `${urlDxfViewer}?file=${dfUrl}`;
+			window.open(dxfUrl);
 		} else {
 			console.log(`dbg722: the viewer of dfType ${dfType} is not defined`);
 		}
