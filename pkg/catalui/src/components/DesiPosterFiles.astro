@@ -111,7 +111,14 @@ const { design } = Astro.props;
 	}
 	function addSvg(dfUrl: string) {
 		cleanDiv();
-		console.log(`dbg648: addSvg with dfUrl: ${dfUrl}`);
+		//console.log(`dbg648: addSvg with dfUrl: ${dfUrl}`);
+		const elemImg = document.createElement('img');
+		dialogBdiv.appendChild(elemImg);
+		elemImg.setAttribute('src', dfUrl);
+		elemImg.setAttribute('alt', dfUrl);
+		//elemImg.style.display = 'block';
+		elemImg.style.width = '100%';
+		elemImg.style.height = '100%';
 		dialogBview.showModal();
 	}
 	//function addDxf(dfUrl: string) {
