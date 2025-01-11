@@ -14,16 +14,86 @@ const { design } = Astro.props;
 	{
 		design.data.files
 			.filter((item) => selectFileVignette(item.fileType))
-			.map((item) => <div class="vignette">{item.fileSize}</div>)
+			.map((item) => (<img alt={`u/${design.id}/${item.fileName}`} src={`u/${design.id}/${item.fileName}`} class="vignette"></img>))
 	}
 </article>
+<dialog id="dCview"><div></div><button class="bback">close - back - escape</button></dialog>
+
+<script>
+	const dialogCview = document.querySelector('dialog#dCview') as HTMLDialogElement;
+	const dialogCdiv = document.querySelector('dialog#dCview > div') as HTMLDivElement;
+	const buttonCback = document.querySelector('dialog#dcview > button.bback') as HTMLButtonElement;
+	const imgVignettes = document.querySelectorAll('img.vignette');
+
+	function removeAllChilds(parentElem: HTMLElement) {
+		while (parentElem.firstChild) {
+			parentElem.removeChild(parentElem.firstChild);
+		}
+	}
+	function cleanDiv() {
+		removeAllChilds(dialogCdiv);
+	}
+	function addSvg(dfUrl: string) {
+		cleanDiv();
+		//console.log(`dbg648: addSvg with dfUrl: ${dfUrl}`);
+		const elemImg = document.createElement('img');
+		dialogBdiv.appendChild(elemImg);
+		elemImg.setAttribute('src', dfUrl);
+		elemImg.setAttribute('alt', dfUrl);
+		//elemImg.style.display = 'block';
+		elemImg.style.width = '100%';
+		elemImg.style.height = '100%';
+		elemImg.style.backgroundColor = 'Yellow';
+		//elemImg.style.color = 'DarkBlue';
+		dialogBview.showModal();
+	}
+
+	buttonCback.addEventListener('click', () => {
+		dialogCview.close();
+		cleanDiv();
+	});
+	(imgVignettes as NodeListOf<HTMLElement>).forEach((iVignette) =>
+		iVignette.addEventListener('click', () => {
+			const dfUrl = iVignette.src;
+			//console.log(`dbg123: dfUrl: ${dfUrl}`);
+			addSvg(dfUrl);
+			//dialogBview.showModal();
+		})
+	);
+</script>
 
 <style>
-	div.vignette {
+	img.vignette {
 		display: inline-block;
 		width: 8rem;
 		height: 8rem;
 		margin: 0.5rem 1rem;
 		background-color: var(--c2w);
+	}
+	dialog#dCview {
+		display: none;
+	}
+	dialog#dCview[open] {
+		display: block;
+	}
+	dialog#dCview::backdrop {
+		background-color: rgba(0, 0, 0, 0.4);
+	}
+	dialog#dCview > div {
+		display: block;
+		background-color: grey;
+		width: 80vw;
+		height: 70vh;
+		margin: 0;
+	}
+	dialog#dCview > button.bback {
+		display: block;
+		color: white;
+		background-color: black;
+		border: none;
+		outline: none;
+		width: 100%;
+		height: 2rem;
+		margin: 1rem 0 0 0;
 	}
 </style>

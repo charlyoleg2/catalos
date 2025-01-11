@@ -25,7 +25,7 @@ function selectFileTable(iExt: string): boolean {
 
 function selectFileVignette(iExt: string): boolean {
 	let rSelect = false;
-	if (['image', 'svg', 'stl'].includes(iExt)) {
+	if (['image', 'svg'].includes(iExt)) {
 		rSelect = true;
 	}
 	return rSelect;
