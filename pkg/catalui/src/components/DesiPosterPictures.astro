@@ -14,7 +14,13 @@ const { design } = Astro.props;
 	{
 		design.data.files
 			.filter((item) => selectFileVignette(item.fileType))
-			.map((item) => (<img alt={`u/${design.id}/${item.fileName}`} src={`u/${design.id}/${item.fileName}`} class="vignette"></img>))
+			.map((item) => (
+				<img
+					alt={`u/${design.id}/${item.fileName}`}
+					src={`u/${design.id}/${item.fileName}`}
+					class="vignette"
+				/>
+			))
 	}
 </article>
 <dialog id="dCview"><div></div><button class="bback">close - back - escape</button></dialog>
@@ -37,7 +43,7 @@ const { design } = Astro.props;
 		cleanDiv();
 		//console.log(`dbg648: addSvg with dfUrl: ${dfUrl}`);
 		const elemImg = document.createElement('img');
-		dialogBdiv.appendChild(elemImg);
+		dialogCdiv.appendChild(elemImg);
 		elemImg.setAttribute('src', dfUrl);
 		elemImg.setAttribute('alt', dfUrl);
 		//elemImg.style.display = 'block';
@@ -45,19 +51,19 @@ const { design } = Astro.props;
 		elemImg.style.height = '100%';
 		elemImg.style.backgroundColor = 'Yellow';
 		//elemImg.style.color = 'DarkBlue';
-		dialogBview.showModal();
+		dialogCview.showModal();
 	}
 
 	buttonCback.addEventListener('click', () => {
 		dialogCview.close();
 		cleanDiv();
 	});
-	(imgVignettes as NodeListOf<HTMLElement>).forEach((iVignette) =>
+	(imgVignettes as NodeListOf<HTMLImageElement>).forEach((iVignette) =>
 		iVignette.addEventListener('click', () => {
 			const dfUrl = iVignette.src;
 			//console.log(`dbg123: dfUrl: ${dfUrl}`);
 			addSvg(dfUrl);
-			//dialogBview.showModal();
+			//dialogCview.showModal();
 		})
 	);
 </script>
@@ -68,7 +74,7 @@ const { design } = Astro.props;
 		width: 8rem;
 		height: 8rem;
 		margin: 0.5rem 1rem;
-		background-color: var(--c2w);
+		background-color: var(--cLight);
 	}
 	dialog#dCview {
 		display: none;
