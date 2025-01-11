@@ -28,7 +28,7 @@ const { design } = Astro.props;
 <script>
 	const dialogCview = document.querySelector('dialog#dCview') as HTMLDialogElement;
 	const dialogCdiv = document.querySelector('dialog#dCview > div') as HTMLDivElement;
-	const buttonCback = document.querySelector('dialog#dcview > button.bback') as HTMLButtonElement;
+	const buttonCback = document.querySelector('dialog#dCview > button.bback') as HTMLButtonElement;
 	const imgVignettes = document.querySelectorAll('img.vignette');
 
 	function removeAllChilds(parentElem: HTMLElement) {
@@ -60,7 +60,8 @@ const { design } = Astro.props;
 	});
 	(imgVignettes as NodeListOf<HTMLImageElement>).forEach((iVignette) =>
 		iVignette.addEventListener('click', () => {
-			const dfUrl = iVignette.src;
+			//const dfUrl = iVignette.src;
+			const dfUrl = iVignette.getAttribute('src') as string;
 			//console.log(`dbg123: dfUrl: ${dfUrl}`);
 			addSvg(dfUrl);
 			//dialogCview.showModal();
