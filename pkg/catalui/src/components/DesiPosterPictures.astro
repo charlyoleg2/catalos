@@ -8,26 +8,37 @@ interface Props {
 }
 
 const { design } = Astro.props;
+
+const imgL = imageList(design).map((item) => `u/${design.id}/${item.fileName}`);
 ---
 
 <article>
-	{
-		imageList(design).map((item) => (
-			<img
-				alt={`u/${design.id}/${item.fileName}`}
-				src={`u/${design.id}/${item.fileName}`}
-				class="vignette"
-			/>
-		))
-	}
+	{imgL.map((item, idx) => <img alt={item} src={item} class="vignette" data-idx={idx} />)}
 </article>
-<dialog id="dCview"><div></div><button class="bback">close - back - escape</button></dialog>
+<dialog id="dCview" data-imgl={JSON.stringify(imgL)}>
+	<section>
+		<button id="bPrev" class="cside">&lt;</button>
+		<div></div>
+		<button id="bNext" class="cside">&gt;</button>
+	</section>
+	<button class="cback">close - back - escape</button>
+</dialog>
 
 <script>
 	const dialogCview = document.querySelector('dialog#dCview') as HTMLDialogElement;
-	const dialogCdiv = document.querySelector('dialog#dCview > div') as HTMLDivElement;
-	const buttonCback = document.querySelector('dialog#dCview > button.bback') as HTMLButtonElement;
+	const dialogCdiv = document.querySelector('dialog#dCview > section > div') as HTMLDivElement;
+	const buttonCback = document.querySelector('dialog#dCview > button.cback') as HTMLButtonElement;
+	const buttonPrev = document.querySelector(
+		'dialog#dCview > section > button#bPrev'
+	) as HTMLButtonElement;
+	const buttonNext = document.querySelector(
+		'dialog#dCview > section > button#bNext'
+	) as HTMLButtonElement;
 	const imgVignettes = document.querySelectorAll('img.vignette');
+	const imgList = JSON.parse(dialogCview.dataset.imgl || '[]');
+
+	let imgIdx = 0;
+	let elemImg: HTMLImageElement;
 
 	function removeAllChilds(parentElem: HTMLElement) {
 		while (parentElem.firstChild) {
@@ -40,7 +51,7 @@ const { design } = Astro.props;
 	function addSvg(dfUrl: string) {
 		cleanDiv();
 		//console.log(`dbg648: addSvg with dfUrl: ${dfUrl}`);
-		const elemImg = document.createElement('img');
+		elemImg = document.createElement('img');
 		dialogCdiv.appendChild(elemImg);
 		elemImg.setAttribute('src', dfUrl);
 		elemImg.setAttribute('alt', dfUrl);
@@ -57,12 +68,36 @@ const { design } = Astro.props;
 		dialogCview.close();
 		cleanDiv();
 	});
+	buttonPrev.addEventListener('click', () => {
+		if (imgIdx > 0 && elemImg) {
+			imgIdx -= 1;
+			if (imgList) {
+				const dfUrl = imgList[imgIdx];
+				elemImg.setAttribute('src', dfUrl);
+				elemImg.setAttribute('alt', dfUrl);
+			}
+		}
+	});
+	buttonNext.addEventListener('click', () => {
+		if (imgList && elemImg) {
+			if (imgIdx < imgList.length - 1) {
+				imgIdx += 1;
+				const dfUrl = imgList[imgIdx];
+				elemImg.setAttribute('src', dfUrl);
+				elemImg.setAttribute('alt', dfUrl);
+			}
+		}
+	});
 	(imgVignettes as NodeListOf<HTMLImageElement>).forEach((iVignette) =>
 		iVignette.addEventListener('click', () => {
 			//const dfUrl = iVignette.src;
-			const dfUrl = iVignette.getAttribute('src') as string;
+			//const dfUrl = iVignette.getAttribute('src') as string;
 			//console.log(`dbg123: dfUrl: ${dfUrl}`);
-			addSvg(dfUrl);
+			const dfIdx = parseInt(iVignette.dataset.idx || '0');
+			imgIdx = dfIdx;
+			if (imgList) {
+				addSvg(imgList[dfIdx]);
+			}
 			//dialogCview.showModal();
 		})
 	);
@@ -86,14 +121,32 @@ const { design } = Astro.props;
 	dialog#dCview::backdrop {
 		background-color: rgba(0, 0, 0, 0.4);
 	}
-	dialog#dCview > div {
+	dialog#dCview > section {
+		display: flex;
+		flex-flow: row nowrap;
+		align-items: flex-start;
+		justify-content: space-around;
+	}
+	dialog#dCview > section > button.cside {
+		display: block;
+		font-weight: bold;
+		font-size: 2rem;
+		color: white;
+		background-color: grey;
+		border: none;
+		outline: none;
+		width: 2rem;
+		height: 70vh;
+		margin: 0;
+	}
+	dialog#dCview > section > div {
 		display: block;
 		background-color: grey;
 		width: 80vw;
 		height: 70vh;
-		margin: 0;
+		margin: 0 0.2rem;
 	}
-	dialog#dCview > button.bback {
+	dialog#dCview > button.cback {
 		display: block;
 		color: white;
 		background-color: black;
@@ -101,6 +154,6 @@ const { design } = Astro.props;
 		outline: none;
 		width: 100%;
 		height: 2rem;
-		margin: 1rem 0 0 0;
+		margin: 0.2rem 0 0 0;
 	}
 </style>
