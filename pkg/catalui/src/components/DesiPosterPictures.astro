@@ -49,6 +49,7 @@ const { design } = Astro.props;
 		//elemImg.style.display = 'block';
 		elemImg.style.width = '100%';
 		elemImg.style.height = '100%';
+		elemImg.style.objectFit = 'contain';
 		elemImg.style.backgroundColor = 'Yellow';
 		//elemImg.style.color = 'DarkBlue';
 		dialogCview.showModal();
@@ -76,6 +77,7 @@ const { design } = Astro.props;
 		height: 8rem;
 		margin: 0.5rem 1rem;
 		background-color: var(--cLight);
+		object-fit: contain;
 	}
 	dialog#dCview {
 		display: none;
