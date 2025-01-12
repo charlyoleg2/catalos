@@ -33,7 +33,7 @@ async function copyFiles(iOrig, iDest) {
 			`${dOrig}/users/*.{svg,png,apng,avif,gif,jpeg,jpg,jfif,pjpeg,pjp,webp}`
 		);
 		for (const pavatar of avatars) {
-			const bname = path.basename(pavatar).toLowerCase();
+			const bname = path.basename(pavatar);
 			//console.log(bname);
 			//console.log(`copy svg,png,jpg: ${bname}`);
 			await fs.copy(`${dOrig}/users/${bname}`, `${dDest}/u/${bname}`);
@@ -41,7 +41,7 @@ async function copyFiles(iOrig, iDest) {
 		// copy designs
 		const users = await glob(`${dOrig}/users/*.yaml`);
 		for (const iUser of users) {
-			const bUser = path.basename(iUser, '.yaml').toLowerCase();
+			const bUser = path.basename(iUser, '.yaml');
 			const pUser = `${dOrig}/designs/${bUser}`;
 			if (await fs.pathExists(pUser)) {
 				if ((await fs.stat(pUser)).isDirectory()) {
@@ -50,7 +50,7 @@ async function copyFiles(iOrig, iDest) {
 					//cntDesi += 1;
 					const desis = await glob(`${pUser}/*`);
 					for (const iDesi of desis) {
-						const bDesi = path.basename(iDesi).toLowerCase();
+						const bDesi = path.basename(iDesi);
 						if ((await fs.stat(iDesi)).isDirectory()) {
 							console.log(`copy dir: ${bDesi}`);
 							await fs.copy(iDesi, `${dDest}/u/${bUser}/${bDesi}`);
