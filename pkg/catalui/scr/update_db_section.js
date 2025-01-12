@@ -254,6 +254,7 @@ async function chooseFiles(nFiles, objDesi, ddesi, dName, iCleanNonExistingFiles
 
 async function update_one_design(iDir, iDest, iCleanNonExistingFiles) {
 	const dNameUc = path.basename(iDir);
+	// lower-case design-name because Astro lower-case collections
 	const dName = dNameUc.toLowerCase();
 	const owner = path.basename(iDest);
 	if (dName !== dNameUc) {

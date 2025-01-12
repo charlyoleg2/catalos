@@ -20,6 +20,10 @@ async function readYaml(fyaml) {
 async function check_user(iUser) {
 	const rUser = path.basename(iUser, '.yaml');
 	let cntErr = 0;
+	if (rUser !== rUser.toLowerCase()) {
+		console.log(`err196: username ${rUser} contains upper-case`);
+		cntErr += 1;
+	}
 	const objUser = await readYaml(iUser);
 	const userDir = path.dirname(iUser);
 	if ('photoPath' in objUser) {
@@ -144,6 +148,10 @@ async function check_desi(iDesi, bUser2, iUpdate) {
 	}
 	const desiParent = path.dirname(iDesi);
 	const desiName = path.basename(iDesi, '.yaml');
+	if (desiName !== desiName.toLowerCase()) {
+		console.log(`err396: desiName ${desiName} contains upper-case`);
+		cntErr += 1;
+	}
 	const desiDir = path.join(desiParent, desiName);
 	if (!((await fs.pathExists(desiDir)) && (await fs.stat(desiDir)).isDirectory())) {
 		console.log(`err228: desiDir ${desiDir} doesn't exist or not a directory`);
