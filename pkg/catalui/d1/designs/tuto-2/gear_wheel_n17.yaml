@@ -5,8 +5,8 @@ tags:
   - mecanics
 owner: tuto-2
 createdAt: 2025-01-10T21:46:52.623Z
-updatedAt: 2025-01-10T21:46:52.655Z
-updateCount: 1
+updatedAt: 2025-01-12T18:02:04.051Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/gear/gear_wheel
 linkToSrc: https://github.com/charlyoleg2/parametrix/tree/main/pkg/designix/src/gears
@@ -18,91 +18,91 @@ linkOthers: []
 files:
   - fileName: px_gear_wheel_N17_v01.json
     fileType: pxJson
-    filePath: gear_wheel_N17/px_gear_wheel_N17_v01.json
+    filePath: gear_wheel_n17/px_gear_wheel_N17_v01.json
     fileSize: 1339
     createdAt: 2025-01-10T21:46:52.627Z
-    updatedAt: 2025-01-10T21:46:52.627Z
+    updatedAt: 2025-01-12T18:02:04.044Z
   - fileName: photo_N17_04.png
     fileType: image
-    filePath: gear_wheel_N17/photo_N17_04.png
+    filePath: gear_wheel_n17/photo_N17_04.png
     fileSize: 166200
     createdAt: 2025-01-10T21:46:52.629Z
-    updatedAt: 2025-01-10T21:46:52.629Z
+    updatedAt: 2025-01-12T18:02:04.044Z
   - fileName: photo_N17_03.png
     fileType: image
-    filePath: gear_wheel_N17/photo_N17_03.png
+    filePath: gear_wheel_n17/photo_N17_03.png
     fileSize: 183490
     createdAt: 2025-01-10T21:46:52.632Z
-    updatedAt: 2025-01-10T21:46:52.632Z
+    updatedAt: 2025-01-12T18:02:04.045Z
   - fileName: photo_N17_02.png
     fileType: image
-    filePath: gear_wheel_N17/photo_N17_02.png
+    filePath: gear_wheel_n17/photo_N17_02.png
     fileSize: 123103
     createdAt: 2025-01-10T21:46:52.634Z
-    updatedAt: 2025-01-10T21:46:52.634Z
+    updatedAt: 2025-01-12T18:02:04.045Z
   - fileName: photo_N17_01.png
     fileType: image
-    filePath: gear_wheel_N17/photo_N17_01.png
+    filePath: gear_wheel_n17/photo_N17_01.png
     fileSize: 197508
     createdAt: 2025-01-10T21:46:52.637Z
-    updatedAt: 2025-01-10T21:46:52.637Z
+    updatedAt: 2025-01-12T18:02:04.046Z
   - fileName: gear_wheel_N17_v01_teethProfile.svg
     fileType: svg
-    filePath: gear_wheel_N17/gear_wheel_N17_v01_teethProfile.svg
+    filePath: gear_wheel_n17/gear_wheel_N17_v01_teethProfile.svg
     fileSize: 8919
     createdAt: 2025-01-10T21:46:52.640Z
-    updatedAt: 2025-01-10T21:46:52.640Z
+    updatedAt: 2025-01-12T18:02:04.046Z
   - fileName: gear_wheel_N17_v01_teethProfile.dxf
     fileType: dxf
-    filePath: gear_wheel_N17/gear_wheel_N17_v01_teethProfile.dxf
+    filePath: gear_wheel_n17/gear_wheel_N17_v01_teethProfile.dxf
     fileSize: 18524
     createdAt: 2025-01-10T21:46:52.641Z
-    updatedAt: 2025-01-10T21:46:52.641Z
+    updatedAt: 2025-01-12T18:02:04.046Z
   - fileName: gear_wheel_N17_v01_oscad.stl
     fileType: stl
-    filePath: gear_wheel_N17/gear_wheel_N17_v01_oscad.stl
+    filePath: gear_wheel_n17/gear_wheel_N17_v01_oscad.stl
     fileSize: 1388911
     createdAt: 2025-01-10T21:46:52.644Z
-    updatedAt: 2025-01-10T21:46:52.644Z
+    updatedAt: 2025-01-12T18:02:04.049Z
   - fileName: gear_wheel_N17_v01_axisProfile.svg
     fileType: svg
-    filePath: gear_wheel_N17/gear_wheel_N17_v01_axisProfile.svg
+    filePath: gear_wheel_n17/gear_wheel_N17_v01_axisProfile.svg
     fileSize: 508
     createdAt: 2025-01-10T21:46:52.646Z
-    updatedAt: 2025-01-10T21:46:52.646Z
+    updatedAt: 2025-01-12T18:02:04.049Z
   - fileName: gear_wheel_N17_v01_axisProfile.dxf
     fileType: dxf
-    filePath: gear_wheel_N17/gear_wheel_N17_v01_axisProfile.dxf
+    filePath: gear_wheel_n17/gear_wheel_N17_v01_axisProfile.dxf
     fileSize: 974
     createdAt: 2025-01-10T21:46:52.648Z
-    updatedAt: 2025-01-10T21:46:52.648Z
+    updatedAt: 2025-01-12T18:02:04.049Z
   - fileName: gear_wheel_N17_v01.scad
     fileType: scad
-    filePath: gear_wheel_N17/gear_wheel_N17_v01.scad
+    filePath: gear_wheel_n17/gear_wheel_N17_v01.scad
     fileSize: 31489
     createdAt: 2025-01-10T21:46:52.649Z
-    updatedAt: 2025-01-10T21:46:52.649Z
+    updatedAt: 2025-01-12T18:02:04.050Z
   - fileName: gear_wheel_N17_v01.py
     fileType: pyFreecad
-    filePath: gear_wheel_N17/gear_wheel_N17_v01.py
+    filePath: gear_wheel_n17/gear_wheel_N17_v01.py
     fileSize: 32795
     createdAt: 2025-01-10T21:46:52.650Z
-    updatedAt: 2025-01-10T21:46:52.650Z
+    updatedAt: 2025-01-12T18:02:04.050Z
   - fileName: gear_wheel_N17_v01.pax.json
     fileType: paxJson
-    filePath: gear_wheel_N17/gear_wheel_N17_v01.pax.json
+    filePath: gear_wheel_n17/gear_wheel_N17_v01.pax.json
     fileSize: 71154
     createdAt: 2025-01-10T21:46:52.650Z
-    updatedAt: 2025-01-10T21:46:52.650Z
+    updatedAt: 2025-01-12T18:02:04.050Z
   - fileName: gear_wheel_N17_v01.log.txt
     fileType: txtLog
-    filePath: gear_wheel_N17/gear_wheel_N17_v01.log.txt
+    filePath: gear_wheel_n17/gear_wheel_N17_v01.log.txt
     fileSize: 876
     createdAt: 2025-01-10T21:46:52.653Z
-    updatedAt: 2025-01-10T21:46:52.653Z
+    updatedAt: 2025-01-12T18:02:04.051Z
   - fileName: gear_wheel_N17_v01.js
     fileType: jsCad
-    filePath: gear_wheel_N17/gear_wheel_N17_v01.js
+    filePath: gear_wheel_n17/gear_wheel_N17_v01.js
     fileSize: 28658
     createdAt: 2025-01-10T21:46:52.655Z
-    updatedAt: 2025-01-10T21:46:52.655Z
+    updatedAt: 2025-01-12T18:02:04.051Z
