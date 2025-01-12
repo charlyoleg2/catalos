@@ -253,8 +253,15 @@ async function chooseFiles(nFiles, objDesi, ddesi, dName, iCleanNonExistingFiles
 }
 
 async function update_one_design(iDir, iDest, iCleanNonExistingFiles) {
-	const dName = path.basename(iDir);
+	const dNameUc = path.basename(iDir);
+	const dName = dNameUc.toLowerCase();
 	const owner = path.basename(iDest);
+	if (dName !== dNameUc) {
+		console.log(`warn912: dName ${dNameUc} > ${dName} renamed for lower-case!`);
+	}
+	if (owner !== owner.toLowerCase()) {
+		throw `ERR913: owner ${owner} contains upper-case!`;
+	}
 	const fyaml = `${iDest}/${dName}.yaml`;
 	const ddesi = `${iDest}/${dName}`;
 	let objDesi = defaultObj(owner);
