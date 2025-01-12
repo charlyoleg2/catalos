@@ -1,5 +1,6 @@
 // src/lib/sortedDesigns.ts
 
+import { selectFileVignette, prioImage } from './fileExt.ts';
 import type { CollectionEntry } from 'astro:content';
 import { getCollection } from 'astro:content';
 
@@ -30,5 +31,13 @@ const dSorted = {
 };
 type tDSortedKey = keyof typeof dSorted;
 
+function imageList(iDesign: CollectionEntry<'designs'>) {
+	const rArr = iDesign.data.files
+		.filter((item) => selectFileVignette(item.fileType))
+		.sort((a, b) => b.updatedAt.getTime() - a.updatedAt.getTime())
+		.sort((a, b) => prioImage(b.fileType) - prioImage(a.fileType));
+	return rArr;
+}
+
 export type { tDSortedKey };
-export { dSorted };
+export { dSorted, imageList };

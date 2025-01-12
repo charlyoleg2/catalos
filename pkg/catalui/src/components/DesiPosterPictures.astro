@@ -1,6 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
-import { selectFileVignette, prioImage } from '@src/lib/fileExt.ts';
+import { imageList } from '@src/lib/sortedDesigns';
 import '@src/styles/styling-vars.css';
 
 interface Props {
@@ -12,17 +12,13 @@ const { design } = Astro.props;
 
 <article>
 	{
-		design.data.files
-			.filter((item) => selectFileVignette(item.fileType))
-			.sort((a, b) => b.updatedAt.getTime() - a.updatedAt.getTime())
-			.sort((a, b) => prioImage(b.fileType) - prioImage(a.fileType))
-			.map((item) => (
-				<img
-					alt={`u/${design.id}/${item.fileName}`}
-					src={`u/${design.id}/${item.fileName}`}
-					class="vignette"
-				/>
-			))
+		imageList(design).map((item) => (
+			<img
+				alt={`u/${design.id}/${item.fileName}`}
+				src={`u/${design.id}/${item.fileName}`}
+				class="vignette"
+			/>
+		))
 	}
 </article>
 <dialog id="dCview"><div></div><button class="bback">close - back - escape</button></dialog>
