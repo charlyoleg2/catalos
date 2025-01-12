@@ -2,6 +2,7 @@
 import type { CollectionEntry } from 'astro:content';
 import { getEntry } from 'astro:content';
 import { prunePrefix } from '@src/lib/util.ts';
+import { imageList } from '@src/lib/sortedDesigns';
 import '@src/styles/styling-vars.css';
 
 interface Props {
@@ -11,13 +12,27 @@ interface Props {
 const { design } = Astro.props;
 const user = await getEntry(design.data.owner);
 const durl = `desi/${design.id}`;
+const remainList = imageList(design).slice(0, 2).length;
 ---
 
 <a href={durl}>
 	<article>
 		<h2>by {user.id}</h2>
 		<h1>{prunePrefix(design.id)}</h1>
-		<div><div class="vignette"></div><div class="vignette"></div></div>
+		<div>
+			{
+				imageList(design)
+					.slice(0, 2)
+					.map((item) => (
+						<img
+							alt={`u/${design.id}/${item.fileName}`}
+							src={`u/${design.id}/${item.fileName}`}
+							class="vignette"
+						/>
+					))
+			}
+			{[0, 1].slice(remainList).map(() => <div class="vignette" />)}
+		</div>
 	</article>
 </a>
 
@@ -44,6 +59,14 @@ const durl = `desi/${design.id}`;
 		font-weight: regular;
 		color: var(--c1w);
 		margin: 0.2rem 2rem;
+	}
+	img.vignette {
+		display: inline-block;
+		width: 8rem;
+		height: 8rem;
+		margin: 0.5rem 1rem;
+		background-color: var(--c5b);
+		object-fit: contain;
 	}
 	div.vignette {
 		display: inline-block;
