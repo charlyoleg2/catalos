@@ -18,7 +18,7 @@ const { design } = Astro.props;
 				<tr>
 					<th>File</th>
 					<th>Type</th>
-					<th>Size (Bytes)</th>
+					<th class="shorter">Size (Bytes)</th>
 					<th no-sort></th>
 					<th no-sort></th>
 					<th no-sort></th>
@@ -194,8 +194,11 @@ const { design } = Astro.props;
 	th {
 		padding: 0.2rem 1rem;
 	}
+	th.shorter {
+		padding: 0.2rem 0.5rem;
+	}
 	td {
-		padding: 0.2rem 2rem;
+		padding: 0.2rem 0.5rem;
 	}
 	td.taright {
 		text-align: right;
