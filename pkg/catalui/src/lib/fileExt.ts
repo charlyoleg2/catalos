@@ -31,4 +31,9 @@ function selectFileVignette(iExt: string): boolean {
 	return rSelect;
 }
 
-export { renameExt, selectFileTable, selectFileVignette };
+function prioImage(iExt: string): number {
+	const rRank = iExt === 'image' ? 2 : 1;
+	return rRank;
+}
+
+export { renameExt, selectFileTable, selectFileVignette, prioImage };

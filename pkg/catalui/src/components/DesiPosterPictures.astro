@@ -1,6 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
-import { selectFileVignette } from '@src/lib/fileExt.ts';
+import { selectFileVignette, prioImage } from '@src/lib/fileExt.ts';
 import '@src/styles/styling-vars.css';
 
 interface Props {
@@ -14,6 +14,8 @@ const { design } = Astro.props;
 	{
 		design.data.files
 			.filter((item) => selectFileVignette(item.fileType))
+			.sort((a, b) => b.updatedAt.getTime() - a.updatedAt.getTime())
+			.sort((a, b) => prioImage(b.fileType) - prioImage(a.fileType))
 			.map((item) => (
 				<img
 					alt={`u/${design.id}/${item.fileName}`}
