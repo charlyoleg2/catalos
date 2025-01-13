@@ -46,6 +46,7 @@ if (eDBDIR === 'd2') {
 	const vDBDIR = 'd2';
 	console.log('update_d1.js says Hello with DBDIR=d2!');
 	await degit_and_update('https://github.com/charlyoleg2/gears_and_springs', 'tuto-2', vDBDIR);
+	await degit_and_update('https://github.com/charlyoleg2/ustensile', 'tuto-1', vDBDIR);
 	console.log('update_d1.js says Bye with DBDIR=d2!');
 } else {
 	const vDBDIR = 'd1';

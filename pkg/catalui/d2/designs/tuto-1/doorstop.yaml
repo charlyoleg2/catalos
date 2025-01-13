@@ -1,0 +1,106 @@
+description: A useful doorstop
+tags:
+  - ustensile
+owner: tuto-1
+createdAt: 2024-12-28T22:18:09.536Z
+updatedAt: 2025-01-13T23:02:56.432Z
+updateCount: 4
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame82/desi82/doorstop
+linkToSrc: https://github.com/charlyoleg2/parame82
+linkToPkg: https://www.npmjs.com/package/desi82
+linkToCli: https://www.npmjs.com/package/desi82-cli
+linkToUis: https://www.npmjs.com/package/desi82-uis
+linkToRepo: https://github.com/charlyoleg2/ustensile
+linkOthers: []
+files:
+  - fileName: px_doorstop_v01.json
+    fileType: pxJson
+    filePath: doorstop/px_doorstop_v01.json
+    fileSize: 201
+    createdAt: 2025-01-01T22:04:34.271Z
+    updatedAt: 2025-01-01T22:04:34.271Z
+  - fileName: doorstop_v01_oscad.stl
+    fileType: stl
+    filePath: doorstop/doorstop_v01_oscad.stl
+    fileSize: 144321
+    createdAt: 2025-01-01T22:04:34.273Z
+    updatedAt: 2025-01-01T22:04:34.273Z
+  - fileName: doorstop_v01_jscad.stl
+    fileType: stl
+    filePath: doorstop/doorstop_v01_jscad.stl
+    fileSize: 45684
+    createdAt: 2025-01-01T22:04:34.277Z
+    updatedAt: 2025-01-01T22:04:34.277Z
+  - fileName: doorstop_v01_fc.stl
+    fileType: stl
+    filePath: doorstop/doorstop_v01_fc.stl
+    fileSize: 1400624
+    createdAt: 2025-01-01T22:04:34.279Z
+    updatedAt: 2025-01-01T22:04:34.279Z
+  - fileName: doorstop_v01_faceTop.svg
+    fileType: svg
+    filePath: doorstop/doorstop_v01_faceTop.svg
+    fileSize: 384
+    createdAt: 2025-01-13T23:02:56.428Z
+    updatedAt: 2025-01-13T23:02:56.428Z
+  - fileName: doorstop_v01_faceTop.dxf
+    fileType: dxf
+    filePath: doorstop/doorstop_v01_faceTop.dxf
+    fileSize: 540
+    createdAt: 2025-01-13T23:02:56.429Z
+    updatedAt: 2025-01-13T23:02:56.429Z
+  - fileName: doorstop_v01_faceSide.svg
+    fileType: svg
+    filePath: doorstop/doorstop_v01_faceSide.svg
+    fileSize: 234
+    createdAt: 2025-01-13T23:02:56.429Z
+    updatedAt: 2025-01-13T23:02:56.429Z
+  - fileName: doorstop_v01_faceSide.dxf
+    fileType: dxf
+    filePath: doorstop/doorstop_v01_faceSide.dxf
+    fileSize: 284
+    createdAt: 2025-01-13T23:02:56.429Z
+    updatedAt: 2025-01-13T23:02:56.429Z
+  - fileName: doorstop_v01_faceProfile.svg
+    fileType: svg
+    filePath: doorstop/doorstop_v01_faceProfile.svg
+    fileSize: 844
+    createdAt: 2025-01-13T22:29:16.491Z
+    updatedAt: 2025-01-13T22:29:16.491Z
+  - fileName: doorstop_v01_faceProfile.dxf
+    fileType: dxf
+    filePath: doorstop/doorstop_v01_faceProfile.dxf
+    fileSize: 850
+    createdAt: 2025-01-13T23:02:56.430Z
+    updatedAt: 2025-01-13T23:02:56.430Z
+  - fileName: doorstop_v01.scad
+    fileType: scad
+    filePath: doorstop/doorstop_v01.scad
+    fileSize: 7654
+    createdAt: 2025-01-01T22:04:34.283Z
+    updatedAt: 2025-01-01T22:04:34.283Z
+  - fileName: doorstop_v01.py
+    fileType: pyFreecad
+    filePath: doorstop/doorstop_v01.py
+    fileSize: 5943
+    createdAt: 2025-01-01T22:04:34.286Z
+    updatedAt: 2025-01-01T22:04:34.286Z
+  - fileName: doorstop_v01.pax.json
+    fileType: paxJson
+    filePath: doorstop/doorstop_v01.pax.json
+    fileSize: 6371
+    createdAt: 2025-01-13T23:02:56.431Z
+    updatedAt: 2025-01-13T23:02:56.431Z
+  - fileName: doorstop_v01.log.txt
+    fileType: txtLog
+    filePath: doorstop/doorstop_v01.log.txt
+    fileSize: 95
+    createdAt: 2025-01-01T22:04:34.289Z
+    updatedAt: 2025-01-01T22:04:34.289Z
+  - fileName: doorstop_v01.js
+    fileType: jsCad
+    filePath: doorstop/doorstop_v01.js
+    fileSize: 7744
+    createdAt: 2025-01-01T22:04:34.291Z
+    updatedAt: 2025-01-01T22:04:34.291Z

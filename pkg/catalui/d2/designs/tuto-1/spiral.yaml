@@ -1,0 +1,95 @@
+description: A simple spiral
+tags:
+  - decoration
+  - induction
+owner: tuto-1
+createdAt: 2024-12-28T22:18:09.429Z
+updatedAt: 2025-01-13T23:02:56.401Z
+updateCount: 3
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame82/desi82/spiral
+linkToSrc: https://github.com/charlyoleg2/parame82
+linkToPkg: https://www.npmjs.com/package/desi82
+linkToCli: https://www.npmjs.com/package/desi82-cli
+linkToUis: https://www.npmjs.com/package/desi82-uis
+linkToRepo: https://github.com/charlyoleg2/ustensile
+linkOthers: []
+files:
+  - fileName: spiral_v01_oscad.stl
+    fileType: stl
+    filePath: spiral/spiral_v01_oscad.stl
+    fileSize: 489526
+    createdAt: 2025-01-01T22:04:34.182Z
+    updatedAt: 2025-01-01T22:04:34.182Z
+  - fileName: spiral_v01_jscad.stl
+    fileType: stl
+    filePath: spiral/spiral_v01_jscad.stl
+    fileSize: 150084
+    createdAt: 2025-01-01T22:04:34.189Z
+    updatedAt: 2025-01-01T22:04:34.189Z
+  - fileName: spiral_v01_fc.stl
+    fileType: stl
+    filePath: spiral/spiral_v01_fc.stl
+    fileSize: 1315616
+    createdAt: 2025-01-01T22:04:34.193Z
+    updatedAt: 2025-01-01T22:04:34.193Z
+  - fileName: spiral_v01_faceTop.svg
+    fileType: svg
+    filePath: spiral/spiral_v01_faceTop.svg
+    fileSize: 980
+    createdAt: 2025-01-13T23:02:56.396Z
+    updatedAt: 2025-01-13T23:02:56.396Z
+  - fileName: spiral_v01_faceTop.dxf
+    fileType: dxf
+    filePath: spiral/spiral_v01_faceTop.dxf
+    fileSize: 1525
+    createdAt: 2025-01-13T23:02:56.396Z
+    updatedAt: 2025-01-13T23:02:56.396Z
+  - fileName: spiral_v01_faceSide.svg
+    fileType: svg
+    filePath: spiral/spiral_v01_faceSide.svg
+    fileSize: 839
+    createdAt: 2025-01-13T23:02:56.397Z
+    updatedAt: 2025-01-13T23:02:56.397Z
+  - fileName: spiral_v01_faceSide.dxf
+    fileType: dxf
+    filePath: spiral/spiral_v01_faceSide.dxf
+    fileSize: 1320
+    createdAt: 2025-01-13T23:02:56.397Z
+    updatedAt: 2025-01-13T23:02:56.397Z
+  - fileName: spiral_v01.scad
+    fileType: scad
+    filePath: spiral/spiral_v01.scad
+    fileSize: 21641
+    createdAt: 2025-01-01T22:04:34.200Z
+    updatedAt: 2025-01-01T22:04:34.200Z
+  - fileName: spiral_v01.py
+    fileType: pyFreecad
+    filePath: spiral/spiral_v01.py
+    fileSize: 7362
+    createdAt: 2025-01-01T22:04:34.204Z
+    updatedAt: 2025-01-01T22:04:34.204Z
+  - fileName: spiral_v01.pax.json
+    fileType: paxJson
+    filePath: spiral/spiral_v01.pax.json
+    fileSize: 9594
+    createdAt: 2025-01-13T23:02:56.399Z
+    updatedAt: 2025-01-13T23:02:56.399Z
+  - fileName: spiral_v01.log.txt
+    fileType: txtLog
+    filePath: spiral/spiral_v01.log.txt
+    fileSize: 94
+    createdAt: 2025-01-01T22:04:34.207Z
+    updatedAt: 2025-01-01T22:04:34.207Z
+  - fileName: spiral_v01.js
+    fileType: jsCad
+    filePath: spiral/spiral_v01.js
+    fileSize: 20321
+    createdAt: 2025-01-01T22:04:34.209Z
+    updatedAt: 2025-01-01T22:04:34.209Z
+  - fileName: px_spiral_v01.json
+    fileType: pxJson
+    filePath: spiral/px_spiral_v01.json
+    fileSize: 205
+    createdAt: 2025-01-01T22:04:34.211Z
+    updatedAt: 2025-01-01T22:04:34.211Z
