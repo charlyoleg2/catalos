@@ -13,7 +13,7 @@ const base = import.meta.env.BASE_URL;
 const base2 = base === '/' ? '/' : `${base}/`;
 ---
 
-<article data-base2={base2} data-uiurl={design.data.linkToUi}>
+<article id="arti" data-base2={base2} data-uiurl={design.data.linkToUi}>
 	<action-table sort="Type">
 		<table>
 			<caption>Design files</caption>
@@ -79,7 +79,7 @@ const base2 = base === '/' ? '/' : `${base}/`;
 		url3dViewer,
 	} from '@src/lib/viewer-url.ts';
 
-	const articleElem = document.querySelector('article') as HTMLElement;
+	const articleElem = document.querySelector('article#arti') as HTMLElement;
 	const c_base2 = articleElem.dataset.base2 as string;
 	const c_uiUrl = articleElem.dataset.uiurl as string;
 	const dialogBview = document.querySelector('dialog#dBview') as HTMLDialogElement;
@@ -160,7 +160,7 @@ const base2 = base === '/' ? '/' : `${base}/`;
 		} else if (['svg'].includes(dfType)) {
 			addSvg(dfUrl);
 		} else if (['dxf'].includes(dfType)) {
-			const dxfUrl = `${urlDxfViewer}?file=${window.location.origin}${c_base2}${dfUrl}`;
+			const dxfUrl = `${urlDxfViewer}?dxfUrl=${window.location.origin}${c_base2}${dfUrl}`;
 			//const dxfUrl = `${urlDxfViewer}`;
 			window.open(dxfUrl);
 		} else {
