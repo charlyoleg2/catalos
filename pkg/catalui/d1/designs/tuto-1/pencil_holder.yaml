@@ -3,8 +3,8 @@ tags:
   - 3D-print
 owner: tuto-1
 createdAt: 2024-12-28T22:18:09.480Z
-updatedAt: 2025-01-01T20:39:18.831Z
-updateCount: 2
+updatedAt: 2025-01-13T23:02:56.421Z
+updateCount: 3
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame82/desi82/pencil_holder
 linkToSrc: https://github.com/charlyoleg2/parame82
@@ -38,6 +38,42 @@ files:
     fileSize: 8632376
     createdAt: 2025-01-01T22:04:34.238Z
     updatedAt: 2025-01-01T22:04:34.238Z
+  - fileName: pencil_holder_v01_faceTop.svg
+    fileType: svg
+    filePath: pencil_holder/pencil_holder_v01_faceTop.svg
+    fileSize: 10886
+    createdAt: 2025-01-13T23:02:56.418Z
+    updatedAt: 2025-01-13T23:02:56.418Z
+  - fileName: pencil_holder_v01_faceTop.dxf
+    fileType: dxf
+    filePath: pencil_holder/pencil_holder_v01_faceTop.dxf
+    fileSize: 19826
+    createdAt: 2025-01-13T23:02:56.418Z
+    updatedAt: 2025-01-13T23:02:56.418Z
+  - fileName: pencil_holder_v01_faceSide.svg
+    fileType: svg
+    filePath: pencil_holder/pencil_holder_v01_faceSide.svg
+    fileSize: 234
+    createdAt: 2025-01-13T23:02:56.418Z
+    updatedAt: 2025-01-13T23:02:56.418Z
+  - fileName: pencil_holder_v01_faceSide.dxf
+    fileType: dxf
+    filePath: pencil_holder/pencil_holder_v01_faceSide.dxf
+    fileSize: 284
+    createdAt: 2025-01-13T23:02:56.419Z
+    updatedAt: 2025-01-13T23:02:56.419Z
+  - fileName: pencil_holder_v01_faceFace.svg
+    fileType: svg
+    filePath: pencil_holder/pencil_holder_v01_faceFace.svg
+    fileSize: 238
+    createdAt: 2025-01-13T23:02:56.419Z
+    updatedAt: 2025-01-13T23:02:56.419Z
+  - fileName: pencil_holder_v01_faceFace.dxf
+    fileType: dxf
+    filePath: pencil_holder/pencil_holder_v01_faceFace.dxf
+    fileSize: 288
+    createdAt: 2025-01-13T23:02:56.419Z
+    updatedAt: 2025-01-13T23:02:56.419Z
   - fileName: pencil_holder_v01.scad
     fileType: scad
     filePath: pencil_holder/pencil_holder_v01.scad
@@ -50,6 +86,12 @@ files:
     fileSize: 41673
     createdAt: 2025-01-01T22:04:34.255Z
     updatedAt: 2025-01-01T22:04:34.255Z
+  - fileName: pencil_holder_v01.pax.json
+    fileType: paxJson
+    filePath: pencil_holder/pencil_holder_v01.pax.json
+    fileSize: 52145
+    createdAt: 2025-01-13T23:02:56.420Z
+    updatedAt: 2025-01-13T23:02:56.420Z
   - fileName: pencil_holder_v01.log.txt
     fileType: txtLog
     filePath: pencil_holder/pencil_holder_v01.log.txt
