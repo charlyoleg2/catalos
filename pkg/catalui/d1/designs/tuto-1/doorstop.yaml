@@ -3,8 +3,8 @@ tags:
   - ustensile
 owner: tuto-1
 createdAt: 2024-12-28T22:18:09.536Z
-updatedAt: 2025-01-01T20:39:18.887Z
-updateCount: 2
+updatedAt: 2025-01-13T22:29:16.499Z
+updateCount: 3
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame82/desi82/doorstop
 linkToSrc: https://github.com/charlyoleg2/parame82
@@ -38,6 +38,12 @@ files:
     fileSize: 1400624
     createdAt: 2025-01-01T22:04:34.279Z
     updatedAt: 2025-01-01T22:04:34.279Z
+  - fileName: doorstop_v01_faceProfile.svg
+    fileType: svg
+    filePath: doorstop/doorstop_v01_faceProfile.svg
+    fileSize: 844
+    createdAt: 2025-01-13T22:29:16.491Z
+    updatedAt: 2025-01-13T22:29:16.491Z
   - fileName: doorstop_v01.scad
     fileType: scad
     filePath: doorstop/doorstop_v01.scad
