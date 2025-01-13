@@ -1,0 +1,44 @@
+---
+import DesiCard from '@src/components/DesiCard.astro';
+import type { CollectionEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
+import '@src/styles/styling-vars.css';
+
+interface Props {
+	design: CollectionEntry<'designs'>;
+}
+
+const { design } = Astro.props;
+
+const desiOthers = (await getCollection('designs')).filter((item) =>
+	item.data.linkToUi === design.data.linkToUi ? true : false
+);
+---
+
+<article>
+	<h2><i>Parts references</i> of the same <i>parametrizable design</i></h2>
+	<section>
+		{desiOthers.slice(0, 3).map((desi) => <DesiCard design={desi} />)}
+	</section>
+</article>
+
+<style>
+	article {
+		margin: 1rem;
+		background-color: var(--c4w);
+		border-radius: var(--cornerSurface);
+	}
+	section {
+		display: flex;
+		flex-flow: row wrap;
+		align-items: flex-start;
+		justify-content: flex-start;
+		margin: 1rem;
+	}
+	h2 {
+		font-size: 1.5rem;
+		font-weight: regular;
+		color: var(--c1w);
+		margin: 0.2rem 2rem;
+	}
+</style>
