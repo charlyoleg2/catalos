@@ -3,9 +3,9 @@ tags:
   - mecanics
   - manufacturable
   - involute
-owner: tuto-2
+owner: charli78
 createdAt: 2025-01-10T21:46:52.559Z
-updatedAt: 2025-01-12T18:29:03.951Z
+updatedAt: 2025-01-12T18:02:04.029Z
 updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/gear/gear_wheel
@@ -21,118 +21,118 @@ files:
     filePath: gear_wheel_n21/px_gear_wheel_N21_v01.json
     fileSize: 1341
     createdAt: 2025-01-10T21:46:52.567Z
-    updatedAt: 2025-01-12T18:29:03.908Z
+    updatedAt: 2025-01-12T18:02:03.984Z
   - fileName: photo_N21_05.png
     fileType: image
     filePath: gear_wheel_n21/photo_N21_05.png
     fileSize: 43769
     createdAt: 2025-01-10T21:46:52.570Z
-    updatedAt: 2025-01-12T18:29:03.911Z
+    updatedAt: 2025-01-12T18:02:03.986Z
   - fileName: photo_N21_04.png
     fileType: image
     filePath: gear_wheel_n21/photo_N21_04.png
     fileSize: 35989
     createdAt: 2025-01-10T21:46:52.572Z
-    updatedAt: 2025-01-12T18:29:03.913Z
+    updatedAt: 2025-01-12T18:02:03.987Z
   - fileName: photo_N21_03.png
     fileType: image
     filePath: gear_wheel_n21/photo_N21_03.png
     fileSize: 26166
     createdAt: 2025-01-10T21:46:52.574Z
-    updatedAt: 2025-01-12T18:29:03.914Z
+    updatedAt: 2025-01-12T18:02:03.989Z
   - fileName: photo_N21_02.png
     fileType: image
     filePath: gear_wheel_n21/photo_N21_02.png
     fileSize: 101970
     createdAt: 2025-01-10T21:46:52.576Z
-    updatedAt: 2025-01-12T18:29:03.915Z
+    updatedAt: 2025-01-12T18:02:03.990Z
   - fileName: photo_N21_01.png
     fileType: image
     filePath: gear_wheel_n21/photo_N21_01.png
     fileSize: 121032
     createdAt: 2025-01-10T21:46:52.578Z
-    updatedAt: 2025-01-12T18:29:03.917Z
+    updatedAt: 2025-01-12T18:02:03.991Z
   - fileName: gear_wheel_N21_v01_teethProfile.svg
     fileType: svg
     filePath: gear_wheel_n21/gear_wheel_N21_v01_teethProfile.svg
     fileSize: 10313
     createdAt: 2025-01-10T21:46:52.580Z
-    updatedAt: 2025-01-12T18:29:03.918Z
+    updatedAt: 2025-01-12T18:02:03.992Z
   - fileName: gear_wheel_N21_v01_teethProfile.dxf
     fileType: dxf
     filePath: gear_wheel_n21/gear_wheel_N21_v01_teethProfile.dxf
     fileSize: 21565
     createdAt: 2025-01-10T21:46:52.581Z
-    updatedAt: 2025-01-12T18:29:03.920Z
+    updatedAt: 2025-01-12T18:02:03.994Z
   - fileName: gear_wheel_N21_v01_oscad.stl
     fileType: stl
     filePath: gear_wheel_n21/gear_wheel_N21_v01_oscad.stl
     fileSize: 800980
     createdAt: 2025-01-10T21:46:52.584Z
-    updatedAt: 2025-01-12T18:29:03.922Z
+    updatedAt: 2025-01-12T18:02:03.997Z
   - fileName: gear_wheel_N21_v01_fc.stp
     fileType: stp
     filePath: gear_wheel_n21/gear_wheel_N21_v01_fc.stp
     fileSize: 468917
     createdAt: 2025-01-10T21:46:52.585Z
-    updatedAt: 2025-01-12T18:29:03.926Z
+    updatedAt: 2025-01-12T18:02:03.999Z
   - fileName: gear_wheel_N21_v01_fc.stl
     fileType: stl
     filePath: gear_wheel_n21/gear_wheel_N21_v01_fc.stl
     fileSize: 3889132
     createdAt: 2025-01-10T21:46:52.591Z
-    updatedAt: 2025-01-12T18:29:03.938Z
+    updatedAt: 2025-01-12T18:02:04.011Z
   - fileName: gear_wheel_N21_v01_fc.igs
     fileType: igs
     filePath: gear_wheel_n21/gear_wheel_N21_v01_fc.igs
     fileSize: 1205766
     createdAt: 2025-01-10T21:46:52.594Z
-    updatedAt: 2025-01-12T18:29:03.941Z
+    updatedAt: 2025-01-12T18:02:04.015Z
   - fileName: gear_wheel_N21_v01_fc.brep
     fileType: brep
     filePath: gear_wheel_n21/gear_wheel_N21_v01_fc.brep
     fileSize: 480604
     createdAt: 2025-01-10T21:46:52.596Z
-    updatedAt: 2025-01-12T18:29:03.944Z
+    updatedAt: 2025-01-12T18:02:04.017Z
   - fileName: gear_wheel_N21_v01_axisProfile.svg
     fileType: svg
     filePath: gear_wheel_n21/gear_wheel_N21_v01_axisProfile.svg
     fileSize: 243
     createdAt: 2025-01-10T21:46:52.597Z
-    updatedAt: 2025-01-12T18:29:03.945Z
+    updatedAt: 2025-01-12T18:02:04.021Z
   - fileName: gear_wheel_N21_v01_axisProfile.dxf
     fileType: dxf
     filePath: gear_wheel_n21/gear_wheel_N21_v01_axisProfile.dxf
     fileSize: 296
     createdAt: 2025-01-10T21:46:52.599Z
-    updatedAt: 2025-01-12T18:29:03.946Z
+    updatedAt: 2025-01-12T18:02:04.025Z
   - fileName: gear_wheel_N21_v01.scad
     fileType: scad
     filePath: gear_wheel_n21/gear_wheel_N21_v01.scad
     fileSize: 33846
     createdAt: 2025-01-10T21:46:52.600Z
-    updatedAt: 2025-01-12T18:29:03.947Z
+    updatedAt: 2025-01-12T18:02:04.026Z
   - fileName: gear_wheel_N21_v01.py
     fileType: pyFreecad
     filePath: gear_wheel_n21/gear_wheel_N21_v01.py
     fileSize: 36197
     createdAt: 2025-01-10T21:46:52.602Z
-    updatedAt: 2025-01-12T18:29:03.948Z
+    updatedAt: 2025-01-12T18:02:04.027Z
   - fileName: gear_wheel_N21_v01.pax.json
     fileType: paxJson
     filePath: gear_wheel_n21/gear_wheel_N21_v01.pax.json
     fileSize: 77786
     createdAt: 2025-01-10T21:46:52.604Z
-    updatedAt: 2025-01-12T18:29:03.948Z
+    updatedAt: 2025-01-12T18:02:04.028Z
   - fileName: gear_wheel_N21_v01.log.txt
     fileType: txtLog
     filePath: gear_wheel_n21/gear_wheel_N21_v01.log.txt
     fileSize: 876
     createdAt: 2025-01-10T21:46:52.606Z
-    updatedAt: 2025-01-12T18:29:03.949Z
+    updatedAt: 2025-01-12T18:02:04.028Z
   - fileName: gear_wheel_N21_v01.js
     fileType: jsCad
     filePath: gear_wheel_n21/gear_wheel_N21_v01.js
     fileSize: 30648
     createdAt: 2025-01-10T21:46:52.609Z
-    updatedAt: 2025-01-12T18:29:03.950Z
+    updatedAt: 2025-01-12T18:02:04.029Z
