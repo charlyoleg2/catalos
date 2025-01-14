@@ -3,8 +3,8 @@ tags:
   - ustensile
 owner: jack08
 createdAt: 2024-12-28T22:18:09.536Z
-updatedAt: 2025-01-13T23:02:56.432Z
-updateCount: 4
+updatedAt: 2025-01-14T17:51:14.508Z
+updateCount: 5
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame82/desi82/doorstop
 linkToSrc: https://github.com/charlyoleg2/parame82
@@ -20,6 +20,24 @@ files:
     fileSize: 201
     createdAt: 2025-01-01T22:04:34.271Z
     updatedAt: 2025-01-01T22:04:34.271Z
+  - fileName: photo_03.png
+    fileType: image
+    filePath: doorstop/photo_03.png
+    fileSize: 13229
+    createdAt: 2025-01-14T17:51:14.472Z
+    updatedAt: 2025-01-14T17:51:14.472Z
+  - fileName: photo_02.png
+    fileType: image
+    filePath: doorstop/photo_02.png
+    fileSize: 12213
+    createdAt: 2025-01-14T17:51:14.475Z
+    updatedAt: 2025-01-14T17:51:14.475Z
+  - fileName: photo_01.png
+    fileType: image
+    filePath: doorstop/photo_01.png
+    fileSize: 16072
+    createdAt: 2025-01-14T17:51:14.477Z
+    updatedAt: 2025-01-14T17:51:14.477Z
   - fileName: doorstop_v01_oscad.stl
     fileType: stl
     filePath: doorstop/doorstop_v01_oscad.stl

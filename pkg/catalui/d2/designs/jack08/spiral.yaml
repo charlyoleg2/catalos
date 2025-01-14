@@ -4,8 +4,8 @@ tags:
   - induction
 owner: jack08
 createdAt: 2024-12-28T22:18:09.429Z
-updatedAt: 2025-01-13T23:02:56.401Z
-updateCount: 3
+updatedAt: 2025-01-14T17:51:14.367Z
+updateCount: 4
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame82/desi82/spiral
 linkToSrc: https://github.com/charlyoleg2/parame82
@@ -87,6 +87,30 @@ files:
     fileSize: 20321
     createdAt: 2025-01-01T22:04:34.209Z
     updatedAt: 2025-01-01T22:04:34.209Z
+  - fileName: spiral_04.png
+    fileType: image
+    filePath: spiral/spiral_04.png
+    fileSize: 29213
+    createdAt: 2025-01-14T17:51:14.355Z
+    updatedAt: 2025-01-14T17:51:14.355Z
+  - fileName: spiral_03.png
+    fileType: image
+    filePath: spiral/spiral_03.png
+    fileSize: 23057
+    createdAt: 2025-01-14T17:51:14.358Z
+    updatedAt: 2025-01-14T17:51:14.358Z
+  - fileName: spiral_02.png
+    fileType: image
+    filePath: spiral/spiral_02.png
+    fileSize: 34635
+    createdAt: 2025-01-14T17:51:14.361Z
+    updatedAt: 2025-01-14T17:51:14.361Z
+  - fileName: spiral_01.png
+    fileType: image
+    filePath: spiral/spiral_01.png
+    fileSize: 27644
+    createdAt: 2025-01-14T17:51:14.363Z
+    updatedAt: 2025-01-14T17:51:14.363Z
   - fileName: px_spiral_v01.json
     fileType: pxJson
     filePath: spiral/px_spiral_v01.json
