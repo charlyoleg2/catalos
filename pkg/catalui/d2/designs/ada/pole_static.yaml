@@ -1,0 +1,201 @@
+description: ""
+tags: []
+owner: ada
+createdAt: 2025-01-14T19:40:44.723Z
+updatedAt: 2025-01-14T19:40:44.753Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_pole_static_v01.json
+    fileType: pxJson
+    filePath: pole_static/px_pole_static_v01.json
+    fileSize: 794
+    createdAt: 2025-01-14T19:40:44.726Z
+    updatedAt: 2025-01-14T19:40:44.726Z
+  - fileName: pole_static_v01_poleFace.svg
+    fileType: svg
+    filePath: pole_static/pole_static_v01_poleFace.svg
+    fileSize: 470
+    createdAt: 2025-01-14T19:40:44.728Z
+    updatedAt: 2025-01-14T19:40:44.728Z
+  - fileName: pole_static_v01_poleFace.dxf
+    fileType: dxf
+    filePath: pole_static/pole_static_v01_poleFace.dxf
+    fileSize: 582
+    createdAt: 2025-01-14T19:40:44.729Z
+    updatedAt: 2025-01-14T19:40:44.729Z
+  - fileName: pole_static_v01_poleCut.svg
+    fileType: svg
+    filePath: pole_static/pole_static_v01_poleCut.svg
+    fileSize: 281
+    createdAt: 2025-01-14T19:40:44.730Z
+    updatedAt: 2025-01-14T19:40:44.730Z
+  - fileName: pole_static_v01_poleCut.dxf
+    fileType: dxf
+    filePath: pole_static/pole_static_v01_poleCut.dxf
+    fileSize: 420
+    createdAt: 2025-01-14T19:40:44.730Z
+    updatedAt: 2025-01-14T19:40:44.730Z
+  - fileName: pole_static_v01_poleBottom.svg
+    fileType: svg
+    filePath: pole_static/pole_static_v01_poleBottom.svg
+    fileSize: 3209
+    createdAt: 2025-01-14T19:40:44.731Z
+    updatedAt: 2025-01-14T19:40:44.731Z
+  - fileName: pole_static_v01_poleBottom.dxf
+    fileType: dxf
+    filePath: pole_static/pole_static_v01_poleBottom.dxf
+    fileSize: 1889
+    createdAt: 2025-01-14T19:40:44.732Z
+    updatedAt: 2025-01-14T19:40:44.732Z
+  - fileName: pole_static_v01_oscad.stl
+    fileType: stl
+    filePath: pole_static/pole_static_v01_oscad.stl
+    fileSize: 2369131
+    createdAt: 2025-01-14T19:40:44.735Z
+    updatedAt: 2025-01-14T19:40:44.735Z
+  - fileName: pole_static_v01_jscad.stl
+    fileType: stl
+    filePath: pole_static/pole_static_v01_jscad.stl
+    fileSize: 1029684
+    createdAt: 2025-01-14T19:40:44.736Z
+    updatedAt: 2025-01-14T19:40:44.736Z
+  - fileName: pole_static_v01_holderB2Top.svg
+    fileType: svg
+    filePath: pole_static/pole_static_v01_holderB2Top.svg
+    fileSize: 1968
+    createdAt: 2025-01-14T19:40:44.737Z
+    updatedAt: 2025-01-14T19:40:44.737Z
+  - fileName: pole_static_v01_holderB2Top.dxf
+    fileType: dxf
+    filePath: pole_static/pole_static_v01_holderB2Top.dxf
+    fileSize: 2993
+    createdAt: 2025-01-14T19:40:44.738Z
+    updatedAt: 2025-01-14T19:40:44.738Z
+  - fileName: pole_static_v01_holderB2Section.svg
+    fileType: svg
+    filePath: pole_static/pole_static_v01_holderB2Section.svg
+    fileSize: 310
+    createdAt: 2025-01-14T19:40:44.739Z
+    updatedAt: 2025-01-14T19:40:44.739Z
+  - fileName: pole_static_v01_holderB2Section.dxf
+    fileType: dxf
+    filePath: pole_static/pole_static_v01_holderB2Section.dxf
+    fileSize: 546
+    createdAt: 2025-01-14T19:40:44.739Z
+    updatedAt: 2025-01-14T19:40:44.739Z
+  - fileName: pole_static_v01_holderB1Top.svg
+    fileType: svg
+    filePath: pole_static/pole_static_v01_holderB1Top.svg
+    fileSize: 1972
+    createdAt: 2025-01-14T19:40:44.740Z
+    updatedAt: 2025-01-14T19:40:44.740Z
+  - fileName: pole_static_v01_holderB1Top.dxf
+    fileType: dxf
+    filePath: pole_static/pole_static_v01_holderB1Top.dxf
+    fileSize: 2993
+    createdAt: 2025-01-14T19:40:44.740Z
+    updatedAt: 2025-01-14T19:40:44.741Z
+  - fileName: pole_static_v01_holderB1Section.svg
+    fileType: svg
+    filePath: pole_static/pole_static_v01_holderB1Section.svg
+    fileSize: 310
+    createdAt: 2025-01-14T19:40:44.741Z
+    updatedAt: 2025-01-14T19:40:44.741Z
+  - fileName: pole_static_v01_holderB1Section.dxf
+    fileType: dxf
+    filePath: pole_static/pole_static_v01_holderB1Section.dxf
+    fileSize: 546
+    createdAt: 2025-01-14T19:40:44.742Z
+    updatedAt: 2025-01-14T19:40:44.742Z
+  - fileName: pole_static_v01_holderATop.svg
+    fileType: svg
+    filePath: pole_static/pole_static_v01_holderATop.svg
+    fileSize: 1976
+    createdAt: 2025-01-14T19:40:44.742Z
+    updatedAt: 2025-01-14T19:40:44.742Z
+  - fileName: pole_static_v01_holderATop.dxf
+    fileType: dxf
+    filePath: pole_static/pole_static_v01_holderATop.dxf
+    fileSize: 2998
+    createdAt: 2025-01-14T19:40:44.743Z
+    updatedAt: 2025-01-14T19:40:44.743Z
+  - fileName: pole_static_v01_holderASection.svg
+    fileType: svg
+    filePath: pole_static/pole_static_v01_holderASection.svg
+    fileSize: 310
+    createdAt: 2025-01-14T19:40:44.743Z
+    updatedAt: 2025-01-14T19:40:44.743Z
+  - fileName: pole_static_v01_holderASection.dxf
+    fileType: dxf
+    filePath: pole_static/pole_static_v01_holderASection.dxf
+    fileSize: 546
+    createdAt: 2025-01-14T19:40:44.744Z
+    updatedAt: 2025-01-14T19:40:44.744Z
+  - fileName: pole_static_v01_emptyPole.svg
+    fileType: svg
+    filePath: pole_static/pole_static_v01_emptyPole.svg
+    fileSize: 277
+    createdAt: 2025-01-14T19:40:44.744Z
+    updatedAt: 2025-01-14T19:40:44.744Z
+  - fileName: pole_static_v01_emptyPole.dxf
+    fileType: dxf
+    filePath: pole_static/pole_static_v01_emptyPole.dxf
+    fileSize: 142
+    createdAt: 2025-01-14T19:40:44.745Z
+    updatedAt: 2025-01-14T19:40:44.745Z
+  - fileName: pole_static_v01_emptyDoor.svg
+    fileType: svg
+    filePath: pole_static/pole_static_v01_emptyDoor.svg
+    fileSize: 276
+    createdAt: 2025-01-14T19:40:44.746Z
+    updatedAt: 2025-01-14T19:40:44.746Z
+  - fileName: pole_static_v01_emptyDoor.dxf
+    fileType: dxf
+    filePath: pole_static/pole_static_v01_emptyDoor.dxf
+    fileSize: 306
+    createdAt: 2025-01-14T19:40:44.746Z
+    updatedAt: 2025-01-14T19:40:44.746Z
+  - fileName: pole_static_v01.stl
+    fileType: stl
+    filePath: pole_static/pole_static_v01.stl
+    fileSize: 1375766
+    createdAt: 2025-01-14T19:40:44.748Z
+    updatedAt: 2025-01-14T19:40:44.748Z
+  - fileName: pole_static_v01.scad
+    fileType: scad
+    filePath: pole_static/pole_static_v01.scad
+    fileSize: 162550
+    createdAt: 2025-01-14T19:40:44.749Z
+    updatedAt: 2025-01-14T19:40:44.749Z
+  - fileName: pole_static_v01.py
+    fileType: pyFreecad
+    filePath: pole_static/pole_static_v01.py
+    fileSize: 86027
+    createdAt: 2025-01-14T19:40:44.750Z
+    updatedAt: 2025-01-14T19:40:44.750Z
+  - fileName: pole_static_v01.pax.json
+    fileType: paxJson
+    filePath: pole_static/pole_static_v01.pax.json
+    fileSize: 905610
+    createdAt: 2025-01-14T19:40:44.751Z
+    updatedAt: 2025-01-14T19:40:44.751Z
+  - fileName: pole_static_v01.log.txt
+    fileType: txtLog
+    filePath: pole_static/pole_static_v01.log.txt
+    fileSize: 1437
+    createdAt: 2025-01-14T19:40:44.752Z
+    updatedAt: 2025-01-14T19:40:44.752Z
+  - fileName: pole_static_v01.js
+    fileType: jsCad
+    filePath: pole_static/pole_static_v01.js
+    fileSize: 148310
+    createdAt: 2025-01-14T19:40:44.753Z
+    updatedAt: 2025-01-14T19:40:44.753Z

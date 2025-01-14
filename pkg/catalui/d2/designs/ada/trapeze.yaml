@@ -1,0 +1,129 @@
+description: ""
+tags: []
+owner: ada
+createdAt: 2025-01-14T19:40:44.525Z
+updatedAt: 2025-01-14T19:40:44.555Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: trapeze_v01_oscad.stl
+    fileType: stl
+    filePath: trapeze/trapeze_v01_oscad.stl
+    fileSize: 961267
+    createdAt: 2025-01-14T19:40:44.528Z
+    updatedAt: 2025-01-14T19:40:44.528Z
+  - fileName: trapeze_v01_jscad.stl
+    fileType: stl
+    filePath: trapeze/trapeze_v01_jscad.stl
+    fileSize: 443034
+    createdAt: 2025-01-14T19:40:44.529Z
+    updatedAt: 2025-01-14T19:40:44.529Z
+  - fileName: trapeze_v01_fc.stl
+    fileType: stl
+    filePath: trapeze/trapeze_v01_fc.stl
+    fileSize: 11195772
+    createdAt: 2025-01-14T19:40:44.542Z
+    updatedAt: 2025-01-14T19:40:44.542Z
+  - fileName: trapeze_v01_faceRodHollow.svg
+    fileType: svg
+    filePath: trapeze/trapeze_v01_faceRodHollow.svg
+    fileSize: 180
+    createdAt: 2025-01-14T19:40:44.542Z
+    updatedAt: 2025-01-14T19:40:44.542Z
+  - fileName: trapeze_v01_faceRodHollow.dxf
+    fileType: dxf
+    filePath: trapeze/trapeze_v01_faceRodHollow.dxf
+    fileSize: 88
+    createdAt: 2025-01-14T19:40:44.543Z
+    updatedAt: 2025-01-14T19:40:44.543Z
+  - fileName: trapeze_v01_faceRod.svg
+    fileType: svg
+    filePath: trapeze/trapeze_v01_faceRod.svg
+    fileSize: 180
+    createdAt: 2025-01-14T19:40:44.544Z
+    updatedAt: 2025-01-14T19:40:44.544Z
+  - fileName: trapeze_v01_faceRod.dxf
+    fileType: dxf
+    filePath: trapeze/trapeze_v01_faceRod.dxf
+    fileSize: 88
+    createdAt: 2025-01-14T19:40:44.544Z
+    updatedAt: 2025-01-14T19:40:44.544Z
+  - fileName: trapeze_v01_facePlate.svg
+    fileType: svg
+    filePath: trapeze/trapeze_v01_facePlate.svg
+    fileSize: 1130
+    createdAt: 2025-01-14T19:40:44.546Z
+    updatedAt: 2025-01-14T19:40:44.546Z
+  - fileName: trapeze_v01_facePlate.dxf
+    fileType: dxf
+    filePath: trapeze/trapeze_v01_facePlate.dxf
+    fileSize: 1030
+    createdAt: 2025-01-14T19:40:44.547Z
+    updatedAt: 2025-01-14T19:40:44.547Z
+  - fileName: trapeze_v01_faceFrame.svg
+    fileType: svg
+    filePath: trapeze/trapeze_v01_faceFrame.svg
+    fileSize: 2728
+    createdAt: 2025-01-14T19:40:44.548Z
+    updatedAt: 2025-01-14T19:40:44.548Z
+  - fileName: trapeze_v01_faceFrame.dxf
+    fileType: dxf
+    filePath: trapeze/trapeze_v01_faceFrame.dxf
+    fileSize: 2363
+    createdAt: 2025-01-14T19:40:44.548Z
+    updatedAt: 2025-01-14T19:40:44.548Z
+  - fileName: trapeze_v01_faceCutRod.svg
+    fileType: svg
+    filePath: trapeze/trapeze_v01_faceCutRod.svg
+    fileSize: 262
+    createdAt: 2025-01-14T19:40:44.549Z
+    updatedAt: 2025-01-14T19:40:44.549Z
+  - fileName: trapeze_v01_faceCutRod.dxf
+    fileType: dxf
+    filePath: trapeze/trapeze_v01_faceCutRod.dxf
+    fileSize: 316
+    createdAt: 2025-01-14T19:40:44.550Z
+    updatedAt: 2025-01-14T19:40:44.550Z
+  - fileName: trapeze_v01.scad
+    fileType: scad
+    filePath: trapeze/trapeze_v01.scad
+    fileSize: 38796
+    createdAt: 2025-01-14T19:40:44.550Z
+    updatedAt: 2025-01-14T19:40:44.550Z
+  - fileName: trapeze_v01.py
+    fileType: pyFreecad
+    filePath: trapeze/trapeze_v01.py
+    fileSize: 21307
+    createdAt: 2025-01-14T19:40:44.551Z
+    updatedAt: 2025-01-14T19:40:44.551Z
+  - fileName: trapeze_v01.pax.json
+    fileType: paxJson
+    filePath: trapeze/trapeze_v01.pax.json
+    fileSize: 19942
+    createdAt: 2025-01-14T19:40:44.552Z
+    updatedAt: 2025-01-14T19:40:44.552Z
+  - fileName: trapeze_v01.log.txt
+    fileType: txtLog
+    filePath: trapeze/trapeze_v01.log.txt
+    fileSize: 155
+    createdAt: 2025-01-14T19:40:44.553Z
+    updatedAt: 2025-01-14T19:40:44.553Z
+  - fileName: trapeze_v01.js
+    fileType: jsCad
+    filePath: trapeze/trapeze_v01.js
+    fileSize: 36130
+    createdAt: 2025-01-14T19:40:44.553Z
+    updatedAt: 2025-01-14T19:40:44.553Z
+  - fileName: px_trapeze_v01.json
+    fileType: pxJson
+    filePath: trapeze/px_trapeze_v01.json
+    fileSize: 440
+    createdAt: 2025-01-14T19:40:44.555Z
+    updatedAt: 2025-01-14T19:40:44.555Z

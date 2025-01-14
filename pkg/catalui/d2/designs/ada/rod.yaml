@@ -1,0 +1,105 @@
+description: ""
+tags: []
+owner: ada
+createdAt: 2025-01-14T19:40:44.610Z
+updatedAt: 2025-01-14T19:40:44.638Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: rod_v01_oscad.stl
+    fileType: stl
+    filePath: rod/rod_v01_oscad.stl
+    fileSize: 1353539
+    createdAt: 2025-01-14T19:40:44.613Z
+    updatedAt: 2025-01-14T19:40:44.613Z
+  - fileName: rod_v01_jscad.stl
+    fileType: stl
+    filePath: rod/rod_v01_jscad.stl
+    fileSize: 617684
+    createdAt: 2025-01-14T19:40:44.614Z
+    updatedAt: 2025-01-14T19:40:44.614Z
+  - fileName: rod_v01_fc.stl
+    fileType: stl
+    filePath: rod/rod_v01_fc.stl
+    fileSize: 14726640
+    createdAt: 2025-01-14T19:40:44.630Z
+    updatedAt: 2025-01-14T19:40:44.630Z
+  - fileName: rod_v01_faceTop.svg
+    fileType: svg
+    filePath: rod/rod_v01_faceTop.svg
+    fileSize: 7398
+    createdAt: 2025-01-14T19:40:44.631Z
+    updatedAt: 2025-01-14T19:40:44.631Z
+  - fileName: rod_v01_faceTop.dxf
+    fileType: dxf
+    filePath: rod/rod_v01_faceTop.dxf
+    fileSize: 7044
+    createdAt: 2025-01-14T19:40:44.631Z
+    updatedAt: 2025-01-14T19:40:44.631Z
+  - fileName: rod_v01_facePlate.svg
+    fileType: svg
+    filePath: rod/rod_v01_facePlate.svg
+    fileSize: 1118
+    createdAt: 2025-01-14T19:40:44.632Z
+    updatedAt: 2025-01-14T19:40:44.632Z
+  - fileName: rod_v01_facePlate.dxf
+    fileType: dxf
+    filePath: rod/rod_v01_facePlate.dxf
+    fileSize: 1016
+    createdAt: 2025-01-14T19:40:44.633Z
+    updatedAt: 2025-01-14T19:40:44.633Z
+  - fileName: rod_v01_faceCut.svg
+    fileType: svg
+    filePath: rod/rod_v01_faceCut.svg
+    fileSize: 377
+    createdAt: 2025-01-14T19:40:44.633Z
+    updatedAt: 2025-01-14T19:40:44.633Z
+  - fileName: rod_v01_faceCut.dxf
+    fileType: dxf
+    filePath: rod/rod_v01_faceCut.dxf
+    fileSize: 532
+    createdAt: 2025-01-14T19:40:44.634Z
+    updatedAt: 2025-01-14T19:40:44.634Z
+  - fileName: rod_v01.scad
+    fileType: scad
+    filePath: rod/rod_v01.scad
+    fileSize: 72577
+    createdAt: 2025-01-14T19:40:44.635Z
+    updatedAt: 2025-01-14T19:40:44.635Z
+  - fileName: rod_v01.py
+    fileType: pyFreecad
+    filePath: rod/rod_v01.py
+    fileSize: 30382
+    createdAt: 2025-01-14T19:40:44.636Z
+    updatedAt: 2025-01-14T19:40:44.636Z
+  - fileName: rod_v01.pax.json
+    fileType: paxJson
+    filePath: rod/rod_v01.pax.json
+    fileSize: 25200
+    createdAt: 2025-01-14T19:40:44.636Z
+    updatedAt: 2025-01-14T19:40:44.636Z
+  - fileName: rod_v01.log.txt
+    fileType: txtLog
+    filePath: rod/rod_v01.log.txt
+    fileSize: 94
+    createdAt: 2025-01-14T19:40:44.637Z
+    updatedAt: 2025-01-14T19:40:44.637Z
+  - fileName: rod_v01.js
+    fileType: jsCad
+    filePath: rod/rod_v01.js
+    fileSize: 66769
+    createdAt: 2025-01-14T19:40:44.637Z
+    updatedAt: 2025-01-14T19:40:44.637Z
+  - fileName: px_rod_v01.json
+    fileType: pxJson
+    filePath: rod/px_rod_v01.json
+    fileSize: 296
+    createdAt: 2025-01-14T19:40:44.638Z
+    updatedAt: 2025-01-14T19:40:44.638Z

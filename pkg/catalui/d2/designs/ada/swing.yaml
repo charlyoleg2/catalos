@@ -1,0 +1,129 @@
+description: ""
+tags: []
+owner: ada
+createdAt: 2025-01-14T19:40:44.557Z
+updatedAt: 2025-01-14T19:40:44.578Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: swing_v01_oscad.stl
+    fileType: stl
+    filePath: swing/swing_v01_oscad.stl
+    fileSize: 450322
+    createdAt: 2025-01-14T19:40:44.560Z
+    updatedAt: 2025-01-14T19:40:44.560Z
+  - fileName: swing_v01_jscad.stl
+    fileType: stl
+    filePath: swing/swing_v01_jscad.stl
+    fileSize: 294084
+    createdAt: 2025-01-14T19:40:44.562Z
+    updatedAt: 2025-01-14T19:40:44.562Z
+  - fileName: swing_v01_fc.stl
+    fileType: stl
+    filePath: swing/swing_v01_fc.stl
+    fileSize: 2657528
+    createdAt: 2025-01-14T19:40:44.566Z
+    updatedAt: 2025-01-14T19:40:44.566Z
+  - fileName: swing_v01_faceTopWithRods.svg
+    fileType: svg
+    filePath: swing/swing_v01_faceTopWithRods.svg
+    fileSize: 2506
+    createdAt: 2025-01-14T19:40:44.567Z
+    updatedAt: 2025-01-14T19:40:44.567Z
+  - fileName: swing_v01_faceTopWithRods.dxf
+    fileType: dxf
+    filePath: swing/swing_v01_faceTopWithRods.dxf
+    fileSize: 4180
+    createdAt: 2025-01-14T19:40:44.568Z
+    updatedAt: 2025-01-14T19:40:44.568Z
+  - fileName: swing_v01_faceTop.svg
+    fileType: svg
+    filePath: swing/swing_v01_faceTop.svg
+    fileSize: 89
+    createdAt: 2025-01-14T19:40:44.568Z
+    updatedAt: 2025-01-14T19:40:44.568Z
+  - fileName: swing_v01_faceTop.dxf
+    fileType: dxf
+    filePath: swing/swing_v01_faceTop.dxf
+    fileSize: 36
+    createdAt: 2025-01-14T19:40:44.569Z
+    updatedAt: 2025-01-14T19:40:44.569Z
+  - fileName: swing_v01_faceSide.svg
+    fileType: svg
+    filePath: swing/swing_v01_faceSide.svg
+    fileSize: 1495
+    createdAt: 2025-01-14T19:40:44.570Z
+    updatedAt: 2025-01-14T19:40:44.570Z
+  - fileName: swing_v01_faceSide.dxf
+    fileType: dxf
+    filePath: swing/swing_v01_faceSide.dxf
+    fileSize: 2221
+    createdAt: 2025-01-14T19:40:44.570Z
+    updatedAt: 2025-01-14T19:40:44.570Z
+  - fileName: swing_v01_faceFace.svg
+    fileType: svg
+    filePath: swing/swing_v01_faceFace.svg
+    fileSize: 3165
+    createdAt: 2025-01-14T19:40:44.571Z
+    updatedAt: 2025-01-14T19:40:44.571Z
+  - fileName: swing_v01_faceFace.dxf
+    fileType: dxf
+    filePath: swing/swing_v01_faceFace.dxf
+    fileSize: 5332
+    createdAt: 2025-01-14T19:40:44.572Z
+    updatedAt: 2025-01-14T19:40:44.572Z
+  - fileName: swing_v01_faceButtress.svg
+    fileType: svg
+    filePath: swing/swing_v01_faceButtress.svg
+    fileSize: 508
+    createdAt: 2025-01-14T19:40:44.572Z
+    updatedAt: 2025-01-14T19:40:44.572Z
+  - fileName: swing_v01_faceButtress.dxf
+    fileType: dxf
+    filePath: swing/swing_v01_faceButtress.dxf
+    fileSize: 764
+    createdAt: 2025-01-14T19:40:44.573Z
+    updatedAt: 2025-01-14T19:40:44.573Z
+  - fileName: swing_v01.scad
+    fileType: scad
+    filePath: swing/swing_v01.scad
+    fileSize: 16624
+    createdAt: 2025-01-14T19:40:44.574Z
+    updatedAt: 2025-01-14T19:40:44.574Z
+  - fileName: swing_v01.py
+    fileType: pyFreecad
+    filePath: swing/swing_v01.py
+    fileSize: 38234
+    createdAt: 2025-01-14T19:40:44.575Z
+    updatedAt: 2025-01-14T19:40:44.575Z
+  - fileName: swing_v01.pax.json
+    fileType: paxJson
+    filePath: swing/swing_v01.pax.json
+    fileSize: 38047
+    createdAt: 2025-01-14T19:40:44.575Z
+    updatedAt: 2025-01-14T19:40:44.575Z
+  - fileName: swing_v01.log.txt
+    fileType: txtLog
+    filePath: swing/swing_v01.log.txt
+    fileSize: 267
+    createdAt: 2025-01-14T19:40:44.576Z
+    updatedAt: 2025-01-14T19:40:44.576Z
+  - fileName: swing_v01.js
+    fileType: jsCad
+    filePath: swing/swing_v01.js
+    fileSize: 18791
+    createdAt: 2025-01-14T19:40:44.577Z
+    updatedAt: 2025-01-14T19:40:44.577Z
+  - fileName: px_swing_v01.json
+    fileType: pxJson
+    filePath: swing/px_swing_v01.json
+    fileSize: 469
+    createdAt: 2025-01-14T19:40:44.578Z
+    updatedAt: 2025-01-14T19:40:44.578Z

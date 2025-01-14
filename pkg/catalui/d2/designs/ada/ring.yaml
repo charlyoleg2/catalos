@@ -1,0 +1,105 @@
+description: ""
+tags: []
+owner: ada
+createdAt: 2025-01-14T19:40:44.657Z
+updatedAt: 2025-01-14T19:40:44.675Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: ring_v01_oscad.stl
+    fileType: stl
+    filePath: ring/ring_v01_oscad.stl
+    fileSize: 625921
+    createdAt: 2025-01-14T19:40:44.660Z
+    updatedAt: 2025-01-14T19:40:44.660Z
+  - fileName: ring_v01_jscad.stl
+    fileType: stl
+    filePath: ring/ring_v01_jscad.stl
+    fileSize: 298984
+    createdAt: 2025-01-14T19:40:44.661Z
+    updatedAt: 2025-01-14T19:40:44.661Z
+  - fileName: ring_v01_fc.stl
+    fileType: stl
+    filePath: ring/ring_v01_fc.stl
+    fileSize: 6110472
+    createdAt: 2025-01-14T19:40:44.667Z
+    updatedAt: 2025-01-14T19:40:44.667Z
+  - fileName: ring_v01_faceSection.svg
+    fileType: svg
+    filePath: ring/ring_v01_faceSection.svg
+    fileSize: 279
+    createdAt: 2025-01-14T19:40:44.668Z
+    updatedAt: 2025-01-14T19:40:44.668Z
+  - fileName: ring_v01_faceSection.dxf
+    fileType: dxf
+    filePath: ring/ring_v01_faceSection.dxf
+    fileSize: 420
+    createdAt: 2025-01-14T19:40:44.668Z
+    updatedAt: 2025-01-14T19:40:44.668Z
+  - fileName: ring_v01_faceRingTeeth.svg
+    fileType: svg
+    filePath: ring/ring_v01_faceRingTeeth.svg
+    fileSize: 1362
+    createdAt: 2025-01-14T19:40:44.669Z
+    updatedAt: 2025-01-14T19:40:44.669Z
+  - fileName: ring_v01_faceRingTeeth.dxf
+    fileType: dxf
+    filePath: ring/ring_v01_faceRingTeeth.dxf
+    fileSize: 3976
+    createdAt: 2025-01-14T19:40:44.670Z
+    updatedAt: 2025-01-14T19:40:44.670Z
+  - fileName: ring_v01_faceRingBase.svg
+    fileType: svg
+    filePath: ring/ring_v01_faceRingBase.svg
+    fileSize: 2453
+    createdAt: 2025-01-14T19:40:44.670Z
+    updatedAt: 2025-01-14T19:40:44.670Z
+  - fileName: ring_v01_faceRingBase.dxf
+    fileType: dxf
+    filePath: ring/ring_v01_faceRingBase.dxf
+    fileSize: 1433
+    createdAt: 2025-01-14T19:40:44.671Z
+    updatedAt: 2025-01-14T19:40:44.671Z
+  - fileName: ring_v01.scad
+    fileType: scad
+    filePath: ring/ring_v01.scad
+    fileSize: 31685
+    createdAt: 2025-01-14T19:40:44.672Z
+    updatedAt: 2025-01-14T19:40:44.672Z
+  - fileName: ring_v01.py
+    fileType: pyFreecad
+    filePath: ring/ring_v01.py
+    fileSize: 15943
+    createdAt: 2025-01-14T19:40:44.672Z
+    updatedAt: 2025-01-14T19:40:44.672Z
+  - fileName: ring_v01.pax.json
+    fileType: paxJson
+    filePath: ring/ring_v01.pax.json
+    fileSize: 16405
+    createdAt: 2025-01-14T19:40:44.673Z
+    updatedAt: 2025-01-14T19:40:44.673Z
+  - fileName: ring_v01.log.txt
+    fileType: txtLog
+    filePath: ring/ring_v01.log.txt
+    fileSize: 63
+    createdAt: 2025-01-14T19:40:44.674Z
+    updatedAt: 2025-01-14T19:40:44.674Z
+  - fileName: ring_v01.js
+    fileType: jsCad
+    filePath: ring/ring_v01.js
+    fileSize: 29438
+    createdAt: 2025-01-14T19:40:44.674Z
+    updatedAt: 2025-01-14T19:40:44.674Z
+  - fileName: px_ring_v01.json
+    fileType: pxJson
+    filePath: ring/px_ring_v01.json
+    fileSize: 273
+    createdAt: 2025-01-14T19:40:44.675Z
+    updatedAt: 2025-01-14T19:40:44.675Z

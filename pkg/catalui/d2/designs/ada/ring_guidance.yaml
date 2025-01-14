@@ -1,0 +1,93 @@
+description: ""
+tags: []
+owner: ada
+createdAt: 2025-01-14T19:40:44.640Z
+updatedAt: 2025-01-14T19:40:44.656Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: ring_guidance_v01_oscad.stl
+    fileType: stl
+    filePath: ring_guidance/ring_guidance_v01_oscad.stl
+    fileSize: 465616
+    createdAt: 2025-01-14T19:40:44.641Z
+    updatedAt: 2025-01-14T19:40:44.641Z
+  - fileName: ring_guidance_v01_jscad.stl
+    fileType: stl
+    filePath: ring_guidance/ring_guidance_v01_jscad.stl
+    fileSize: 145284
+    createdAt: 2025-01-14T19:40:44.643Z
+    updatedAt: 2025-01-14T19:40:44.643Z
+  - fileName: ring_guidance_v01_fc.stl
+    fileType: stl
+    filePath: ring_guidance/ring_guidance_v01_fc.stl
+    fileSize: 4656228
+    createdAt: 2025-01-14T19:40:44.648Z
+    updatedAt: 2025-01-14T19:40:44.648Z
+  - fileName: ring_guidance_v01_faceTop.svg
+    fileType: svg
+    filePath: ring_guidance/ring_guidance_v01_faceTop.svg
+    fileSize: 2703
+    createdAt: 2025-01-14T19:40:44.649Z
+    updatedAt: 2025-01-14T19:40:44.649Z
+  - fileName: ring_guidance_v01_faceTop.dxf
+    fileType: dxf
+    filePath: ring_guidance/ring_guidance_v01_faceTop.dxf
+    fileSize: 3429
+    createdAt: 2025-01-14T19:40:44.650Z
+    updatedAt: 2025-01-14T19:40:44.650Z
+  - fileName: ring_guidance_v01_faceSection.svg
+    fileType: svg
+    filePath: ring_guidance/ring_guidance_v01_faceSection.svg
+    fileSize: 383
+    createdAt: 2025-01-14T19:40:44.651Z
+    updatedAt: 2025-01-14T19:40:44.651Z
+  - fileName: ring_guidance_v01_faceSection.dxf
+    fileType: dxf
+    filePath: ring_guidance/ring_guidance_v01_faceSection.dxf
+    fileSize: 540
+    createdAt: 2025-01-14T19:40:44.652Z
+    updatedAt: 2025-01-14T19:40:44.652Z
+  - fileName: ring_guidance_v01.scad
+    fileType: scad
+    filePath: ring_guidance/ring_guidance_v01.scad
+    fileSize: 22259
+    createdAt: 2025-01-14T19:40:44.653Z
+    updatedAt: 2025-01-14T19:40:44.653Z
+  - fileName: ring_guidance_v01.py
+    fileType: pyFreecad
+    filePath: ring_guidance/ring_guidance_v01.py
+    fileSize: 11479
+    createdAt: 2025-01-14T19:40:44.653Z
+    updatedAt: 2025-01-14T19:40:44.653Z
+  - fileName: ring_guidance_v01.pax.json
+    fileType: paxJson
+    filePath: ring_guidance/ring_guidance_v01.pax.json
+    fileSize: 14725
+    createdAt: 2025-01-14T19:40:44.654Z
+    updatedAt: 2025-01-14T19:40:44.654Z
+  - fileName: ring_guidance_v01.log.txt
+    fileType: txtLog
+    filePath: ring_guidance/ring_guidance_v01.log.txt
+    fileSize: 88
+    createdAt: 2025-01-14T19:40:44.654Z
+    updatedAt: 2025-01-14T19:40:44.654Z
+  - fileName: ring_guidance_v01.js
+    fileType: jsCad
+    filePath: ring_guidance/ring_guidance_v01.js
+    fileSize: 20774
+    createdAt: 2025-01-14T19:40:44.655Z
+    updatedAt: 2025-01-14T19:40:44.655Z
+  - fileName: px_ring_guidance_v01.json
+    fileType: pxJson
+    filePath: ring_guidance/px_ring_guidance_v01.json
+    fileSize: 317
+    createdAt: 2025-01-14T19:40:44.656Z
+    updatedAt: 2025-01-14T19:40:44.656Z

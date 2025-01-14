@@ -1,0 +1,69 @@
+description: ""
+tags: []
+owner: ada
+createdAt: 2025-01-14T19:40:44.678Z
+updatedAt: 2025-01-14T19:40:44.691Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: rake_stopper_v01_oscad.stl
+    fileType: stl
+    filePath: rake_stopper/rake_stopper_v01_oscad.stl
+    fileSize: 2275848
+    createdAt: 2025-01-14T19:40:44.682Z
+    updatedAt: 2025-01-14T19:40:44.682Z
+  - fileName: rake_stopper_v01_jscad.stl
+    fileType: stl
+    filePath: rake_stopper/rake_stopper_v01_jscad.stl
+    fileSize: 984884
+    createdAt: 2025-01-14T19:40:44.684Z
+    updatedAt: 2025-01-14T19:40:44.684Z
+  - fileName: rake_stopper_v01.stl
+    fileType: stl
+    filePath: rake_stopper/rake_stopper_v01.stl
+    fileSize: 1254344
+    createdAt: 2025-01-14T19:40:44.686Z
+    updatedAt: 2025-01-14T19:40:44.686Z
+  - fileName: rake_stopper_v01.scad
+    fileType: scad
+    filePath: rake_stopper/rake_stopper_v01.scad
+    fileSize: 113401
+    createdAt: 2025-01-14T19:40:44.687Z
+    updatedAt: 2025-01-14T19:40:44.687Z
+  - fileName: rake_stopper_v01.py
+    fileType: pyFreecad
+    filePath: rake_stopper/rake_stopper_v01.py
+    fileSize: 63557
+    createdAt: 2025-01-14T19:40:44.687Z
+    updatedAt: 2025-01-14T19:40:44.687Z
+  - fileName: rake_stopper_v01.pax.json
+    fileType: paxJson
+    filePath: rake_stopper/rake_stopper_v01.pax.json
+    fileSize: 1299012
+    createdAt: 2025-01-14T19:40:44.689Z
+    updatedAt: 2025-01-14T19:40:44.689Z
+  - fileName: rake_stopper_v01.log.txt
+    fileType: txtLog
+    filePath: rake_stopper/rake_stopper_v01.log.txt
+    fileSize: 560
+    createdAt: 2025-01-14T19:40:44.690Z
+    updatedAt: 2025-01-14T19:40:44.690Z
+  - fileName: rake_stopper_v01.js
+    fileType: jsCad
+    filePath: rake_stopper/rake_stopper_v01.js
+    fileSize: 107222
+    createdAt: 2025-01-14T19:40:44.691Z
+    updatedAt: 2025-01-14T19:40:44.691Z
+  - fileName: px_rake_stopper_v01.json
+    fileType: pxJson
+    filePath: rake_stopper/px_rake_stopper_v01.json
+    fileSize: 873
+    createdAt: 2025-01-14T19:40:44.691Z
+    updatedAt: 2025-01-14T19:40:44.691Z

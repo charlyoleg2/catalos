@@ -1,0 +1,107 @@
+description: The base for the static-pole of the heliostat
+tags:
+  - heliostat
+  - model 50cm
+owner: ada
+createdAt: 2025-01-14T19:40:44.877Z
+updatedAt: 2025-01-14T19:40:44.907Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/base
+linkToSrc: https://github.com/charlyoleg2/parametrix
+linkToPkg: https://www.npmjs.com/package/designix
+linkToCli: https://www.npmjs.com/package/designix-cli
+linkToUis: https://www.npmjs.com/package/designix-uis
+linkToRepo: https://github.com/charlyoleg2/heliostat_model_50cm
+linkOthers: []
+files:
+  - fileName: px_base_v01.json
+    fileType: pxJson
+    filePath: base/px_base_v01.json
+    fileSize: 337
+    createdAt: 2025-01-14T19:40:44.880Z
+    updatedAt: 2025-01-14T19:40:44.880Z
+  - fileName: base_v01_oscad.stl
+    fileType: stl
+    filePath: base/base_v01_oscad.stl
+    fileSize: 1484915
+    createdAt: 2025-01-14T19:40:44.883Z
+    updatedAt: 2025-01-14T19:40:44.883Z
+  - fileName: base_v01_jscad.stl
+    fileType: stl
+    filePath: base/base_v01_jscad.stl
+    fileSize: 603734
+    createdAt: 2025-01-14T19:40:44.884Z
+    updatedAt: 2025-01-14T19:40:44.884Z
+  - fileName: base_v01_fc.stl
+    fileType: stl
+    filePath: base/base_v01_fc.stl
+    fileSize: 12805864
+    createdAt: 2025-01-14T19:40:44.897Z
+    updatedAt: 2025-01-14T19:40:44.897Z
+  - fileName: base_v01_faceTop.svg
+    fileType: svg
+    filePath: base/base_v01_faceTop.svg
+    fileSize: 3209
+    createdAt: 2025-01-14T19:40:44.898Z
+    updatedAt: 2025-01-14T19:40:44.898Z
+  - fileName: base_v01_faceTop.dxf
+    fileType: dxf
+    filePath: base/base_v01_faceTop.dxf
+    fileSize: 1889
+    createdAt: 2025-01-14T19:40:44.900Z
+    updatedAt: 2025-01-14T19:40:44.900Z
+  - fileName: base_v01_faceHollow.svg
+    fileType: svg
+    filePath: base/base_v01_faceHollow.svg
+    fileSize: 275
+    createdAt: 2025-01-14T19:40:44.900Z
+    updatedAt: 2025-01-14T19:40:44.900Z
+  - fileName: base_v01_faceHollow.dxf
+    fileType: dxf
+    filePath: base/base_v01_faceHollow.dxf
+    fileSize: 306
+    createdAt: 2025-01-14T19:40:44.901Z
+    updatedAt: 2025-01-14T19:40:44.901Z
+  - fileName: base_v01_faceCut.svg
+    fileType: svg
+    filePath: base/base_v01_faceCut.svg
+    fileSize: 309
+    createdAt: 2025-01-14T19:40:44.903Z
+    updatedAt: 2025-01-14T19:40:44.903Z
+  - fileName: base_v01_faceCut.dxf
+    fileType: dxf
+    filePath: base/base_v01_faceCut.dxf
+    fileSize: 536
+    createdAt: 2025-01-14T19:40:44.903Z
+    updatedAt: 2025-01-14T19:40:44.903Z
+  - fileName: base_v01.scad
+    fileType: scad
+    filePath: base/base_v01.scad
+    fileSize: 43653
+    createdAt: 2025-01-14T19:40:44.905Z
+    updatedAt: 2025-01-14T19:40:44.905Z
+  - fileName: base_v01.py
+    fileType: pyFreecad
+    filePath: base/base_v01.py
+    fileSize: 20993
+    createdAt: 2025-01-14T19:40:44.905Z
+    updatedAt: 2025-01-14T19:40:44.905Z
+  - fileName: base_v01.pax.json
+    fileType: paxJson
+    filePath: base/base_v01.pax.json
+    fileSize: 17375
+    createdAt: 2025-01-14T19:40:44.906Z
+    updatedAt: 2025-01-14T19:40:44.906Z
+  - fileName: base_v01.log.txt
+    fileType: txtLog
+    filePath: base/base_v01.log.txt
+    fileSize: 128
+    createdAt: 2025-01-14T19:40:44.906Z
+    updatedAt: 2025-01-14T19:40:44.906Z
+  - fileName: base_v01.js
+    fileType: jsCad
+    filePath: base/base_v01.js
+    fileSize: 40602
+    createdAt: 2025-01-14T19:40:44.907Z
+    updatedAt: 2025-01-14T19:40:44.907Z

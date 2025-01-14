@@ -1,0 +1,93 @@
+description: ""
+tags: []
+owner: ada
+createdAt: 2025-01-14T19:40:44.494Z
+updatedAt: 2025-01-14T19:40:44.523Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: vaxis_v01_oscad.stl
+    fileType: stl
+    filePath: vaxis/vaxis_v01_oscad.stl
+    fileSize: 1259846
+    createdAt: 2025-01-14T19:40:44.498Z
+    updatedAt: 2025-01-14T19:40:44.498Z
+  - fileName: vaxis_v01_jscad.stl
+    fileType: stl
+    filePath: vaxis/vaxis_v01_jscad.stl
+    fileSize: 592484
+    createdAt: 2025-01-14T19:40:44.499Z
+    updatedAt: 2025-01-14T19:40:44.499Z
+  - fileName: vaxis_v01_fc.stl
+    fileType: stl
+    filePath: vaxis/vaxis_v01_fc.stl
+    fileSize: 12099488
+    createdAt: 2025-01-14T19:40:44.515Z
+    updatedAt: 2025-01-14T19:40:44.515Z
+  - fileName: vaxis_v01_faceCut.svg
+    fileType: svg
+    filePath: vaxis/vaxis_v01_faceCut.svg
+    fileSize: 243
+    createdAt: 2025-01-14T19:40:44.517Z
+    updatedAt: 2025-01-14T19:40:44.517Z
+  - fileName: vaxis_v01_faceCut.dxf
+    fileType: dxf
+    filePath: vaxis/vaxis_v01_faceCut.dxf
+    fileSize: 292
+    createdAt: 2025-01-14T19:40:44.518Z
+    updatedAt: 2025-01-14T19:40:44.518Z
+  - fileName: vaxis_v01_faceBottom.svg
+    fileType: svg
+    filePath: vaxis/vaxis_v01_faceBottom.svg
+    fileSize: 2453
+    createdAt: 2025-01-14T19:40:44.518Z
+    updatedAt: 2025-01-14T19:40:44.518Z
+  - fileName: vaxis_v01_faceBottom.dxf
+    fileType: dxf
+    filePath: vaxis/vaxis_v01_faceBottom.dxf
+    fileSize: 1433
+    createdAt: 2025-01-14T19:40:44.519Z
+    updatedAt: 2025-01-14T19:40:44.519Z
+  - fileName: vaxis_v01.scad
+    fileType: scad
+    filePath: vaxis/vaxis_v01.scad
+    fileSize: 26615
+    createdAt: 2025-01-14T19:40:44.520Z
+    updatedAt: 2025-01-14T19:40:44.520Z
+  - fileName: vaxis_v01.py
+    fileType: pyFreecad
+    filePath: vaxis/vaxis_v01.py
+    fileSize: 10491
+    createdAt: 2025-01-14T19:40:44.520Z
+    updatedAt: 2025-01-14T19:40:44.520Z
+  - fileName: vaxis_v01.pax.json
+    fileType: paxJson
+    filePath: vaxis/vaxis_v01.pax.json
+    fileSize: 7615
+    createdAt: 2025-01-14T19:40:44.521Z
+    updatedAt: 2025-01-14T19:40:44.521Z
+  - fileName: vaxis_v01.log.txt
+    fileType: txtLog
+    filePath: vaxis/vaxis_v01.log.txt
+    fileSize: 68
+    createdAt: 2025-01-14T19:40:44.522Z
+    updatedAt: 2025-01-14T19:40:44.522Z
+  - fileName: vaxis_v01.js
+    fileType: jsCad
+    filePath: vaxis/vaxis_v01.js
+    fileSize: 24803
+    createdAt: 2025-01-14T19:40:44.522Z
+    updatedAt: 2025-01-14T19:40:44.522Z
+  - fileName: px_vaxis_v01.json
+    fileType: pxJson
+    filePath: vaxis/px_vaxis_v01.json
+    fileSize: 222
+    createdAt: 2025-01-14T19:40:44.523Z
+    updatedAt: 2025-01-14T19:40:44.523Z

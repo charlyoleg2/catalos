@@ -1,0 +1,105 @@
+description: ""
+tags: []
+owner: ada
+createdAt: 2025-01-14T19:40:44.595Z
+updatedAt: 2025-01-14T19:40:44.607Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: spider_v01_oscad.stl
+    fileType: stl
+    filePath: spider/spider_v01_oscad.stl
+    fileSize: 438453
+    createdAt: 2025-01-14T19:40:44.598Z
+    updatedAt: 2025-01-14T19:40:44.598Z
+  - fileName: spider_v01_jscad.stl
+    fileType: stl
+    filePath: spider/spider_v01_jscad.stl
+    fileSize: 84
+    createdAt: 2025-01-14T19:40:44.598Z
+    updatedAt: 2025-01-14T19:40:44.598Z
+  - fileName: spider_v01_fc.stl
+    fileType: stl
+    filePath: spider/spider_v01_fc.stl
+    fileSize: 1221500
+    createdAt: 2025-01-14T19:40:44.600Z
+    updatedAt: 2025-01-14T19:40:44.600Z
+  - fileName: spider_v01_faceTube.svg
+    fileType: svg
+    filePath: spider/spider_v01_faceTube.svg
+    fileSize: 879
+    createdAt: 2025-01-14T19:40:44.601Z
+    updatedAt: 2025-01-14T19:40:44.601Z
+  - fileName: spider_v01_faceTube.dxf
+    fileType: dxf
+    filePath: spider/spider_v01_faceTube.dxf
+    fileSize: 1212
+    createdAt: 2025-01-14T19:40:44.602Z
+    updatedAt: 2025-01-14T19:40:44.602Z
+  - fileName: spider_v01_faceLegs.svg
+    fileType: svg
+    filePath: spider/spider_v01_faceLegs.svg
+    fileSize: 585
+    createdAt: 2025-01-14T19:40:44.602Z
+    updatedAt: 2025-01-14T19:40:44.602Z
+  - fileName: spider_v01_faceLegs.dxf
+    fileType: dxf
+    filePath: spider/spider_v01_faceLegs.dxf
+    fileSize: 1033
+    createdAt: 2025-01-14T19:40:44.603Z
+    updatedAt: 2025-01-14T19:40:44.603Z
+  - fileName: spider_v01_faceBody.svg
+    fileType: svg
+    filePath: spider/spider_v01_faceBody.svg
+    fileSize: 89
+    createdAt: 2025-01-14T19:40:44.603Z
+    updatedAt: 2025-01-14T19:40:44.603Z
+  - fileName: spider_v01_faceBody.dxf
+    fileType: dxf
+    filePath: spider/spider_v01_faceBody.dxf
+    fileSize: 36
+    createdAt: 2025-01-14T19:40:44.604Z
+    updatedAt: 2025-01-14T19:40:44.604Z
+  - fileName: spider_v01.scad
+    fileType: scad
+    filePath: spider/spider_v01.scad
+    fileSize: 6361
+    createdAt: 2025-01-14T19:40:44.604Z
+    updatedAt: 2025-01-14T19:40:44.604Z
+  - fileName: spider_v01.py
+    fileType: pyFreecad
+    filePath: spider/spider_v01.py
+    fileSize: 9249
+    createdAt: 2025-01-14T19:40:44.605Z
+    updatedAt: 2025-01-14T19:40:44.605Z
+  - fileName: spider_v01.pax.json
+    fileType: paxJson
+    filePath: spider/spider_v01.pax.json
+    fileSize: 11585
+    createdAt: 2025-01-14T19:40:44.605Z
+    updatedAt: 2025-01-14T19:40:44.605Z
+  - fileName: spider_v01.log.txt
+    fileType: txtLog
+    filePath: spider/spider_v01.log.txt
+    fileSize: 109
+    createdAt: 2025-01-14T19:40:44.606Z
+    updatedAt: 2025-01-14T19:40:44.606Z
+  - fileName: spider_v01.js
+    fileType: jsCad
+    filePath: spider/spider_v01.js
+    fileSize: 6707
+    createdAt: 2025-01-14T19:40:44.607Z
+    updatedAt: 2025-01-14T19:40:44.607Z
+  - fileName: px_spider_v01.json
+    fileType: pxJson
+    filePath: spider/px_spider_v01.json
+    fileSize: 299
+    createdAt: 2025-01-14T19:40:44.607Z
+    updatedAt: 2025-01-14T19:40:44.607Z

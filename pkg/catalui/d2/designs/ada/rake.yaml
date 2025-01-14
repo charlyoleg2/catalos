@@ -1,0 +1,177 @@
+description: ""
+tags: []
+owner: ada
+createdAt: 2025-01-14T19:40:44.693Z
+updatedAt: 2025-01-14T19:40:44.721Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: rake_v01_oscad.stl
+    fileType: stl
+    filePath: rake/rake_v01_oscad.stl
+    fileSize: 1279241
+    createdAt: 2025-01-14T19:40:44.698Z
+    updatedAt: 2025-01-14T19:40:44.698Z
+  - fileName: rake_v01_jscad.stl
+    fileType: stl
+    filePath: rake/rake_v01_jscad.stl
+    fileSize: 369234
+    createdAt: 2025-01-14T19:40:44.700Z
+    updatedAt: 2025-01-14T19:40:44.700Z
+  - fileName: rake_v01_faceWingHollow.svg
+    fileType: svg
+    filePath: rake/rake_v01_faceWingHollow.svg
+    fileSize: 180
+    createdAt: 2025-01-14T19:40:44.702Z
+    updatedAt: 2025-01-14T19:40:44.702Z
+  - fileName: rake_v01_faceWingHollow.dxf
+    fileType: dxf
+    filePath: rake/rake_v01_faceWingHollow.dxf
+    fileSize: 88
+    createdAt: 2025-01-14T19:40:44.703Z
+    updatedAt: 2025-01-14T19:40:44.703Z
+  - fileName: rake_v01_faceWing.svg
+    fileType: svg
+    filePath: rake/rake_v01_faceWing.svg
+    fileSize: 269
+    createdAt: 2025-01-14T19:40:44.704Z
+    updatedAt: 2025-01-14T19:40:44.704Z
+  - fileName: rake_v01_faceWing.dxf
+    fileType: dxf
+    filePath: rake/rake_v01_faceWing.dxf
+    fileSize: 140
+    createdAt: 2025-01-14T19:40:44.704Z
+    updatedAt: 2025-01-14T19:40:44.704Z
+  - fileName: rake_v01_faceHand.svg
+    fileType: svg
+    filePath: rake/rake_v01_faceHand.svg
+    fileSize: 329
+    createdAt: 2025-01-14T19:40:44.705Z
+    updatedAt: 2025-01-14T19:40:44.705Z
+  - fileName: rake_v01_faceHand.dxf
+    fileType: dxf
+    filePath: rake/rake_v01_faceHand.dxf
+    fileSize: 454
+    createdAt: 2025-01-14T19:40:44.705Z
+    updatedAt: 2025-01-14T19:40:44.705Z
+  - fileName: rake_v01_faceDoor.svg
+    fileType: svg
+    filePath: rake/rake_v01_faceDoor.svg
+    fileSize: 390
+    createdAt: 2025-01-14T19:40:44.706Z
+    updatedAt: 2025-01-14T19:40:44.706Z
+  - fileName: rake_v01_faceDoor.dxf
+    fileType: dxf
+    filePath: rake/rake_v01_faceDoor.dxf
+    fileSize: 582
+    createdAt: 2025-01-14T19:40:44.707Z
+    updatedAt: 2025-01-14T19:40:44.707Z
+  - fileName: rake_v01_faceDisc.svg
+    fileType: svg
+    filePath: rake/rake_v01_faceDisc.svg
+    fileSize: 2453
+    createdAt: 2025-01-14T19:40:44.707Z
+    updatedAt: 2025-01-14T19:40:44.707Z
+  - fileName: rake_v01_faceDisc.dxf
+    fileType: dxf
+    filePath: rake/rake_v01_faceDisc.dxf
+    fileSize: 1433
+    createdAt: 2025-01-14T19:40:44.708Z
+    updatedAt: 2025-01-14T19:40:44.708Z
+  - fileName: rake_v01_faceConeHollow.svg
+    fileType: svg
+    filePath: rake/rake_v01_faceConeHollow.svg
+    fileSize: 253
+    createdAt: 2025-01-14T19:40:44.708Z
+    updatedAt: 2025-01-14T19:40:44.708Z
+  - fileName: rake_v01_faceConeHollow.dxf
+    fileType: dxf
+    filePath: rake/rake_v01_faceConeHollow.dxf
+    fileSize: 346
+    createdAt: 2025-01-14T19:40:44.709Z
+    updatedAt: 2025-01-14T19:40:44.709Z
+  - fileName: rake_v01_faceCone.svg
+    fileType: svg
+    filePath: rake/rake_v01_faceCone.svg
+    fileSize: 280
+    createdAt: 2025-01-14T19:40:44.710Z
+    updatedAt: 2025-01-14T19:40:44.710Z
+  - fileName: rake_v01_faceCone.dxf
+    fileType: dxf
+    filePath: rake/rake_v01_faceCone.dxf
+    fileSize: 418
+    createdAt: 2025-01-14T19:40:44.711Z
+    updatedAt: 2025-01-14T19:40:44.711Z
+  - fileName: rake_v01_faceBeamHollow.svg
+    fileType: svg
+    filePath: rake/rake_v01_faceBeamHollow.svg
+    fileSize: 184
+    createdAt: 2025-01-14T19:40:44.713Z
+    updatedAt: 2025-01-14T19:40:44.713Z
+  - fileName: rake_v01_faceBeamHollow.dxf
+    fileType: dxf
+    filePath: rake/rake_v01_faceBeamHollow.dxf
+    fileSize: 91
+    createdAt: 2025-01-14T19:40:44.714Z
+    updatedAt: 2025-01-14T19:40:44.714Z
+  - fileName: rake_v01_faceBeam.svg
+    fileType: svg
+    filePath: rake/rake_v01_faceBeam.svg
+    fileSize: 276
+    createdAt: 2025-01-14T19:40:44.715Z
+    updatedAt: 2025-01-14T19:40:44.715Z
+  - fileName: rake_v01_faceBeam.dxf
+    fileType: dxf
+    filePath: rake/rake_v01_faceBeam.dxf
+    fileSize: 146
+    createdAt: 2025-01-14T19:40:44.715Z
+    updatedAt: 2025-01-14T19:40:44.715Z
+  - fileName: rake_v01.stl
+    fileType: stl
+    filePath: rake/rake_v01.stl
+    fileSize: 740347
+    createdAt: 2025-01-14T19:40:44.717Z
+    updatedAt: 2025-01-14T19:40:44.717Z
+  - fileName: rake_v01.scad
+    fileType: scad
+    filePath: rake/rake_v01.scad
+    fileSize: 38553
+    createdAt: 2025-01-14T19:40:44.718Z
+    updatedAt: 2025-01-14T19:40:44.718Z
+  - fileName: rake_v01.py
+    fileType: pyFreecad
+    filePath: rake/rake_v01.py
+    fileSize: 21664
+    createdAt: 2025-01-14T19:40:44.719Z
+    updatedAt: 2025-01-14T19:40:44.719Z
+  - fileName: rake_v01.pax.json
+    fileType: paxJson
+    filePath: rake/rake_v01.pax.json
+    fileSize: 22122
+    createdAt: 2025-01-14T19:40:44.719Z
+    updatedAt: 2025-01-14T19:40:44.719Z
+  - fileName: rake_v01.log.txt
+    fileType: txtLog
+    filePath: rake/rake_v01.log.txt
+    fileSize: 327
+    createdAt: 2025-01-14T19:40:44.720Z
+    updatedAt: 2025-01-14T19:40:44.720Z
+  - fileName: rake_v01.js
+    fileType: jsCad
+    filePath: rake/rake_v01.js
+    fileSize: 36515
+    createdAt: 2025-01-14T19:40:44.720Z
+    updatedAt: 2025-01-14T19:40:44.720Z
+  - fileName: px_rake_v01.json
+    fileType: pxJson
+    filePath: rake/px_rake_v01.json
+    fileSize: 581
+    createdAt: 2025-01-14T19:40:44.721Z
+    updatedAt: 2025-01-14T19:40:44.721Z

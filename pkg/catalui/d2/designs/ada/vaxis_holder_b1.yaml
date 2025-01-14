@@ -1,0 +1,129 @@
+description: ""
+tags: []
+owner: ada
+createdAt: 2025-01-14T19:40:44.339Z
+updatedAt: 2025-01-14T19:40:44.412Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: vaxis_holder_B1_v01_oscad.stl
+    fileType: stl
+    filePath: vaxis_holder_b1/vaxis_holder_B1_v01_oscad.stl
+    fileSize: 425692
+    createdAt: 2025-01-14T19:40:44.347Z
+    updatedAt: 2025-01-14T19:40:44.347Z
+  - fileName: vaxis_holder_B1_v01_jscad.stl
+    fileType: stl
+    filePath: vaxis_holder_b1/vaxis_holder_B1_v01_jscad.stl
+    fileSize: 185984
+    createdAt: 2025-01-14T19:40:44.352Z
+    updatedAt: 2025-01-14T19:40:44.352Z
+  - fileName: vaxis_holder_B1_v01_fc.stl
+    fileType: stl
+    filePath: vaxis_holder_b1/vaxis_holder_B1_v01_fc.stl
+    fileSize: 5170830
+    createdAt: 2025-01-14T19:40:44.364Z
+    updatedAt: 2025-01-14T19:40:44.364Z
+  - fileName: vaxis_holder_B1_v01_facePetal.svg
+    fileType: svg
+    filePath: vaxis_holder_b1/vaxis_holder_B1_v01_facePetal.svg
+    fileSize: 1972
+    createdAt: 2025-01-14T19:40:44.367Z
+    updatedAt: 2025-01-14T19:40:44.367Z
+  - fileName: vaxis_holder_B1_v01_facePetal.dxf
+    fileType: dxf
+    filePath: vaxis_holder_b1/vaxis_holder_B1_v01_facePetal.dxf
+    fileSize: 2996
+    createdAt: 2025-01-14T19:40:44.370Z
+    updatedAt: 2025-01-14T19:40:44.370Z
+  - fileName: vaxis_holder_B1_v01_faceOuter.svg
+    fileType: svg
+    filePath: vaxis_holder_b1/vaxis_holder_B1_v01_faceOuter.svg
+    fileSize: 308
+    createdAt: 2025-01-14T19:40:44.372Z
+    updatedAt: 2025-01-14T19:40:44.372Z
+  - fileName: vaxis_holder_B1_v01_faceOuter.dxf
+    fileType: dxf
+    filePath: vaxis_holder_b1/vaxis_holder_B1_v01_faceOuter.dxf
+    fileSize: 542
+    createdAt: 2025-01-14T19:40:44.374Z
+    updatedAt: 2025-01-14T19:40:44.374Z
+  - fileName: vaxis_holder_B1_v01_faceButtress2.svg
+    fileType: svg
+    filePath: vaxis_holder_b1/vaxis_holder_B1_v01_faceButtress2.svg
+    fileSize: 233
+    createdAt: 2025-01-14T19:40:44.380Z
+    updatedAt: 2025-01-14T19:40:44.380Z
+  - fileName: vaxis_holder_B1_v01_faceButtress2.dxf
+    fileType: dxf
+    filePath: vaxis_holder_b1/vaxis_holder_B1_v01_faceButtress2.dxf
+    fileSize: 284
+    createdAt: 2025-01-14T19:40:44.385Z
+    updatedAt: 2025-01-14T19:40:44.385Z
+  - fileName: vaxis_holder_B1_v01_faceButtress12.svg
+    fileType: svg
+    filePath: vaxis_holder_b1/vaxis_holder_B1_v01_faceButtress12.svg
+    fileSize: 272
+    createdAt: 2025-01-14T19:40:44.390Z
+    updatedAt: 2025-01-14T19:40:44.390Z
+  - fileName: vaxis_holder_B1_v01_faceButtress12.dxf
+    fileType: dxf
+    filePath: vaxis_holder_b1/vaxis_holder_B1_v01_faceButtress12.dxf
+    fileSize: 412
+    createdAt: 2025-01-14T19:40:44.394Z
+    updatedAt: 2025-01-14T19:40:44.394Z
+  - fileName: vaxis_holder_B1_v01_faceButtress1.svg
+    fileType: svg
+    filePath: vaxis_holder_b1/vaxis_holder_B1_v01_faceButtress1.svg
+    fileSize: 222
+    createdAt: 2025-01-14T19:40:44.398Z
+    updatedAt: 2025-01-14T19:40:44.398Z
+  - fileName: vaxis_holder_B1_v01_faceButtress1.dxf
+    fileType: dxf
+    filePath: vaxis_holder_b1/vaxis_holder_B1_v01_faceButtress1.dxf
+    fileSize: 228
+    createdAt: 2025-01-14T19:40:44.402Z
+    updatedAt: 2025-01-14T19:40:44.402Z
+  - fileName: vaxis_holder_B1_v01.scad
+    fileType: scad
+    filePath: vaxis_holder_b1/vaxis_holder_B1_v01.scad
+    fileSize: 20297
+    createdAt: 2025-01-14T19:40:44.404Z
+    updatedAt: 2025-01-14T19:40:44.404Z
+  - fileName: vaxis_holder_B1_v01.py
+    fileType: pyFreecad
+    filePath: vaxis_holder_b1/vaxis_holder_B1_v01.py
+    fileSize: 14841
+    createdAt: 2025-01-14T19:40:44.405Z
+    updatedAt: 2025-01-14T19:40:44.405Z
+  - fileName: vaxis_holder_B1_v01.pax.json
+    fileType: paxJson
+    filePath: vaxis_holder_b1/vaxis_holder_B1_v01.pax.json
+    fileSize: 19519
+    createdAt: 2025-01-14T19:40:44.407Z
+    updatedAt: 2025-01-14T19:40:44.407Z
+  - fileName: vaxis_holder_B1_v01.log.txt
+    fileType: txtLog
+    filePath: vaxis_holder_b1/vaxis_holder_B1_v01.log.txt
+    fileSize: 265
+    createdAt: 2025-01-14T19:40:44.409Z
+    updatedAt: 2025-01-14T19:40:44.409Z
+  - fileName: vaxis_holder_B1_v01.js
+    fileType: jsCad
+    filePath: vaxis_holder_b1/vaxis_holder_B1_v01.js
+    fileSize: 19128
+    createdAt: 2025-01-14T19:40:44.410Z
+    updatedAt: 2025-01-14T19:40:44.410Z
+  - fileName: px_vaxis_holder_B1_v01.json
+    fileType: pxJson
+    filePath: vaxis_holder_b1/px_vaxis_holder_B1_v01.json
+    fileSize: 354
+    createdAt: 2025-01-14T19:40:44.412Z
+    updatedAt: 2025-01-14T19:40:44.412Z

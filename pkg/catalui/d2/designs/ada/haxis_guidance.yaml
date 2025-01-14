@@ -1,0 +1,95 @@
+description: ""
+tags:
+  - heliostat
+  - model 50cm
+owner: ada
+createdAt: 2025-01-14T19:40:44.850Z
+updatedAt: 2025-01-14T19:40:44.875Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/base
+linkToSrc: https://github.com/charlyoleg2/parametrix
+linkToPkg: https://www.npmjs.com/package/designix
+linkToCli: https://www.npmjs.com/package/designix-cli
+linkToUis: https://www.npmjs.com/package/designix-uis
+linkToRepo: https://github.com/charlyoleg2/heliostat_model_50cm
+linkOthers: []
+files:
+  - fileName: px_haxis_guidance_v01.json
+    fileType: pxJson
+    filePath: haxis_guidance/px_haxis_guidance_v01.json
+    fileSize: 379
+    createdAt: 2025-01-14T19:40:44.852Z
+    updatedAt: 2025-01-14T19:40:44.852Z
+  - fileName: haxis_guidance_v01_oscad.stl
+    fileType: stl
+    filePath: haxis_guidance/haxis_guidance_v01_oscad.stl
+    fileSize: 246643
+    createdAt: 2025-01-14T19:40:44.854Z
+    updatedAt: 2025-01-14T19:40:44.854Z
+  - fileName: haxis_guidance_v01_jscad.stl
+    fileType: stl
+    filePath: haxis_guidance/haxis_guidance_v01_jscad.stl
+    fileSize: 76684
+    createdAt: 2025-01-14T19:40:44.855Z
+    updatedAt: 2025-01-14T19:40:44.855Z
+  - fileName: haxis_guidance_v01_fc.stl
+    fileType: stl
+    filePath: haxis_guidance/haxis_guidance_v01_fc.stl
+    fileSize: 2421732
+    createdAt: 2025-01-14T19:40:44.859Z
+    updatedAt: 2025-01-14T19:40:44.859Z
+  - fileName: haxis_guidance_v01_faceSide.svg
+    fileType: svg
+    filePath: haxis_guidance/haxis_guidance_v01_faceSide.svg
+    fileSize: 239
+    createdAt: 2025-01-14T19:40:44.862Z
+    updatedAt: 2025-01-14T19:40:44.862Z
+  - fileName: haxis_guidance_v01_faceSide.dxf
+    fileType: dxf
+    filePath: haxis_guidance/haxis_guidance_v01_faceSide.dxf
+    fileSize: 292
+    createdAt: 2025-01-14T19:40:44.864Z
+    updatedAt: 2025-01-14T19:40:44.864Z
+  - fileName: haxis_guidance_v01_faceProfile.svg
+    fileType: svg
+    filePath: haxis_guidance/haxis_guidance_v01_faceProfile.svg
+    fileSize: 1477
+    createdAt: 2025-01-14T19:40:44.866Z
+    updatedAt: 2025-01-14T19:40:44.866Z
+  - fileName: haxis_guidance_v01_faceProfile.dxf
+    fileType: dxf
+    filePath: haxis_guidance/haxis_guidance_v01_faceProfile.dxf
+    fileSize: 3303
+    createdAt: 2025-01-14T19:40:44.867Z
+    updatedAt: 2025-01-14T19:40:44.867Z
+  - fileName: haxis_guidance_v01.scad
+    fileType: scad
+    filePath: haxis_guidance/haxis_guidance_v01.scad
+    fileSize: 10456
+    createdAt: 2025-01-14T19:40:44.869Z
+    updatedAt: 2025-01-14T19:40:44.869Z
+  - fileName: haxis_guidance_v01.py
+    fileType: pyFreecad
+    filePath: haxis_guidance/haxis_guidance_v01.py
+    fileSize: 7165
+    createdAt: 2025-01-14T19:40:44.871Z
+    updatedAt: 2025-01-14T19:40:44.871Z
+  - fileName: haxis_guidance_v01.pax.json
+    fileType: paxJson
+    filePath: haxis_guidance/haxis_guidance_v01.pax.json
+    fileSize: 14470
+    createdAt: 2025-01-14T19:40:44.873Z
+    updatedAt: 2025-01-14T19:40:44.873Z
+  - fileName: haxis_guidance_v01.log.txt
+    fileType: txtLog
+    filePath: haxis_guidance/haxis_guidance_v01.log.txt
+    fileSize: 136
+    createdAt: 2025-01-14T19:40:44.874Z
+    updatedAt: 2025-01-14T19:40:44.874Z
+  - fileName: haxis_guidance_v01.js
+    fileType: jsCad
+    filePath: haxis_guidance/haxis_guidance_v01.js
+    fileSize: 9928
+    createdAt: 2025-01-14T19:40:44.875Z
+    updatedAt: 2025-01-14T19:40:44.875Z

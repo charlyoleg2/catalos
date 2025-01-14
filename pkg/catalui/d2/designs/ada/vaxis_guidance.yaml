@@ -1,0 +1,93 @@
+description: ""
+tags: []
+owner: ada
+createdAt: 2025-01-14T19:40:44.464Z
+updatedAt: 2025-01-14T19:40:44.492Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: vaxis_guidance_v01_oscad.stl
+    fileType: stl
+    filePath: vaxis_guidance/vaxis_guidance_v01_oscad.stl
+    fileSize: 1244634
+    createdAt: 2025-01-14T19:40:44.468Z
+    updatedAt: 2025-01-14T19:40:44.468Z
+  - fileName: vaxis_guidance_v01_jscad.stl
+    fileType: stl
+    filePath: vaxis_guidance/vaxis_guidance_v01_jscad.stl
+    fileSize: 301484
+    createdAt: 2025-01-14T19:40:44.469Z
+    updatedAt: 2025-01-14T19:40:44.469Z
+  - fileName: vaxis_guidance_v01_fc.stl
+    fileType: stl
+    filePath: vaxis_guidance/vaxis_guidance_v01_fc.stl
+    fileSize: 12496192
+    createdAt: 2025-01-14T19:40:44.485Z
+    updatedAt: 2025-01-14T19:40:44.485Z
+  - fileName: vaxis_guidance_v01_faceTop.svg
+    fileType: svg
+    filePath: vaxis_guidance/vaxis_guidance_v01_faceTop.svg
+    fileSize: 7354
+    createdAt: 2025-01-14T19:40:44.486Z
+    updatedAt: 2025-01-14T19:40:44.486Z
+  - fileName: vaxis_guidance_v01_faceTop.dxf
+    fileType: dxf
+    filePath: vaxis_guidance/vaxis_guidance_v01_faceTop.dxf
+    fileSize: 15929
+    createdAt: 2025-01-14T19:40:44.487Z
+    updatedAt: 2025-01-14T19:40:44.487Z
+  - fileName: vaxis_guidance_v01_faceSection.svg
+    fileType: svg
+    filePath: vaxis_guidance/vaxis_guidance_v01_faceSection.svg
+    fileSize: 383
+    createdAt: 2025-01-14T19:40:44.487Z
+    updatedAt: 2025-01-14T19:40:44.487Z
+  - fileName: vaxis_guidance_v01_faceSection.dxf
+    fileType: dxf
+    filePath: vaxis_guidance/vaxis_guidance_v01_faceSection.dxf
+    fileSize: 540
+    createdAt: 2025-01-14T19:40:44.488Z
+    updatedAt: 2025-01-14T19:40:44.488Z
+  - fileName: vaxis_guidance_v01.scad
+    fileType: scad
+    filePath: vaxis_guidance/vaxis_guidance_v01.scad
+    fileSize: 53666
+    createdAt: 2025-01-14T19:40:44.489Z
+    updatedAt: 2025-01-14T19:40:44.489Z
+  - fileName: vaxis_guidance_v01.py
+    fileType: pyFreecad
+    filePath: vaxis_guidance/vaxis_guidance_v01.py
+    fileSize: 28370
+    createdAt: 2025-01-14T19:40:44.489Z
+    updatedAt: 2025-01-14T19:40:44.489Z
+  - fileName: vaxis_guidance_v01.pax.json
+    fileType: paxJson
+    filePath: vaxis_guidance/vaxis_guidance_v01.pax.json
+    fileSize: 50039
+    createdAt: 2025-01-14T19:40:44.490Z
+    updatedAt: 2025-01-14T19:40:44.490Z
+  - fileName: vaxis_guidance_v01.log.txt
+    fileType: txtLog
+    filePath: vaxis_guidance/vaxis_guidance_v01.log.txt
+    fileSize: 134
+    createdAt: 2025-01-14T19:40:44.491Z
+    updatedAt: 2025-01-14T19:40:44.491Z
+  - fileName: vaxis_guidance_v01.js
+    fileType: jsCad
+    filePath: vaxis_guidance/vaxis_guidance_v01.js
+    fileSize: 47668
+    createdAt: 2025-01-14T19:40:44.492Z
+    updatedAt: 2025-01-14T19:40:44.492Z
+  - fileName: px_vaxis_guidance_v01.json
+    fileType: pxJson
+    filePath: vaxis_guidance/px_vaxis_guidance_v01.json
+    fileSize: 504
+    createdAt: 2025-01-14T19:40:44.492Z
+    updatedAt: 2025-01-14T19:40:44.492Z

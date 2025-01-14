@@ -1,0 +1,93 @@
+description: ""
+tags: []
+owner: ada
+createdAt: 2025-01-14T19:40:44.580Z
+updatedAt: 2025-01-14T19:40:44.594Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: surface_v01_oscad.stl
+    fileType: stl
+    filePath: surface/surface_v01_oscad.stl
+    fileSize: 54261
+    createdAt: 2025-01-14T19:40:44.583Z
+    updatedAt: 2025-01-14T19:40:44.583Z
+  - fileName: surface_v01_jscad.stl
+    fileType: stl
+    filePath: surface/surface_v01_jscad.stl
+    fileSize: 21084
+    createdAt: 2025-01-14T19:40:44.583Z
+    updatedAt: 2025-01-14T19:40:44.583Z
+  - fileName: surface_v01_fc.stl
+    fileType: stl
+    filePath: surface/surface_v01_fc.stl
+    fileSize: 106276
+    createdAt: 2025-01-14T19:40:44.585Z
+    updatedAt: 2025-01-14T19:40:44.585Z
+  - fileName: surface_v01_faceSurface.svg
+    fileType: svg
+    filePath: surface/surface_v01_faceSurface.svg
+    fileSize: 5635
+    createdAt: 2025-01-14T19:40:44.586Z
+    updatedAt: 2025-01-14T19:40:44.586Z
+  - fileName: surface_v01_faceSurface.dxf
+    fileType: dxf
+    filePath: surface/surface_v01_faceSurface.dxf
+    fileSize: 9564
+    createdAt: 2025-01-14T19:40:44.587Z
+    updatedAt: 2025-01-14T19:40:44.587Z
+  - fileName: surface_v01_faceOnePanel.svg
+    fileType: svg
+    filePath: surface/surface_v01_faceOnePanel.svg
+    fileSize: 234
+    createdAt: 2025-01-14T19:40:44.587Z
+    updatedAt: 2025-01-14T19:40:44.587Z
+  - fileName: surface_v01_faceOnePanel.dxf
+    fileType: dxf
+    filePath: surface/surface_v01_faceOnePanel.dxf
+    fileSize: 284
+    createdAt: 2025-01-14T19:40:44.588Z
+    updatedAt: 2025-01-14T19:40:44.589Z
+  - fileName: surface_v01.scad
+    fileType: scad
+    filePath: surface/surface_v01.scad
+    fileSize: 16855
+    createdAt: 2025-01-14T19:40:44.589Z
+    updatedAt: 2025-01-14T19:40:44.589Z
+  - fileName: surface_v01.py
+    fileType: pyFreecad
+    filePath: surface/surface_v01.py
+    fileSize: 43955
+    createdAt: 2025-01-14T19:40:44.590Z
+    updatedAt: 2025-01-14T19:40:44.590Z
+  - fileName: surface_v01.pax.json
+    fileType: paxJson
+    filePath: surface/surface_v01.pax.json
+    fileSize: 41103
+    createdAt: 2025-01-14T19:40:44.591Z
+    updatedAt: 2025-01-14T19:40:44.591Z
+  - fileName: surface_v01.log.txt
+    fileType: txtLog
+    filePath: surface/surface_v01.log.txt
+    fileSize: 371
+    createdAt: 2025-01-14T19:40:44.591Z
+    updatedAt: 2025-01-14T19:40:44.591Z
+  - fileName: surface_v01.js
+    fileType: jsCad
+    filePath: surface/surface_v01.js
+    fileSize: 18644
+    createdAt: 2025-01-14T19:40:44.592Z
+    updatedAt: 2025-01-14T19:40:44.592Z
+  - fileName: px_surface_v01.json
+    fileType: pxJson
+    filePath: surface/px_surface_v01.json
+    fileSize: 621
+    createdAt: 2025-01-14T19:40:44.594Z
+    updatedAt: 2025-01-14T19:40:44.594Z

@@ -1,0 +1,95 @@
+description: ""
+tags:
+  - heliostat
+  - model 50cm
+owner: ada
+createdAt: 2025-01-14T19:40:44.784Z
+updatedAt: 2025-01-14T19:40:44.849Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/base
+linkToSrc: https://github.com/charlyoleg2/parametrix
+linkToPkg: https://www.npmjs.com/package/designix
+linkToCli: https://www.npmjs.com/package/designix-cli
+linkToUis: https://www.npmjs.com/package/designix-uis
+linkToRepo: https://github.com/charlyoleg2/heliostat_model_50cm
+linkOthers: []
+files:
+  - fileName: px_heliostat_v01.json
+    fileType: pxJson
+    filePath: heliostat/px_heliostat_v01.json
+    fileSize: 640
+    createdAt: 2025-01-14T19:40:44.786Z
+    updatedAt: 2025-01-14T19:40:44.786Z
+  - fileName: heliostat_v01_oscad.stl
+    fileType: stl
+    filePath: heliostat/heliostat_v01_oscad.stl
+    fileSize: 3407136
+    createdAt: 2025-01-14T19:40:44.791Z
+    updatedAt: 2025-01-14T19:40:44.791Z
+  - fileName: heliostat_v01_jscad.stl
+    fileType: stl
+    filePath: heliostat/heliostat_v01_jscad.stl
+    fileSize: 1240934
+    createdAt: 2025-01-14T19:40:44.792Z
+    updatedAt: 2025-01-14T19:40:44.792Z
+  - fileName: heliostat_v01_faceSide.svg
+    fileType: svg
+    filePath: heliostat/heliostat_v01_faceSide.svg
+    fileSize: 2313
+    createdAt: 2025-01-14T19:40:44.794Z
+    updatedAt: 2025-01-14T19:40:44.794Z
+  - fileName: heliostat_v01_faceSide.dxf
+    fileType: dxf
+    filePath: heliostat/heliostat_v01_faceSide.dxf
+    fileSize: 3801
+    createdAt: 2025-01-14T19:40:44.795Z
+    updatedAt: 2025-01-14T19:40:44.795Z
+  - fileName: heliostat_v01_faceFace.svg
+    fileType: svg
+    filePath: heliostat/heliostat_v01_faceFace.svg
+    fileSize: 3478
+    createdAt: 2025-01-14T19:40:44.796Z
+    updatedAt: 2025-01-14T19:40:44.796Z
+  - fileName: heliostat_v01_faceFace.dxf
+    fileType: dxf
+    filePath: heliostat/heliostat_v01_faceFace.dxf
+    fileSize: 6272
+    createdAt: 2025-01-14T19:40:44.797Z
+    updatedAt: 2025-01-14T19:40:44.797Z
+  - fileName: heliostat_v01.stl
+    fileType: stl
+    filePath: heliostat/heliostat_v01.stl
+    fileSize: 54785901
+    createdAt: 2025-01-14T19:40:44.842Z
+    updatedAt: 2025-01-14T19:40:44.842Z
+  - fileName: heliostat_v01.scad
+    fileType: scad
+    filePath: heliostat/heliostat_v01.scad
+    fileSize: 134647
+    createdAt: 2025-01-14T19:40:44.844Z
+    updatedAt: 2025-01-14T19:40:44.844Z
+  - fileName: heliostat_v01.py
+    fileType: pyFreecad
+    filePath: heliostat/heliostat_v01.py
+    fileSize: 112938
+    createdAt: 2025-01-14T19:40:44.845Z
+    updatedAt: 2025-01-14T19:40:44.845Z
+  - fileName: heliostat_v01.pax.json
+    fileType: paxJson
+    filePath: heliostat/heliostat_v01.pax.json
+    fileSize: 1271061
+    createdAt: 2025-01-14T19:40:44.847Z
+    updatedAt: 2025-01-14T19:40:44.847Z
+  - fileName: heliostat_v01.log.txt
+    fileType: txtLog
+    filePath: heliostat/heliostat_v01.log.txt
+    fileSize: 1307
+    createdAt: 2025-01-14T19:40:44.848Z
+    updatedAt: 2025-01-14T19:40:44.848Z
+  - fileName: heliostat_v01.js
+    fileType: jsCad
+    filePath: heliostat/heliostat_v01.js
+    fileSize: 129175
+    createdAt: 2025-01-14T19:40:44.849Z
+    updatedAt: 2025-01-14T19:40:44.849Z
