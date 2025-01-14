@@ -8,7 +8,14 @@ import {
 	url3dViewer,
 	urlCadViewer,
 } from '@src/lib/viewer-url.ts';
+import { getCollection } from 'astro:content';
 import '@src/styles/styling-vars.css';
+
+const nbUsers = (await getCollection('users')).length;
+const nbDesigns = (await getCollection('designs'))
+	.map((item) => item.data.linkToUi)
+	.filter((item, idx, arr) => (arr.indexOf(item) === idx ? true : false)).length;
+const nbParts = (await getCollection('designs')).length;
 ---
 
 <footer>
@@ -23,6 +30,12 @@ import '@src/styles/styling-vars.css';
 				>
 			</li>
 			<li>Made with: <a href="https://astro.build/">Astro</a></li>
+		</ol>
+		<h3>Statistics</h3>
+		<ol>
+			<li>Number of users: {nbUsers}</li>
+			<li>Number of designs: {nbDesigns}</li>
+			<li>Number of parts: {nbParts}</li>
 		</ol>
 	</article>
 	<article>
@@ -53,6 +66,9 @@ import '@src/styles/styling-vars.css';
 		justify-content: space-between;
 		align-items: flex-start;
 	}
+	ol {
+		margin: 0.5rem 0;
+	}
 	li {
 		color: var(--c2w);
 		margin: 0.4rem 4rem;
@@ -60,5 +76,10 @@ import '@src/styles/styling-vars.css';
 	a {
 		font-weight: bold;
 		color: var(--c1w);
+	}
+	h3 {
+		font-weight: bold;
+		color: var(--c1w);
+		margin: 2rem 5rem 0.5rem;
 	}
 </style>
