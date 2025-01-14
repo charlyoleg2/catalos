@@ -6,6 +6,12 @@ owner: ada
 createdAt: 2025-01-14T19:40:44.339Z
 updatedAt: 2025-01-14T19:40:44.412Z
 updateCount: 1
+linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/vaxis_holder
+linkToSrc: https://github.com/charlyoleg2/parametrix
+linkToPkg: https://www.npmjs.com/package/designix
+linkToCli: https://www.npmjs.com/package/designix-cli
+linkToUis: https://www.npmjs.com/package/designix-uis
+linkToRepo: https://github.com/charlyoleg2/heliostat_model_50cm
 visible: true
 linkOthers: []
 files:
