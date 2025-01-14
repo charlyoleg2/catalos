@@ -11,8 +11,8 @@ degit_and_update () {
 }
 
 echo "update_d1.sh says Hello!"
-#node scr/update_db_section.js --inDir ../../../cabane/refs --outDir d1/designs/tuto-1
-#node scr/update_db_section.js --inDir ../../../ustensile/refs --outDir d1/designs/tuto-1
-degit_and_update "https://github.com/charlyoleg2/ustensile" "tuto-1"
-degit_and_update "https://github.com/charlyoleg2/gears_and_springs" "tuto-2"
+#node scr/update_db_section.js --inDir ../../../cabane/refs --outDir d1/designs/charli78
+#node scr/update_db_section.js --inDir ../../../ustensile/refs --outDir d1/designs/jack08
+degit_and_update "https://github.com/charlyoleg2/ustensile" "jack08"
+degit_and_update "https://github.com/charlyoleg2/gears_and_springs" "charli78"
 echo "update_d1.sh says Bye!"
