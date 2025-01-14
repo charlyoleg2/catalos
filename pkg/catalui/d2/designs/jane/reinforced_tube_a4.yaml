@@ -1,0 +1,117 @@
+description: ""
+tags: []
+owner: jane
+createdAt: 2025-01-14T21:59:12.650Z
+updatedAt: 2025-01-14T21:59:12.673Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: reinforced_tube_A4_v01_oscad.stl
+    fileType: stl
+    filePath: reinforced_tube_a4/reinforced_tube_A4_v01_oscad.stl
+    fileSize: 668999
+    createdAt: 2025-01-14T21:59:12.654Z
+    updatedAt: 2025-01-14T21:59:12.654Z
+  - fileName: reinforced_tube_A4_v01_jscad.stl
+    fileType: stl
+    filePath: reinforced_tube_a4/reinforced_tube_A4_v01_jscad.stl
+    fileSize: 325484
+    createdAt: 2025-01-14T21:59:12.663Z
+    updatedAt: 2025-01-14T21:59:12.663Z
+  - fileName: reinforced_tube_A4_v01_fc.stl
+    fileType: stl
+    filePath: reinforced_tube_a4/reinforced_tube_A4_v01_fc.stl
+    fileSize: 3972116
+    createdAt: 2025-01-14T21:59:12.667Z
+    updatedAt: 2025-01-14T21:59:12.667Z
+  - fileName: reinforced_tube_A4_v01_faceTopWave.svg
+    fileType: svg
+    filePath: reinforced_tube_a4/reinforced_tube_A4_v01_faceTopWave.svg
+    fileSize: 7939
+    createdAt: 2025-01-14T21:59:12.668Z
+    updatedAt: 2025-01-14T21:59:12.668Z
+  - fileName: reinforced_tube_A4_v01_faceTopWave.dxf
+    fileType: dxf
+    filePath: reinforced_tube_a4/reinforced_tube_A4_v01_faceTopWave.dxf
+    fileSize: 17170
+    createdAt: 2025-01-14T21:59:12.668Z
+    updatedAt: 2025-01-14T21:59:12.668Z
+  - fileName: reinforced_tube_A4_v01_faceTopInt.svg
+    fileType: svg
+    filePath: reinforced_tube_a4/reinforced_tube_A4_v01_faceTopInt.svg
+    fileSize: 89
+    createdAt: 2025-01-14T21:59:12.669Z
+    updatedAt: 2025-01-14T21:59:12.669Z
+  - fileName: reinforced_tube_A4_v01_faceTopInt.dxf
+    fileType: dxf
+    filePath: reinforced_tube_a4/reinforced_tube_A4_v01_faceTopInt.dxf
+    fileSize: 36
+    createdAt: 2025-01-14T21:59:12.669Z
+    updatedAt: 2025-01-14T21:59:12.669Z
+  - fileName: reinforced_tube_A4_v01_faceTopExt.svg
+    fileType: svg
+    filePath: reinforced_tube_a4/reinforced_tube_A4_v01_faceTopExt.svg
+    fileSize: 273
+    createdAt: 2025-01-14T21:59:12.670Z
+    updatedAt: 2025-01-14T21:59:12.670Z
+  - fileName: reinforced_tube_A4_v01_faceTopExt.dxf
+    fileType: dxf
+    filePath: reinforced_tube_a4/reinforced_tube_A4_v01_faceTopExt.dxf
+    fileSize: 142
+    createdAt: 2025-01-14T21:59:12.670Z
+    updatedAt: 2025-01-14T21:59:12.670Z
+  - fileName: reinforced_tube_A4_v01_faceSide.svg
+    fileType: svg
+    filePath: reinforced_tube_a4/reinforced_tube_A4_v01_faceSide.svg
+    fileSize: 389
+    createdAt: 2025-01-14T21:59:12.670Z
+    updatedAt: 2025-01-14T21:59:12.670Z
+  - fileName: reinforced_tube_A4_v01_faceSide.dxf
+    fileType: dxf
+    filePath: reinforced_tube_a4/reinforced_tube_A4_v01_faceSide.dxf
+    fileSize: 548
+    createdAt: 2025-01-14T21:59:12.671Z
+    updatedAt: 2025-01-14T21:59:12.671Z
+  - fileName: reinforced_tube_A4_v01.scad
+    fileType: scad
+    filePath: reinforced_tube_a4/reinforced_tube_A4_v01.scad
+    fileSize: 28145
+    createdAt: 2025-01-14T21:59:12.671Z
+    updatedAt: 2025-01-14T21:59:12.671Z
+  - fileName: reinforced_tube_A4_v01.py
+    fileType: pyFreecad
+    filePath: reinforced_tube_a4/reinforced_tube_A4_v01.py
+    fileSize: 31082
+    createdAt: 2025-01-14T21:59:12.672Z
+    updatedAt: 2025-01-14T21:59:12.672Z
+  - fileName: reinforced_tube_A4_v01.pax.json
+    fileType: paxJson
+    filePath: reinforced_tube_a4/reinforced_tube_A4_v01.pax.json
+    fileSize: 55019
+    createdAt: 2025-01-14T21:59:12.672Z
+    updatedAt: 2025-01-14T21:59:12.672Z
+  - fileName: reinforced_tube_A4_v01.log.txt
+    fileType: txtLog
+    filePath: reinforced_tube_a4/reinforced_tube_A4_v01.log.txt
+    fileSize: 620
+    createdAt: 2025-01-14T21:59:12.673Z
+    updatedAt: 2025-01-14T21:59:12.673Z
+  - fileName: reinforced_tube_A4_v01.js
+    fileType: jsCad
+    filePath: reinforced_tube_a4/reinforced_tube_A4_v01.js
+    fileSize: 25927
+    createdAt: 2025-01-14T21:59:12.673Z
+    updatedAt: 2025-01-14T21:59:12.673Z
+  - fileName: px_reinforced_tube_A4_v01.json
+    fileType: pxJson
+    filePath: reinforced_tube_a4/px_reinforced_tube_A4_v01.json
+    fileSize: 423
+    createdAt: 2025-01-14T21:59:12.673Z
+    updatedAt: 2025-01-14T21:59:12.673Z

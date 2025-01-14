@@ -1,0 +1,141 @@
+description: ""
+tags: []
+owner: jane
+createdAt: 2025-01-14T21:59:12.732Z
+updatedAt: 2025-01-14T21:59:12.740Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_cabane_plancher_v01.json
+    fileType: pxJson
+    filePath: cabane_plancher/px_cabane_plancher_v01.json
+    fileSize: 419
+    createdAt: 2025-01-14T21:59:12.733Z
+    updatedAt: 2025-01-14T21:59:12.733Z
+  - fileName: cabane_plancher_v01_oscad.stl
+    fileType: stl
+    filePath: cabane_plancher/cabane_plancher_v01_oscad.stl
+    fileSize: 267177
+    createdAt: 2025-01-14T21:59:12.733Z
+    updatedAt: 2025-01-14T21:59:12.733Z
+  - fileName: cabane_plancher_v01_jscad.stl
+    fileType: stl
+    filePath: cabane_plancher/cabane_plancher_v01_jscad.stl
+    fileSize: 1184
+    createdAt: 2025-01-14T21:59:12.734Z
+    updatedAt: 2025-01-14T21:59:12.734Z
+  - fileName: cabane_plancher_v01_fc.stl
+    fileType: stl
+    filePath: cabane_plancher/cabane_plancher_v01_fc.stl
+    fileSize: 464524
+    createdAt: 2025-01-14T21:59:12.734Z
+    updatedAt: 2025-01-14T21:59:12.734Z
+  - fileName: cabane_plancher_v01_faceSide.svg
+    fileType: svg
+    filePath: cabane_plancher/cabane_plancher_v01_faceSide.svg
+    fileSize: 411
+    createdAt: 2025-01-14T21:59:12.735Z
+    updatedAt: 2025-01-14T21:59:12.735Z
+  - fileName: cabane_plancher_v01_faceSide.dxf
+    fileType: dxf
+    filePath: cabane_plancher/cabane_plancher_v01_faceSide.dxf
+    fileSize: 572
+    createdAt: 2025-01-14T21:59:12.735Z
+    updatedAt: 2025-01-14T21:59:12.735Z
+  - fileName: cabane_plancher_v01_facePlancherTop.svg
+    fileType: svg
+    filePath: cabane_plancher/cabane_plancher_v01_facePlancherTop.svg
+    fileSize: 1348
+    createdAt: 2025-01-14T21:59:12.735Z
+    updatedAt: 2025-01-14T21:59:12.735Z
+  - fileName: cabane_plancher_v01_facePlancherTop.dxf
+    fileType: dxf
+    filePath: cabane_plancher/cabane_plancher_v01_facePlancherTop.dxf
+    fileSize: 2200
+    createdAt: 2025-01-14T21:59:12.736Z
+    updatedAt: 2025-01-14T21:59:12.736Z
+  - fileName: cabane_plancher_v01_facePlancherBottom.svg
+    fileType: svg
+    filePath: cabane_plancher/cabane_plancher_v01_facePlancherBottom.svg
+    fileSize: 2179
+    createdAt: 2025-01-14T21:59:12.736Z
+    updatedAt: 2025-01-14T21:59:12.736Z
+  - fileName: cabane_plancher_v01_facePlancherBottom.dxf
+    fileType: dxf
+    filePath: cabane_plancher/cabane_plancher_v01_facePlancherBottom.dxf
+    fileSize: 3580
+    createdAt: 2025-01-14T21:59:12.736Z
+    updatedAt: 2025-01-14T21:59:12.736Z
+  - fileName: cabane_plancher_v01_faceLeg.svg
+    fileType: svg
+    filePath: cabane_plancher/cabane_plancher_v01_faceLeg.svg
+    fileSize: 408
+    createdAt: 2025-01-14T21:59:12.737Z
+    updatedAt: 2025-01-14T21:59:12.737Z
+  - fileName: cabane_plancher_v01_faceLeg.dxf
+    fileType: dxf
+    filePath: cabane_plancher/cabane_plancher_v01_faceLeg.dxf
+    fileSize: 572
+    createdAt: 2025-01-14T21:59:12.737Z
+    updatedAt: 2025-01-14T21:59:12.737Z
+  - fileName: cabane_plancher_v01_faceButtress.svg
+    fileType: svg
+    filePath: cabane_plancher/cabane_plancher_v01_faceButtress.svg
+    fileSize: 257
+    createdAt: 2025-01-14T21:59:12.737Z
+    updatedAt: 2025-01-14T21:59:12.737Z
+  - fileName: cabane_plancher_v01_faceButtress.dxf
+    fileType: dxf
+    filePath: cabane_plancher/cabane_plancher_v01_faceButtress.dxf
+    fileSize: 312
+    createdAt: 2025-01-14T21:59:12.737Z
+    updatedAt: 2025-01-14T21:59:12.737Z
+  - fileName: cabane_plancher_v01_faceBeam.svg
+    fileType: svg
+    filePath: cabane_plancher/cabane_plancher_v01_faceBeam.svg
+    fileSize: 461
+    createdAt: 2025-01-14T21:59:12.738Z
+    updatedAt: 2025-01-14T21:59:12.738Z
+  - fileName: cabane_plancher_v01_faceBeam.dxf
+    fileType: dxf
+    filePath: cabane_plancher/cabane_plancher_v01_faceBeam.dxf
+    fileSize: 726
+    createdAt: 2025-01-14T21:59:12.738Z
+    updatedAt: 2025-01-14T21:59:12.738Z
+  - fileName: cabane_plancher_v01.scad
+    fileType: scad
+    filePath: cabane_plancher/cabane_plancher_v01.scad
+    fileSize: 10829
+    createdAt: 2025-01-14T21:59:12.738Z
+    updatedAt: 2025-01-14T21:59:12.738Z
+  - fileName: cabane_plancher_v01.py
+    fileType: pyFreecad
+    filePath: cabane_plancher/cabane_plancher_v01.py
+    fileSize: 26738
+    createdAt: 2025-01-14T21:59:12.739Z
+    updatedAt: 2025-01-14T21:59:12.739Z
+  - fileName: cabane_plancher_v01.pax.json
+    fileType: paxJson
+    filePath: cabane_plancher/cabane_plancher_v01.pax.json
+    fileSize: 26156
+    createdAt: 2025-01-14T21:59:12.739Z
+    updatedAt: 2025-01-14T21:59:12.739Z
+  - fileName: cabane_plancher_v01.log.txt
+    fileType: txtLog
+    filePath: cabane_plancher/cabane_plancher_v01.log.txt
+    fileSize: 277
+    createdAt: 2025-01-14T21:59:12.739Z
+    updatedAt: 2025-01-14T21:59:12.739Z
+  - fileName: cabane_plancher_v01.js
+    fileType: jsCad
+    filePath: cabane_plancher/cabane_plancher_v01.js
+    fileSize: 12905
+    createdAt: 2025-01-14T21:59:12.739Z
+    updatedAt: 2025-01-14T21:59:12.739Z

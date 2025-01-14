@@ -1,0 +1,129 @@
+description: ""
+tags: []
+owner: jane
+createdAt: 2025-01-14T21:59:12.741Z
+updatedAt: 2025-01-14T21:59:12.749Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_cabane_v01.json
+    fileType: pxJson
+    filePath: cabane/px_cabane_v01.json
+    fileSize: 742
+    createdAt: 2025-01-14T21:59:12.742Z
+    updatedAt: 2025-01-14T21:59:12.742Z
+  - fileName: cabane_v01_oscad.stl
+    fileType: stl
+    filePath: cabane/cabane_v01_oscad.stl
+    fileSize: 1451689
+    createdAt: 2025-01-14T21:59:12.743Z
+    updatedAt: 2025-01-14T21:59:12.743Z
+  - fileName: cabane_v01_jscad.stl
+    fileType: stl
+    filePath: cabane/cabane_v01_jscad.stl
+    fileSize: 317134
+    createdAt: 2025-01-14T21:59:12.743Z
+    updatedAt: 2025-01-14T21:59:12.743Z
+  - fileName: cabane_v01_fc.stl
+    fileType: stl
+    filePath: cabane/cabane_v01_fc.stl
+    fileSize: 1378360
+    createdAt: 2025-01-14T21:59:12.745Z
+    updatedAt: 2025-01-14T21:59:12.745Z
+  - fileName: cabane_v01_faceTop.svg
+    fileType: svg
+    filePath: cabane/cabane_v01_faceTop.svg
+    fileSize: 582
+    createdAt: 2025-01-14T21:59:12.745Z
+    updatedAt: 2025-01-14T21:59:12.745Z
+  - fileName: cabane_v01_faceTop.dxf
+    fileType: dxf
+    filePath: cabane/cabane_v01_faceTop.dxf
+    fileSize: 935
+    createdAt: 2025-01-14T21:59:12.745Z
+    updatedAt: 2025-01-14T21:59:12.745Z
+  - fileName: cabane_v01_faceSide.svg
+    fileType: svg
+    filePath: cabane/cabane_v01_faceSide.svg
+    fileSize: 426
+    createdAt: 2025-01-14T21:59:12.745Z
+    updatedAt: 2025-01-14T21:59:12.745Z
+  - fileName: cabane_v01_faceSide.dxf
+    fileType: dxf
+    filePath: cabane/cabane_v01_faceSide.dxf
+    fileSize: 596
+    createdAt: 2025-01-14T21:59:12.746Z
+    updatedAt: 2025-01-14T21:59:12.746Z
+  - fileName: cabane_v01_faceFaceSide.svg
+    fileType: svg
+    filePath: cabane/cabane_v01_faceFaceSide.svg
+    fileSize: 426
+    createdAt: 2025-01-14T21:59:12.746Z
+    updatedAt: 2025-01-14T21:59:12.746Z
+  - fileName: cabane_v01_faceFaceSide.dxf
+    fileType: dxf
+    filePath: cabane/cabane_v01_faceFaceSide.dxf
+    fileSize: 594
+    createdAt: 2025-01-14T21:59:12.746Z
+    updatedAt: 2025-01-14T21:59:12.746Z
+  - fileName: cabane_v01_faceFaceRoof.svg
+    fileType: svg
+    filePath: cabane/cabane_v01_faceFaceRoof.svg
+    fileSize: 333
+    createdAt: 2025-01-14T21:59:12.747Z
+    updatedAt: 2025-01-14T21:59:12.747Z
+  - fileName: cabane_v01_faceFaceRoof.dxf
+    fileType: dxf
+    filePath: cabane/cabane_v01_faceFaceRoof.dxf
+    fileSize: 534
+    createdAt: 2025-01-14T21:59:12.747Z
+    updatedAt: 2025-01-14T21:59:12.747Z
+  - fileName: cabane_v01_faceFaceFront.svg
+    fileType: svg
+    filePath: cabane/cabane_v01_faceFaceFront.svg
+    fileSize: 548
+    createdAt: 2025-01-14T21:59:12.747Z
+    updatedAt: 2025-01-14T21:59:12.747Z
+  - fileName: cabane_v01_faceFaceFront.dxf
+    fileType: dxf
+    filePath: cabane/cabane_v01_faceFaceFront.dxf
+    fileSize: 1044
+    createdAt: 2025-01-14T21:59:12.747Z
+    updatedAt: 2025-01-14T21:59:12.747Z
+  - fileName: cabane_v01.scad
+    fileType: scad
+    filePath: cabane/cabane_v01.scad
+    fileSize: 62693
+    createdAt: 2025-01-14T21:59:12.748Z
+    updatedAt: 2025-01-14T21:59:12.748Z
+  - fileName: cabane_v01.py
+    fileType: pyFreecad
+    filePath: cabane/cabane_v01.py
+    fileSize: 39537
+    createdAt: 2025-01-14T21:59:12.748Z
+    updatedAt: 2025-01-14T21:59:12.748Z
+  - fileName: cabane_v01.pax.json
+    fileType: paxJson
+    filePath: cabane/cabane_v01.pax.json
+    fileSize: 494213
+    createdAt: 2025-01-14T21:59:12.749Z
+    updatedAt: 2025-01-14T21:59:12.749Z
+  - fileName: cabane_v01.log.txt
+    fileType: txtLog
+    filePath: cabane/cabane_v01.log.txt
+    fileSize: 765
+    createdAt: 2025-01-14T21:59:12.749Z
+    updatedAt: 2025-01-14T21:59:12.749Z
+  - fileName: cabane_v01.js
+    fileType: jsCad
+    filePath: cabane/cabane_v01.js
+    fileSize: 60580
+    createdAt: 2025-01-14T21:59:12.749Z
+    updatedAt: 2025-01-14T21:59:12.749Z

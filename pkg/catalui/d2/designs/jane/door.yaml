@@ -1,0 +1,105 @@
+description: ""
+tags: []
+owner: jane
+createdAt: 2025-01-14T21:59:12.722Z
+updatedAt: 2025-01-14T21:59:12.731Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_door_v01.json
+    fileType: pxJson
+    filePath: door/px_door_v01.json
+    fileSize: 270
+    createdAt: 2025-01-14T21:59:12.723Z
+    updatedAt: 2025-01-14T21:59:12.723Z
+  - fileName: door_v01_oscad.stl
+    fileType: stl
+    filePath: door/door_v01_oscad.stl
+    fileSize: 2582010
+    createdAt: 2025-01-14T21:59:12.725Z
+    updatedAt: 2025-01-14T21:59:12.725Z
+  - fileName: door_v01_jscad.stl
+    fileType: stl
+    filePath: door/door_v01_jscad.stl
+    fileSize: 797684
+    createdAt: 2025-01-14T21:59:12.726Z
+    updatedAt: 2025-01-14T21:59:12.726Z
+  - fileName: door_v01_fc.stl
+    fileType: stl
+    filePath: door/door_v01_fc.stl
+    fileSize: 881468
+    createdAt: 2025-01-14T21:59:12.727Z
+    updatedAt: 2025-01-14T21:59:12.727Z
+  - fileName: door_v01_faceTop.svg
+    fileType: svg
+    filePath: door/door_v01_faceTop.svg
+    fileSize: 421
+    createdAt: 2025-01-14T21:59:12.728Z
+    updatedAt: 2025-01-14T21:59:12.728Z
+  - fileName: door_v01_faceTop.dxf
+    fileType: dxf
+    filePath: door/door_v01_faceTop.dxf
+    fileSize: 580
+    createdAt: 2025-01-14T21:59:12.728Z
+    updatedAt: 2025-01-14T21:59:12.728Z
+  - fileName: door_v01_faceSide.svg
+    fileType: svg
+    filePath: door/door_v01_faceSide.svg
+    fileSize: 255
+    createdAt: 2025-01-14T21:59:12.728Z
+    updatedAt: 2025-01-14T21:59:12.728Z
+  - fileName: door_v01_faceSide.dxf
+    fileType: dxf
+    filePath: door/door_v01_faceSide.dxf
+    fileSize: 300
+    createdAt: 2025-01-14T21:59:12.728Z
+    updatedAt: 2025-01-14T21:59:12.728Z
+  - fileName: door_v01_faceDoor.svg
+    fileType: svg
+    filePath: door/door_v01_faceDoor.svg
+    fileSize: 1228
+    createdAt: 2025-01-14T21:59:12.729Z
+    updatedAt: 2025-01-14T21:59:12.729Z
+  - fileName: door_v01_faceDoor.dxf
+    fileType: dxf
+    filePath: door/door_v01_faceDoor.dxf
+    fileSize: 2034
+    createdAt: 2025-01-14T21:59:12.729Z
+    updatedAt: 2025-01-14T21:59:12.729Z
+  - fileName: door_v01.scad
+    fileType: scad
+    filePath: door/door_v01.scad
+    fileSize: 118698
+    createdAt: 2025-01-14T21:59:12.729Z
+    updatedAt: 2025-01-14T21:59:12.729Z
+  - fileName: door_v01.py
+    fileType: pyFreecad
+    filePath: door/door_v01.py
+    fileSize: 6572
+    createdAt: 2025-01-14T21:59:12.730Z
+    updatedAt: 2025-01-14T21:59:12.730Z
+  - fileName: door_v01.pax.json
+    fileType: paxJson
+    filePath: door/door_v01.pax.json
+    fileSize: 10355
+    createdAt: 2025-01-14T21:59:12.730Z
+    updatedAt: 2025-01-14T21:59:12.730Z
+  - fileName: door_v01.log.txt
+    fileType: txtLog
+    filePath: door/door_v01.log.txt
+    fileSize: 196
+    createdAt: 2025-01-14T21:59:12.730Z
+    updatedAt: 2025-01-14T21:59:12.730Z
+  - fileName: door_v01.js
+    fileType: jsCad
+    filePath: door/door_v01.js
+    fileSize: 104692
+    createdAt: 2025-01-14T21:59:12.731Z
+    updatedAt: 2025-01-14T21:59:12.731Z
