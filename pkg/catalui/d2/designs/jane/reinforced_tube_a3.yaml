@@ -1,16 +1,19 @@
-description: ""
-tags: []
+description: A strong tube with less metal
+tags:
+  - tube
+  - mechanics
+  - flambement
 owner: jane
 createdAt: 2025-01-14T21:59:12.678Z
 updatedAt: 2025-01-14T21:59:12.694Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parame78/desi78/cabane
+linkToSrc: https://github.com/charlyoleg2/parame78
+linkToPkg: https://www.npmjs.com/package/desi78
+linkToCli: https://www.npmjs.com/package/desi78-cli
+linkToUis: https://www.npmjs.com/package/desi78-uis
+linkToRepo: https://github.com/charlyoleg2/cabane
 linkOthers: []
 files:
   - fileName: reinforced_tube_A3_v01_oscad.stl
