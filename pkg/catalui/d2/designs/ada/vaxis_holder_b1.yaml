@@ -1,16 +1,12 @@
-description: ""
-tags: []
+description: The holders of the guidance mechanism for azimuth motion
+tags:
+  - heliostat
+  - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.339Z
 updatedAt: 2025-01-14T19:40:44.412Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
 linkOthers: []
 files:
   - fileName: vaxis_holder_B1_v01_oscad.stl

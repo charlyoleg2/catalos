@@ -1,16 +1,18 @@
-description: ""
-tags: []
+description: The support of one solar panel. Made out of aluminium for lightness and cooling
+tags:
+  - heliostat
+  - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.525Z
 updatedAt: 2025-01-14T19:40:44.555Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/base
+linkToSrc: https://github.com/charlyoleg2/parametrix
+linkToPkg: https://www.npmjs.com/package/designix
+linkToCli: https://www.npmjs.com/package/designix-cli
+linkToUis: https://www.npmjs.com/package/designix-uis
+linkToRepo: https://github.com/charlyoleg2/heliostat_model_50cm
 linkOthers: []
 files:
   - fileName: trapeze_v01_oscad.stl
