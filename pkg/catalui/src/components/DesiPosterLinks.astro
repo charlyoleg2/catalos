@@ -1,4 +1,5 @@
 ---
+import path from 'node:path';
 import Surl from '@src/components/Surl.astro';
 import type { CollectionEntry } from 'astro:content';
 import { getEntry } from 'astro:content';
@@ -11,11 +12,17 @@ interface Props {
 
 const { design } = Astro.props;
 const user = await getEntry(design.data.owner);
+const userPhoto = path.join('u', user.data.photoPath);
 ---
 
 <article>
-	<h2>by {user.id}</h2>
-	<h1>{prunePrefix(design.id)}</h1>
+	<section>
+		<img alt={userPhoto} src={userPhoto} />
+		<div>
+			<h2>by {user.id} <span>( {user.data.city} - {user.data.country} )</span></h2>
+			<h1>{prunePrefix(design.id)}</h1>
+		</div>
+	</section>
 	<dl>
 		<dt><i>Description:</i></dt>
 		<dd>{design.data.description}</dd>
@@ -69,12 +76,26 @@ const user = await getEntry(design.data.owner);
 </article>
 
 <style>
+	section {
+		display: flex;
+		flex-flow: row nowrap;
+		align-items: center;
+		justify-content: flex-start;
+	}
+	section > img {
+		width: 10rem;
+		height: 10rem;
+		object-fit: contain;
+	}
 	h2 {
 		font-size: 1rem;
 		font-style: italic;
 		font-weight: bold;
 		color: var(--c4w);
 		margin: 0.5rem 2rem;
+	}
+	h2 > span {
+		font-weight: normal;
 	}
 	h1 {
 		font-size: 2rem;
