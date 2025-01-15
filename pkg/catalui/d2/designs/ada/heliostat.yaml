@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.784Z
-updatedAt: 2025-01-14T19:40:44.849Z
-updateCount: 1
+updatedAt: 2025-01-15T23:11:50.950Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/heliostat
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -93,3 +93,57 @@ files:
     fileSize: 129175
     createdAt: 2025-01-14T19:40:44.849Z
     updatedAt: 2025-01-14T19:40:44.849Z
+  - fileName: h09.png
+    fileType: image
+    filePath: heliostat/h09.png
+    fileSize: 19320
+    createdAt: 2025-01-15T23:11:50.947Z
+    updatedAt: 2025-01-15T23:11:50.947Z
+  - fileName: h08.png
+    fileType: image
+    filePath: heliostat/h08.png
+    fileSize: 9566
+    createdAt: 2025-01-15T23:11:50.948Z
+    updatedAt: 2025-01-15T23:11:50.948Z
+  - fileName: h07.png
+    fileType: image
+    filePath: heliostat/h07.png
+    fileSize: 24711
+    createdAt: 2025-01-15T23:11:50.948Z
+    updatedAt: 2025-01-15T23:11:50.948Z
+  - fileName: h06.png
+    fileType: image
+    filePath: heliostat/h06.png
+    fileSize: 16239
+    createdAt: 2025-01-15T23:11:50.948Z
+    updatedAt: 2025-01-15T23:11:50.948Z
+  - fileName: h05.png
+    fileType: image
+    filePath: heliostat/h05.png
+    fileSize: 13745
+    createdAt: 2025-01-15T23:11:50.949Z
+    updatedAt: 2025-01-15T23:11:50.949Z
+  - fileName: h04.png
+    fileType: image
+    filePath: heliostat/h04.png
+    fileSize: 7922
+    createdAt: 2025-01-15T23:11:50.949Z
+    updatedAt: 2025-01-15T23:11:50.949Z
+  - fileName: h03.png
+    fileType: image
+    filePath: heliostat/h03.png
+    fileSize: 19260
+    createdAt: 2025-01-15T23:11:50.949Z
+    updatedAt: 2025-01-15T23:11:50.949Z
+  - fileName: h02.png
+    fileType: image
+    filePath: heliostat/h02.png
+    fileSize: 11996
+    createdAt: 2025-01-15T23:11:50.950Z
+    updatedAt: 2025-01-15T23:11:50.950Z
+  - fileName: h01.png
+    fileType: image
+    filePath: heliostat/h01.png
+    fileSize: 16816
+    createdAt: 2025-01-15T23:11:50.950Z
+    updatedAt: 2025-01-15T23:11:50.950Z

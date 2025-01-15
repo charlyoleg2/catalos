@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.580Z
-updatedAt: 2025-01-14T19:40:44.594Z
-updateCount: 1
+updatedAt: 2025-01-15T23:11:50.714Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/surface
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -87,6 +87,24 @@ files:
     fileSize: 18644
     createdAt: 2025-01-14T19:40:44.592Z
     updatedAt: 2025-01-14T19:40:44.592Z
+  - fileName: s03.png
+    fileType: image
+    filePath: surface/s03.png
+    fileSize: 44660
+    createdAt: 2025-01-15T23:11:50.713Z
+    updatedAt: 2025-01-15T23:11:50.713Z
+  - fileName: s02.png
+    fileType: image
+    filePath: surface/s02.png
+    fileSize: 17663
+    createdAt: 2025-01-15T23:11:50.714Z
+    updatedAt: 2025-01-15T23:11:50.714Z
+  - fileName: s01.png
+    fileType: image
+    filePath: surface/s01.png
+    fileSize: 29026
+    createdAt: 2025-01-15T23:11:50.714Z
+    updatedAt: 2025-01-15T23:11:50.714Z
   - fileName: px_surface_v01.json
     fileType: pxJson
     filePath: surface/px_surface_v01.json

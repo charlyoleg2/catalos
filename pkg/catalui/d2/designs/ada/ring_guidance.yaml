@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.640Z
-updatedAt: 2025-01-14T19:40:44.656Z
-updateCount: 1
+updatedAt: 2025-01-15T23:11:50.769Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/ring_guidance
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -87,6 +87,24 @@ files:
     fileSize: 20774
     createdAt: 2025-01-14T19:40:44.655Z
     updatedAt: 2025-01-14T19:40:44.655Z
+  - fileName: rg03.png
+    fileType: image
+    filePath: ring_guidance/rg03.png
+    fileSize: 29623
+    createdAt: 2025-01-15T23:11:50.766Z
+    updatedAt: 2025-01-15T23:11:50.766Z
+  - fileName: rg02.png
+    fileType: image
+    filePath: ring_guidance/rg02.png
+    fileSize: 23084
+    createdAt: 2025-01-15T23:11:50.767Z
+    updatedAt: 2025-01-15T23:11:50.767Z
+  - fileName: rg01.png
+    fileType: image
+    filePath: ring_guidance/rg01.png
+    fileSize: 21420
+    createdAt: 2025-01-15T23:11:50.769Z
+    updatedAt: 2025-01-15T23:11:50.769Z
   - fileName: px_ring_guidance_v01.json
     fileType: pxJson
     filePath: ring_guidance/px_ring_guidance_v01.json

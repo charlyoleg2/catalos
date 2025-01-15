@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.416Z
-updatedAt: 2025-01-14T19:40:44.461Z
-updateCount: 1
+updatedAt: 2025-01-15T23:11:50.616Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/vaxis_holder
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -15,6 +15,42 @@ linkToUis: https://www.npmjs.com/package/designix-uis
 linkToRepo: https://github.com/charlyoleg2/heliostat_model_50cm
 linkOthers: []
 files:
+  - fileName: vh06.png
+    fileType: image
+    filePath: vaxis_holder_a/vh06.png
+    fileSize: 29069
+    createdAt: 2025-01-15T23:11:50.602Z
+    updatedAt: 2025-01-15T23:11:50.602Z
+  - fileName: vh05.png
+    fileType: image
+    filePath: vaxis_holder_a/vh05.png
+    fileSize: 26668
+    createdAt: 2025-01-15T23:11:50.602Z
+    updatedAt: 2025-01-15T23:11:50.602Z
+  - fileName: vh04.png
+    fileType: image
+    filePath: vaxis_holder_a/vh04.png
+    fileSize: 26812
+    createdAt: 2025-01-15T23:11:50.602Z
+    updatedAt: 2025-01-15T23:11:50.602Z
+  - fileName: vh03.png
+    fileType: image
+    filePath: vaxis_holder_a/vh03.png
+    fileSize: 24794
+    createdAt: 2025-01-15T23:11:50.603Z
+    updatedAt: 2025-01-15T23:11:50.603Z
+  - fileName: vh02.png
+    fileType: image
+    filePath: vaxis_holder_a/vh02.png
+    fileSize: 26627
+    createdAt: 2025-01-15T23:11:50.603Z
+    updatedAt: 2025-01-15T23:11:50.603Z
+  - fileName: vh01.png
+    fileType: image
+    filePath: vaxis_holder_a/vh01.png
+    fileSize: 22301
+    createdAt: 2025-01-15T23:11:50.603Z
+    updatedAt: 2025-01-15T23:11:50.603Z
   - fileName: vaxis_holder_A_v01_oscad.stl
     fileType: stl
     filePath: vaxis_holder_a/vaxis_holder_A_v01_oscad.stl

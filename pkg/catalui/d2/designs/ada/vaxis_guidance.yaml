@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.464Z
-updatedAt: 2025-01-14T19:40:44.492Z
-updateCount: 1
+updatedAt: 2025-01-15T23:11:50.642Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/vaxis_guidance
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -15,6 +15,36 @@ linkToUis: https://www.npmjs.com/package/designix-uis
 linkToRepo: https://github.com/charlyoleg2/heliostat_model_50cm
 linkOthers: []
 files:
+  - fileName: vg05.png
+    fileType: image
+    filePath: vaxis_guidance/vg05.png
+    fileSize: 41672
+    createdAt: 2025-01-15T23:11:50.621Z
+    updatedAt: 2025-01-15T23:11:50.621Z
+  - fileName: vg04.png
+    fileType: image
+    filePath: vaxis_guidance/vg04.png
+    fileSize: 33909
+    createdAt: 2025-01-15T23:11:50.622Z
+    updatedAt: 2025-01-15T23:11:50.622Z
+  - fileName: vg03.png
+    fileType: image
+    filePath: vaxis_guidance/vg03.png
+    fileSize: 35154
+    createdAt: 2025-01-15T23:11:50.622Z
+    updatedAt: 2025-01-15T23:11:50.622Z
+  - fileName: vg02.png
+    fileType: image
+    filePath: vaxis_guidance/vg02.png
+    fileSize: 40583
+    createdAt: 2025-01-15T23:11:50.623Z
+    updatedAt: 2025-01-15T23:11:50.623Z
+  - fileName: vg01.png
+    fileType: image
+    filePath: vaxis_guidance/vg01.png
+    fileSize: 39850
+    createdAt: 2025-01-15T23:11:50.623Z
+    updatedAt: 2025-01-15T23:11:50.623Z
   - fileName: vaxis_guidance_v01_oscad.stl
     fileType: stl
     filePath: vaxis_guidance/vaxis_guidance_v01_oscad.stl

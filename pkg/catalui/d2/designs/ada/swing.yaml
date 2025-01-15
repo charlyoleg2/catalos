@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.557Z
-updatedAt: 2025-01-14T19:40:44.578Z
-updateCount: 1
+updatedAt: 2025-01-15T23:11:50.706Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/swing
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -123,6 +123,48 @@ files:
     fileSize: 18791
     createdAt: 2025-01-14T19:40:44.577Z
     updatedAt: 2025-01-14T19:40:44.577Z
+  - fileName: s07.png
+    fileType: image
+    filePath: swing/s07.png
+    fileSize: 14152
+    createdAt: 2025-01-15T23:11:50.704Z
+    updatedAt: 2025-01-15T23:11:50.704Z
+  - fileName: s06.png
+    fileType: image
+    filePath: swing/s06.png
+    fileSize: 14591
+    createdAt: 2025-01-15T23:11:50.704Z
+    updatedAt: 2025-01-15T23:11:50.704Z
+  - fileName: s05.png
+    fileType: image
+    filePath: swing/s05.png
+    fileSize: 22204
+    createdAt: 2025-01-15T23:11:50.704Z
+    updatedAt: 2025-01-15T23:11:50.704Z
+  - fileName: s04.png
+    fileType: image
+    filePath: swing/s04.png
+    fileSize: 9604
+    createdAt: 2025-01-15T23:11:50.705Z
+    updatedAt: 2025-01-15T23:11:50.705Z
+  - fileName: s03.png
+    fileType: image
+    filePath: swing/s03.png
+    fileSize: 31044
+    createdAt: 2025-01-15T23:11:50.705Z
+    updatedAt: 2025-01-15T23:11:50.705Z
+  - fileName: s02.png
+    fileType: image
+    filePath: swing/s02.png
+    fileSize: 22231
+    createdAt: 2025-01-15T23:11:50.705Z
+    updatedAt: 2025-01-15T23:11:50.705Z
+  - fileName: s01.png
+    fileType: image
+    filePath: swing/s01.png
+    fileSize: 20451
+    createdAt: 2025-01-15T23:11:50.706Z
+    updatedAt: 2025-01-15T23:11:50.706Z
   - fileName: px_swing_v01.json
     fileType: pxJson
     filePath: swing/px_swing_v01.json

@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.610Z
-updatedAt: 2025-01-14T19:40:44.638Z
-updateCount: 1
+updatedAt: 2025-01-15T23:11:50.754Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/rod
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -99,6 +99,36 @@ files:
     fileSize: 66769
     createdAt: 2025-01-14T19:40:44.637Z
     updatedAt: 2025-01-14T19:40:44.637Z
+  - fileName: r05.png
+    fileType: image
+    filePath: rod/r05.png
+    fileSize: 13552
+    createdAt: 2025-01-15T23:11:50.752Z
+    updatedAt: 2025-01-15T23:11:50.752Z
+  - fileName: r04.png
+    fileType: image
+    filePath: rod/r04.png
+    fileSize: 21153
+    createdAt: 2025-01-15T23:11:50.752Z
+    updatedAt: 2025-01-15T23:11:50.752Z
+  - fileName: r03.png
+    fileType: image
+    filePath: rod/r03.png
+    fileSize: 19765
+    createdAt: 2025-01-15T23:11:50.753Z
+    updatedAt: 2025-01-15T23:11:50.753Z
+  - fileName: r02.png
+    fileType: image
+    filePath: rod/r02.png
+    fileSize: 15362
+    createdAt: 2025-01-15T23:11:50.753Z
+    updatedAt: 2025-01-15T23:11:50.753Z
+  - fileName: r01.png
+    fileType: image
+    filePath: rod/r01.png
+    fileSize: 24471
+    createdAt: 2025-01-15T23:11:50.753Z
+    updatedAt: 2025-01-15T23:11:50.753Z
   - fileName: px_rod_v01.json
     fileType: pxJson
     filePath: rod/px_rod_v01.json

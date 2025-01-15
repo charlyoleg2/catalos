@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.525Z
-updatedAt: 2025-01-14T19:40:44.555Z
-updateCount: 1
+updatedAt: 2025-01-15T23:11:50.690Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/trapeze
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -123,6 +123,42 @@ files:
     fileSize: 36130
     createdAt: 2025-01-14T19:40:44.553Z
     updatedAt: 2025-01-14T19:40:44.553Z
+  - fileName: t06.png
+    fileType: image
+    filePath: trapeze/t06.png
+    fileSize: 20372
+    createdAt: 2025-01-15T23:11:50.688Z
+    updatedAt: 2025-01-15T23:11:50.688Z
+  - fileName: t05.png
+    fileType: image
+    filePath: trapeze/t05.png
+    fileSize: 17016
+    createdAt: 2025-01-15T23:11:50.688Z
+    updatedAt: 2025-01-15T23:11:50.688Z
+  - fileName: t04.png
+    fileType: image
+    filePath: trapeze/t04.png
+    fileSize: 18967
+    createdAt: 2025-01-15T23:11:50.689Z
+    updatedAt: 2025-01-15T23:11:50.689Z
+  - fileName: t03.png
+    fileType: image
+    filePath: trapeze/t03.png
+    fileSize: 24464
+    createdAt: 2025-01-15T23:11:50.689Z
+    updatedAt: 2025-01-15T23:11:50.689Z
+  - fileName: t02.png
+    fileType: image
+    filePath: trapeze/t02.png
+    fileSize: 15579
+    createdAt: 2025-01-15T23:11:50.689Z
+    updatedAt: 2025-01-15T23:11:50.689Z
+  - fileName: t01.png
+    fileType: image
+    filePath: trapeze/t01.png
+    fileSize: 16497
+    createdAt: 2025-01-15T23:11:50.690Z
+    updatedAt: 2025-01-15T23:11:50.690Z
   - fileName: px_trapeze_v01.json
     fileType: pxJson
     filePath: trapeze/px_trapeze_v01.json

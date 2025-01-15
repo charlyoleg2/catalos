@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.756Z
-updatedAt: 2025-01-14T19:40:44.783Z
-updateCount: 1
+updatedAt: 2025-01-15T23:11:50.871Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/heliostat_2
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -111,3 +111,63 @@ files:
     fileSize: 233736
     createdAt: 2025-01-14T19:40:44.783Z
     updatedAt: 2025-01-14T19:40:44.783Z
+  - fileName: hb10.png
+    fileType: image
+    filePath: heliostat_2/hb10.png
+    fileSize: 17528
+    createdAt: 2025-01-15T23:11:50.865Z
+    updatedAt: 2025-01-15T23:11:50.865Z
+  - fileName: hb09.png
+    fileType: image
+    filePath: heliostat_2/hb09.png
+    fileSize: 17781
+    createdAt: 2025-01-15T23:11:50.866Z
+    updatedAt: 2025-01-15T23:11:50.866Z
+  - fileName: hb08.png
+    fileType: image
+    filePath: heliostat_2/hb08.png
+    fileSize: 15867
+    createdAt: 2025-01-15T23:11:50.866Z
+    updatedAt: 2025-01-15T23:11:50.866Z
+  - fileName: hb07.png
+    fileType: image
+    filePath: heliostat_2/hb07.png
+    fileSize: 28512
+    createdAt: 2025-01-15T23:11:50.866Z
+    updatedAt: 2025-01-15T23:11:50.866Z
+  - fileName: hb06.png
+    fileType: image
+    filePath: heliostat_2/hb06.png
+    fileSize: 21517
+    createdAt: 2025-01-15T23:11:50.866Z
+    updatedAt: 2025-01-15T23:11:50.866Z
+  - fileName: hb05.png
+    fileType: image
+    filePath: heliostat_2/hb05.png
+    fileSize: 30568
+    createdAt: 2025-01-15T23:11:50.867Z
+    updatedAt: 2025-01-15T23:11:50.867Z
+  - fileName: hb04.png
+    fileType: image
+    filePath: heliostat_2/hb04.png
+    fileSize: 16148
+    createdAt: 2025-01-15T23:11:50.868Z
+    updatedAt: 2025-01-15T23:11:50.868Z
+  - fileName: hb03.png
+    fileType: image
+    filePath: heliostat_2/hb03.png
+    fileSize: 20840
+    createdAt: 2025-01-15T23:11:50.870Z
+    updatedAt: 2025-01-15T23:11:50.870Z
+  - fileName: hb02.png
+    fileType: image
+    filePath: heliostat_2/hb02.png
+    fileSize: 14845
+    createdAt: 2025-01-15T23:11:50.870Z
+    updatedAt: 2025-01-15T23:11:50.870Z
+  - fileName: hb01.png
+    fileType: image
+    filePath: heliostat_2/hb01.png
+    fileSize: 28196
+    createdAt: 2025-01-15T23:11:50.870Z
+    updatedAt: 2025-01-15T23:11:50.870Z

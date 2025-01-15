@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.693Z
-updatedAt: 2025-01-14T19:40:44.721Z
-updateCount: 1
+updatedAt: 2025-01-15T23:11:50.823Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/rake
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -171,6 +171,48 @@ files:
     fileSize: 36515
     createdAt: 2025-01-14T19:40:44.720Z
     updatedAt: 2025-01-14T19:40:44.720Z
+  - fileName: r07.png
+    fileType: image
+    filePath: rake/r07.png
+    fileSize: 12260
+    createdAt: 2025-01-15T23:11:50.821Z
+    updatedAt: 2025-01-15T23:11:50.821Z
+  - fileName: r06.png
+    fileType: image
+    filePath: rake/r06.png
+    fileSize: 24966
+    createdAt: 2025-01-15T23:11:50.821Z
+    updatedAt: 2025-01-15T23:11:50.821Z
+  - fileName: r05.png
+    fileType: image
+    filePath: rake/r05.png
+    fileSize: 28187
+    createdAt: 2025-01-15T23:11:50.822Z
+    updatedAt: 2025-01-15T23:11:50.822Z
+  - fileName: r04.png
+    fileType: image
+    filePath: rake/r04.png
+    fileSize: 32899
+    createdAt: 2025-01-15T23:11:50.822Z
+    updatedAt: 2025-01-15T23:11:50.822Z
+  - fileName: r03.png
+    fileType: image
+    filePath: rake/r03.png
+    fileSize: 18960
+    createdAt: 2025-01-15T23:11:50.822Z
+    updatedAt: 2025-01-15T23:11:50.822Z
+  - fileName: r02.png
+    fileType: image
+    filePath: rake/r02.png
+    fileSize: 24812
+    createdAt: 2025-01-15T23:11:50.822Z
+    updatedAt: 2025-01-15T23:11:50.822Z
+  - fileName: r01.png
+    fileType: image
+    filePath: rake/r01.png
+    fileSize: 20483
+    createdAt: 2025-01-15T23:11:50.823Z
+    updatedAt: 2025-01-15T23:11:50.823Z
   - fileName: px_rake_v01.json
     fileType: pxJson
     filePath: rake/px_rake_v01.json

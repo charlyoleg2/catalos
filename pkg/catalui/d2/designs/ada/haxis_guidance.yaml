@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.850Z
-updatedAt: 2025-01-14T19:40:44.875Z
-updateCount: 1
+updatedAt: 2025-01-15T23:11:50.961Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/haxis_guidance
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -21,12 +21,48 @@ files:
     fileSize: 379
     createdAt: 2025-01-14T19:40:44.852Z
     updatedAt: 2025-01-14T19:40:44.852Z
+  - fileName: hg_06.png
+    fileType: image
+    filePath: haxis_guidance/hg_06.png
+    fileSize: 25121
+    createdAt: 2025-01-15T23:11:50.954Z
+    updatedAt: 2025-01-15T23:11:50.954Z
+  - fileName: hg_05.png
+    fileType: image
+    filePath: haxis_guidance/hg_05.png
+    fileSize: 24032
+    createdAt: 2025-01-15T23:11:50.954Z
+    updatedAt: 2025-01-15T23:11:50.954Z
+  - fileName: hg_04.png
+    fileType: image
+    filePath: haxis_guidance/hg_04.png
+    fileSize: 15429
+    createdAt: 2025-01-15T23:11:50.954Z
+    updatedAt: 2025-01-15T23:11:50.954Z
+  - fileName: hg_03.png
+    fileType: image
+    filePath: haxis_guidance/hg_03.png
+    fileSize: 24019
+    createdAt: 2025-01-15T23:11:50.955Z
+    updatedAt: 2025-01-15T23:11:50.955Z
+  - fileName: hg_02.png
+    fileType: image
+    filePath: haxis_guidance/hg_02.png
+    fileSize: 24330
+    createdAt: 2025-01-15T23:11:50.955Z
+    updatedAt: 2025-01-15T23:11:50.955Z
+  - fileName: hg_01.png
+    fileType: image
+    filePath: haxis_guidance/hg_01.png
+    fileSize: 22691
+    createdAt: 2025-01-15T23:11:50.955Z
+    updatedAt: 2025-01-15T23:11:50.955Z
   - fileName: haxis_guidance_v01_oscad.stl
     fileType: stl
     filePath: haxis_guidance/haxis_guidance_v01_oscad.stl
-    fileSize: 246643
+    fileSize: 247258
     createdAt: 2025-01-14T19:40:44.854Z
-    updatedAt: 2025-01-14T19:40:44.854Z
+    updatedAt: 2025-01-15T23:11:50.956Z
   - fileName: haxis_guidance_v01_jscad.stl
     fileType: stl
     filePath: haxis_guidance/haxis_guidance_v01_jscad.stl

@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.595Z
-updatedAt: 2025-01-14T19:40:44.607Z
-updateCount: 1
+updatedAt: 2025-01-15T23:11:50.726Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/spider
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -99,6 +99,42 @@ files:
     fileSize: 6707
     createdAt: 2025-01-14T19:40:44.607Z
     updatedAt: 2025-01-14T19:40:44.607Z
+  - fileName: s06.png
+    fileType: image
+    filePath: spider/s06.png
+    fileSize: 20653
+    createdAt: 2025-01-15T23:11:50.724Z
+    updatedAt: 2025-01-15T23:11:50.724Z
+  - fileName: s05.png
+    fileType: image
+    filePath: spider/s05.png
+    fileSize: 22970
+    createdAt: 2025-01-15T23:11:50.724Z
+    updatedAt: 2025-01-15T23:11:50.724Z
+  - fileName: s04.png
+    fileType: image
+    filePath: spider/s04.png
+    fileSize: 26752
+    createdAt: 2025-01-15T23:11:50.724Z
+    updatedAt: 2025-01-15T23:11:50.724Z
+  - fileName: s03.png
+    fileType: image
+    filePath: spider/s03.png
+    fileSize: 21778
+    createdAt: 2025-01-15T23:11:50.725Z
+    updatedAt: 2025-01-15T23:11:50.725Z
+  - fileName: s02.png
+    fileType: image
+    filePath: spider/s02.png
+    fileSize: 20988
+    createdAt: 2025-01-15T23:11:50.725Z
+    updatedAt: 2025-01-15T23:11:50.725Z
+  - fileName: s01.png
+    fileType: image
+    filePath: spider/s01.png
+    fileSize: 21399
+    createdAt: 2025-01-15T23:11:50.726Z
+    updatedAt: 2025-01-15T23:11:50.726Z
   - fileName: px_spider_v01.json
     fileType: pxJson
     filePath: spider/px_spider_v01.json

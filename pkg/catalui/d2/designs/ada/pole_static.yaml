@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.723Z
-updatedAt: 2025-01-14T19:40:44.753Z
-updateCount: 1
+updatedAt: 2025-01-15T23:11:50.845Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/pole_static
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -21,6 +21,48 @@ files:
     fileSize: 794
     createdAt: 2025-01-14T19:40:44.726Z
     updatedAt: 2025-01-14T19:40:44.726Z
+  - fileName: ps07.png
+    fileType: image
+    filePath: pole_static/ps07.png
+    fileSize: 28074
+    createdAt: 2025-01-15T23:11:50.828Z
+    updatedAt: 2025-01-15T23:11:50.828Z
+  - fileName: ps06.png
+    fileType: image
+    filePath: pole_static/ps06.png
+    fileSize: 20928
+    createdAt: 2025-01-15T23:11:50.828Z
+    updatedAt: 2025-01-15T23:11:50.828Z
+  - fileName: ps05.png
+    fileType: image
+    filePath: pole_static/ps05.png
+    fileSize: 25483
+    createdAt: 2025-01-15T23:11:50.829Z
+    updatedAt: 2025-01-15T23:11:50.829Z
+  - fileName: ps04.png
+    fileType: image
+    filePath: pole_static/ps04.png
+    fileSize: 35992
+    createdAt: 2025-01-15T23:11:50.829Z
+    updatedAt: 2025-01-15T23:11:50.829Z
+  - fileName: ps03.png
+    fileType: image
+    filePath: pole_static/ps03.png
+    fileSize: 28680
+    createdAt: 2025-01-15T23:11:50.829Z
+    updatedAt: 2025-01-15T23:11:50.829Z
+  - fileName: ps02.png
+    fileType: image
+    filePath: pole_static/ps02.png
+    fileSize: 18107
+    createdAt: 2025-01-15T23:11:50.830Z
+    updatedAt: 2025-01-15T23:11:50.830Z
+  - fileName: ps01.png
+    fileType: image
+    filePath: pole_static/ps01.png
+    fileSize: 15084
+    createdAt: 2025-01-15T23:11:50.830Z
+    updatedAt: 2025-01-15T23:11:50.830Z
   - fileName: pole_static_v01_poleFace.svg
     fileType: svg
     filePath: pole_static/pole_static_v01_poleFace.svg

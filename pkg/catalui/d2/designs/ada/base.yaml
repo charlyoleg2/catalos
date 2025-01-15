@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.877Z
-updatedAt: 2025-01-14T19:40:44.907Z
-updateCount: 1
+updatedAt: 2025-01-15T23:11:50.982Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/base
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -105,3 +105,33 @@ files:
     fileSize: 40602
     createdAt: 2025-01-14T19:40:44.907Z
     updatedAt: 2025-01-14T19:40:44.907Z
+  - fileName: base_05.png
+    fileType: image
+    filePath: base/base_05.png
+    fileSize: 28538
+    createdAt: 2025-01-15T23:11:50.980Z
+    updatedAt: 2025-01-15T23:11:50.980Z
+  - fileName: base_04.png
+    fileType: image
+    filePath: base/base_04.png
+    fileSize: 29707
+    createdAt: 2025-01-15T23:11:50.981Z
+    updatedAt: 2025-01-15T23:11:50.981Z
+  - fileName: base_03.png
+    fileType: image
+    filePath: base/base_03.png
+    fileSize: 32618
+    createdAt: 2025-01-15T23:11:50.981Z
+    updatedAt: 2025-01-15T23:11:50.981Z
+  - fileName: base_02.png
+    fileType: image
+    filePath: base/base_02.png
+    fileSize: 33734
+    createdAt: 2025-01-15T23:11:50.981Z
+    updatedAt: 2025-01-15T23:11:50.981Z
+  - fileName: base_01.png
+    fileType: image
+    filePath: base/base_01.png
+    fileSize: 24830
+    createdAt: 2025-01-15T23:11:50.981Z
+    updatedAt: 2025-01-15T23:11:50.981Z

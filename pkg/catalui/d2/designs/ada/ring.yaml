@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.657Z
-updatedAt: 2025-01-14T19:40:44.675Z
-updateCount: 1
+updatedAt: 2025-01-15T23:11:50.787Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/ring
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -99,6 +99,42 @@ files:
     fileSize: 29438
     createdAt: 2025-01-14T19:40:44.674Z
     updatedAt: 2025-01-14T19:40:44.674Z
+  - fileName: r06.png
+    fileType: image
+    filePath: ring/r06.png
+    fileSize: 40709
+    createdAt: 2025-01-15T23:11:50.784Z
+    updatedAt: 2025-01-15T23:11:50.784Z
+  - fileName: r05.png
+    fileType: image
+    filePath: ring/r05.png
+    fileSize: 20847
+    createdAt: 2025-01-15T23:11:50.784Z
+    updatedAt: 2025-01-15T23:11:50.784Z
+  - fileName: r04.png
+    fileType: image
+    filePath: ring/r04.png
+    fileSize: 21274
+    createdAt: 2025-01-15T23:11:50.785Z
+    updatedAt: 2025-01-15T23:11:50.785Z
+  - fileName: r03.png
+    fileType: image
+    filePath: ring/r03.png
+    fileSize: 21885
+    createdAt: 2025-01-15T23:11:50.785Z
+    updatedAt: 2025-01-15T23:11:50.785Z
+  - fileName: r02.png
+    fileType: image
+    filePath: ring/r02.png
+    fileSize: 15780
+    createdAt: 2025-01-15T23:11:50.785Z
+    updatedAt: 2025-01-15T23:11:50.785Z
+  - fileName: r01.png
+    fileType: image
+    filePath: ring/r01.png
+    fileSize: 20945
+    createdAt: 2025-01-15T23:11:50.786Z
+    updatedAt: 2025-01-15T23:11:50.786Z
   - fileName: px_ring_v01.json
     fileType: pxJson
     filePath: ring/px_ring_v01.json

@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.494Z
-updatedAt: 2025-01-14T19:40:44.523Z
-updateCount: 1
+updatedAt: 2025-01-15T23:11:50.668Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/vaxis
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -87,6 +87,36 @@ files:
     fileSize: 24803
     createdAt: 2025-01-14T19:40:44.522Z
     updatedAt: 2025-01-14T19:40:44.522Z
+  - fileName: va05.png
+    fileType: image
+    filePath: vaxis/va05.png
+    fileSize: 35849
+    createdAt: 2025-01-15T23:11:50.667Z
+    updatedAt: 2025-01-15T23:11:50.667Z
+  - fileName: va04.png
+    fileType: image
+    filePath: vaxis/va04.png
+    fileSize: 36505
+    createdAt: 2025-01-15T23:11:50.667Z
+    updatedAt: 2025-01-15T23:11:50.667Z
+  - fileName: va03.png
+    fileType: image
+    filePath: vaxis/va03.png
+    fileSize: 23410
+    createdAt: 2025-01-15T23:11:50.668Z
+    updatedAt: 2025-01-15T23:11:50.668Z
+  - fileName: va02.png
+    fileType: image
+    filePath: vaxis/va02.png
+    fileSize: 24422
+    createdAt: 2025-01-15T23:11:50.668Z
+    updatedAt: 2025-01-15T23:11:50.668Z
+  - fileName: va01.png
+    fileType: image
+    filePath: vaxis/va01.png
+    fileSize: 37374
+    createdAt: 2025-01-15T23:11:50.668Z
+    updatedAt: 2025-01-15T23:11:50.668Z
   - fileName: px_vaxis_v01.json
     fileType: pxJson
     filePath: vaxis/px_vaxis_v01.json

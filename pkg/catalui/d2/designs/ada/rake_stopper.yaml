@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.678Z
-updatedAt: 2025-01-14T19:40:44.691Z
-updateCount: 1
+updatedAt: 2025-01-15T23:11:50.805Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/rake_stopper
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -15,6 +15,60 @@ linkToUis: https://www.npmjs.com/package/designix-uis
 linkToRepo: https://github.com/charlyoleg2/heliostat_model_50cm
 linkOthers: []
 files:
+  - fileName: rs09.png
+    fileType: image
+    filePath: rake_stopper/rs09.png
+    fileSize: 21626
+    createdAt: 2025-01-15T23:11:50.793Z
+    updatedAt: 2025-01-15T23:11:50.793Z
+  - fileName: rs08.png
+    fileType: image
+    filePath: rake_stopper/rs08.png
+    fileSize: 34155
+    createdAt: 2025-01-15T23:11:50.793Z
+    updatedAt: 2025-01-15T23:11:50.793Z
+  - fileName: rs07.png
+    fileType: image
+    filePath: rake_stopper/rs07.png
+    fileSize: 34417
+    createdAt: 2025-01-15T23:11:50.793Z
+    updatedAt: 2025-01-15T23:11:50.793Z
+  - fileName: rs06.png
+    fileType: image
+    filePath: rake_stopper/rs06.png
+    fileSize: 34899
+    createdAt: 2025-01-15T23:11:50.794Z
+    updatedAt: 2025-01-15T23:11:50.794Z
+  - fileName: rs05.png
+    fileType: image
+    filePath: rake_stopper/rs05.png
+    fileSize: 26811
+    createdAt: 2025-01-15T23:11:50.794Z
+    updatedAt: 2025-01-15T23:11:50.794Z
+  - fileName: rs04.png
+    fileType: image
+    filePath: rake_stopper/rs04.png
+    fileSize: 34898
+    createdAt: 2025-01-15T23:11:50.794Z
+    updatedAt: 2025-01-15T23:11:50.794Z
+  - fileName: rs03.png
+    fileType: image
+    filePath: rake_stopper/rs03.png
+    fileSize: 20633
+    createdAt: 2025-01-15T23:11:50.795Z
+    updatedAt: 2025-01-15T23:11:50.795Z
+  - fileName: rs02.png
+    fileType: image
+    filePath: rake_stopper/rs02.png
+    fileSize: 32129
+    createdAt: 2025-01-15T23:11:50.795Z
+    updatedAt: 2025-01-15T23:11:50.795Z
+  - fileName: rs01.png
+    fileType: image
+    filePath: rake_stopper/rs01.png
+    fileSize: 34428
+    createdAt: 2025-01-15T23:11:50.795Z
+    updatedAt: 2025-01-15T23:11:50.795Z
   - fileName: rake_stopper_v01_oscad.stl
     fileType: stl
     filePath: rake_stopper/rake_stopper_v01_oscad.stl
