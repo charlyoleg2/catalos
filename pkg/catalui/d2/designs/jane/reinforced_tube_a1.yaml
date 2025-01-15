@@ -5,8 +5,8 @@ tags:
   - flambement
 owner: jane
 createdAt: 2025-01-14T21:59:12.710Z
-updatedAt: 2025-01-14T21:59:12.721Z
-updateCount: 1
+updatedAt: 2025-01-15T21:23:02.186Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/reinforced_tube
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -118,3 +118,33 @@ files:
     fileSize: 426
     createdAt: 2025-01-14T21:59:12.721Z
     updatedAt: 2025-01-14T21:59:12.721Z
+  - fileName: Screenshot from 2025-01-15 22-16-09.png
+    fileType: image
+    filePath: reinforced_tube_a1/Screenshot from 2025-01-15 22-16-09.png
+    fileSize: 22584
+    createdAt: 2025-01-15T21:23:02.179Z
+    updatedAt: 2025-01-15T21:23:02.179Z
+  - fileName: Screenshot from 2025-01-15 22-15-57.png
+    fileType: image
+    filePath: reinforced_tube_a1/Screenshot from 2025-01-15 22-15-57.png
+    fileSize: 29290
+    createdAt: 2025-01-15T21:23:02.181Z
+    updatedAt: 2025-01-15T21:23:02.181Z
+  - fileName: Screenshot from 2025-01-15 22-15-32.png
+    fileType: image
+    filePath: reinforced_tube_a1/Screenshot from 2025-01-15 22-15-32.png
+    fileSize: 28195
+    createdAt: 2025-01-15T21:23:02.182Z
+    updatedAt: 2025-01-15T21:23:02.182Z
+  - fileName: Screenshot from 2025-01-15 22-15-18.png
+    fileType: image
+    filePath: reinforced_tube_a1/Screenshot from 2025-01-15 22-15-18.png
+    fileSize: 29737
+    createdAt: 2025-01-15T21:23:02.184Z
+    updatedAt: 2025-01-15T21:23:02.184Z
+  - fileName: Screenshot from 2025-01-15 22-15-01.png
+    fileType: image
+    filePath: reinforced_tube_a1/Screenshot from 2025-01-15 22-15-01.png
+    fileSize: 26977
+    createdAt: 2025-01-15T21:23:02.186Z
+    updatedAt: 2025-01-15T21:23:02.186Z

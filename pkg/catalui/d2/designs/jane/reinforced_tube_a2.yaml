@@ -5,8 +5,8 @@ tags:
   - flambement
 owner: jane
 createdAt: 2025-01-14T21:59:12.695Z
-updatedAt: 2025-01-14T21:59:12.709Z
-updateCount: 1
+updatedAt: 2025-01-15T21:23:02.123Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/reinforced_tube
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -16,6 +16,30 @@ linkToUis: https://www.npmjs.com/package/desi78-uis
 linkToRepo: https://github.com/charlyoleg2/cabane
 linkOthers: []
 files:
+  - fileName: rtube_A2_04.png
+    fileType: image
+    filePath: reinforced_tube_a2/rtube_A2_04.png
+    fileSize: 41316
+    createdAt: 2025-01-15T21:23:02.071Z
+    updatedAt: 2025-01-15T21:23:02.071Z
+  - fileName: rtube_A2_03.png
+    fileType: image
+    filePath: reinforced_tube_a2/rtube_A2_03.png
+    fileSize: 39679
+    createdAt: 2025-01-15T21:23:02.073Z
+    updatedAt: 2025-01-15T21:23:02.073Z
+  - fileName: rtube_A2_02.png
+    fileType: image
+    filePath: reinforced_tube_a2/rtube_A2_02.png
+    fileSize: 32247
+    createdAt: 2025-01-15T21:23:02.076Z
+    updatedAt: 2025-01-15T21:23:02.076Z
+  - fileName: rtube_A2_01.png
+    fileType: image
+    filePath: reinforced_tube_a2/rtube_A2_01.png
+    fileSize: 25644
+    createdAt: 2025-01-15T21:23:02.078Z
+    updatedAt: 2025-01-15T21:23:02.078Z
   - fileName: reinforced_tube_A2_v01_oscad.stl
     fileType: stl
     filePath: reinforced_tube_a2/reinforced_tube_A2_v01_oscad.stl

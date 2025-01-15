@@ -5,8 +5,8 @@ tags:
   - flambement
 owner: jane
 createdAt: 2025-01-14T21:59:12.678Z
-updatedAt: 2025-01-14T21:59:12.694Z
-updateCount: 1
+updatedAt: 2025-01-15T21:23:02.055Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/reinforced_tube
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -16,6 +16,36 @@ linkToUis: https://www.npmjs.com/package/desi78-uis
 linkToRepo: https://github.com/charlyoleg2/cabane
 linkOthers: []
 files:
+  - fileName: rtube_A3_05.png
+    fileType: image
+    filePath: reinforced_tube_a3/rtube_A3_05.png
+    fileSize: 41251
+    createdAt: 2025-01-15T21:23:01.980Z
+    updatedAt: 2025-01-15T21:23:01.980Z
+  - fileName: rtube_A3_04.png
+    fileType: image
+    filePath: reinforced_tube_a3/rtube_A3_04.png
+    fileSize: 37794
+    createdAt: 2025-01-15T21:23:01.984Z
+    updatedAt: 2025-01-15T21:23:01.984Z
+  - fileName: rtube_A3_03.png
+    fileType: image
+    filePath: reinforced_tube_a3/rtube_A3_03.png
+    fileSize: 38051
+    createdAt: 2025-01-15T21:23:01.989Z
+    updatedAt: 2025-01-15T21:23:01.989Z
+  - fileName: rtube_A3_02.png
+    fileType: image
+    filePath: reinforced_tube_a3/rtube_A3_02.png
+    fileSize: 26510
+    createdAt: 2025-01-15T21:23:01.994Z
+    updatedAt: 2025-01-15T21:23:01.994Z
+  - fileName: rtube_A3_01.png
+    fileType: image
+    filePath: reinforced_tube_a3/rtube_A3_01.png
+    fileSize: 39148
+    createdAt: 2025-01-15T21:23:01.997Z
+    updatedAt: 2025-01-15T21:23:01.997Z
   - fileName: reinforced_tube_A3_v01_oscad.stl
     fileType: stl
     filePath: reinforced_tube_a3/reinforced_tube_A3_v01_oscad.stl

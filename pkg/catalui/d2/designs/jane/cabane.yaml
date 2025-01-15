@@ -6,8 +6,8 @@ tags:
   - menuiserie
 owner: jane
 createdAt: 2025-01-14T21:59:12.741Z
-updatedAt: 2025-01-14T21:59:12.749Z
-updateCount: 1
+updatedAt: 2025-01-15T21:23:02.297Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/cabane
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -26,9 +26,9 @@ files:
   - fileName: cabane_v01_oscad.stl
     fileType: stl
     filePath: cabane/cabane_v01_oscad.stl
-    fileSize: 1451689
+    fileSize: 1451690
     createdAt: 2025-01-14T21:59:12.743Z
-    updatedAt: 2025-01-14T21:59:12.743Z
+    updatedAt: 2025-01-15T21:23:02.274Z
   - fileName: cabane_v01_jscad.stl
     fileType: stl
     filePath: cabane/cabane_v01_jscad.stl
@@ -131,3 +131,39 @@ files:
     fileSize: 60580
     createdAt: 2025-01-14T21:59:12.749Z
     updatedAt: 2025-01-14T21:59:12.749Z
+  - fileName: cabane_06.png
+    fileType: image
+    filePath: cabane/cabane_06.png
+    fileSize: 16486
+    createdAt: 2025-01-15T21:23:02.292Z
+    updatedAt: 2025-01-15T21:23:02.292Z
+  - fileName: cabane_05.png
+    fileType: image
+    filePath: cabane/cabane_05.png
+    fileSize: 21246
+    createdAt: 2025-01-15T21:23:02.293Z
+    updatedAt: 2025-01-15T21:23:02.293Z
+  - fileName: cabane_04.png
+    fileType: image
+    filePath: cabane/cabane_04.png
+    fileSize: 62201
+    createdAt: 2025-01-15T21:23:02.294Z
+    updatedAt: 2025-01-15T21:23:02.294Z
+  - fileName: cabane_03.png
+    fileType: image
+    filePath: cabane/cabane_03.png
+    fileSize: 29767
+    createdAt: 2025-01-15T21:23:02.294Z
+    updatedAt: 2025-01-15T21:23:02.294Z
+  - fileName: cabane_02.png
+    fileType: image
+    filePath: cabane/cabane_02.png
+    fileSize: 28056
+    createdAt: 2025-01-15T21:23:02.296Z
+    updatedAt: 2025-01-15T21:23:02.296Z
+  - fileName: cabane_01.png
+    fileType: image
+    filePath: cabane/cabane_01.png
+    fileSize: 13932
+    createdAt: 2025-01-15T21:23:02.297Z
+    updatedAt: 2025-01-15T21:23:02.297Z

@@ -6,8 +6,8 @@ tags:
   - menuiserie
 owner: jane
 createdAt: 2025-01-14T21:59:12.732Z
-updatedAt: 2025-01-14T21:59:12.740Z
-updateCount: 1
+updatedAt: 2025-01-15T21:23:02.258Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/cabane_plancher
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -23,6 +23,48 @@ files:
     fileSize: 419
     createdAt: 2025-01-14T21:59:12.733Z
     updatedAt: 2025-01-14T21:59:12.733Z
+  - fileName: plancher_07.png
+    fileType: image
+    filePath: cabane_plancher/plancher_07.png
+    fileSize: 5595
+    createdAt: 2025-01-15T21:23:02.234Z
+    updatedAt: 2025-01-15T21:23:02.234Z
+  - fileName: plancher_06.png
+    fileType: image
+    filePath: cabane_plancher/plancher_06.png
+    fileSize: 6241
+    createdAt: 2025-01-15T21:23:02.235Z
+    updatedAt: 2025-01-15T21:23:02.235Z
+  - fileName: plancher_05.png
+    fileType: image
+    filePath: cabane_plancher/plancher_05.png
+    fileSize: 12504
+    createdAt: 2025-01-15T21:23:02.237Z
+    updatedAt: 2025-01-15T21:23:02.237Z
+  - fileName: plancher_04.png
+    fileType: image
+    filePath: cabane_plancher/plancher_04.png
+    fileSize: 11013
+    createdAt: 2025-01-15T21:23:02.239Z
+    updatedAt: 2025-01-15T21:23:02.239Z
+  - fileName: plancher_03.png
+    fileType: image
+    filePath: cabane_plancher/plancher_03.png
+    fileSize: 3004
+    createdAt: 2025-01-15T21:23:02.240Z
+    updatedAt: 2025-01-15T21:23:02.240Z
+  - fileName: plancher_02.png
+    fileType: image
+    filePath: cabane_plancher/plancher_02.png
+    fileSize: 2751
+    createdAt: 2025-01-15T21:23:02.242Z
+    updatedAt: 2025-01-15T21:23:02.242Z
+  - fileName: plancher_01.png
+    fileType: image
+    filePath: cabane_plancher/plancher_01.png
+    fileSize: 5251
+    createdAt: 2025-01-15T21:23:02.244Z
+    updatedAt: 2025-01-15T21:23:02.244Z
   - fileName: cabane_plancher_v01_oscad.stl
     fileType: stl
     filePath: cabane_plancher/cabane_plancher_v01_oscad.stl

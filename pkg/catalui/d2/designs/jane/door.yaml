@@ -6,8 +6,8 @@ tags:
   - stone
 owner: jane
 createdAt: 2025-01-14T21:59:12.722Z
-updatedAt: 2025-01-14T21:59:12.731Z
-updateCount: 1
+updatedAt: 2025-01-15T21:23:02.221Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/door
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -107,3 +107,39 @@ files:
     fileSize: 104692
     createdAt: 2025-01-14T21:59:12.731Z
     updatedAt: 2025-01-14T21:59:12.731Z
+  - fileName: door_06.png
+    fileType: image
+    filePath: door/door_06.png
+    fileSize: 15205
+    createdAt: 2025-01-15T21:23:02.217Z
+    updatedAt: 2025-01-15T21:23:02.217Z
+  - fileName: door_05.png
+    fileType: image
+    filePath: door/door_05.png
+    fileSize: 15785
+    createdAt: 2025-01-15T21:23:02.218Z
+    updatedAt: 2025-01-15T21:23:02.218Z
+  - fileName: door_04.png
+    fileType: image
+    filePath: door/door_04.png
+    fileSize: 15614
+    createdAt: 2025-01-15T21:23:02.219Z
+    updatedAt: 2025-01-15T21:23:02.219Z
+  - fileName: door_03.png
+    fileType: image
+    filePath: door/door_03.png
+    fileSize: 21684
+    createdAt: 2025-01-15T21:23:02.220Z
+    updatedAt: 2025-01-15T21:23:02.220Z
+  - fileName: door_02.png
+    fileType: image
+    filePath: door/door_02.png
+    fileSize: 18291
+    createdAt: 2025-01-15T21:23:02.220Z
+    updatedAt: 2025-01-15T21:23:02.220Z
+  - fileName: door_01.png
+    fileType: image
+    filePath: door/door_01.png
+    fileSize: 25396
+    createdAt: 2025-01-15T21:23:02.221Z
+    updatedAt: 2025-01-15T21:23:02.221Z
