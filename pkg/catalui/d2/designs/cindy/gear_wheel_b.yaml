@@ -1,16 +1,19 @@
-description: ""
-tags: []
+description: gear-wheel for a gear-system with two wheels
+tags:
+  - mechanics
+  - gear
+  - iron
 owner: cindy
 createdAt: 2025-01-16T20:39:06.389Z
 updatedAt: 2025-01-16T20:39:06.418Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parametrix/gear/gear_wheel
+linkToSrc: https://github.com/charlyoleg2/parametrix
+linkToPkg: https://www.npmjs.com/package/designix
+linkToCli: https://www.npmjs.com/package/designix-cli
+linkToUis: https://www.npmjs.com/package/designix-uis
+linkToRepo: https://github.com/charlyoleg2/maker_ustensile
 linkOthers: []
 files:
   - fileName: px_gear_wheel_B_v01.json

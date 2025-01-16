@@ -1,16 +1,18 @@
-description: ""
-tags: []
+description: La lettre L
+tags:
+  - lettre
+  - elle
 owner: cindy
 createdAt: 2025-01-16T20:39:06.367Z
 updatedAt: 2025-01-16T20:39:06.386Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parame82/desi82/lettreL
+linkToSrc: https://github.com/charlyoleg2/parame82
+linkToPkg: https://www.npmjs.com/package/desi82
+linkToCli: https://www.npmjs.com/package/desi82-cli
+linkToUis: https://www.npmjs.com/package/desi82-uis
+linkToRepo: https://github.com/charlyoleg2/maker_ustensile
 linkOthers: []
 files:
   - fileName: px_lettreL_v01.json
