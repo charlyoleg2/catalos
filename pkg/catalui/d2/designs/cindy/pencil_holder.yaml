@@ -1,0 +1,93 @@
+description: ""
+tags: []
+owner: cindy
+createdAt: 2025-01-16T20:39:06.335Z
+updatedAt: 2025-01-16T20:39:06.365Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_pencil_holder_v01.json
+    fileType: pxJson
+    filePath: pencil_holder/px_pencil_holder_v01.json
+    fileSize: 268
+    createdAt: 2025-01-16T20:39:06.337Z
+    updatedAt: 2025-01-16T20:39:06.337Z
+  - fileName: pencil_holder_v01_oscad.stl
+    fileType: stl
+    filePath: pencil_holder/pencil_holder_v01_oscad.stl
+    fileSize: 157498
+    createdAt: 2025-01-16T20:39:06.339Z
+    updatedAt: 2025-01-16T20:39:06.339Z
+  - fileName: pencil_holder_v01_faceTop.svg
+    fileType: svg
+    filePath: pencil_holder/pencil_holder_v01_faceTop.svg
+    fileSize: 2184
+    createdAt: 2025-01-16T20:39:06.340Z
+    updatedAt: 2025-01-16T20:39:06.340Z
+  - fileName: pencil_holder_v01_faceTop.dxf
+    fileType: dxf
+    filePath: pencil_holder/pencil_holder_v01_faceTop.dxf
+    fileSize: 3874
+    createdAt: 2025-01-16T20:39:06.341Z
+    updatedAt: 2025-01-16T20:39:06.341Z
+  - fileName: pencil_holder_v01_faceSide.svg
+    fileType: svg
+    filePath: pencil_holder/pencil_holder_v01_faceSide.svg
+    fileSize: 236
+    createdAt: 2025-01-16T20:39:06.344Z
+    updatedAt: 2025-01-16T20:39:06.344Z
+  - fileName: pencil_holder_v01_faceSide.dxf
+    fileType: dxf
+    filePath: pencil_holder/pencil_holder_v01_faceSide.dxf
+    fileSize: 284
+    createdAt: 2025-01-16T20:39:06.346Z
+    updatedAt: 2025-01-16T20:39:06.346Z
+  - fileName: pencil_holder_v01_faceFace.svg
+    fileType: svg
+    filePath: pencil_holder/pencil_holder_v01_faceFace.svg
+    fileSize: 234
+    createdAt: 2025-01-16T20:39:06.348Z
+    updatedAt: 2025-01-16T20:39:06.348Z
+  - fileName: pencil_holder_v01_faceFace.dxf
+    fileType: dxf
+    filePath: pencil_holder/pencil_holder_v01_faceFace.dxf
+    fileSize: 284
+    createdAt: 2025-01-16T20:39:06.352Z
+    updatedAt: 2025-01-16T20:39:06.352Z
+  - fileName: pencil_holder_v01.scad
+    fileType: scad
+    filePath: pencil_holder/pencil_holder_v01.scad
+    fileSize: 8509
+    createdAt: 2025-01-16T20:39:06.355Z
+    updatedAt: 2025-01-16T20:39:06.355Z
+  - fileName: pencil_holder_v01.py
+    fileType: pyFreecad
+    filePath: pencil_holder/pencil_holder_v01.py
+    fileSize: 10324
+    createdAt: 2025-01-16T20:39:06.358Z
+    updatedAt: 2025-01-16T20:39:06.358Z
+  - fileName: pencil_holder_v01.pax.json
+    fileType: paxJson
+    filePath: pencil_holder/pencil_holder_v01.pax.json
+    fileSize: 14036
+    createdAt: 2025-01-16T20:39:06.361Z
+    updatedAt: 2025-01-16T20:39:06.361Z
+  - fileName: pencil_holder_v01.log.txt
+    fileType: txtLog
+    filePath: pencil_holder/pencil_holder_v01.log.txt
+    fileSize: 95
+    createdAt: 2025-01-16T20:39:06.363Z
+    updatedAt: 2025-01-16T20:39:06.363Z
+  - fileName: pencil_holder_v01.js
+    fileType: jsCad
+    filePath: pencil_holder/pencil_holder_v01.js
+    fileSize: 8405
+    createdAt: 2025-01-16T20:39:06.365Z
+    updatedAt: 2025-01-16T20:39:06.365Z

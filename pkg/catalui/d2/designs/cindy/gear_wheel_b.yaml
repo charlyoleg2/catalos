@@ -1,0 +1,81 @@
+description: ""
+tags: []
+owner: cindy
+createdAt: 2025-01-16T20:39:06.389Z
+updatedAt: 2025-01-16T20:39:06.418Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_gear_wheel_B_v01.json
+    fileType: pxJson
+    filePath: gear_wheel_b/px_gear_wheel_B_v01.json
+    fileSize: 1340
+    createdAt: 2025-01-16T20:39:06.393Z
+    updatedAt: 2025-01-16T20:39:06.393Z
+  - fileName: gear_wheel_B_v01_teethProfile.svg
+    fileType: svg
+    filePath: gear_wheel_b/gear_wheel_B_v01_teethProfile.svg
+    fileSize: 13280
+    createdAt: 2025-01-16T20:39:06.395Z
+    updatedAt: 2025-01-16T20:39:06.395Z
+  - fileName: gear_wheel_B_v01_teethProfile.dxf
+    fileType: dxf
+    filePath: gear_wheel_b/gear_wheel_B_v01_teethProfile.dxf
+    fileSize: 26719
+    createdAt: 2025-01-16T20:39:06.398Z
+    updatedAt: 2025-01-16T20:39:06.398Z
+  - fileName: gear_wheel_B_v01_oscad.stl
+    fileType: stl
+    filePath: gear_wheel_b/gear_wheel_B_v01_oscad.stl
+    fileSize: 1016419
+    createdAt: 2025-01-16T20:39:06.401Z
+    updatedAt: 2025-01-16T20:39:06.401Z
+  - fileName: gear_wheel_B_v01_axisProfile.svg
+    fileType: svg
+    filePath: gear_wheel_b/gear_wheel_B_v01_axisProfile.svg
+    fileSize: 243
+    createdAt: 2025-01-16T20:39:06.403Z
+    updatedAt: 2025-01-16T20:39:06.403Z
+  - fileName: gear_wheel_B_v01_axisProfile.dxf
+    fileType: dxf
+    filePath: gear_wheel_b/gear_wheel_B_v01_axisProfile.dxf
+    fileSize: 296
+    createdAt: 2025-01-16T20:39:06.405Z
+    updatedAt: 2025-01-16T20:39:06.405Z
+  - fileName: gear_wheel_B_v01.scad
+    fileType: scad
+    filePath: gear_wheel_b/gear_wheel_B_v01.scad
+    fileSize: 43885
+    createdAt: 2025-01-16T20:39:06.407Z
+    updatedAt: 2025-01-16T20:39:06.407Z
+  - fileName: gear_wheel_B_v01.py
+    fileType: pyFreecad
+    filePath: gear_wheel_b/gear_wheel_B_v01.py
+    fileSize: 45387
+    createdAt: 2025-01-16T20:39:06.410Z
+    updatedAt: 2025-01-16T20:39:06.410Z
+  - fileName: gear_wheel_B_v01.pax.json
+    fileType: paxJson
+    filePath: gear_wheel_b/gear_wheel_B_v01.pax.json
+    fileSize: 92372
+    createdAt: 2025-01-16T20:39:06.413Z
+    updatedAt: 2025-01-16T20:39:06.413Z
+  - fileName: gear_wheel_B_v01.log.txt
+    fileType: txtLog
+    filePath: gear_wheel_b/gear_wheel_B_v01.log.txt
+    fileSize: 872
+    createdAt: 2025-01-16T20:39:06.416Z
+    updatedAt: 2025-01-16T20:39:06.416Z
+  - fileName: gear_wheel_B_v01.js
+    fileType: jsCad
+    filePath: gear_wheel_b/gear_wheel_B_v01.js
+    fileSize: 39361
+    createdAt: 2025-01-16T20:39:06.418Z
+    updatedAt: 2025-01-16T20:39:06.418Z

@@ -1,0 +1,81 @@
+description: ""
+tags: []
+owner: cindy
+createdAt: 2025-01-16T20:39:06.176Z
+updatedAt: 2025-01-16T20:39:06.202Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: surface_D_v01_oscad.stl
+    fileType: stl
+    filePath: surface_d/surface_D_v01_oscad.stl
+    fileSize: 74187
+    createdAt: 2025-01-16T20:39:06.182Z
+    updatedAt: 2025-01-16T20:39:06.182Z
+  - fileName: surface_D_v01_faceSurface.svg
+    fileType: svg
+    filePath: surface_d/surface_D_v01_faceSurface.svg
+    fileSize: 7127
+    createdAt: 2025-01-16T20:39:06.186Z
+    updatedAt: 2025-01-16T20:39:06.186Z
+  - fileName: surface_D_v01_faceSurface.dxf
+    fileType: dxf
+    filePath: surface_d/surface_D_v01_faceSurface.dxf
+    fileSize: 12052
+    createdAt: 2025-01-16T20:39:06.188Z
+    updatedAt: 2025-01-16T20:39:06.188Z
+  - fileName: surface_D_v01_faceOnePanel.svg
+    fileType: svg
+    filePath: surface_d/surface_D_v01_faceOnePanel.svg
+    fileSize: 254
+    createdAt: 2025-01-16T20:39:06.191Z
+    updatedAt: 2025-01-16T20:39:06.191Z
+  - fileName: surface_D_v01_faceOnePanel.dxf
+    fileType: dxf
+    filePath: surface_d/surface_D_v01_faceOnePanel.dxf
+    fileSize: 300
+    createdAt: 2025-01-16T20:39:06.192Z
+    updatedAt: 2025-01-16T20:39:06.192Z
+  - fileName: surface_D_v01.scad
+    fileType: scad
+    filePath: surface_d/surface_D_v01.scad
+    fileSize: 21268
+    createdAt: 2025-01-16T20:39:06.193Z
+    updatedAt: 2025-01-16T20:39:06.193Z
+  - fileName: surface_D_v01.py
+    fileType: pyFreecad
+    filePath: surface_d/surface_D_v01.py
+    fileSize: 51946
+    createdAt: 2025-01-16T20:39:06.194Z
+    updatedAt: 2025-01-16T20:39:06.194Z
+  - fileName: surface_D_v01.pax.json
+    fileType: paxJson
+    filePath: surface_d/surface_D_v01.pax.json
+    fileSize: 52767
+    createdAt: 2025-01-16T20:39:06.195Z
+    updatedAt: 2025-01-16T20:39:06.195Z
+  - fileName: surface_D_v01.log.txt
+    fileType: txtLog
+    filePath: surface_d/surface_D_v01.log.txt
+    fileSize: 382
+    createdAt: 2025-01-16T20:39:06.197Z
+    updatedAt: 2025-01-16T20:39:06.197Z
+  - fileName: surface_D_v01.js
+    fileType: jsCad
+    filePath: surface_d/surface_D_v01.js
+    fileSize: 23261
+    createdAt: 2025-01-16T20:39:06.199Z
+    updatedAt: 2025-01-16T20:39:06.199Z
+  - fileName: px_surface_D_v01.json
+    fileType: pxJson
+    filePath: surface_d/px_surface_D_v01.json
+    fileSize: 628
+    createdAt: 2025-01-16T20:39:06.202Z
+    updatedAt: 2025-01-16T20:39:06.202Z

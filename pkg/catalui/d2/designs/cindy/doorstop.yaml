@@ -1,0 +1,95 @@
+description: A useful printable doorstop
+tags:
+  - 3d-printer
+  - open door
+owner: cindy
+createdAt: 2025-01-16T20:39:06.420Z
+updatedAt: 2025-01-16T20:39:06.452Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame82/desi82/doorstop
+linkToSrc: https://github.com/charlyoleg2/parame82
+linkToPkg: https://www.npmjs.com/package/desi82
+linkToCli: https://www.npmjs.com/package/desi82-cli
+linkToUis: https://www.npmjs.com/package/desi82-uis
+linkToRepo: https://github.com/charlyoleg2/maker_ustensile
+linkOthers: []
+files:
+  - fileName: px_doorstop_v01.json
+    fileType: pxJson
+    filePath: doorstop/px_doorstop_v01.json
+    fileSize: 182
+    createdAt: 2025-01-16T20:39:06.424Z
+    updatedAt: 2025-01-16T20:39:06.424Z
+  - fileName: doorstop_v01_oscad.stl
+    fileType: stl
+    filePath: doorstop/doorstop_v01_oscad.stl
+    fileSize: 89406
+    createdAt: 2025-01-16T20:39:06.426Z
+    updatedAt: 2025-01-16T20:39:06.426Z
+  - fileName: doorstop_v01_faceTop.svg
+    fileType: svg
+    filePath: doorstop/doorstop_v01_faceTop.svg
+    fileSize: 384
+    createdAt: 2025-01-16T20:39:06.429Z
+    updatedAt: 2025-01-16T20:39:06.429Z
+  - fileName: doorstop_v01_faceTop.dxf
+    fileType: dxf
+    filePath: doorstop/doorstop_v01_faceTop.dxf
+    fileSize: 540
+    createdAt: 2025-01-16T20:39:06.431Z
+    updatedAt: 2025-01-16T20:39:06.431Z
+  - fileName: doorstop_v01_faceSide.svg
+    fileType: svg
+    filePath: doorstop/doorstop_v01_faceSide.svg
+    fileSize: 234
+    createdAt: 2025-01-16T20:39:06.434Z
+    updatedAt: 2025-01-16T20:39:06.434Z
+  - fileName: doorstop_v01_faceSide.dxf
+    fileType: dxf
+    filePath: doorstop/doorstop_v01_faceSide.dxf
+    fileSize: 284
+    createdAt: 2025-01-16T20:39:06.436Z
+    updatedAt: 2025-01-16T20:39:06.436Z
+  - fileName: doorstop_v01_faceProfile.svg
+    fileType: svg
+    filePath: doorstop/doorstop_v01_faceProfile.svg
+    fileSize: 659
+    createdAt: 2025-01-16T20:39:06.438Z
+    updatedAt: 2025-01-16T20:39:06.438Z
+  - fileName: doorstop_v01_faceProfile.dxf
+    fileType: dxf
+    filePath: doorstop/doorstop_v01_faceProfile.dxf
+    fileSize: 741
+    createdAt: 2025-01-16T20:39:06.440Z
+    updatedAt: 2025-01-16T20:39:06.440Z
+  - fileName: doorstop_v01.scad
+    fileType: scad
+    filePath: doorstop/doorstop_v01.scad
+    fileSize: 5214
+    createdAt: 2025-01-16T20:39:06.443Z
+    updatedAt: 2025-01-16T20:39:06.443Z
+  - fileName: doorstop_v01.py
+    fileType: pyFreecad
+    filePath: doorstop/doorstop_v01.py
+    fileSize: 5347
+    createdAt: 2025-01-16T20:39:06.445Z
+    updatedAt: 2025-01-16T20:39:06.445Z
+  - fileName: doorstop_v01.pax.json
+    fileType: paxJson
+    filePath: doorstop/doorstop_v01.pax.json
+    fileSize: 6054
+    createdAt: 2025-01-16T20:39:06.447Z
+    updatedAt: 2025-01-16T20:39:06.447Z
+  - fileName: doorstop_v01.log.txt
+    fileType: txtLog
+    filePath: doorstop/doorstop_v01.log.txt
+    fileSize: 95
+    createdAt: 2025-01-16T20:39:06.449Z
+    updatedAt: 2025-01-16T20:39:06.449Z
+  - fileName: doorstop_v01.js
+    fileType: jsCad
+    filePath: doorstop/doorstop_v01.js
+    fileSize: 5562
+    createdAt: 2025-01-16T20:39:06.452Z
+    updatedAt: 2025-01-16T20:39:06.452Z

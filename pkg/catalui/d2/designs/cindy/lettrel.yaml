@@ -1,0 +1,69 @@
+description: ""
+tags: []
+owner: cindy
+createdAt: 2025-01-16T20:39:06.367Z
+updatedAt: 2025-01-16T20:39:06.386Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_lettreL_v01.json
+    fileType: pxJson
+    filePath: lettrel/px_lettreL_v01.json
+    fileSize: 187
+    createdAt: 2025-01-16T20:39:06.371Z
+    updatedAt: 2025-01-16T20:39:06.371Z
+  - fileName: lettreL_v01_oscad.stl
+    fileType: stl
+    filePath: lettrel/lettreL_v01_oscad.stl
+    fileSize: 2488
+    createdAt: 2025-01-16T20:39:06.373Z
+    updatedAt: 2025-01-16T20:39:06.373Z
+  - fileName: lettreL_v01_face1.svg
+    fileType: svg
+    filePath: lettrel/lettreL_v01_face1.svg
+    fileSize: 270
+    createdAt: 2025-01-16T20:39:06.375Z
+    updatedAt: 2025-01-16T20:39:06.375Z
+  - fileName: lettreL_v01_face1.dxf
+    fileType: dxf
+    filePath: lettrel/lettreL_v01_face1.dxf
+    fileSize: 412
+    createdAt: 2025-01-16T20:39:06.377Z
+    updatedAt: 2025-01-16T20:39:06.377Z
+  - fileName: lettreL_v01.scad
+    fileType: scad
+    filePath: lettrel/lettreL_v01.scad
+    fileSize: 552
+    createdAt: 2025-01-16T20:39:06.379Z
+    updatedAt: 2025-01-16T20:39:06.379Z
+  - fileName: lettreL_v01.py
+    fileType: pyFreecad
+    filePath: lettrel/lettreL_v01.py
+    fileSize: 1818
+    createdAt: 2025-01-16T20:39:06.381Z
+    updatedAt: 2025-01-16T20:39:06.381Z
+  - fileName: lettreL_v01.pax.json
+    fileType: paxJson
+    filePath: lettrel/lettreL_v01.pax.json
+    fileSize: 2747
+    createdAt: 2025-01-16T20:39:06.383Z
+    updatedAt: 2025-01-16T20:39:06.383Z
+  - fileName: lettreL_v01.log.txt
+    fileType: txtLog
+    filePath: lettrel/lettreL_v01.log.txt
+    fileSize: 78
+    createdAt: 2025-01-16T20:39:06.385Z
+    updatedAt: 2025-01-16T20:39:06.385Z
+  - fileName: lettreL_v01.js
+    fileType: jsCad
+    filePath: lettrel/lettreL_v01.js
+    fileSize: 1057
+    createdAt: 2025-01-16T20:39:06.386Z
+    updatedAt: 2025-01-16T20:39:06.386Z

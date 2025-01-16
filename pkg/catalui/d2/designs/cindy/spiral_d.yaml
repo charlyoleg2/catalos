@@ -1,0 +1,81 @@
+description: ""
+tags: []
+owner: cindy
+createdAt: 2025-01-16T20:39:06.265Z
+updatedAt: 2025-01-16T20:39:06.298Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: spiral_D_v01_oscad.stl
+    fileType: stl
+    filePath: spiral_d/spiral_D_v01_oscad.stl
+    fileSize: 4660878
+    createdAt: 2025-01-16T20:39:06.274Z
+    updatedAt: 2025-01-16T20:39:06.274Z
+  - fileName: spiral_D_v01_faceTop.svg
+    fileType: svg
+    filePath: spiral_d/spiral_D_v01_faceTop.svg
+    fileSize: 2798
+    createdAt: 2025-01-16T20:39:06.277Z
+    updatedAt: 2025-01-16T20:39:06.277Z
+  - fileName: spiral_D_v01_faceTop.dxf
+    fileType: dxf
+    filePath: spiral_d/spiral_D_v01_faceTop.dxf
+    fileSize: 4634
+    createdAt: 2025-01-16T20:39:06.279Z
+    updatedAt: 2025-01-16T20:39:06.279Z
+  - fileName: spiral_D_v01_faceSide.svg
+    fileType: svg
+    filePath: spiral_d/spiral_D_v01_faceSide.svg
+    fileSize: 2519
+    createdAt: 2025-01-16T20:39:06.281Z
+    updatedAt: 2025-01-16T20:39:06.281Z
+  - fileName: spiral_D_v01_faceSide.dxf
+    fileType: dxf
+    filePath: spiral_d/spiral_D_v01_faceSide.dxf
+    fileSize: 4208
+    createdAt: 2025-01-16T20:39:06.284Z
+    updatedAt: 2025-01-16T20:39:06.284Z
+  - fileName: spiral_D_v01.scad
+    fileType: scad
+    filePath: spiral_d/spiral_D_v01.scad
+    fileSize: 210503
+    createdAt: 2025-01-16T20:39:06.286Z
+    updatedAt: 2025-01-16T20:39:06.286Z
+  - fileName: spiral_D_v01.py
+    fileType: pyFreecad
+    filePath: spiral_d/spiral_D_v01.py
+    fileSize: 20302
+    createdAt: 2025-01-16T20:39:06.288Z
+    updatedAt: 2025-01-16T20:39:06.288Z
+  - fileName: spiral_D_v01.pax.json
+    fileType: paxJson
+    filePath: spiral_d/spiral_D_v01.pax.json
+    fileSize: 24579
+    createdAt: 2025-01-16T20:39:06.290Z
+    updatedAt: 2025-01-16T20:39:06.290Z
+  - fileName: spiral_D_v01.log.txt
+    fileType: txtLog
+    filePath: spiral_d/spiral_D_v01.log.txt
+    fileSize: 96
+    createdAt: 2025-01-16T20:39:06.292Z
+    updatedAt: 2025-01-16T20:39:06.292Z
+  - fileName: spiral_D_v01.js
+    fileType: jsCad
+    filePath: spiral_d/spiral_D_v01.js
+    fileSize: 184638
+    createdAt: 2025-01-16T20:39:06.294Z
+    updatedAt: 2025-01-16T20:39:06.294Z
+  - fileName: px_spiral_D_v01.json
+    fileType: pxJson
+    filePath: spiral_d/px_spiral_D_v01.json
+    fileSize: 187
+    createdAt: 2025-01-16T20:39:06.297Z
+    updatedAt: 2025-01-16T20:39:06.297Z
