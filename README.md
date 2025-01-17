@@ -6,7 +6,7 @@ Presentation
 ------------
 
 This repository contains the source code of the website [catalos](https://charlyoleg2.github.io/catalos/).
-*Catalos* is the website that exposes the 3D designs made with [parametrix](https://charlyoleg2.github.io/parametrix/).
+*Catalos* is the website that exposes the 3D-models (a.k.a. parts or references) made with [parametrix](https://charlyoleg2.github.io/parametrix/).
 
 
 Details
@@ -17,7 +17,7 @@ It can be compiled in two variants:
 - a static variant: [catalos](https://charlyoleg2.github.io/catalos/)
 - a dynamic variant: [catalos](https://charlyoleg2.github.io/catalos/)
 
-*Catalos* is also deployed on [Vercel](https://catalos-catalui.vercel.app/) with more design-models.
+*Catalos* is also deployed on [Vercel](https://catalos-catalui.vercel.app/) with more parts.
 
 *catalos* is a monorepo that contains the following *javascript* packages:
 
