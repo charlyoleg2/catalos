@@ -14,7 +14,7 @@
 		"fetchDB": "scr/update_d1.js",
 		"checkDB": "scr/check_d1.js",
 		"cpPublic": "./scr/copy_to_public.js",
-		"pf-build": "npx pagefind --site dist --glob 'desi/**/*.{html}'",
+		"pf-build": "npx pagefind --site dist --glob 'part/**/*.{html}'",
 		"ci": "run-s fetchDB checkDB cpPublic build lint pf-build",
 		"ci2": "run-s build lint pf-build",
 		"github-pages-fix": "touch dist/.nojekyll",
