@@ -1,8 +1,8 @@
 // src/lib/util.ts
 
-interface tOneDesi {
+interface tOnePart {
 	user: string;
-	design: string;
+	part: string;
 }
 
 function prefixBase(iPath: string): string {
@@ -12,22 +12,22 @@ function prefixBase(iPath: string): string {
 	return rPath;
 }
 
-function prunePrefix(iDesi: string): string {
-	const rDname = iDesi.replace(/^.*\//, '');
+function prunePrefix(iPart: string): string {
+	const rDname = iPart.replace(/^.*\//, '');
 	return rDname;
 }
 
-function splitDesiPath(iDesi: string): tOneDesi {
+function splitPartPath(iPart: string): tOnePart {
 	let rUser = 'oops';
-	let rDesign = 'oops';
-	const words = iDesi.split('/');
+	let rPart = 'oops';
+	const words = iPart.split('/');
 	if (words.length === 2) {
 		rUser = words[0];
-		rDesign = words[1];
+		rPart = words[1];
 	}
-	const rObj: tOneDesi = { user: rUser, design: rDesign };
+	const rObj: tOnePart = { user: rUser, part: rPart };
 	return rObj;
 }
 
-export type { tOneDesi };
-export { prefixBase, prunePrefix, splitDesiPath };
+export type { tOnePart };
+export { prefixBase, prunePrefix, splitPartPath };

@@ -1,9 +1,9 @@
 ---
 import Layout from '@src/layouts/Layout.astro';
-import DesiCard from '@src/components/DesiCard.astro';
+import PartCard from '@src/components/PartCard.astro';
 //import { getCollection } from 'astro:content';
-import type { tDSortedKey } from '@src/lib/sortedDesigns.ts';
-import { dSorted } from '@src/lib/sortedDesigns.ts';
+import type { tDSortedKey } from '@src/lib/sortedParts.ts';
+import { dSorted } from '@src/lib/sortedParts.ts';
 import '@src/styles/styling-vars.css';
 
 export async function getStaticPaths() {
@@ -18,14 +18,14 @@ export async function getStaticPaths() {
 const { sortKey } = Astro.params;
 
 const title = dSorted[sortKey as tDSortedKey].title;
-const designs = dSorted[sortKey as tDSortedKey].designs;
-//const designs = await getCollection('designs');
+const parts = dSorted[sortKey as tDSortedKey].parts;
+//const parts = await getCollection('parts');
 ---
 
 <Layout title={title}>
 	<h1>{title}</h1>
 	<section>
-		{designs.slice(0, 50).map((desi) => <DesiCard design={desi} />)}
+		{parts.slice(0, 50).map((part) => <PartCard part={part} />)}
 	</section>
 </Layout>
 

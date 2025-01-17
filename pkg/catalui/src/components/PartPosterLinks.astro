@@ -7,11 +7,11 @@ import { prunePrefix } from '@src/lib/util.ts';
 import '@src/styles/styling-vars.css';
 
 interface Props {
-	design: CollectionEntry<'designs'>;
+	part: CollectionEntry<'parts'>;
 }
 
-const { design } = Astro.props;
-const user = await getEntry(design.data.owner);
+const { part } = Astro.props;
+const user = await getEntry(part.data.owner);
 const userPhoto = path.join('u', user.data.photoPath);
 ---
 
@@ -20,14 +20,14 @@ const userPhoto = path.join('u', user.data.photoPath);
 		<img alt={userPhoto} src={userPhoto} />
 		<div>
 			<h2>by {user.id} <span>( {user.data.city} - {user.data.country} )</span></h2>
-			<h1>{prunePrefix(design.id)}</h1>
+			<h1>{prunePrefix(part.id)}</h1>
 		</div>
 	</section>
 	<dl>
 		<dt><i>Description:</i></dt>
-		<dd>{design.data.description}</dd>
+		<dd>{part.data.description}</dd>
 		<dt><i>Tags:</i></dt>
-		<dd>{design.data.tags.join(', ')}</dd>
+		<dd>{part.data.tags.join(', ')}</dd>
 	</dl>
 	<table>
 		<thead>
@@ -39,30 +39,30 @@ const userPhoto = path.join('u', user.data.photoPath);
 		<tbody>
 			<tr>
 				<td>UI</td>
-				<td><Surl url={design.data.linkToUi} /> </td>
+				<td><Surl url={part.data.linkToUi} /> </td>
 			</tr>
 			<tr>
 				<td>Sources</td>
-				<td><Surl url={design.data.linkToSrc} /> </td>
+				<td><Surl url={part.data.linkToSrc} /> </td>
 			</tr>
 			<tr>
 				<td>npm package</td>
-				<td><Surl url={design.data.linkToPkg} /> </td>
+				<td><Surl url={part.data.linkToPkg} /> </td>
 			</tr>
 			<tr>
 				<td>npx cli</td>
-				<td><Surl url={design.data.linkToCli} /> </td>
+				<td><Surl url={part.data.linkToCli} /> </td>
 			</tr>
 			<tr>
 				<td>npx UI-server</td>
-				<td><Surl url={design.data.linkToUis} /> </td>
+				<td><Surl url={part.data.linkToUis} /> </td>
 			</tr>
 			<tr>
 				<td>Maker repo</td>
-				<td><Surl url={design.data.linkToRepo} /> </td>
+				<td><Surl url={part.data.linkToRepo} /> </td>
 			</tr>
 			{
-				design.data.linkOthers.map((item) => (
+				part.data.linkOthers.map((item) => (
 					<tr>
 						<td />
 						<td>

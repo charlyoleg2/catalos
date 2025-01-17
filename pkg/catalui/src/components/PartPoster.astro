@@ -1,25 +1,25 @@
 ---
-import DesiPosterLinks from '@src/components/DesiPosterLinks.astro';
-import DesiPosterFiles from '@src/components/DesiPosterFiles.astro';
-import DesiPosterPictures from '@src/components/DesiPosterPictures.astro';
-import DesiPosterOthers from '@src/components/DesiPosterOthers.astro';
+import PartPosterLinks from '@src/components/PartPosterLinks.astro';
+import PartPosterFiles from '@src/components/PartPosterFiles.astro';
+import PartPosterPictures from '@src/components/PartPosterPictures.astro';
+import PartPosterOthers from '@src/components/PartPosterOthers.astro';
 import type { CollectionEntry } from 'astro:content';
 import '@src/styles/styling-vars.css';
 
 interface Props {
-	design: CollectionEntry<'designs'>;
+	part: CollectionEntry<'parts'>;
 }
 
-const { design } = Astro.props;
+const { part } = Astro.props;
 ---
 
 <article>
 	<section>
-		<DesiPosterLinks design={design} />
-		<DesiPosterFiles design={design} />
+		<PartPosterLinks part={part} />
+		<PartPosterFiles part={part} />
 	</section>
-	<DesiPosterPictures design={design} />
-	<DesiPosterOthers design={design} />
+	<PartPosterPictures part={part} />
+	<PartPosterOthers part={part} />
 </article>
 
 <style>

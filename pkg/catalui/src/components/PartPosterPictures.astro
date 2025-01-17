@@ -1,15 +1,15 @@
 ---
 import type { CollectionEntry } from 'astro:content';
-import { imageList } from '@src/lib/sortedDesigns';
+import { imageList } from '@src/lib/sortedParts';
 import '@src/styles/styling-vars.css';
 
 interface Props {
-	design: CollectionEntry<'designs'>;
+	part: CollectionEntry<'parts'>;
 }
 
-const { design } = Astro.props;
+const { part } = Astro.props;
 
-const imgL = imageList(design).map((item) => `u/${design.id}/${item.fileName}`);
+const imgL = imageList(part).map((item) => `u/${part.id}/${item.fileName}`);
 ---
 
 <article>

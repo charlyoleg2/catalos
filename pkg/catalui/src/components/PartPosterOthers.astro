@@ -1,24 +1,24 @@
 ---
-import DesiCard from '@src/components/DesiCard.astro';
+import PartCard from '@src/components/PartCard.astro';
 import type { CollectionEntry } from 'astro:content';
 import { getCollection } from 'astro:content';
 import '@src/styles/styling-vars.css';
 
 interface Props {
-	design: CollectionEntry<'designs'>;
+	part: CollectionEntry<'parts'>;
 }
 
-const { design } = Astro.props;
+const { part } = Astro.props;
 
-const desiOthers = (await getCollection('designs')).filter((item) =>
-	item.data.linkToUi === design.data.linkToUi ? true : false
+const partOthers = (await getCollection('parts')).filter((item) =>
+	item.data.linkToUi === part.data.linkToUi ? true : false
 );
 ---
 
 <article>
-	<h2><i>Parts references</i> of the same <i>parametrizable design</i></h2>
+	<h2><i>Parts references</i> of the same <i>parametrizable part</i></h2>
 	<section>
-		{desiOthers.slice(0, 20).map((desi) => <DesiCard design={desi} />)}
+		{partOthers.slice(0, 20).map((part) => <PartCard part={part} />)}
 	</section>
 </article>
 

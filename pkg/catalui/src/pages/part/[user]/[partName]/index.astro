@@ -1,34 +1,34 @@
 ---
 import Layout from '@src/layouts/Layout.astro';
-import DesiPoster from '@src/components/DesiPoster.astro';
+import PartPoster from '@src/components/PartPoster.astro';
 import type { CollectionEntry } from 'astro:content';
 import { getCollection, getEntry } from 'astro:content';
-import type { tOneDesi } from '@src/lib/util.ts';
-import { splitDesiPath, prunePrefix } from '@src/lib/util.ts';
+import type { tOnePart } from '@src/lib/util.ts';
+import { splitPartPath, prunePrefix } from '@src/lib/util.ts';
 import '@src/styles/styling-vars.css';
 
 interface tOneP {
-	params: tOneDesi;
+	params: tOnePart;
 }
 
 export async function getStaticPaths() {
-	const designs = await getCollection('designs');
+	const parts = await getCollection('parts');
 	const listPath: Array<tOneP> = [];
-	for (const oneD of designs) {
-		listPath.push({ params: splitDesiPath(oneD.id) });
+	for (const oneD of parts) {
+		listPath.push({ params: splitPartPath(oneD.id) });
 	}
 	return listPath;
 }
 
-const { user, design } = Astro.params;
-const designId = `${user}/${design}`;
-const desi = (await getEntry('designs', designId)) as CollectionEntry<'designs'>;
+const { user, part } = Astro.params;
+const partId = `${user}/${part}`;
+const part = (await getEntry('parts', partId)) as CollectionEntry<'parts'>;
 ---
 
-<Layout title={`Design ${desi.id}`}>
-	<!--p><a href="design-list">design-list</a></p-->
-	<h1>A design page for {prunePrefix(desi.id)}</h1>
-	<DesiPoster design={desi} />
+<Layout title={`Part ${part.id}`}>
+	<!--p><a href="part-list">part-list</a></p-->
+	<h1>A part page for {prunePrefix(part.id)}</h1>
+	<PartPoster part={part} />
 </Layout>
 
 <style>

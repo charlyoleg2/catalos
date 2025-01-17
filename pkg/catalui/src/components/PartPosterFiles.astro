@@ -4,19 +4,19 @@ import { renameExt, selectFileTable } from '@src/lib/fileExt.ts';
 import '@src/styles/styling-vars.css';
 
 interface Props {
-	design: CollectionEntry<'designs'>;
+	part: CollectionEntry<'parts'>;
 }
 
-const { design } = Astro.props;
+const { part } = Astro.props;
 
 const base = import.meta.env.BASE_URL;
 const base2 = base === '/' ? '/' : `${base}/`;
 ---
 
-<article id="arti" data-base2={base2} data-uiurl={design.data.linkToUi}>
+<article id="arti" data-base2={base2} data-uiurl={part.data.linkToUi}>
 	<action-table sort="Type">
 		<table>
-			<caption>Design files</caption>
+			<caption>Part files</caption>
 			<thead>
 				<tr>
 					<th>File</th>
@@ -29,7 +29,7 @@ const base2 = base === '/' ? '/' : `${base}/`;
 			</thead>
 			<tbody>
 				{
-					design.data.files
+					part.data.files
 						.filter((item) => selectFileTable(item.fileType))
 						.map((item) => (
 							<tr>
@@ -37,12 +37,12 @@ const base2 = base === '/' ? '/' : `${base}/`;
 								<td>{renameExt(item.fileType)}</td>
 								<td class="taright">{item.fileSize}</td>
 								<td class="rvd">
-									<a href={`u/${design.id}/${item.fileName}`}>raw</a>
+									<a href={`u/${part.id}/${item.fileName}`}>raw</a>
 								</td>
 								<td class="rvd">
 									<button
 										class="bview"
-										data-dfurl={`u/${design.id}/${item.fileName}`}
+										data-dfurl={`u/${part.id}/${item.fileName}`}
 										data-dftype={item.fileType}
 									>
 										view
@@ -50,7 +50,7 @@ const base2 = base === '/' ? '/' : `${base}/`;
 								</td>
 								<td class="rvd">
 									<a
-										href={`u/${design.id}/${item.fileName}`}
+										href={`u/${part.id}/${item.fileName}`}
 										download={item.fileName}
 									>
 										download
@@ -148,7 +148,7 @@ const base2 = base === '/' ? '/' : `${base}/`;
 			window.open(url3dViewer);
 		} else if (['pxJson'].includes(dfType)) {
 			const pxUrl = `${c_uiUrl}?pxUrl=${window.location.origin}${c_base2}${dfUrl}`;
-			//const pxUrl = `${design.data.linkToUi}`;
+			//const pxUrl = `${part.data.linkToUi}`;
 			window.open(pxUrl);
 		} else if (
 			['txtLog', 'paxJson', 'jsCad', 'jsManifold', 'scad', 'pyFreecad'].includes(dfType)

@@ -5,18 +5,18 @@ import { prunePrefix } from '@src/lib/util.ts';
 import '@src/styles/styling-vars.css';
 
 interface Props {
-	design: CollectionEntry<'designs'>;
+	part: CollectionEntry<'parts'>;
 }
 
-const { design } = Astro.props;
-const user = await getEntry(design.data.owner);
-const durl = `desi/${design.id}`;
+const { part } = Astro.props;
+const user = await getEntry(part.data.owner);
+const durl = `part/${part.id}`;
 ---
 
 <a href={durl}>
 	<article>
 		<h2>by {user.id}</h2>
-		<h1>{prunePrefix(design.id)}</h1>
+		<h1>{prunePrefix(part.id)}</h1>
 	</article>
 </a>
 

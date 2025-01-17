@@ -1,16 +1,16 @@
 ---
 import Layout from '@src/layouts/Layout.astro';
-import DesiMicroCard from '@src/components/DesiMicroCard.astro';
+import PartMicroCard from '@src/components/PartMicroCard.astro';
 import { getCollection } from 'astro:content';
 import '@src/styles/styling-vars.css';
 
-const designs = await getCollection('designs');
+const parts = await getCollection('parts');
 ---
 
-<Layout title="All design list">
-	<h1>List of all designs</h1>
+<Layout title="All part list">
+	<h1>List of all parts</h1>
 	<section>
-		{designs.map((desi) => <DesiMicroCard design={desi} />)}
+		{parts.map((part) => <PartMicroCard part={part} />)}
 	</section>
 </Layout>
 

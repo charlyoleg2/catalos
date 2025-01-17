@@ -31,11 +31,11 @@ const users = defineCollection({
 	}),
 });
 
-const designs = defineCollection({
-	loader: glob({ pattern: '**/*.yaml', base: `${DBDIR}/designs` }),
+const parts = defineCollection({
+	loader: glob({ pattern: '**/*.yaml', base: `${DBDIR}/parts` }),
 	schema: z.object({
-		designId: z.number().optional(),
-		designName: z.string().optional(), // already in the object-filename
+		partId: z.number().optional(),
+		partName: z.string().optional(), // already in the object-filename
 		description: z.string(),
 		tags: z.string().array(),
 		owner: reference('users'),
@@ -91,4 +91,4 @@ const designs = defineCollection({
 	}),
 });
 
-export const collections = { users, designs };
+export const collections = { users, parts };
