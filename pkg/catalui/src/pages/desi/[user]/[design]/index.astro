@@ -4,7 +4,7 @@ import DesiPoster from '@src/components/DesiPoster.astro';
 import type { CollectionEntry } from 'astro:content';
 import { getCollection, getEntry } from 'astro:content';
 import type { tOneDesi } from '@src/lib/util.ts';
-import { splitDesiPath } from '@src/lib/util.ts';
+import { splitDesiPath, prunePrefix } from '@src/lib/util.ts';
 import '@src/styles/styling-vars.css';
 
 interface tOneP {
@@ -27,7 +27,7 @@ const desi = (await getEntry('designs', designId)) as CollectionEntry<'designs'>
 
 <Layout title={`Design ${desi.id}`}>
 	<!--p><a href="design-list">design-list</a></p-->
-	<h1>A design page for {desi.id}</h1>
+	<h1>A design page for {prunePrefix(desi.id)}</h1>
 	<DesiPoster design={desi} />
 </Layout>
 
