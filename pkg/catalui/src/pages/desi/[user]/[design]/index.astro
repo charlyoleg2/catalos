@@ -27,7 +27,7 @@ const desi = (await getEntry('designs', designId)) as CollectionEntry<'designs'>
 
 <Layout title={`Design ${desi.id}`}>
 	<!--p><a href="design-list">design-list</a></p-->
-	<h1>A design page</h1>
+	<h1>A design page for {desi.id}</h1>
 	<DesiPoster design={desi} />
 </Layout>
 
