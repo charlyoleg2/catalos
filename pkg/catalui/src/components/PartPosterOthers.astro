@@ -16,7 +16,7 @@ const partOthers = (await getCollection('parts')).filter((item) =>
 ---
 
 <article>
-	<h2><i>Parts references</i> of the same <i>parametrizable part</i></h2>
+	<h2><i>Parts</i> made with the same <i>parametrizable design</i></h2>
 	<section>
 		{partOthers.slice(0, 20).map((part) => <PartCard part={part} />)}
 	</section>
