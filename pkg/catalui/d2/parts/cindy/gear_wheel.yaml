@@ -1,0 +1,114 @@
+description: gear-wheel for a gear-system with two wheels
+tags:
+  - mechanics
+  - gear
+  - iron
+owner: cindy
+createdAt: 2025-01-17T22:01:38.533Z
+updatedAt: 2025-01-17T22:01:38.551Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parametrix/gear/gear_wheel
+linkToSrc: https://github.com/charlyoleg2/parametrix
+linkToPkg: https://www.npmjs.com/package/designix
+linkToCli: https://www.npmjs.com/package/designix-cli
+linkToUis: https://www.npmjs.com/package/designix-uis
+linkToRepo: https://github.com/charlyoleg2/maker_ustensile
+linkOthers: []
+files:
+  - fileName: px_gear_wheel_v01.json
+    fileType: pxJson
+    filePath: gear_wheel/px_gear_wheel_v01.json
+    fileSize: 1339
+    createdAt: 2025-01-17T22:01:38.536Z
+    updatedAt: 2025-01-17T22:01:38.536Z
+  - fileName: gw05.png
+    fileType: image
+    filePath: gear_wheel/gw05.png
+    fileSize: 30364
+    createdAt: 2025-01-17T22:01:38.536Z
+    updatedAt: 2025-01-17T22:01:38.537Z
+  - fileName: gw04.png
+    fileType: image
+    filePath: gear_wheel/gw04.png
+    fileSize: 33758
+    createdAt: 2025-01-17T22:01:38.537Z
+    updatedAt: 2025-01-17T22:01:38.537Z
+  - fileName: gw03.png
+    fileType: image
+    filePath: gear_wheel/gw03.png
+    fileSize: 33307
+    createdAt: 2025-01-17T22:01:38.538Z
+    updatedAt: 2025-01-17T22:01:38.538Z
+  - fileName: gw02.png
+    fileType: image
+    filePath: gear_wheel/gw02.png
+    fileSize: 29738
+    createdAt: 2025-01-17T22:01:38.539Z
+    updatedAt: 2025-01-17T22:01:38.539Z
+  - fileName: gw01.png
+    fileType: image
+    filePath: gear_wheel/gw01.png
+    fileSize: 40693
+    createdAt: 2025-01-17T22:01:38.540Z
+    updatedAt: 2025-01-17T22:01:38.540Z
+  - fileName: gear_wheel_v01_teethProfile.svg
+    fileType: svg
+    filePath: gear_wheel/gear_wheel_v01_teethProfile.svg
+    fileSize: 18384
+    createdAt: 2025-01-17T22:01:38.541Z
+    updatedAt: 2025-01-17T22:01:38.541Z
+  - fileName: gear_wheel_v01_teethProfile.dxf
+    fileType: dxf
+    filePath: gear_wheel/gear_wheel_v01_teethProfile.dxf
+    fileSize: 36629
+    createdAt: 2025-01-17T22:01:38.542Z
+    updatedAt: 2025-01-17T22:01:38.542Z
+  - fileName: gear_wheel_v01_oscad.stl
+    fileType: stl
+    filePath: gear_wheel/gear_wheel_v01_oscad.stl
+    fileSize: 1823944
+    createdAt: 2025-01-17T22:01:38.545Z
+    updatedAt: 2025-01-17T22:01:38.545Z
+  - fileName: gear_wheel_v01_axisProfile.svg
+    fileType: svg
+    filePath: gear_wheel/gear_wheel_v01_axisProfile.svg
+    fileSize: 243
+    createdAt: 2025-01-17T22:01:38.546Z
+    updatedAt: 2025-01-17T22:01:38.546Z
+  - fileName: gear_wheel_v01_axisProfile.dxf
+    fileType: dxf
+    filePath: gear_wheel/gear_wheel_v01_axisProfile.dxf
+    fileSize: 296
+    createdAt: 2025-01-17T22:01:38.547Z
+    updatedAt: 2025-01-17T22:01:38.547Z
+  - fileName: gear_wheel_v01.scad
+    fileType: scad
+    filePath: gear_wheel/gear_wheel_v01.scad
+    fileSize: 79911
+    createdAt: 2025-01-17T22:01:38.548Z
+    updatedAt: 2025-01-17T22:01:38.548Z
+  - fileName: gear_wheel_v01.py
+    fileType: pyFreecad
+    filePath: gear_wheel/gear_wheel_v01.py
+    fileSize: 61591
+    createdAt: 2025-01-17T22:01:38.549Z
+    updatedAt: 2025-01-17T22:01:38.549Z
+  - fileName: gear_wheel_v01.pax.json
+    fileType: paxJson
+    filePath: gear_wheel/gear_wheel_v01.pax.json
+    fileSize: 119242
+    createdAt: 2025-01-17T22:01:38.549Z
+    updatedAt: 2025-01-17T22:01:38.549Z
+  - fileName: gear_wheel_v01.log.txt
+    fileType: txtLog
+    filePath: gear_wheel/gear_wheel_v01.log.txt
+    fileSize: 874
+    createdAt: 2025-01-17T22:01:38.550Z
+    updatedAt: 2025-01-17T22:01:38.550Z
+  - fileName: gear_wheel_v01.js
+    fileType: jsCad
+    filePath: gear_wheel/gear_wheel_v01.js
+    fileSize: 70523
+    createdAt: 2025-01-17T22:01:38.551Z
+    updatedAt: 2025-01-17T22:01:38.551Z
