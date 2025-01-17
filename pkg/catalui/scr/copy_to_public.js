@@ -68,9 +68,7 @@ async function copyFiles(iOrig, iDest) {
 		console.log(`ERR543: Error while copying files to destination ${dDest}`);
 		console.log(err);
 	}
-	console.log(
-		`info139: from ${dOrig} copy_to_public.js has copied ${cntPart} parts to ${dDest}`
-	);
+	console.log(`info139: from ${dOrig} copy_to_public.js has copied ${cntPart} parts to ${dDest}`);
 }
 
 const eDBDIR = process.env.DBDIR;
