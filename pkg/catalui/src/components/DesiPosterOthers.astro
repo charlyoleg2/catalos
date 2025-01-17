@@ -18,7 +18,7 @@ const desiOthers = (await getCollection('designs')).filter((item) =>
 <article>
 	<h2><i>Parts references</i> of the same <i>parametrizable design</i></h2>
 	<section>
-		{desiOthers.slice(0, 3).map((desi) => <DesiCard design={desi} />)}
+		{desiOthers.slice(0, 20).map((desi) => <DesiCard design={desi} />)}
 	</section>
 </article>
 
