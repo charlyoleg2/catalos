@@ -25,7 +25,7 @@ function splitPartPath(iPart: string): tOnePart {
 		rUser = words[0];
 		rPart = words[1];
 	}
-	const rObj: tOnePart = { user: rUser, part: rPart };
+	const rObj: tOnePart = { user: rUser, partName: rPart };
 	return rObj;
 }
 
