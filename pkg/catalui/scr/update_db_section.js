@@ -166,15 +166,15 @@ function findObj(iObj, fName) {
 	return rObj;
 }
 
-async function oneFile(iFile, iObj, designName, iDest) {
+async function oneFile(iFile, iObj, partName, iDest) {
 	const fsize = (await fs.stat(iFile)).size;
 	const fBasename = path.basename(iFile);
-	const fPath = `${designName}/${fBasename}`;
+	const fPath = `${partName}/${fBasename}`;
 	const File2 = path.join(iDest, fPath);
 	let oneUpdated = false;
 	if (await compareFiles(iFile, File2)) {
 		await fs.copy(iFile, File2);
-		// oneUpdated commented because assume d1 is without design-files
+		// oneUpdated commented because assume d1 is without part-files
 		// fileSize is the remaining hint for tracking changes
 		//oneUpdated = true;
 	}
@@ -211,7 +211,7 @@ async function oneFile(iFile, iObj, designName, iDest) {
 	return [rObj, oneUpdated];
 }
 
-async function chooseFiles(nFiles, objDesi, ddesi, dName, iCleanNonExistingFiles) {
+async function chooseFiles(nFiles, objPart, dpart, dName, iCleanNonExistingFiles) {
 	const rFiles = [];
 	const lNewFiles = [];
 	for (const iFileObj of nFiles) {
@@ -220,8 +220,8 @@ async function chooseFiles(nFiles, objDesi, ddesi, dName, iCleanNonExistingFiles
 		}
 	}
 	const lExtraFiles = [];
-	if ('files' in objDesi) {
-		for (const iFileObj of objDesi.files) {
+	if ('files' in objPart) {
+		for (const iFileObj of objPart.files) {
 			if ('fileName' in iFileObj && !lNewFiles.includes(iFileObj.fileName)) {
 				lExtraFiles.push(iFileObj.fileName);
 			}
@@ -230,18 +230,18 @@ async function chooseFiles(nFiles, objDesi, ddesi, dName, iCleanNonExistingFiles
 	// add old Files if they exists or no-clean-flag
 	for (const fName of lExtraFiles) {
 		let keepFile = false;
-		const fPath = path.join(ddesi, fName);
+		const fPath = path.join(dpart, fName);
 		if (await fs.pathExists(fPath)) {
 			if ((await fs.stat(fPath)).isFile()) {
 				keepFile = true;
 			}
 		}
 		if (!keepFile && iCleanNonExistingFiles) {
-			console.log(`info224: design ${dName} removes non-existing file ${fName}`);
+			console.log(`info224: part ${dName} removes non-existing file ${fName}`);
 		}
 		if (keepFile || !iCleanNonExistingFiles) {
 			//console.log(`dbg342: keep old file: ${fName}`);
-			rFiles.push(findObj(objDesi, fName));
+			rFiles.push(findObj(objPart, fName));
 		}
 	}
 	// add new Files
@@ -252,9 +252,9 @@ async function chooseFiles(nFiles, objDesi, ddesi, dName, iCleanNonExistingFiles
 	return rFiles;
 }
 
-async function update_one_design(iDir, iDest, iCleanNonExistingFiles) {
+async function update_one_part(iDir, iDest, iCleanNonExistingFiles) {
 	const dNameUc = path.basename(iDir);
-	// lower-case design-name because Astro lower-case collections
+	// lower-case part-name because Astro lower-case collections
 	const dName = dNameUc.toLowerCase();
 	const owner = path.basename(iDest);
 	if (dName !== dNameUc) {
@@ -264,19 +264,19 @@ async function update_one_design(iDir, iDest, iCleanNonExistingFiles) {
 		throw `ERR913: owner ${owner} contains upper-case!`;
 	}
 	const fyaml = `${iDest}/${dName}.yaml`;
-	const ddesi = `${iDest}/${dName}`;
-	let objDesi = defaultObj(owner);
+	const dpart = `${iDest}/${dName}`;
+	let objPart = defaultObj(owner);
 	if (await fs.pathExists(fyaml)) {
 		if ((await fs.stat(fyaml)).isFile()) {
-			console.log(`info213: Update design: ${dName}`);
-			objDesi = await readYaml(fyaml);
+			console.log(`info213: Update part: ${dName}`);
+			objPart = await readYaml(fyaml);
 		} else {
 			throw `ERR409: ${fyaml} exists but is not a yaml-file!`;
 		}
 	} else {
-		console.log(`info212: Generate new design: ${dName}`);
+		console.log(`info212: Generate new part: ${dName}`);
 	}
-	await fs.ensureDir(ddesi);
+	await fs.ensureDir(dpart);
 	const lFiles = await glob(`${iDir}/*`);
 	const nFiles = [];
 	let filesUpdated = false;
@@ -285,7 +285,7 @@ async function update_one_design(iDir, iDest, iCleanNonExistingFiles) {
 			const fBasename = path.basename(iFile);
 			const fExtname = path.extname(iFile);
 			if (extValid.includes(fExtname)) {
-				const [objF, oneUpdated] = await oneFile(iFile, objDesi, dName, iDest);
+				const [objF, oneUpdated] = await oneFile(iFile, objPart, dName, iDest);
 				nFiles.push(objF);
 				filesUpdated |= oneUpdated;
 			} else if (['.exampleExtWarn'].includes(fExtname)) {
@@ -297,16 +297,16 @@ async function update_one_design(iDir, iDest, iCleanNonExistingFiles) {
 			console.log(`warn494: ${iFile} is ignored!`);
 		}
 	}
-	objDesi.files = await chooseFiles(nFiles, objDesi, ddesi, dName, iCleanNonExistingFiles);
+	objPart.files = await chooseFiles(nFiles, objPart, dpart, dName, iCleanNonExistingFiles);
 	if (filesUpdated) {
-		objDesi.updatedAt = new Date().toISOString();
-		objDesi.updateCount = parseInt(objDesi.updateCount) + 1;
+		objPart.updatedAt = new Date().toISOString();
+		objPart.updateCount = parseInt(objPart.updateCount) + 1;
 	}
-	await writeYaml(objDesi, fyaml);
+	await writeYaml(objPart, fyaml);
 }
 
-async function inspect_designs(iOrig, iDest, iCleanNonExistingFiles) {
-	let cntDesi = 0;
+async function inspect_parts(iOrig, iDest, iCleanNonExistingFiles) {
+	let cntPart = 0;
 	const dOrig = iOrig.replace(/\/$/, '');
 	const dDest = iDest.replace(/\/$/, '');
 	try {
@@ -328,20 +328,20 @@ async function inspect_designs(iOrig, iDest, iCleanNonExistingFiles) {
 		for (const iFile of lFiles) {
 			const bFile = path.basename(iFile);
 			if ((await fs.stat(iFile)).isDirectory()) {
-				//console.log(`generate design: ${bFile}`);
-				await update_one_design(iFile, dDest, iCleanNonExistingFiles);
-				cntDesi += 1;
+				//console.log(`generate part: ${bFile}`);
+				await update_one_part(iFile, dDest, iCleanNonExistingFiles);
+				cntPart += 1;
 			} else {
 				console.log(`warn382: ${bFile} is not a directory!`);
 			}
 		}
 	} catch (err) {
-		console.log('ERR643: Error while generating designs');
+		console.log('ERR643: Error while generating parts');
 		console.log(err);
 		process.exit(1);
 	}
 	console.log(
-		`info439: from ${dOrig} update_db_section.js has created or updated ${cntDesi} designs in ${dDest}`
+		`info439: from ${dOrig} update_db_section.js has created or updated ${cntPart} parts in ${dDest}`
 	);
 }
 
@@ -351,13 +351,13 @@ const argv = yargs(hideBin(process.argv))
 	.option('inDir', {
 		alias: 'i',
 		type: 'string',
-		description: 'input directory-path for searching designs',
+		description: 'input directory-path for searching parts',
 		demandOption: true,
 	})
 	.option('outDir', {
 		alias: 'o',
 		type: 'string',
-		description: 'output directory-path for creating or updating designs',
+		description: 'output directory-path for creating or updating parts',
 		demandOption: true,
 	})
 	.option('cleanNonExistingFiles', {
@@ -370,4 +370,4 @@ const argv = yargs(hideBin(process.argv))
 	.strict()
 	.parseSync();
 
-await inspect_designs(argv.inDir, argv.outDir, argv.cleanNonExistingFiles);
+await inspect_parts(argv.inDir, argv.outDir, argv.cleanNonExistingFiles);

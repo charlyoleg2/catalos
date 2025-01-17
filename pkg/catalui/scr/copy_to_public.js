@@ -7,7 +7,7 @@ import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
 
 async function copyFiles(iOrig, iDest) {
-	let cntDesi = 0;
+	let cntPart = 0;
 	const dOrig = iOrig.replace(/\/$/, '');
 	const dDest = iDest.replace(/\/$/, '');
 	try {
@@ -38,23 +38,23 @@ async function copyFiles(iOrig, iDest) {
 			//console.log(`copy svg,png,jpg: ${bname}`);
 			await fs.copy(`${dOrig}/users/${bname}`, `${dDest}/u/${bname}`);
 		}
-		// copy designs
+		// copy parts
 		const users = await glob(`${dOrig}/users/*.yaml`);
 		for (const iUser of users) {
 			const bUser = path.basename(iUser, '.yaml');
-			const pUser = `${dOrig}/designs/${bUser}`;
+			const pUser = `${dOrig}/parts/${bUser}`;
 			if (await fs.pathExists(pUser)) {
 				if ((await fs.stat(pUser)).isDirectory()) {
 					//console.log(`copy dir: ${bUser}`);
 					//await fs.copy(pUser, `${dDest}/u/${bUser}`);
-					//cntDesi += 1;
-					const desis = await glob(`${pUser}/*`);
-					for (const iDesi of desis) {
-						const bDesi = path.basename(iDesi);
-						if ((await fs.stat(iDesi)).isDirectory()) {
-							console.log(`copy dir: ${bDesi}`);
-							await fs.copy(iDesi, `${dDest}/u/${bUser}/${bDesi}`);
-							cntDesi += 1;
+					//cntPart += 1;
+					const parts = await glob(`${pUser}/*`);
+					for (const iPart of parts) {
+						const bPart = path.basename(iPart);
+						if ((await fs.stat(iPart)).isDirectory()) {
+							console.log(`copy dir: ${bPart}`);
+							await fs.copy(iPart, `${dDest}/u/${bUser}/${bPart}`);
+							cntPart += 1;
 						}
 					}
 				} else {
@@ -69,7 +69,7 @@ async function copyFiles(iOrig, iDest) {
 		console.log(err);
 	}
 	console.log(
-		`info139: from ${dOrig} copy_to_public.js has copied ${cntDesi} designs to ${dDest}`
+		`info139: from ${dOrig} copy_to_public.js has copied ${cntPart} parts to ${dDest}`
 	);
 }
 
@@ -80,14 +80,14 @@ const argv = yargs(hideBin(process.argv))
 	.option('inDir', {
 		alias: 'i',
 		type: 'string',
-		description: 'input directory-path for copying designs',
+		description: 'input directory-path for copying parts',
 		demandOption: true,
 		default: eDBDIR ? eDBDIR : 'd1',
 	})
 	.option('outDir', {
 		alias: 'o',
 		type: 'string',
-		description: 'output directory-path for copying designs',
+		description: 'output directory-path for copying parts',
 		demandOption: true,
 		default: './public',
 	})

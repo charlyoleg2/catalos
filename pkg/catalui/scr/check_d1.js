@@ -75,7 +75,7 @@ function getExtname(iFile) {
 	return rExtname;
 }
 
-async function check_desiFile(objFile, desiDir, iUpdate, desiName, bUser2) {
+async function check_partFile(objFile, partDir, iUpdate, partName, bUser2) {
 	let cntErr = 0;
 	for (const iField of [
 		'fileName',
@@ -87,24 +87,24 @@ async function check_desiFile(objFile, desiDir, iUpdate, desiName, bUser2) {
 	]) {
 		if (!(iField in objFile)) {
 			console.log(
-				`err520: field ${iField} is missing for desi ${desiName} of user ${bUser2}`
+				`err520: field ${iField} is missing for part ${partName} of user ${bUser2}`
 			);
 			cntErr += 1;
 		}
 	}
 	// if all fields exists
 	if (cntErr === 0) {
-		const pFile = path.join(desiDir, '..', objFile.filePath);
+		const pFile = path.join(partDir, '..', objFile.filePath);
 		if (!((await fs.pathExists(pFile)) && (await fs.stat(pFile)).isFile())) {
 			console.log(
-				`err521: file ${pFile} doesn't exist for desi ${desiName} of user ${bUser2}`
+				`err521: file ${pFile} doesn't exist for part ${partName} of user ${bUser2}`
 			);
 			cntErr += 1;
 		} else {
 			const fsize = (await fs.stat(pFile)).size;
 			if (fsize !== objFile.fileSize) {
 				console.log(
-					`err525: fileSize ${fsize} versus ${objFile.fileSize} for desi ${desiName} of user ${bUser2}`
+					`err525: fileSize ${fsize} versus ${objFile.fileSize} for part ${partName} of user ${bUser2}`
 				);
 				cntErr += 1;
 				if (iUpdate) {
@@ -119,20 +119,20 @@ async function check_desiFile(objFile, desiDir, iUpdate, desiName, bUser2) {
 		}
 		if (path.basename(objFile.filePath) !== objFile.fileName) {
 			console.log(
-				`err522: filePath ${objFile.filePath} mismatches fileName ${objFile.fileName} for desi ${desiName} of user ${bUser2}`
+				`err522: filePath ${objFile.filePath} mismatches fileName ${objFile.fileName} for part ${partName} of user ${bUser2}`
 			);
 			cntErr += 1;
 		}
-		if (path.dirname(objFile.filePath) !== desiName) {
+		if (path.dirname(objFile.filePath) !== partName) {
 			console.log(
-				`err523: filePath ${objFile.filePath} directory doesn't fit for desi ${desiName} of user ${bUser2}`
+				`err523: filePath ${objFile.filePath} directory doesn't fit for part ${partName} of user ${bUser2}`
 			);
 			cntErr += 1;
 		}
 		const expectedExt = getExtname(objFile.filePath);
 		if (expectedExt !== objFile.fileType) {
 			console.log(
-				`err524: fileType ${objFile.fileType} mismatches ${expectedExt} for ${objFile.filePath} of desi ${desiName} of user ${bUser2}`
+				`err524: fileType ${objFile.fileType} mismatches ${expectedExt} for ${objFile.filePath} of part ${partName} of user ${bUser2}`
 			);
 			cntErr += 1;
 		}
@@ -140,28 +140,28 @@ async function check_desiFile(objFile, desiDir, iUpdate, desiName, bUser2) {
 	return cntErr;
 }
 
-async function check_desi(iDesi, bUser2, iUpdate) {
+async function check_part(iPart, bUser2, iUpdate) {
 	let cntErr = 0;
-	if (!((await fs.pathExists(iDesi)) && (await fs.stat(iDesi)).isFile())) {
-		console.log(`err229: ${iDesi} is not a file for user ${bUser2}`);
+	if (!((await fs.pathExists(iPart)) && (await fs.stat(iPart)).isFile())) {
+		console.log(`err229: ${iPart} is not a file for user ${bUser2}`);
 		cntErr += 1;
 	}
-	const desiParent = path.dirname(iDesi);
-	const desiName = path.basename(iDesi, '.yaml');
-	if (desiName !== desiName.toLowerCase()) {
-		console.log(`err396: desiName ${desiName} contains upper-case`);
+	const partParent = path.dirname(iPart);
+	const partName = path.basename(iPart, '.yaml');
+	if (partName !== partName.toLowerCase()) {
+		console.log(`err396: partName ${partName} contains upper-case`);
 		cntErr += 1;
 	}
-	const desiDir = path.join(desiParent, desiName);
-	if (!((await fs.pathExists(desiDir)) && (await fs.stat(desiDir)).isDirectory())) {
-		console.log(`err228: desiDir ${desiDir} doesn't exist or not a directory`);
+	const partDir = path.join(partParent, partName);
+	if (!((await fs.pathExists(partDir)) && (await fs.stat(partDir)).isDirectory())) {
+		console.log(`err228: partDir ${partDir} doesn't exist or not a directory`);
 		cntErr += 1;
 		if (iUpdate) {
-			console.log(`info061: create directory ${desiDir}`);
-			await fs.ensureDir(desiDir);
+			console.log(`info061: create directory ${partDir}`);
+			await fs.ensureDir(partDir);
 		}
 	}
-	const objDesi = await readYaml(iDesi);
+	const objPart = await readYaml(iPart);
 	for (const iField of [
 		'description',
 		'tags',
@@ -178,53 +178,53 @@ async function check_desi(iDesi, bUser2, iUpdate) {
 		'linkToRepo',
 		'linkOthers',
 	]) {
-		if (!(iField in objDesi)) {
+		if (!(iField in objPart)) {
 			console.log(
-				`err326: field ${iField} is missing for desi ${desiName} of user ${bUser2}`
+				`err326: field ${iField} is missing for part ${partName} of user ${bUser2}`
 			);
 			cntErr += 1;
 		}
 	}
-	if ('owner' in objDesi && objDesi.owner !== bUser2) {
+	if ('owner' in objPart && objPart.owner !== bUser2) {
 		console.log(
-			`err730: owner ${objDesi.owner} mismatches ${bUser2} for desi ${desiName} of user ${bUser2}`
+			`err730: owner ${objPart.owner} mismatches ${bUser2} for part ${partName} of user ${bUser2}`
 		);
 		cntErr += 1;
 	}
-	const desiFiles = await glob(`${desiDir}/*`);
-	if ('files' in objDesi && objDesi.files.length !== desiFiles.length) {
+	const partFiles = await glob(`${partDir}/*`);
+	if ('files' in objPart && objPart.files.length !== partFiles.length) {
 		console.log(
-			`err731: files.length ${objDesi.files.length} mismatches ${desiFiles.length} for desi ${desiName} of user ${bUser2}`
+			`err731: files.length ${objPart.files.length} mismatches ${partFiles.length} for part ${partName} of user ${bUser2}`
 		);
 		cntErr += 1;
 	}
-	for (const objFile of objDesi.files) {
-		cntErr += await check_desiFile(objFile, desiDir, iUpdate, desiName, bUser2);
+	for (const objFile of objPart.files) {
+		cntErr += await check_partFile(objFile, partDir, iUpdate, partName, bUser2);
 	}
 	return cntErr;
 }
 
-async function check_userDesi(iUser2, userList, iUpdate) {
-	let cntDesi = 0;
+async function check_userPart(iUser2, userList, iUpdate) {
+	let cntPart = 0;
 	let cntErr = 0;
 	const bUser2 = path.basename(iUser2);
 	if (userList.includes(bUser2)) {
-		const uDesis = await glob(`${iUser2}/*.yaml`);
-		for (const iDesi of uDesis) {
-			cntErr += await check_desi(iDesi, bUser2, iUpdate);
-			cntDesi += 1;
+		const uParts = await glob(`${iUser2}/*.yaml`);
+		for (const iPart of uParts) {
+			cntErr += await check_part(iPart, bUser2, iUpdate);
+			cntPart += 1;
 		}
 	} else {
 		console.log(`err211: bUser2 ${bUser2} doesn't have its yaml-user`);
 		cntErr += 1;
 	}
-	return [cntDesi, cntErr];
+	return [cntPart, cntErr];
 }
 
 async function check_db(iDBdir, iUpdate, noExitCode) {
 	const userList = [];
 	let cntErr = 0;
-	let cntDesi = 0;
+	let cntPart = 0;
 	try {
 		// sanity basic check
 		if (!(await fs.pathExists(iDBdir))) {
@@ -242,23 +242,23 @@ async function check_db(iDBdir, iUpdate, noExitCode) {
 			userList.push(bUser);
 			cntErr += userErr;
 		}
-		// check designs
-		const dUser = await glob(`${iDBdir}/designs/*`);
+		// check parts
+		const dUser = await glob(`${iDBdir}/parts/*`);
 		for (const iUser2 of dUser) {
 			if ((await fs.stat(iUser2)).isDirectory()) {
-				const [tCntDesi, tCntErr] = await check_userDesi(iUser2, userList, iUpdate);
+				const [tCntPart, tCntErr] = await check_userPart(iUser2, userList, iUpdate);
 				cntErr += tCntErr;
-				cntDesi += tCntDesi;
+				cntPart += tCntPart;
 			} else {
 				console.log(`err721: ${iUser2} is not a directory`);
 				cntErr += 1;
 			}
 		}
-		// check missing userDesign
+		// check missing userPart
 		for (const user of userList) {
-			const pUserDesi = path.join(iDBdir, 'designs', user);
-			if (!(await fs.pathExists(pUserDesi))) {
-				console.log(`err722: ${pUserDesi} doesn't exist for user ${user}`);
+			const pUserPart = path.join(iDBdir, 'parts', user);
+			if (!(await fs.pathExists(pUserPart))) {
+				console.log(`err722: ${pUserPart} doesn't exist for user ${user}`);
 				cntErr += 1;
 			}
 		}
@@ -267,7 +267,7 @@ async function check_db(iDBdir, iUpdate, noExitCode) {
 		console.log(err);
 	}
 	console.log(
-		`info610: check_d1.js with iUpdate ${iUpdate} has found ${userList.length} users and ${cntDesi} designs in ${iDBdir} with ${cntErr} errors`
+		`info610: check_d1.js with iUpdate ${iUpdate} has found ${userList.length} users and ${cntPart} parts in ${iDBdir} with ${cntErr} errors`
 	);
 	if (cntErr > 0) {
 		console.log(`err123: check_d1.js founds ${cntErr} errors in ${iDBdir}`);
@@ -291,7 +291,7 @@ const argv = yargs(hideBin(process.argv))
 	.option('update', {
 		alias: 'u',
 		type: 'boolean',
-		description: 'update the design.yaml according to the existing files',
+		description: 'update the part.yaml according to the existing files',
 		demandOption: true,
 		default: false,
 	})

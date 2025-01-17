@@ -35,7 +35,7 @@ async function degit_and_update(iURL, iUser, iDB) {
 	await execCmd(`rm -fr tmp/${onedir}`);
 	await execCmd(`npx degit ${iURL} tmp/${onedir}`);
 	await execCmd(
-		`node scr/update_db_section.js --inDir tmp/${onedir}/refs --outDir ${iDB}/designs/${iUser}`
+		`node scr/update_db_section.js --inDir tmp/${onedir}/refs --outDir ${iDB}/parts/${iUser}`
 	);
 }
 
