@@ -2,7 +2,7 @@
 
 interface tOnePart {
 	user: string;
-	part: string;
+	partName: string;
 }
 
 function prefixBase(iPath: string): string {

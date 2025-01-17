@@ -12,7 +12,7 @@ import { getCollection } from 'astro:content';
 import '@src/styles/styling-vars.css';
 
 const nbUsers = (await getCollection('users')).length;
-const nbParts = (await getCollection('parts'))
+const nbDesigns = (await getCollection('parts'))
 	.map((item) => item.data.linkToUi)
 	.filter((item, idx, arr) => (arr.indexOf(item) === idx ? true : false)).length;
 const nbParts = (await getCollection('parts')).length;
@@ -34,7 +34,7 @@ const nbParts = (await getCollection('parts')).length;
 		<h3>Statistics</h3>
 		<ol>
 			<li>Number of users: {nbUsers}</li>
-			<li>Number of parts: {nbParts}</li>
+			<li>Number of designs: {nbDesigns}</li>
 			<li>Number of parts: {nbParts}</li>
 		</ol>
 	</article>
