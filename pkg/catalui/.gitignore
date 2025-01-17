@@ -28,7 +28,7 @@ public/u/
 
 # degit download
 tmp/
-d1/designs/*/*
-!d1/designs/*/*.yaml
-d2/designs/*/*
-!d2/designs/*/*.yaml
+d1/parts/*/*
+!d1/parts/*/*.yaml
+d2/parts/*/*
+!d2/parts/*/*.yaml

@@ -20,14 +20,14 @@ export async function getStaticPaths() {
 	return listPath;
 }
 
-const { user, part } = Astro.params;
-const partId = `${user}/${part}`;
+const { user, partName } = Astro.params;
+const partId = `${user}/${partName}`;
 const part = (await getEntry('parts', partId)) as CollectionEntry<'parts'>;
 ---
 
 <Layout title={`Part ${part.id}`}>
 	<!--p><a href="part-list">part-list</a></p-->
-	<h1>A part page for {prunePrefix(part.id)}</h1>
+	<h1>The page of part {prunePrefix(part.id)}</h1>
 	<PartPoster part={part} />
 </Layout>
 
