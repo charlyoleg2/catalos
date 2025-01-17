@@ -5,8 +5,8 @@ tags:
   - landscape integration
 owner: cindy
 createdAt: 2025-01-16T20:39:06.236Z
-updatedAt: 2025-01-16T20:39:06.262Z
-updateCount: 1
+updatedAt: 2025-01-17T01:39:47.048Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/surface
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -76,6 +76,18 @@ files:
     fileSize: 34296
     createdAt: 2025-01-16T20:39:06.260Z
     updatedAt: 2025-01-16T20:39:06.260Z
+  - fileName: sb02.png
+    fileType: image
+    filePath: surface_b/sb02.png
+    fileSize: 68217
+    createdAt: 2025-01-17T01:39:47.044Z
+    updatedAt: 2025-01-17T01:39:47.044Z
+  - fileName: sb01.png
+    fileType: image
+    filePath: surface_b/sb01.png
+    fileSize: 29006
+    createdAt: 2025-01-17T01:39:47.047Z
+    updatedAt: 2025-01-17T01:39:47.047Z
   - fileName: px_surface_B_v01.json
     fileType: pxJson
     filePath: surface_b/px_surface_B_v01.json

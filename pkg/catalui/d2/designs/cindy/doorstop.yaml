@@ -4,8 +4,8 @@ tags:
   - open door
 owner: cindy
 createdAt: 2025-01-16T20:39:06.420Z
-updatedAt: 2025-01-16T20:39:06.452Z
-updateCount: 1
+updatedAt: 2025-01-17T01:39:47.278Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame82/desi82/doorstop
 linkToSrc: https://github.com/charlyoleg2/parame82
@@ -21,6 +21,30 @@ files:
     fileSize: 182
     createdAt: 2025-01-16T20:39:06.424Z
     updatedAt: 2025-01-16T20:39:06.424Z
+  - fileName: ds04.png
+    fileType: image
+    filePath: doorstop/ds04.png
+    fileSize: 11895
+    createdAt: 2025-01-17T01:39:47.263Z
+    updatedAt: 2025-01-17T01:39:47.263Z
+  - fileName: ds03.png
+    fileType: image
+    filePath: doorstop/ds03.png
+    fileSize: 13461
+    createdAt: 2025-01-17T01:39:47.265Z
+    updatedAt: 2025-01-17T01:39:47.265Z
+  - fileName: ds02.png
+    fileType: image
+    filePath: doorstop/ds02.png
+    fileSize: 10124
+    createdAt: 2025-01-17T01:39:47.267Z
+    updatedAt: 2025-01-17T01:39:47.267Z
+  - fileName: ds01.png
+    fileType: image
+    filePath: doorstop/ds01.png
+    fileSize: 7550
+    createdAt: 2025-01-17T01:39:47.270Z
+    updatedAt: 2025-01-17T01:39:47.270Z
   - fileName: doorstop_v01_oscad.stl
     fileType: stl
     filePath: doorstop/doorstop_v01_oscad.stl

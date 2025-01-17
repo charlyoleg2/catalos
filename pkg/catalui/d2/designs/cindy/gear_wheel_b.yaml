@@ -5,8 +5,8 @@ tags:
   - iron
 owner: cindy
 createdAt: 2025-01-16T20:39:06.389Z
-updatedAt: 2025-01-16T20:39:06.418Z
-updateCount: 1
+updatedAt: 2025-01-17T01:39:47.252Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/gear/gear_wheel
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -22,6 +22,30 @@ files:
     fileSize: 1340
     createdAt: 2025-01-16T20:39:06.393Z
     updatedAt: 2025-01-16T20:39:06.393Z
+  - fileName: gw04.png
+    fileType: image
+    filePath: gear_wheel_b/gw04.png
+    fileSize: 28880
+    createdAt: 2025-01-17T01:39:47.233Z
+    updatedAt: 2025-01-17T01:39:47.233Z
+  - fileName: gw03.png
+    fileType: image
+    filePath: gear_wheel_b/gw03.png
+    fileSize: 35901
+    createdAt: 2025-01-17T01:39:47.235Z
+    updatedAt: 2025-01-17T01:39:47.235Z
+  - fileName: gw02.png
+    fileType: image
+    filePath: gear_wheel_b/gw02.png
+    fileSize: 30988
+    createdAt: 2025-01-17T01:39:47.237Z
+    updatedAt: 2025-01-17T01:39:47.237Z
+  - fileName: gw01.png
+    fileType: image
+    filePath: gear_wheel_b/gw01.png
+    fileSize: 15130
+    createdAt: 2025-01-17T01:39:47.239Z
+    updatedAt: 2025-01-17T01:39:47.239Z
   - fileName: gear_wheel_B_v01_teethProfile.svg
     fileType: svg
     filePath: gear_wheel_b/gear_wheel_B_v01_teethProfile.svg

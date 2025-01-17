@@ -4,8 +4,8 @@ tags:
   - decoration
 owner: cindy
 createdAt: 2025-01-16T20:39:06.335Z
-updatedAt: 2025-01-16T20:39:06.365Z
-updateCount: 1
+updatedAt: 2025-01-17T01:39:47.193Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame82/desi82/pencil_holder
 linkToSrc: https://github.com/charlyoleg2/parame82
@@ -21,6 +21,30 @@ files:
     fileSize: 268
     createdAt: 2025-01-16T20:39:06.337Z
     updatedAt: 2025-01-16T20:39:06.337Z
+  - fileName: ph04.png
+    fileType: image
+    filePath: pencil_holder/ph04.png
+    fileSize: 17105
+    createdAt: 2025-01-17T01:39:47.172Z
+    updatedAt: 2025-01-17T01:39:47.172Z
+  - fileName: ph03.png
+    fileType: image
+    filePath: pencil_holder/ph03.png
+    fileSize: 10854
+    createdAt: 2025-01-17T01:39:47.173Z
+    updatedAt: 2025-01-17T01:39:47.173Z
+  - fileName: ph02.png
+    fileType: image
+    filePath: pencil_holder/ph02.png
+    fileSize: 10058
+    createdAt: 2025-01-17T01:39:47.175Z
+    updatedAt: 2025-01-17T01:39:47.175Z
+  - fileName: ph01.png
+    fileType: image
+    filePath: pencil_holder/ph01.png
+    fileSize: 9043
+    createdAt: 2025-01-17T01:39:47.177Z
+    updatedAt: 2025-01-17T01:39:47.177Z
   - fileName: pencil_holder_v01_oscad.stl
     fileType: stl
     filePath: pencil_holder/pencil_holder_v01_oscad.stl

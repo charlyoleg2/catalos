@@ -4,8 +4,8 @@ tags:
   - decoration
 owner: cindy
 createdAt: 2025-01-16T20:39:06.315Z
-updatedAt: 2025-01-16T20:39:06.332Z
-updateCount: 1
+updatedAt: 2025-01-17T01:39:47.161Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame82/desi82/spiral
 linkToSrc: https://github.com/charlyoleg2/parame82
@@ -75,6 +75,36 @@ files:
     fileSize: 51183
     createdAt: 2025-01-16T20:39:06.331Z
     updatedAt: 2025-01-16T20:39:06.331Z
+  - fileName: s05.png
+    fileType: image
+    filePath: spiral_b/s05.png
+    fileSize: 37993
+    createdAt: 2025-01-17T01:39:47.152Z
+    updatedAt: 2025-01-17T01:39:47.152Z
+  - fileName: s04.png
+    fileType: image
+    filePath: spiral_b/s04.png
+    fileSize: 32242
+    createdAt: 2025-01-17T01:39:47.154Z
+    updatedAt: 2025-01-17T01:39:47.154Z
+  - fileName: s03.png
+    fileType: image
+    filePath: spiral_b/s03.png
+    fileSize: 21833
+    createdAt: 2025-01-17T01:39:47.156Z
+    updatedAt: 2025-01-17T01:39:47.156Z
+  - fileName: s02.png
+    fileType: image
+    filePath: spiral_b/s02.png
+    fileSize: 32518
+    createdAt: 2025-01-17T01:39:47.158Z
+    updatedAt: 2025-01-17T01:39:47.158Z
+  - fileName: s01.png
+    fileType: image
+    filePath: spiral_b/s01.png
+    fileSize: 14977
+    createdAt: 2025-01-17T01:39:47.159Z
+    updatedAt: 2025-01-17T01:39:47.159Z
   - fileName: px_spiral_B_v01.json
     fileType: pxJson
     filePath: spiral_b/px_spiral_B_v01.json

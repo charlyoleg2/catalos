@@ -4,8 +4,8 @@ tags:
   - elle
 owner: cindy
 createdAt: 2025-01-16T20:39:06.367Z
-updatedAt: 2025-01-16T20:39:06.386Z
-updateCount: 1
+updatedAt: 2025-01-17T01:39:47.222Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame82/desi82/lettreL
 linkToSrc: https://github.com/charlyoleg2/parame82
@@ -69,3 +69,27 @@ files:
     fileSize: 1057
     createdAt: 2025-01-16T20:39:06.386Z
     updatedAt: 2025-01-16T20:39:06.386Z
+  - fileName: l04.png
+    fileType: image
+    filePath: lettrel/l04.png
+    fileSize: 7499
+    createdAt: 2025-01-17T01:39:47.216Z
+    updatedAt: 2025-01-17T01:39:47.216Z
+  - fileName: l03.png
+    fileType: image
+    filePath: lettrel/l03.png
+    fileSize: 5307
+    createdAt: 2025-01-17T01:39:47.218Z
+    updatedAt: 2025-01-17T01:39:47.218Z
+  - fileName: l02.png
+    fileType: image
+    filePath: lettrel/l02.png
+    fileSize: 3970
+    createdAt: 2025-01-17T01:39:47.220Z
+    updatedAt: 2025-01-17T01:39:47.220Z
+  - fileName: l01.png
+    fileType: image
+    filePath: lettrel/l01.png
+    fileSize: 7067
+    createdAt: 2025-01-17T01:39:47.222Z
+    updatedAt: 2025-01-17T01:39:47.222Z
