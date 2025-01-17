@@ -3,10 +3,8 @@ import '@src/styles/styling-vars.css';
 ---
 
 <nav>
-	<span>
-		<a href="" class="buttonCatalos">Catalos</a>
-		A catalog of parts made with Parametrix
-	</span>
+	<a href="" class="buttonCatalos">Catalos</a>
+	<span>A catalog of 3D-models made with Parametrix</span>
 	<a href="login" class="buttonLogin">Log in</a>
 </nav>
 
@@ -19,6 +17,10 @@ import '@src/styles/styling-vars.css';
 		flex-flow: row wrap;
 		justify-content: space-between;
 		align-items: center;
+	}
+	span {
+		display: block;
+		color: var(--c2w);
 	}
 	a {
 		display: block;
