@@ -1,0 +1,99 @@
+description: ""
+tags: []
+owner: kate
+createdAt: 2025-01-18T14:39:38.825Z
+updatedAt: 2025-01-18T14:39:38.829Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_myPartA_v01.json
+    fileType: pxJson
+    filePath: myparta/px_myPartA_v01.json
+    fileSize: 154
+    createdAt: 2025-01-18T14:39:38.825Z
+    updatedAt: 2025-01-18T14:39:38.825Z
+  - fileName: myPartA_v01_oscad.stl
+    fileType: stl
+    filePath: myparta/myPartA_v01_oscad.stl
+    fileSize: 76077
+    createdAt: 2025-01-18T14:39:38.826Z
+    updatedAt: 2025-01-18T14:39:38.826Z
+  - fileName: myPartA_v01_faceSide.svg
+    fileType: svg
+    filePath: myparta/myPartA_v01_faceSide.svg
+    fileSize: 237
+    createdAt: 2025-01-18T14:39:38.826Z
+    updatedAt: 2025-01-18T14:39:38.826Z
+  - fileName: myPartA_v01_faceSide.dxf
+    fileType: dxf
+    filePath: myparta/myPartA_v01_faceSide.dxf
+    fileSize: 288
+    createdAt: 2025-01-18T14:39:38.826Z
+    updatedAt: 2025-01-18T14:39:38.826Z
+  - fileName: myPartA_v01_faceSection.svg
+    fileType: svg
+    filePath: myparta/myPartA_v01_faceSection.svg
+    fileSize: 273
+    createdAt: 2025-01-18T14:39:38.826Z
+    updatedAt: 2025-01-18T14:39:38.826Z
+  - fileName: myPartA_v01_faceSection.dxf
+    fileType: dxf
+    filePath: myparta/myPartA_v01_faceSection.dxf
+    fileSize: 142
+    createdAt: 2025-01-18T14:39:38.827Z
+    updatedAt: 2025-01-18T14:39:38.827Z
+  - fileName: myPartA_v01.scad
+    fileType: scad
+    filePath: myparta/myPartA_v01.scad
+    fileSize: 3858
+    createdAt: 2025-01-18T14:39:38.827Z
+    updatedAt: 2025-01-18T14:39:38.827Z
+  - fileName: myPartA_v01.py
+    fileType: pyFreecad
+    filePath: myparta/myPartA_v01.py
+    fileSize: 2473
+    createdAt: 2025-01-18T14:39:38.827Z
+    updatedAt: 2025-01-18T14:39:38.827Z
+  - fileName: myPartA_v01.pax.json
+    fileType: paxJson
+    filePath: myparta/myPartA_v01.pax.json
+    fileSize: 2451
+    createdAt: 2025-01-18T14:39:38.828Z
+    updatedAt: 2025-01-18T14:39:38.828Z
+  - fileName: myPartA_v01.log.txt
+    fileType: txtLog
+    filePath: myparta/myPartA_v01.log.txt
+    fileSize: 144
+    createdAt: 2025-01-18T14:39:38.828Z
+    updatedAt: 2025-01-18T14:39:38.828Z
+  - fileName: myPartA_v01.js
+    fileType: jsCad
+    filePath: myparta/myPartA_v01.js
+    fileSize: 4166
+    createdAt: 2025-01-18T14:39:38.828Z
+    updatedAt: 2025-01-18T14:39:38.828Z
+  - fileName: a03.png
+    fileType: image
+    filePath: myparta/a03.png
+    fileSize: 16876
+    createdAt: 2025-01-18T14:39:38.829Z
+    updatedAt: 2025-01-18T14:39:38.829Z
+  - fileName: a02.png
+    fileType: image
+    filePath: myparta/a02.png
+    fileSize: 13338
+    createdAt: 2025-01-18T14:39:38.829Z
+    updatedAt: 2025-01-18T14:39:38.829Z
+  - fileName: a01.png
+    fileType: image
+    filePath: myparta/a01.png
+    fileSize: 19857
+    createdAt: 2025-01-18T14:39:38.829Z
+    updatedAt: 2025-01-18T14:39:38.829Z

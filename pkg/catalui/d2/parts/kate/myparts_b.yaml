@@ -1,0 +1,171 @@
+description: ""
+tags: []
+owner: kate
+createdAt: 2025-01-18T14:39:38.678Z
+updatedAt: 2025-01-18T14:39:38.690Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: sb05.png
+    fileType: image
+    filePath: myparts_b/sb05.png
+    fileSize: 9223
+    createdAt: 2025-01-18T14:39:38.679Z
+    updatedAt: 2025-01-18T14:39:38.679Z
+  - fileName: sb04.png
+    fileType: image
+    filePath: myparts_b/sb04.png
+    fileSize: 10922
+    createdAt: 2025-01-18T14:39:38.679Z
+    updatedAt: 2025-01-18T14:39:38.679Z
+  - fileName: sb03.png
+    fileType: image
+    filePath: myparts_b/sb03.png
+    fileSize: 16866
+    createdAt: 2025-01-18T14:39:38.679Z
+    updatedAt: 2025-01-18T14:39:38.679Z
+  - fileName: sb02.png
+    fileType: image
+    filePath: myparts_b/sb02.png
+    fileSize: 17344
+    createdAt: 2025-01-18T14:39:38.680Z
+    updatedAt: 2025-01-18T14:39:38.680Z
+  - fileName: sb01.png
+    fileType: image
+    filePath: myparts_b/sb01.png
+    fileSize: 11302
+    createdAt: 2025-01-18T14:39:38.680Z
+    updatedAt: 2025-01-18T14:39:38.680Z
+  - fileName: px_myPartS_B_v01.json
+    fileType: pxJson
+    filePath: myparts_b/px_myPartS_B_v01.json
+    fileSize: 322
+    createdAt: 2025-01-18T14:39:38.680Z
+    updatedAt: 2025-01-18T14:39:38.680Z
+  - fileName: myPartS_B_v01_prf05.svg
+    fileType: svg
+    filePath: myparts_b/myPartS_B_v01_prf05.svg
+    fileSize: 460
+    createdAt: 2025-01-18T14:39:38.681Z
+    updatedAt: 2025-01-18T14:39:38.681Z
+  - fileName: myPartS_B_v01_prf05.dxf
+    fileType: dxf
+    filePath: myparts_b/myPartS_B_v01_prf05.dxf
+    fileSize: 569
+    createdAt: 2025-01-18T14:39:38.681Z
+    updatedAt: 2025-01-18T14:39:38.681Z
+  - fileName: myPartS_B_v01_prf04.svg
+    fileType: svg
+    filePath: myparts_b/myPartS_B_v01_prf04.svg
+    fileSize: 458
+    createdAt: 2025-01-18T14:39:38.682Z
+    updatedAt: 2025-01-18T14:39:38.682Z
+  - fileName: myPartS_B_v01_prf04.dxf
+    fileType: dxf
+    filePath: myparts_b/myPartS_B_v01_prf04.dxf
+    fileSize: 572
+    createdAt: 2025-01-18T14:39:38.684Z
+    updatedAt: 2025-01-18T14:39:38.684Z
+  - fileName: myPartS_B_v01_prf03.svg
+    fileType: svg
+    filePath: myparts_b/myPartS_B_v01_prf03.svg
+    fileSize: 454
+    createdAt: 2025-01-18T14:39:38.685Z
+    updatedAt: 2025-01-18T14:39:38.685Z
+  - fileName: myPartS_B_v01_prf03.dxf
+    fileType: dxf
+    filePath: myparts_b/myPartS_B_v01_prf03.dxf
+    fileSize: 567
+    createdAt: 2025-01-18T14:39:38.686Z
+    updatedAt: 2025-01-18T14:39:38.686Z
+  - fileName: myPartS_B_v01_prf02.svg
+    fileType: svg
+    filePath: myparts_b/myPartS_B_v01_prf02.svg
+    fileSize: 452
+    createdAt: 2025-01-18T14:39:38.686Z
+    updatedAt: 2025-01-18T14:39:38.686Z
+  - fileName: myPartS_B_v01_prf02.dxf
+    fileType: dxf
+    filePath: myparts_b/myPartS_B_v01_prf02.dxf
+    fileSize: 567
+    createdAt: 2025-01-18T14:39:38.686Z
+    updatedAt: 2025-01-18T14:39:38.686Z
+  - fileName: myPartS_B_v01_prf01.svg
+    fileType: svg
+    filePath: myparts_b/myPartS_B_v01_prf01.svg
+    fileSize: 456
+    createdAt: 2025-01-18T14:39:38.686Z
+    updatedAt: 2025-01-18T14:39:38.686Z
+  - fileName: myPartS_B_v01_prf01.dxf
+    fileType: dxf
+    filePath: myparts_b/myPartS_B_v01_prf01.dxf
+    fileSize: 572
+    createdAt: 2025-01-18T14:39:38.687Z
+    updatedAt: 2025-01-18T14:39:38.687Z
+  - fileName: myPartS_B_v01_prf00.svg
+    fileType: svg
+    filePath: myparts_b/myPartS_B_v01_prf00.svg
+    fileSize: 456
+    createdAt: 2025-01-18T14:39:38.687Z
+    updatedAt: 2025-01-18T14:39:38.687Z
+  - fileName: myPartS_B_v01_prf00.dxf
+    fileType: dxf
+    filePath: myparts_b/myPartS_B_v01_prf00.dxf
+    fileSize: 570
+    createdAt: 2025-01-18T14:39:38.687Z
+    updatedAt: 2025-01-18T14:39:38.687Z
+  - fileName: myPartS_B_v01_oscad.stl
+    fileType: stl
+    filePath: myparts_b/myPartS_B_v01_oscad.stl
+    fileSize: 622915
+    createdAt: 2025-01-18T14:39:38.688Z
+    updatedAt: 2025-01-18T14:39:38.688Z
+  - fileName: myPartS_B_v01_flat.svg
+    fileType: svg
+    filePath: myparts_b/myPartS_B_v01_flat.svg
+    fileSize: 2312
+    createdAt: 2025-01-18T14:39:38.688Z
+    updatedAt: 2025-01-18T14:39:38.688Z
+  - fileName: myPartS_B_v01_flat.dxf
+    fileType: dxf
+    filePath: myparts_b/myPartS_B_v01_flat.dxf
+    fileSize: 3266
+    createdAt: 2025-01-18T14:39:38.689Z
+    updatedAt: 2025-01-18T14:39:38.689Z
+  - fileName: myPartS_B_v01.scad
+    fileType: scad
+    filePath: myparts_b/myPartS_B_v01.scad
+    fileSize: 54032
+    createdAt: 2025-01-18T14:39:38.689Z
+    updatedAt: 2025-01-18T14:39:38.689Z
+  - fileName: myPartS_B_v01.py
+    fileType: pyFreecad
+    filePath: myparts_b/myPartS_B_v01.py
+    fileSize: 18424
+    createdAt: 2025-01-18T14:39:38.689Z
+    updatedAt: 2025-01-18T14:39:38.689Z
+  - fileName: myPartS_B_v01.pax.json
+    fileType: paxJson
+    filePath: myparts_b/myPartS_B_v01.pax.json
+    fileSize: 26999
+    createdAt: 2025-01-18T14:39:38.690Z
+    updatedAt: 2025-01-18T14:39:38.690Z
+  - fileName: myPartS_B_v01.log.txt
+    fileType: txtLog
+    filePath: myparts_b/myPartS_B_v01.log.txt
+    fileSize: 81
+    createdAt: 2025-01-18T14:39:38.690Z
+    updatedAt: 2025-01-18T14:39:38.690Z
+  - fileName: myPartS_B_v01.js
+    fileType: jsCad
+    filePath: myparts_b/myPartS_B_v01.js
+    fileSize: 50143
+    createdAt: 2025-01-18T14:39:38.690Z
+    updatedAt: 2025-01-18T14:39:38.690Z

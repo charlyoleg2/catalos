@@ -1,0 +1,153 @@
+description: ""
+tags: []
+owner: kate
+createdAt: 2025-01-18T14:39:38.801Z
+updatedAt: 2025-01-18T14:39:38.809Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_myPartD_v01.json
+    fileType: pxJson
+    filePath: mypartd/px_myPartD_v01.json
+    fileSize: 184
+    createdAt: 2025-01-18T14:39:38.802Z
+    updatedAt: 2025-01-18T14:39:38.802Z
+  - fileName: myPartD_v01_oscad.stl
+    fileType: stl
+    filePath: mypartd/myPartD_v01_oscad.stl
+    fileSize: 478521
+    createdAt: 2025-01-18T14:39:38.802Z
+    updatedAt: 2025-01-18T14:39:38.802Z
+  - fileName: myPartD_v01_faceTube2H.svg
+    fileType: svg
+    filePath: mypartd/myPartD_v01_faceTube2H.svg
+    fileSize: 183
+    createdAt: 2025-01-18T14:39:38.803Z
+    updatedAt: 2025-01-18T14:39:38.803Z
+  - fileName: myPartD_v01_faceTube2H.dxf
+    fileType: dxf
+    filePath: mypartd/myPartD_v01_faceTube2H.dxf
+    fileSize: 89
+    createdAt: 2025-01-18T14:39:38.803Z
+    updatedAt: 2025-01-18T14:39:38.803Z
+  - fileName: myPartD_v01_faceTube2.svg
+    fileType: svg
+    filePath: mypartd/myPartD_v01_faceTube2.svg
+    fileSize: 277
+    createdAt: 2025-01-18T14:39:38.803Z
+    updatedAt: 2025-01-18T14:39:38.803Z
+  - fileName: myPartD_v01_faceTube2.dxf
+    fileType: dxf
+    filePath: mypartd/myPartD_v01_faceTube2.dxf
+    fileSize: 142
+    createdAt: 2025-01-18T14:39:38.804Z
+    updatedAt: 2025-01-18T14:39:38.804Z
+  - fileName: myPartD_v01_faceTube1H.svg
+    fileType: svg
+    filePath: mypartd/myPartD_v01_faceTube1H.svg
+    fileSize: 182
+    createdAt: 2025-01-18T14:39:38.804Z
+    updatedAt: 2025-01-18T14:39:38.804Z
+  - fileName: myPartD_v01_faceTube1H.dxf
+    fileType: dxf
+    filePath: mypartd/myPartD_v01_faceTube1H.dxf
+    fileSize: 90
+    createdAt: 2025-01-18T14:39:38.804Z
+    updatedAt: 2025-01-18T14:39:38.804Z
+  - fileName: myPartD_v01_faceTube1.svg
+    fileType: svg
+    filePath: mypartd/myPartD_v01_faceTube1.svg
+    fileSize: 274
+    createdAt: 2025-01-18T14:39:38.805Z
+    updatedAt: 2025-01-18T14:39:38.805Z
+  - fileName: myPartD_v01_faceTube1.dxf
+    fileType: dxf
+    filePath: mypartd/myPartD_v01_faceTube1.dxf
+    fileSize: 144
+    createdAt: 2025-01-18T14:39:38.805Z
+    updatedAt: 2025-01-18T14:39:38.805Z
+  - fileName: myPartD_v01_faceTop.svg
+    fileType: svg
+    filePath: mypartd/myPartD_v01_faceTop.svg
+    fileSize: 89
+    createdAt: 2025-01-18T14:39:38.805Z
+    updatedAt: 2025-01-18T14:39:38.805Z
+  - fileName: myPartD_v01_faceTop.dxf
+    fileType: dxf
+    filePath: mypartd/myPartD_v01_faceTop.dxf
+    fileSize: 36
+    createdAt: 2025-01-18T14:39:38.805Z
+    updatedAt: 2025-01-18T14:39:38.805Z
+  - fileName: myPartD_v01.scad
+    fileType: scad
+    filePath: mypartd/myPartD_v01.scad
+    fileSize: 18476
+    createdAt: 2025-01-18T14:39:38.806Z
+    updatedAt: 2025-01-18T14:39:38.806Z
+  - fileName: myPartD_v01.py
+    fileType: pyFreecad
+    filePath: mypartd/myPartD_v01.py
+    fileSize: 5353
+    createdAt: 2025-01-18T14:39:38.806Z
+    updatedAt: 2025-01-18T14:39:38.806Z
+  - fileName: myPartD_v01.pax.json
+    fileType: paxJson
+    filePath: mypartd/myPartD_v01.pax.json
+    fileSize: 4158
+    createdAt: 2025-01-18T14:39:38.807Z
+    updatedAt: 2025-01-18T14:39:38.807Z
+  - fileName: myPartD_v01.log.txt
+    fileType: txtLog
+    filePath: mypartd/myPartD_v01.log.txt
+    fileSize: 89
+    createdAt: 2025-01-18T14:39:38.807Z
+    updatedAt: 2025-01-18T14:39:38.807Z
+  - fileName: myPartD_v01.js
+    fileType: jsCad
+    filePath: mypartd/myPartD_v01.js
+    fileSize: 17571
+    createdAt: 2025-01-18T14:39:38.807Z
+    updatedAt: 2025-01-18T14:39:38.807Z
+  - fileName: d06.png
+    fileType: image
+    filePath: mypartd/d06.png
+    fileSize: 19309
+    createdAt: 2025-01-18T14:39:38.808Z
+    updatedAt: 2025-01-18T14:39:38.808Z
+  - fileName: d05.png
+    fileType: image
+    filePath: mypartd/d05.png
+    fileSize: 31260
+    createdAt: 2025-01-18T14:39:38.808Z
+    updatedAt: 2025-01-18T14:39:38.808Z
+  - fileName: d04.png
+    fileType: image
+    filePath: mypartd/d04.png
+    fileSize: 22108
+    createdAt: 2025-01-18T14:39:38.808Z
+    updatedAt: 2025-01-18T14:39:38.808Z
+  - fileName: d03.png
+    fileType: image
+    filePath: mypartd/d03.png
+    fileSize: 20847
+    createdAt: 2025-01-18T14:39:38.809Z
+    updatedAt: 2025-01-18T14:39:38.809Z
+  - fileName: d02.png
+    fileType: image
+    filePath: mypartd/d02.png
+    fileSize: 24553
+    createdAt: 2025-01-18T14:39:38.809Z
+    updatedAt: 2025-01-18T14:39:38.809Z
+  - fileName: d01.png
+    fileType: image
+    filePath: mypartd/d01.png
+    fileSize: 30352
+    createdAt: 2025-01-18T14:39:38.809Z
+    updatedAt: 2025-01-18T14:39:38.809Z

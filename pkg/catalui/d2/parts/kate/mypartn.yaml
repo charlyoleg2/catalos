@@ -1,0 +1,99 @@
+description: ""
+tags: []
+owner: kate
+createdAt: 2025-01-18T14:39:38.729Z
+updatedAt: 2025-01-18T14:39:38.735Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_myPartN_v01.json
+    fileType: pxJson
+    filePath: mypartn/px_myPartN_v01.json
+    fileSize: 252
+    createdAt: 2025-01-18T14:39:38.730Z
+    updatedAt: 2025-01-18T14:39:38.730Z
+  - fileName: n05.png
+    fileType: image
+    filePath: mypartn/n05.png
+    fileSize: 15176
+    createdAt: 2025-01-18T14:39:38.730Z
+    updatedAt: 2025-01-18T14:39:38.730Z
+  - fileName: n04.png
+    fileType: image
+    filePath: mypartn/n04.png
+    fileSize: 28205
+    createdAt: 2025-01-18T14:39:38.730Z
+    updatedAt: 2025-01-18T14:39:38.730Z
+  - fileName: n03.png
+    fileType: image
+    filePath: mypartn/n03.png
+    fileSize: 12296
+    createdAt: 2025-01-18T14:39:38.731Z
+    updatedAt: 2025-01-18T14:39:38.731Z
+  - fileName: n02.png
+    fileType: image
+    filePath: mypartn/n02.png
+    fileSize: 23203
+    createdAt: 2025-01-18T14:39:38.731Z
+    updatedAt: 2025-01-18T14:39:38.731Z
+  - fileName: n01.png
+    fileType: image
+    filePath: mypartn/n01.png
+    fileSize: 15656
+    createdAt: 2025-01-18T14:39:38.731Z
+    updatedAt: 2025-01-18T14:39:38.731Z
+  - fileName: myPartN_v01_oscad.stl
+    fileType: stl
+    filePath: mypartn/myPartN_v01_oscad.stl
+    fileSize: 250597
+    createdAt: 2025-01-18T14:39:38.732Z
+    updatedAt: 2025-01-18T14:39:38.732Z
+  - fileName: myPartN_v01_face1.svg
+    fileType: svg
+    filePath: mypartn/myPartN_v01_face1.svg
+    fileSize: 1497
+    createdAt: 2025-01-18T14:39:38.732Z
+    updatedAt: 2025-01-18T14:39:38.732Z
+  - fileName: myPartN_v01_face1.dxf
+    fileType: dxf
+    filePath: mypartn/myPartN_v01_face1.dxf
+    fileSize: 2709
+    createdAt: 2025-01-18T14:39:38.733Z
+    updatedAt: 2025-01-18T14:39:38.733Z
+  - fileName: myPartN_v01.scad
+    fileType: scad
+    filePath: mypartn/myPartN_v01.scad
+    fileSize: 10456
+    createdAt: 2025-01-18T14:39:38.733Z
+    updatedAt: 2025-01-18T14:39:38.733Z
+  - fileName: myPartN_v01.py
+    fileType: pyFreecad
+    filePath: mypartn/myPartN_v01.py
+    fileSize: 5541
+    createdAt: 2025-01-18T14:39:38.733Z
+    updatedAt: 2025-01-18T14:39:38.733Z
+  - fileName: myPartN_v01.pax.json
+    fileType: paxJson
+    filePath: mypartn/myPartN_v01.pax.json
+    fileSize: 11064
+    createdAt: 2025-01-18T14:39:38.734Z
+    updatedAt: 2025-01-18T14:39:38.734Z
+  - fileName: myPartN_v01.log.txt
+    fileType: txtLog
+    filePath: mypartn/myPartN_v01.log.txt
+    fileSize: 74
+    createdAt: 2025-01-18T14:39:38.734Z
+    updatedAt: 2025-01-18T14:39:38.734Z
+  - fileName: myPartN_v01.js
+    fileType: jsCad
+    filePath: mypartn/myPartN_v01.js
+    fileSize: 9911
+    createdAt: 2025-01-18T14:39:38.734Z
+    updatedAt: 2025-01-18T14:39:38.734Z

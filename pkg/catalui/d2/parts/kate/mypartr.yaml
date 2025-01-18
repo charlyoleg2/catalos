@@ -1,0 +1,75 @@
+description: ""
+tags: []
+owner: kate
+createdAt: 2025-01-18T14:39:38.707Z
+updatedAt: 2025-01-18T14:39:38.711Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_myPartR_v01.json
+    fileType: pxJson
+    filePath: mypartr/px_myPartR_v01.json
+    fileSize: 282
+    createdAt: 2025-01-18T14:39:38.708Z
+    updatedAt: 2025-01-18T14:39:38.708Z
+  - fileName: myPartR_v01_faceShort.svg
+    fileType: svg
+    filePath: mypartr/myPartR_v01_faceShort.svg
+    fileSize: 298
+    createdAt: 2025-01-18T14:39:38.709Z
+    updatedAt: 2025-01-18T14:39:38.709Z
+  - fileName: myPartR_v01_faceShort.dxf
+    fileType: dxf
+    filePath: mypartr/myPartR_v01_faceShort.dxf
+    fileSize: 490
+    createdAt: 2025-01-18T14:39:38.709Z
+    updatedAt: 2025-01-18T14:39:38.709Z
+  - fileName: myPartR_v01_faceDress.svg
+    fileType: svg
+    filePath: mypartr/myPartR_v01_faceDress.svg
+    fileSize: 512
+    createdAt: 2025-01-18T14:39:38.709Z
+    updatedAt: 2025-01-18T14:39:38.709Z
+  - fileName: myPartR_v01_faceDress.dxf
+    fileType: dxf
+    filePath: mypartr/myPartR_v01_faceDress.dxf
+    fileSize: 1117
+    createdAt: 2025-01-18T14:39:38.710Z
+    updatedAt: 2025-01-18T14:39:38.710Z
+  - fileName: myPartR_v01.scad
+    fileType: scad
+    filePath: mypartr/myPartR_v01.scad
+    fileSize: 4715
+    createdAt: 2025-01-18T14:39:38.710Z
+    updatedAt: 2025-01-18T14:39:38.710Z
+  - fileName: myPartR_v01.py
+    fileType: pyFreecad
+    filePath: mypartr/myPartR_v01.py
+    fileSize: 3366
+    createdAt: 2025-01-18T14:39:38.710Z
+    updatedAt: 2025-01-18T14:39:38.710Z
+  - fileName: myPartR_v01.pax.json
+    fileType: paxJson
+    filePath: mypartr/myPartR_v01.pax.json
+    fileSize: 6413
+    createdAt: 2025-01-18T14:39:38.711Z
+    updatedAt: 2025-01-18T14:39:38.711Z
+  - fileName: myPartR_v01.log.txt
+    fileType: txtLog
+    filePath: mypartr/myPartR_v01.log.txt
+    fileSize: 80
+    createdAt: 2025-01-18T14:39:38.711Z
+    updatedAt: 2025-01-18T14:39:38.711Z
+  - fileName: myPartR_v01.js
+    fileType: jsCad
+    filePath: mypartr/myPartR_v01.js
+    fileSize: 4920
+    createdAt: 2025-01-18T14:39:38.711Z
+    updatedAt: 2025-01-18T14:39:38.711Z

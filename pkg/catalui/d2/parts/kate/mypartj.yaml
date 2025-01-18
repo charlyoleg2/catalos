@@ -1,0 +1,165 @@
+description: ""
+tags: []
+owner: kate
+createdAt: 2025-01-18T14:39:38.766Z
+updatedAt: 2025-01-18T14:39:38.773Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_myPartJ_v01.json
+    fileType: pxJson
+    filePath: mypartj/px_myPartJ_v01.json
+    fileSize: 386
+    createdAt: 2025-01-18T14:39:38.767Z
+    updatedAt: 2025-01-18T14:39:38.767Z
+  - fileName: myPartJ_v01_oscad.stl
+    fileType: stl
+    filePath: mypartj/myPartJ_v01_oscad.stl
+    fileSize: 272515
+    createdAt: 2025-01-18T14:39:38.767Z
+    updatedAt: 2025-01-18T14:39:38.767Z
+  - fileName: myPartJ_v01_face3.svg
+    fileType: svg
+    filePath: mypartj/myPartJ_v01_face3.svg
+    fileSize: 704
+    createdAt: 2025-01-18T14:39:38.767Z
+    updatedAt: 2025-01-18T14:39:38.767Z
+  - fileName: myPartJ_v01_face3.dxf
+    fileType: dxf
+    filePath: mypartj/myPartJ_v01_face3.dxf
+    fileSize: 984
+    createdAt: 2025-01-18T14:39:38.768Z
+    updatedAt: 2025-01-18T14:39:38.768Z
+  - fileName: myPartJ_v01_face2.svg
+    fileType: svg
+    filePath: mypartj/myPartJ_v01_face2.svg
+    fileSize: 1152
+    createdAt: 2025-01-18T14:39:38.768Z
+    updatedAt: 2025-01-18T14:39:38.768Z
+  - fileName: myPartJ_v01_face2.dxf
+    fileType: dxf
+    filePath: mypartj/myPartJ_v01_face2.dxf
+    fileSize: 1702
+    createdAt: 2025-01-18T14:39:38.768Z
+    updatedAt: 2025-01-18T14:39:38.768Z
+  - fileName: myPartJ_v01_face1.svg
+    fileType: svg
+    filePath: mypartj/myPartJ_v01_face1.svg
+    fileSize: 793
+    createdAt: 2025-01-18T14:39:38.768Z
+    updatedAt: 2025-01-18T14:39:38.768Z
+  - fileName: myPartJ_v01_face1.dxf
+    fileType: dxf
+    filePath: mypartj/myPartJ_v01_face1.dxf
+    fileSize: 1230
+    createdAt: 2025-01-18T14:39:38.769Z
+    updatedAt: 2025-01-18T14:39:38.769Z
+  - fileName: myPartJ_v01.scad
+    fileType: scad
+    filePath: mypartj/myPartJ_v01.scad
+    fileSize: 7708
+    createdAt: 2025-01-18T14:39:38.769Z
+    updatedAt: 2025-01-18T14:39:38.769Z
+  - fileName: myPartJ_v01.py
+    fileType: pyFreecad
+    filePath: mypartj/myPartJ_v01.py
+    fileSize: 10824
+    createdAt: 2025-01-18T14:39:38.769Z
+    updatedAt: 2025-01-18T14:39:38.769Z
+  - fileName: myPartJ_v01.pax.json
+    fileType: paxJson
+    filePath: mypartj/myPartJ_v01.pax.json
+    fileSize: 18650
+    createdAt: 2025-01-18T14:39:38.770Z
+    updatedAt: 2025-01-18T14:39:38.770Z
+  - fileName: myPartJ_v01.log.txt
+    fileType: txtLog
+    filePath: mypartj/myPartJ_v01.log.txt
+    fileSize: 494
+    createdAt: 2025-01-18T14:39:38.770Z
+    updatedAt: 2025-01-18T14:39:38.770Z
+  - fileName: myPartJ_v01.js
+    fileType: jsCad
+    filePath: mypartj/myPartJ_v01.js
+    fileSize: 8076
+    createdAt: 2025-01-18T14:39:38.770Z
+    updatedAt: 2025-01-18T14:39:38.770Z
+  - fileName: j12.png
+    fileType: image
+    filePath: mypartj/j12.png
+    fileSize: 39849
+    createdAt: 2025-01-18T14:39:38.770Z
+    updatedAt: 2025-01-18T14:39:38.770Z
+  - fileName: j11.png
+    fileType: image
+    filePath: mypartj/j11.png
+    fileSize: 27544
+    createdAt: 2025-01-18T14:39:38.771Z
+    updatedAt: 2025-01-18T14:39:38.771Z
+  - fileName: j10.png
+    fileType: image
+    filePath: mypartj/j10.png
+    fileSize: 15742
+    createdAt: 2025-01-18T14:39:38.771Z
+    updatedAt: 2025-01-18T14:39:38.771Z
+  - fileName: j09.png
+    fileType: image
+    filePath: mypartj/j09.png
+    fileSize: 18789
+    createdAt: 2025-01-18T14:39:38.771Z
+    updatedAt: 2025-01-18T14:39:38.771Z
+  - fileName: j08.png
+    fileType: image
+    filePath: mypartj/j08.png
+    fileSize: 16629
+    createdAt: 2025-01-18T14:39:38.772Z
+    updatedAt: 2025-01-18T14:39:38.772Z
+  - fileName: j07.png
+    fileType: image
+    filePath: mypartj/j07.png
+    fileSize: 23568
+    createdAt: 2025-01-18T14:39:38.772Z
+    updatedAt: 2025-01-18T14:39:38.772Z
+  - fileName: j06.png
+    fileType: image
+    filePath: mypartj/j06.png
+    fileSize: 792
+    createdAt: 2025-01-18T14:39:38.772Z
+    updatedAt: 2025-01-18T14:39:38.772Z
+  - fileName: j05.png
+    fileType: image
+    filePath: mypartj/j05.png
+    fileSize: 1471
+    createdAt: 2025-01-18T14:39:38.772Z
+    updatedAt: 2025-01-18T14:39:38.772Z
+  - fileName: j04.png
+    fileType: image
+    filePath: mypartj/j04.png
+    fileSize: 1118
+    createdAt: 2025-01-18T14:39:38.773Z
+    updatedAt: 2025-01-18T14:39:38.773Z
+  - fileName: j03.png
+    fileType: image
+    filePath: mypartj/j03.png
+    fileSize: 1961
+    createdAt: 2025-01-18T14:39:38.773Z
+    updatedAt: 2025-01-18T14:39:38.773Z
+  - fileName: j02.png
+    fileType: image
+    filePath: mypartj/j02.png
+    fileSize: 8643
+    createdAt: 2025-01-18T14:39:38.773Z
+    updatedAt: 2025-01-18T14:39:38.773Z
+  - fileName: j01.png
+    fileType: image
+    filePath: mypartj/j01.png
+    fileSize: 7652
+    createdAt: 2025-01-18T14:39:38.773Z
+    updatedAt: 2025-01-18T14:39:38.773Z

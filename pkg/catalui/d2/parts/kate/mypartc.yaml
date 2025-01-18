@@ -1,0 +1,159 @@
+description: ""
+tags: []
+owner: kate
+createdAt: 2025-01-18T14:39:38.810Z
+updatedAt: 2025-01-18T14:39:38.818Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_myPartC_v01.json
+    fileType: pxJson
+    filePath: mypartc/px_myPartC_v01.json
+    fileSize: 242
+    createdAt: 2025-01-18T14:39:38.811Z
+    updatedAt: 2025-01-18T14:39:38.811Z
+  - fileName: myPartC_v01_oscad.stl
+    fileType: stl
+    filePath: mypartc/myPartC_v01_oscad.stl
+    fileSize: 187831
+    createdAt: 2025-01-18T14:39:38.811Z
+    updatedAt: 2025-01-18T14:39:38.811Z
+  - fileName: myPartC_v01_faceChimneyHollow.svg
+    fileType: svg
+    filePath: mypartc/myPartC_v01_faceChimneyHollow.svg
+    fileSize: 183
+    createdAt: 2025-01-18T14:39:38.811Z
+    updatedAt: 2025-01-18T14:39:38.811Z
+  - fileName: myPartC_v01_faceChimneyHollow.dxf
+    fileType: dxf
+    filePath: mypartc/myPartC_v01_faceChimneyHollow.dxf
+    fileSize: 90
+    createdAt: 2025-01-18T14:39:38.812Z
+    updatedAt: 2025-01-18T14:39:38.812Z
+  - fileName: myPartC_v01_faceChimney.svg
+    fileType: svg
+    filePath: mypartc/myPartC_v01_faceChimney.svg
+    fileSize: 183
+    createdAt: 2025-01-18T14:39:38.812Z
+    updatedAt: 2025-01-18T14:39:38.812Z
+  - fileName: myPartC_v01_faceChimney.dxf
+    fileType: dxf
+    filePath: mypartc/myPartC_v01_faceChimney.dxf
+    fileSize: 90
+    createdAt: 2025-01-18T14:39:38.812Z
+    updatedAt: 2025-01-18T14:39:38.812Z
+  - fileName: myPartC_v01_faceBodySlant.svg
+    fileType: svg
+    filePath: mypartc/myPartC_v01_faceBodySlant.svg
+    fileSize: 249
+    createdAt: 2025-01-18T14:39:38.813Z
+    updatedAt: 2025-01-18T14:39:38.813Z
+  - fileName: myPartC_v01_faceBodySlant.dxf
+    fileType: dxf
+    filePath: mypartc/myPartC_v01_faceBodySlant.dxf
+    fileSize: 298
+    createdAt: 2025-01-18T14:39:38.813Z
+    updatedAt: 2025-01-18T14:39:38.813Z
+  - fileName: myPartC_v01_faceBodyCut.svg
+    fileType: svg
+    filePath: mypartc/myPartC_v01_faceBodyCut.svg
+    fileSize: 250
+    createdAt: 2025-01-18T14:39:38.813Z
+    updatedAt: 2025-01-18T14:39:38.813Z
+  - fileName: myPartC_v01_faceBodyCut.dxf
+    fileType: dxf
+    filePath: mypartc/myPartC_v01_faceBodyCut.dxf
+    fileSize: 304
+    createdAt: 2025-01-18T14:39:38.813Z
+    updatedAt: 2025-01-18T14:39:38.813Z
+  - fileName: myPartC_v01.scad
+    fileType: scad
+    filePath: mypartc/myPartC_v01.scad
+    fileSize: 5991
+    createdAt: 2025-01-18T14:39:38.814Z
+    updatedAt: 2025-01-18T14:39:38.814Z
+  - fileName: myPartC_v01.py
+    fileType: pyFreecad
+    filePath: mypartc/myPartC_v01.py
+    fileSize: 7122
+    createdAt: 2025-01-18T14:39:38.814Z
+    updatedAt: 2025-01-18T14:39:38.814Z
+  - fileName: myPartC_v01.pax.json
+    fileType: paxJson
+    filePath: mypartc/myPartC_v01.pax.json
+    fileSize: 7127
+    createdAt: 2025-01-18T14:39:38.814Z
+    updatedAt: 2025-01-18T14:39:38.814Z
+  - fileName: myPartC_v01.log.txt
+    fileType: txtLog
+    filePath: mypartc/myPartC_v01.log.txt
+    fileSize: 99
+    createdAt: 2025-01-18T14:39:38.815Z
+    updatedAt: 2025-01-18T14:39:38.815Z
+  - fileName: myPartC_v01.js
+    fileType: jsCad
+    filePath: mypartc/myPartC_v01.js
+    fileSize: 6304
+    createdAt: 2025-01-18T14:39:38.815Z
+    updatedAt: 2025-01-18T14:39:38.815Z
+  - fileName: c09.png
+    fileType: image
+    filePath: mypartc/c09.png
+    fileSize: 10139
+    createdAt: 2025-01-18T14:39:38.816Z
+    updatedAt: 2025-01-18T14:39:38.816Z
+  - fileName: c08.png
+    fileType: image
+    filePath: mypartc/c08.png
+    fileSize: 14544
+    createdAt: 2025-01-18T14:39:38.816Z
+    updatedAt: 2025-01-18T14:39:38.816Z
+  - fileName: c07.png
+    fileType: image
+    filePath: mypartc/c07.png
+    fileSize: 19113
+    createdAt: 2025-01-18T14:39:38.816Z
+    updatedAt: 2025-01-18T14:39:38.816Z
+  - fileName: c06.png
+    fileType: image
+    filePath: mypartc/c06.png
+    fileSize: 15729
+    createdAt: 2025-01-18T14:39:38.816Z
+    updatedAt: 2025-01-18T14:39:38.816Z
+  - fileName: c05.png
+    fileType: image
+    filePath: mypartc/c05.png
+    fileSize: 12745
+    createdAt: 2025-01-18T14:39:38.817Z
+    updatedAt: 2025-01-18T14:39:38.817Z
+  - fileName: c04.png
+    fileType: image
+    filePath: mypartc/c04.png
+    fileSize: 10896
+    createdAt: 2025-01-18T14:39:38.817Z
+    updatedAt: 2025-01-18T14:39:38.817Z
+  - fileName: c03.png
+    fileType: image
+    filePath: mypartc/c03.png
+    fileSize: 10605
+    createdAt: 2025-01-18T14:39:38.817Z
+    updatedAt: 2025-01-18T14:39:38.817Z
+  - fileName: c02.png
+    fileType: image
+    filePath: mypartc/c02.png
+    fileSize: 10711
+    createdAt: 2025-01-18T14:39:38.818Z
+    updatedAt: 2025-01-18T14:39:38.818Z
+  - fileName: c01.png
+    fileType: image
+    filePath: mypartc/c01.png
+    fileSize: 14463
+    createdAt: 2025-01-18T14:39:38.818Z
+    updatedAt: 2025-01-18T14:39:38.818Z

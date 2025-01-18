@@ -1,0 +1,135 @@
+description: ""
+tags: []
+owner: kate
+createdAt: 2025-01-18T14:39:38.757Z
+updatedAt: 2025-01-18T14:39:38.765Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_myPartK_v01.json
+    fileType: pxJson
+    filePath: mypartk/px_myPartK_v01.json
+    fileSize: 212
+    createdAt: 2025-01-18T14:39:38.758Z
+    updatedAt: 2025-01-18T14:39:38.758Z
+  - fileName: myPartK_v01_oscad.stl
+    fileType: stl
+    filePath: mypartk/myPartK_v01_oscad.stl
+    fileSize: 1074835
+    createdAt: 2025-01-18T14:39:38.759Z
+    updatedAt: 2025-01-18T14:39:38.759Z
+  - fileName: myPartK_v01_faceTop.svg
+    fileType: svg
+    filePath: mypartk/myPartK_v01_faceTop.svg
+    fileSize: 731
+    createdAt: 2025-01-18T14:39:38.759Z
+    updatedAt: 2025-01-18T14:39:38.759Z
+  - fileName: myPartK_v01_faceTop.dxf
+    fileType: dxf
+    filePath: mypartk/myPartK_v01_faceTop.dxf
+    fileSize: 1108
+    createdAt: 2025-01-18T14:39:38.760Z
+    updatedAt: 2025-01-18T14:39:38.760Z
+  - fileName: myPartK_v01_faceSide2.svg
+    fileType: svg
+    filePath: mypartk/myPartK_v01_faceSide2.svg
+    fileSize: 601
+    createdAt: 2025-01-18T14:39:38.760Z
+    updatedAt: 2025-01-18T14:39:38.760Z
+  - fileName: myPartK_v01_faceSide2.dxf
+    fileType: dxf
+    filePath: mypartk/myPartK_v01_faceSide2.dxf
+    fileSize: 678
+    createdAt: 2025-01-18T14:39:38.761Z
+    updatedAt: 2025-01-18T14:39:38.761Z
+  - fileName: myPartK_v01_faceSide1.svg
+    fileType: svg
+    filePath: mypartk/myPartK_v01_faceSide1.svg
+    fileSize: 588
+    createdAt: 2025-01-18T14:39:38.761Z
+    updatedAt: 2025-01-18T14:39:38.761Z
+  - fileName: myPartK_v01_faceSide1.dxf
+    fileType: dxf
+    filePath: mypartk/myPartK_v01_faceSide1.dxf
+    fileSize: 680
+    createdAt: 2025-01-18T14:39:38.761Z
+    updatedAt: 2025-01-18T14:39:38.761Z
+  - fileName: myPartK_v01.scad
+    fileType: scad
+    filePath: mypartk/myPartK_v01.scad
+    fileSize: 46764
+    createdAt: 2025-01-18T14:39:38.762Z
+    updatedAt: 2025-01-18T14:39:38.762Z
+  - fileName: myPartK_v01.py
+    fileType: pyFreecad
+    filePath: mypartk/myPartK_v01.py
+    fileSize: 19031
+    createdAt: 2025-01-18T14:39:38.762Z
+    updatedAt: 2025-01-18T14:39:38.762Z
+  - fileName: myPartK_v01.pax.json
+    fileType: paxJson
+    filePath: mypartk/myPartK_v01.pax.json
+    fileSize: 124825
+    createdAt: 2025-01-18T14:39:38.762Z
+    updatedAt: 2025-01-18T14:39:38.762Z
+  - fileName: myPartK_v01.log.txt
+    fileType: txtLog
+    filePath: mypartk/myPartK_v01.log.txt
+    fileSize: 658
+    createdAt: 2025-01-18T14:39:38.763Z
+    updatedAt: 2025-01-18T14:39:38.763Z
+  - fileName: myPartK_v01.js
+    fileType: jsCad
+    filePath: mypartk/myPartK_v01.js
+    fileSize: 44392
+    createdAt: 2025-01-18T14:39:38.763Z
+    updatedAt: 2025-01-18T14:39:38.763Z
+  - fileName: k07.png
+    fileType: image
+    filePath: mypartk/k07.png
+    fileSize: 17838
+    createdAt: 2025-01-18T14:39:38.764Z
+    updatedAt: 2025-01-18T14:39:38.764Z
+  - fileName: k06.png
+    fileType: image
+    filePath: mypartk/k06.png
+    fileSize: 26567
+    createdAt: 2025-01-18T14:39:38.764Z
+    updatedAt: 2025-01-18T14:39:38.764Z
+  - fileName: k05.png
+    fileType: image
+    filePath: mypartk/k05.png
+    fileSize: 28617
+    createdAt: 2025-01-18T14:39:38.764Z
+    updatedAt: 2025-01-18T14:39:38.764Z
+  - fileName: k04.png
+    fileType: image
+    filePath: mypartk/k04.png
+    fileSize: 33027
+    createdAt: 2025-01-18T14:39:38.764Z
+    updatedAt: 2025-01-18T14:39:38.764Z
+  - fileName: k03.png
+    fileType: image
+    filePath: mypartk/k03.png
+    fileSize: 16708
+    createdAt: 2025-01-18T14:39:38.765Z
+    updatedAt: 2025-01-18T14:39:38.765Z
+  - fileName: k02.png
+    fileType: image
+    filePath: mypartk/k02.png
+    fileSize: 17781
+    createdAt: 2025-01-18T14:39:38.765Z
+    updatedAt: 2025-01-18T14:39:38.765Z
+  - fileName: k01.png
+    fileType: image
+    filePath: mypartk/k01.png
+    fileSize: 26023
+    createdAt: 2025-01-18T14:39:38.765Z
+    updatedAt: 2025-01-18T14:39:38.765Z

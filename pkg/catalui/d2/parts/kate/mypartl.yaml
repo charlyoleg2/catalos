@@ -1,0 +1,93 @@
+description: ""
+tags: []
+owner: kate
+createdAt: 2025-01-18T14:39:38.752Z
+updatedAt: 2025-01-18T14:39:38.756Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_myPartL_v01.json
+    fileType: pxJson
+    filePath: mypartl/px_myPartL_v01.json
+    fileSize: 169
+    createdAt: 2025-01-18T14:39:38.752Z
+    updatedAt: 2025-01-18T14:39:38.752Z
+  - fileName: myPartL_v01_oscad.stl
+    fileType: stl
+    filePath: mypartl/myPartL_v01_oscad.stl
+    fileSize: 8983
+    createdAt: 2025-01-18T14:39:38.753Z
+    updatedAt: 2025-01-18T14:39:38.753Z
+  - fileName: myPartL_v01_face1.svg
+    fileType: svg
+    filePath: mypartl/myPartL_v01_face1.svg
+    fileSize: 460
+    createdAt: 2025-01-18T14:39:38.753Z
+    updatedAt: 2025-01-18T14:39:38.753Z
+  - fileName: myPartL_v01_face1.dxf
+    fileType: dxf
+    filePath: mypartl/myPartL_v01_face1.dxf
+    fileSize: 1067
+    createdAt: 2025-01-18T14:39:38.753Z
+    updatedAt: 2025-01-18T14:39:38.753Z
+  - fileName: myPartL_v01.scad
+    fileType: scad
+    filePath: mypartl/myPartL_v01.scad
+    fileSize: 807
+    createdAt: 2025-01-18T14:39:38.754Z
+    updatedAt: 2025-01-18T14:39:38.754Z
+  - fileName: myPartL_v01.py
+    fileType: pyFreecad
+    filePath: mypartl/myPartL_v01.py
+    fileSize: 2656
+    createdAt: 2025-01-18T14:39:38.754Z
+    updatedAt: 2025-01-18T14:39:38.754Z
+  - fileName: myPartL_v01.pax.json
+    fileType: paxJson
+    filePath: mypartl/myPartL_v01.pax.json
+    fileSize: 3973
+    createdAt: 2025-01-18T14:39:38.754Z
+    updatedAt: 2025-01-18T14:39:38.754Z
+  - fileName: myPartL_v01.log.txt
+    fileType: txtLog
+    filePath: mypartl/myPartL_v01.log.txt
+    fileSize: 74
+    createdAt: 2025-01-18T14:39:38.755Z
+    updatedAt: 2025-01-18T14:39:38.755Z
+  - fileName: myPartL_v01.js
+    fileType: jsCad
+    filePath: mypartl/myPartL_v01.js
+    fileSize: 1295
+    createdAt: 2025-01-18T14:39:38.755Z
+    updatedAt: 2025-01-18T14:39:38.755Z
+  - fileName: l04.png
+    fileType: image
+    filePath: mypartl/l04.png
+    fileSize: 18433
+    createdAt: 2025-01-18T14:39:38.755Z
+    updatedAt: 2025-01-18T14:39:38.755Z
+  - fileName: l03.png
+    fileType: image
+    filePath: mypartl/l03.png
+    fileSize: 10003
+    createdAt: 2025-01-18T14:39:38.756Z
+    updatedAt: 2025-01-18T14:39:38.756Z
+  - fileName: l02.png
+    fileType: image
+    filePath: mypartl/l02.png
+    fileSize: 18421
+    createdAt: 2025-01-18T14:39:38.756Z
+    updatedAt: 2025-01-18T14:39:38.756Z
+  - fileName: l01.png
+    fileType: image
+    filePath: mypartl/l01.png
+    fileSize: 6341
+    createdAt: 2025-01-18T14:39:38.756Z
+    updatedAt: 2025-01-18T14:39:38.756Z

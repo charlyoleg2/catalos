@@ -1,0 +1,87 @@
+description: ""
+tags: []
+owner: kate
+createdAt: 2025-01-18T14:39:38.718Z
+updatedAt: 2025-01-18T14:39:38.723Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_myPartP_v01.json
+    fileType: pxJson
+    filePath: mypartp/px_myPartP_v01.json
+    fileSize: 239
+    createdAt: 2025-01-18T14:39:38.719Z
+    updatedAt: 2025-01-18T14:39:38.719Z
+  - fileName: p03.png
+    fileType: image
+    filePath: mypartp/p03.png
+    fileSize: 1975
+    createdAt: 2025-01-18T14:39:38.719Z
+    updatedAt: 2025-01-18T14:39:38.719Z
+  - fileName: p02.png
+    fileType: image
+    filePath: mypartp/p02.png
+    fileSize: 6179
+    createdAt: 2025-01-18T14:39:38.720Z
+    updatedAt: 2025-01-18T14:39:38.720Z
+  - fileName: p01.png
+    fileType: image
+    filePath: mypartp/p01.png
+    fileSize: 4831
+    createdAt: 2025-01-18T14:39:38.720Z
+    updatedAt: 2025-01-18T14:39:38.720Z
+  - fileName: myPartP_v01_oscad.stl
+    fileType: stl
+    filePath: mypartp/myPartP_v01_oscad.stl
+    fileSize: 113548
+    createdAt: 2025-01-18T14:39:38.721Z
+    updatedAt: 2025-01-18T14:39:38.721Z
+  - fileName: myPartP_v01_face1.svg
+    fileType: svg
+    filePath: mypartp/myPartP_v01_face1.svg
+    fileSize: 778
+    createdAt: 2025-01-18T14:39:38.721Z
+    updatedAt: 2025-01-18T14:39:38.721Z
+  - fileName: myPartP_v01_face1.dxf
+    fileType: dxf
+    filePath: mypartp/myPartP_v01_face1.dxf
+    fileSize: 1114
+    createdAt: 2025-01-18T14:39:38.721Z
+    updatedAt: 2025-01-18T14:39:38.721Z
+  - fileName: myPartP_v01.scad
+    fileType: scad
+    filePath: mypartp/myPartP_v01.scad
+    fileSize: 5655
+    createdAt: 2025-01-18T14:39:38.722Z
+    updatedAt: 2025-01-18T14:39:38.722Z
+  - fileName: myPartP_v01.py
+    fileType: pyFreecad
+    filePath: mypartp/myPartP_v01.py
+    fileSize: 3884
+    createdAt: 2025-01-18T14:39:38.722Z
+    updatedAt: 2025-01-18T14:39:38.722Z
+  - fileName: myPartP_v01.pax.json
+    fileType: paxJson
+    filePath: mypartp/myPartP_v01.pax.json
+    fileSize: 5533
+    createdAt: 2025-01-18T14:39:38.722Z
+    updatedAt: 2025-01-18T14:39:38.722Z
+  - fileName: myPartP_v01.log.txt
+    fileType: txtLog
+    filePath: mypartp/myPartP_v01.log.txt
+    fileSize: 85
+    createdAt: 2025-01-18T14:39:38.723Z
+    updatedAt: 2025-01-18T14:39:38.723Z
+  - fileName: myPartP_v01.js
+    fileType: jsCad
+    filePath: mypartp/myPartP_v01.js
+    fileSize: 5953
+    createdAt: 2025-01-18T14:39:38.723Z
+    updatedAt: 2025-01-18T14:39:38.723Z

@@ -1,0 +1,111 @@
+description: ""
+tags: []
+owner: kate
+createdAt: 2025-01-18T14:39:38.795Z
+updatedAt: 2025-01-18T14:39:38.801Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_myPartE_v01.json
+    fileType: pxJson
+    filePath: myparte/px_myPartE_v01.json
+    fileSize: 234
+    createdAt: 2025-01-18T14:39:38.796Z
+    updatedAt: 2025-01-18T14:39:38.796Z
+  - fileName: myPartE_v01_oscad.stl
+    fileType: stl
+    filePath: myparte/myPartE_v01_oscad.stl
+    fileSize: 27262
+    createdAt: 2025-01-18T14:39:38.796Z
+    updatedAt: 2025-01-18T14:39:38.796Z
+  - fileName: myPartE_v01_facePolarRel.svg
+    fileType: svg
+    filePath: myparte/myPartE_v01_facePolarRel.svg
+    fileSize: 308
+    createdAt: 2025-01-18T14:39:38.796Z
+    updatedAt: 2025-01-18T14:39:38.796Z
+  - fileName: myPartE_v01_facePolarRel.dxf
+    fileType: dxf
+    filePath: myparte/myPartE_v01_facePolarRel.dxf
+    fileSize: 544
+    createdAt: 2025-01-18T14:39:38.797Z
+    updatedAt: 2025-01-18T14:39:38.797Z
+  - fileName: myPartE_v01_facePolarAbs.svg
+    fileType: svg
+    filePath: myparte/myPartE_v01_facePolarAbs.svg
+    fileSize: 464
+    createdAt: 2025-01-18T14:39:38.797Z
+    updatedAt: 2025-01-18T14:39:38.797Z
+  - fileName: myPartE_v01_facePolarAbs.dxf
+    fileType: dxf
+    filePath: myparte/myPartE_v01_facePolarAbs.dxf
+    fileSize: 1072
+    createdAt: 2025-01-18T14:39:38.798Z
+    updatedAt: 2025-01-18T14:39:38.798Z
+  - fileName: myPartE_v01_faceCartesian.svg
+    fileType: svg
+    filePath: myparte/myPartE_v01_faceCartesian.svg
+    fileSize: 670
+    createdAt: 2025-01-18T14:39:38.798Z
+    updatedAt: 2025-01-18T14:39:38.798Z
+  - fileName: myPartE_v01_faceCartesian.dxf
+    fileType: dxf
+    filePath: myparte/myPartE_v01_faceCartesian.dxf
+    fileSize: 1854
+    createdAt: 2025-01-18T14:39:38.798Z
+    updatedAt: 2025-01-18T14:39:38.798Z
+  - fileName: myPartE_v01.scad
+    fileType: scad
+    filePath: myparte/myPartE_v01.scad
+    fileSize: 2635
+    createdAt: 2025-01-18T14:39:38.798Z
+    updatedAt: 2025-01-18T14:39:38.798Z
+  - fileName: myPartE_v01.py
+    fileType: pyFreecad
+    filePath: myparte/myPartE_v01.py
+    fileSize: 7724
+    createdAt: 2025-01-18T14:39:38.799Z
+    updatedAt: 2025-01-18T14:39:38.799Z
+  - fileName: myPartE_v01.pax.json
+    fileType: paxJson
+    filePath: myparte/myPartE_v01.pax.json
+    fileSize: 10083
+    createdAt: 2025-01-18T14:39:38.799Z
+    updatedAt: 2025-01-18T14:39:38.799Z
+  - fileName: myPartE_v01.log.txt
+    fileType: txtLog
+    filePath: myparte/myPartE_v01.log.txt
+    fileSize: 121
+    createdAt: 2025-01-18T14:39:38.799Z
+    updatedAt: 2025-01-18T14:39:38.799Z
+  - fileName: myPartE_v01.js
+    fileType: jsCad
+    filePath: myparte/myPartE_v01.js
+    fileSize: 3075
+    createdAt: 2025-01-18T14:39:38.800Z
+    updatedAt: 2025-01-18T14:39:38.800Z
+  - fileName: e03.png
+    fileType: image
+    filePath: myparte/e03.png
+    fileSize: 18736
+    createdAt: 2025-01-18T14:39:38.800Z
+    updatedAt: 2025-01-18T14:39:38.800Z
+  - fileName: e02.png
+    fileType: image
+    filePath: myparte/e02.png
+    fileSize: 9499
+    createdAt: 2025-01-18T14:39:38.800Z
+    updatedAt: 2025-01-18T14:39:38.800Z
+  - fileName: e01.png
+    fileType: image
+    filePath: myparte/e01.png
+    fileSize: 6426
+    createdAt: 2025-01-18T14:39:38.801Z
+    updatedAt: 2025-01-18T14:39:38.801Z

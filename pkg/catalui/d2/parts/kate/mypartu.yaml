@@ -1,0 +1,135 @@
+description: ""
+tags: []
+owner: kate
+createdAt: 2025-01-18T14:39:38.662Z
+updatedAt: 2025-01-18T14:39:38.670Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: u09.png
+    fileType: image
+    filePath: mypartu/u09.png
+    fileSize: 18958
+    createdAt: 2025-01-18T14:39:38.663Z
+    updatedAt: 2025-01-18T14:39:38.663Z
+  - fileName: u08.png
+    fileType: image
+    filePath: mypartu/u08.png
+    fileSize: 16927
+    createdAt: 2025-01-18T14:39:38.663Z
+    updatedAt: 2025-01-18T14:39:38.663Z
+  - fileName: u07.png
+    fileType: image
+    filePath: mypartu/u07.png
+    fileSize: 18431
+    createdAt: 2025-01-18T14:39:38.664Z
+    updatedAt: 2025-01-18T14:39:38.664Z
+  - fileName: u06.png
+    fileType: image
+    filePath: mypartu/u06.png
+    fileSize: 24076
+    createdAt: 2025-01-18T14:39:38.664Z
+    updatedAt: 2025-01-18T14:39:38.664Z
+  - fileName: u05.png
+    fileType: image
+    filePath: mypartu/u05.png
+    fileSize: 15750
+    createdAt: 2025-01-18T14:39:38.664Z
+    updatedAt: 2025-01-18T14:39:38.664Z
+  - fileName: u04.png
+    fileType: image
+    filePath: mypartu/u04.png
+    fileSize: 13640
+    createdAt: 2025-01-18T14:39:38.665Z
+    updatedAt: 2025-01-18T14:39:38.665Z
+  - fileName: u03.png
+    fileType: image
+    filePath: mypartu/u03.png
+    fileSize: 9306
+    createdAt: 2025-01-18T14:39:38.665Z
+    updatedAt: 2025-01-18T14:39:38.665Z
+  - fileName: u02.png
+    fileType: image
+    filePath: mypartu/u02.png
+    fileSize: 14404
+    createdAt: 2025-01-18T14:39:38.665Z
+    updatedAt: 2025-01-18T14:39:38.665Z
+  - fileName: u01.png
+    fileType: image
+    filePath: mypartu/u01.png
+    fileSize: 8418
+    createdAt: 2025-01-18T14:39:38.666Z
+    updatedAt: 2025-01-18T14:39:38.666Z
+  - fileName: px_myPartU_v01.json
+    fileType: pxJson
+    filePath: mypartu/px_myPartU_v01.json
+    fileSize: 168
+    createdAt: 2025-01-18T14:39:38.666Z
+    updatedAt: 2025-01-18T14:39:38.666Z
+  - fileName: myPartU_v01_oscad.stl
+    fileType: stl
+    filePath: mypartu/myPartU_v01_oscad.stl
+    fileSize: 218539
+    createdAt: 2025-01-18T14:39:38.666Z
+    updatedAt: 2025-01-18T14:39:38.666Z
+  - fileName: myPartU_v01_faceSide.svg
+    fileType: svg
+    filePath: mypartu/myPartU_v01_faceSide.svg
+    fileSize: 543
+    createdAt: 2025-01-18T14:39:38.667Z
+    updatedAt: 2025-01-18T14:39:38.667Z
+  - fileName: myPartU_v01_faceSide.dxf
+    fileType: dxf
+    filePath: mypartu/myPartU_v01_faceSide.dxf
+    fileSize: 812
+    createdAt: 2025-01-18T14:39:38.668Z
+    updatedAt: 2025-01-18T14:39:38.668Z
+  - fileName: myPartU_v01_faceSection.svg
+    fileType: svg
+    filePath: mypartu/myPartU_v01_faceSection.svg
+    fileSize: 453
+    createdAt: 2025-01-18T14:39:38.668Z
+    updatedAt: 2025-01-18T14:39:38.668Z
+  - fileName: myPartU_v01_faceSection.dxf
+    fileType: dxf
+    filePath: mypartu/myPartU_v01_faceSection.dxf
+    fileSize: 248
+    createdAt: 2025-01-18T14:39:38.668Z
+    updatedAt: 2025-01-18T14:39:38.668Z
+  - fileName: myPartU_v01.scad
+    fileType: scad
+    filePath: mypartu/myPartU_v01.scad
+    fileSize: 16776
+    createdAt: 2025-01-18T14:39:38.669Z
+    updatedAt: 2025-01-18T14:39:38.669Z
+  - fileName: myPartU_v01.py
+    fileType: pyFreecad
+    filePath: mypartu/myPartU_v01.py
+    fileSize: 9660
+    createdAt: 2025-01-18T14:39:38.669Z
+    updatedAt: 2025-01-18T14:39:38.669Z
+  - fileName: myPartU_v01.pax.json
+    fileType: paxJson
+    filePath: mypartu/myPartU_v01.pax.json
+    fileSize: 42549
+    createdAt: 2025-01-18T14:39:38.669Z
+    updatedAt: 2025-01-18T14:39:38.669Z
+  - fileName: myPartU_v01.log.txt
+    fileType: txtLog
+    filePath: mypartu/myPartU_v01.log.txt
+    fileSize: 531
+    createdAt: 2025-01-18T14:39:38.670Z
+    updatedAt: 2025-01-18T14:39:38.670Z
+  - fileName: myPartU_v01.js
+    fileType: jsCad
+    filePath: mypartu/myPartU_v01.js
+    fileSize: 16442
+    createdAt: 2025-01-18T14:39:38.670Z
+    updatedAt: 2025-01-18T14:39:38.670Z

@@ -1,0 +1,129 @@
+description: ""
+tags: []
+owner: kate
+createdAt: 2025-01-18T14:39:38.650Z
+updatedAt: 2025-01-18T14:39:38.661Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: v06.png
+    fileType: image
+    filePath: mypartv/v06.png
+    fileSize: 17996
+    createdAt: 2025-01-18T14:39:38.651Z
+    updatedAt: 2025-01-18T14:39:38.651Z
+  - fileName: v05.png
+    fileType: image
+    filePath: mypartv/v05.png
+    fileSize: 21753
+    createdAt: 2025-01-18T14:39:38.651Z
+    updatedAt: 2025-01-18T14:39:38.651Z
+  - fileName: v04.png
+    fileType: image
+    filePath: mypartv/v04.png
+    fileSize: 22452
+    createdAt: 2025-01-18T14:39:38.652Z
+    updatedAt: 2025-01-18T14:39:38.652Z
+  - fileName: v03.png
+    fileType: image
+    filePath: mypartv/v03.png
+    fileSize: 25014
+    createdAt: 2025-01-18T14:39:38.652Z
+    updatedAt: 2025-01-18T14:39:38.652Z
+  - fileName: v02.png
+    fileType: image
+    filePath: mypartv/v02.png
+    fileSize: 16771
+    createdAt: 2025-01-18T14:39:38.653Z
+    updatedAt: 2025-01-18T14:39:38.653Z
+  - fileName: v01.png
+    fileType: image
+    filePath: mypartv/v01.png
+    fileSize: 29124
+    createdAt: 2025-01-18T14:39:38.653Z
+    updatedAt: 2025-01-18T14:39:38.653Z
+  - fileName: px_myPartV_v01.json
+    fileType: pxJson
+    filePath: mypartv/px_myPartV_v01.json
+    fileSize: 212
+    createdAt: 2025-01-18T14:39:38.654Z
+    updatedAt: 2025-01-18T14:39:38.654Z
+  - fileName: myPartV_v01_oscad.stl
+    fileType: stl
+    filePath: mypartv/myPartV_v01_oscad.stl
+    fileSize: 1074835
+    createdAt: 2025-01-18T14:39:38.655Z
+    updatedAt: 2025-01-18T14:39:38.655Z
+  - fileName: myPartV_v01_faceTop.svg
+    fileType: svg
+    filePath: mypartv/myPartV_v01_faceTop.svg
+    fileSize: 731
+    createdAt: 2025-01-18T14:39:38.656Z
+    updatedAt: 2025-01-18T14:39:38.656Z
+  - fileName: myPartV_v01_faceTop.dxf
+    fileType: dxf
+    filePath: mypartv/myPartV_v01_faceTop.dxf
+    fileSize: 1108
+    createdAt: 2025-01-18T14:39:38.656Z
+    updatedAt: 2025-01-18T14:39:38.656Z
+  - fileName: myPartV_v01_faceSide2.svg
+    fileType: svg
+    filePath: mypartv/myPartV_v01_faceSide2.svg
+    fileSize: 601
+    createdAt: 2025-01-18T14:39:38.657Z
+    updatedAt: 2025-01-18T14:39:38.657Z
+  - fileName: myPartV_v01_faceSide2.dxf
+    fileType: dxf
+    filePath: mypartv/myPartV_v01_faceSide2.dxf
+    fileSize: 678
+    createdAt: 2025-01-18T14:39:38.657Z
+    updatedAt: 2025-01-18T14:39:38.657Z
+  - fileName: myPartV_v01_faceSide1.svg
+    fileType: svg
+    filePath: mypartv/myPartV_v01_faceSide1.svg
+    fileSize: 588
+    createdAt: 2025-01-18T14:39:38.657Z
+    updatedAt: 2025-01-18T14:39:38.657Z
+  - fileName: myPartV_v01_faceSide1.dxf
+    fileType: dxf
+    filePath: mypartv/myPartV_v01_faceSide1.dxf
+    fileSize: 680
+    createdAt: 2025-01-18T14:39:38.658Z
+    updatedAt: 2025-01-18T14:39:38.658Z
+  - fileName: myPartV_v01.scad
+    fileType: scad
+    filePath: mypartv/myPartV_v01.scad
+    fileSize: 46764
+    createdAt: 2025-01-18T14:39:38.658Z
+    updatedAt: 2025-01-18T14:39:38.658Z
+  - fileName: myPartV_v01.py
+    fileType: pyFreecad
+    filePath: mypartv/myPartV_v01.py
+    fileSize: 19031
+    createdAt: 2025-01-18T14:39:38.659Z
+    updatedAt: 2025-01-18T14:39:38.659Z
+  - fileName: myPartV_v01.pax.json
+    fileType: paxJson
+    filePath: mypartv/myPartV_v01.pax.json
+    fileSize: 124825
+    createdAt: 2025-01-18T14:39:38.659Z
+    updatedAt: 2025-01-18T14:39:38.659Z
+  - fileName: myPartV_v01.log.txt
+    fileType: txtLog
+    filePath: mypartv/myPartV_v01.log.txt
+    fileSize: 658
+    createdAt: 2025-01-18T14:39:38.660Z
+    updatedAt: 2025-01-18T14:39:38.660Z
+  - fileName: myPartV_v01.js
+    fileType: jsCad
+    filePath: mypartv/myPartV_v01.js
+    fileSize: 44392
+    createdAt: 2025-01-18T14:39:38.661Z
+    updatedAt: 2025-01-18T14:39:38.661Z

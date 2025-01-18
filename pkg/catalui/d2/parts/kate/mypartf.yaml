@@ -1,0 +1,99 @@
+description: ""
+tags: []
+owner: kate
+createdAt: 2025-01-18T14:39:38.790Z
+updatedAt: 2025-01-18T14:39:38.794Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_myPartF_v01.json
+    fileType: pxJson
+    filePath: mypartf/px_myPartF_v01.json
+    fileSize: 292
+    createdAt: 2025-01-18T14:39:38.790Z
+    updatedAt: 2025-01-18T14:39:38.790Z
+  - fileName: myPartF_v01_oscad.stl
+    fileType: stl
+    filePath: mypartf/myPartF_v01_oscad.stl
+    fileSize: 47025
+    createdAt: 2025-01-18T14:39:38.791Z
+    updatedAt: 2025-01-18T14:39:38.791Z
+  - fileName: myPartF_v01_faceCorners.svg
+    fileType: svg
+    filePath: mypartf/myPartF_v01_faceCorners.svg
+    fileSize: 767
+    createdAt: 2025-01-18T14:39:38.791Z
+    updatedAt: 2025-01-18T14:39:38.791Z
+  - fileName: myPartF_v01_faceCorners.dxf
+    fileType: dxf
+    filePath: mypartf/myPartF_v01_faceCorners.dxf
+    fileSize: 1198
+    createdAt: 2025-01-18T14:39:38.791Z
+    updatedAt: 2025-01-18T14:39:38.791Z
+  - fileName: myPartF_v01.scad
+    fileType: scad
+    filePath: mypartf/myPartF_v01.scad
+    fileSize: 2662
+    createdAt: 2025-01-18T14:39:38.792Z
+    updatedAt: 2025-01-18T14:39:38.792Z
+  - fileName: myPartF_v01.py
+    fileType: pyFreecad
+    filePath: mypartf/myPartF_v01.py
+    fileSize: 3559
+    createdAt: 2025-01-18T14:39:38.792Z
+    updatedAt: 2025-01-18T14:39:38.792Z
+  - fileName: myPartF_v01.pax.json
+    fileType: paxJson
+    filePath: mypartf/myPartF_v01.pax.json
+    fileSize: 6810
+    createdAt: 2025-01-18T14:39:38.792Z
+    updatedAt: 2025-01-18T14:39:38.792Z
+  - fileName: myPartF_v01.log.txt
+    fileType: txtLog
+    filePath: mypartf/myPartF_v01.log.txt
+    fileSize: 118
+    createdAt: 2025-01-18T14:39:38.793Z
+    updatedAt: 2025-01-18T14:39:38.793Z
+  - fileName: myPartF_v01.js
+    fileType: jsCad
+    filePath: mypartf/myPartF_v01.js
+    fileSize: 3030
+    createdAt: 2025-01-18T14:39:38.793Z
+    updatedAt: 2025-01-18T14:39:38.793Z
+  - fileName: f05.png
+    fileType: image
+    filePath: mypartf/f05.png
+    fileSize: 6576
+    createdAt: 2025-01-18T14:39:38.793Z
+    updatedAt: 2025-01-18T14:39:38.793Z
+  - fileName: f04.png
+    fileType: image
+    filePath: mypartf/f04.png
+    fileSize: 7788
+    createdAt: 2025-01-18T14:39:38.794Z
+    updatedAt: 2025-01-18T14:39:38.794Z
+  - fileName: f03.png
+    fileType: image
+    filePath: mypartf/f03.png
+    fileSize: 4853
+    createdAt: 2025-01-18T14:39:38.794Z
+    updatedAt: 2025-01-18T14:39:38.794Z
+  - fileName: f02.png
+    fileType: image
+    filePath: mypartf/f02.png
+    fileSize: 6154
+    createdAt: 2025-01-18T14:39:38.794Z
+    updatedAt: 2025-01-18T14:39:38.794Z
+  - fileName: f01.png
+    fileType: image
+    filePath: mypartf/f01.png
+    fileSize: 5649
+    createdAt: 2025-01-18T14:39:38.794Z
+    updatedAt: 2025-01-18T14:39:38.794Z

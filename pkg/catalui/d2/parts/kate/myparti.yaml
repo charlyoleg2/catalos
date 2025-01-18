@@ -1,0 +1,93 @@
+description: ""
+tags: []
+owner: kate
+createdAt: 2025-01-18T14:39:38.774Z
+updatedAt: 2025-01-18T14:39:38.779Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_myPartI_v01.json
+    fileType: pxJson
+    filePath: myparti/px_myPartI_v01.json
+    fileSize: 153
+    createdAt: 2025-01-18T14:39:38.775Z
+    updatedAt: 2025-01-18T14:39:38.775Z
+  - fileName: myPartI_v01_oscad.stl
+    fileType: stl
+    filePath: myparti/myPartI_v01_oscad.stl
+    fileSize: 12528
+    createdAt: 2025-01-18T14:39:38.775Z
+    updatedAt: 2025-01-18T14:39:38.775Z
+  - fileName: myPartI_v01_face2.svg
+    fileType: svg
+    filePath: myparti/myPartI_v01_face2.svg
+    fileSize: 677
+    createdAt: 2025-01-18T14:39:38.775Z
+    updatedAt: 2025-01-18T14:39:38.775Z
+  - fileName: myPartI_v01_face2.dxf
+    fileType: dxf
+    filePath: myparti/myPartI_v01_face2.dxf
+    fileSize: 948
+    createdAt: 2025-01-18T14:39:38.776Z
+    updatedAt: 2025-01-18T14:39:38.776Z
+  - fileName: myPartI_v01.scad
+    fileType: scad
+    filePath: myparti/myPartI_v01.scad
+    fileSize: 1320
+    createdAt: 2025-01-18T14:39:38.776Z
+    updatedAt: 2025-01-18T14:39:38.776Z
+  - fileName: myPartI_v01.py
+    fileType: pyFreecad
+    filePath: myparti/myPartI_v01.py
+    fileSize: 3286
+    createdAt: 2025-01-18T14:39:38.776Z
+    updatedAt: 2025-01-18T14:39:38.776Z
+  - fileName: myPartI_v01.pax.json
+    fileType: paxJson
+    filePath: myparti/myPartI_v01.pax.json
+    fileSize: 4000
+    createdAt: 2025-01-18T14:39:38.777Z
+    updatedAt: 2025-01-18T14:39:38.777Z
+  - fileName: myPartI_v01.log.txt
+    fileType: txtLog
+    filePath: myparti/myPartI_v01.log.txt
+    fileSize: 79
+    createdAt: 2025-01-18T14:39:38.777Z
+    updatedAt: 2025-01-18T14:39:38.777Z
+  - fileName: myPartI_v01.js
+    fileType: jsCad
+    filePath: myparti/myPartI_v01.js
+    fileSize: 1846
+    createdAt: 2025-01-18T14:39:38.777Z
+    updatedAt: 2025-01-18T14:39:38.777Z
+  - fileName: i04.png
+    fileType: image
+    filePath: myparti/i04.png
+    fileSize: 32077
+    createdAt: 2025-01-18T14:39:38.778Z
+    updatedAt: 2025-01-18T14:39:38.778Z
+  - fileName: i03.png
+    fileType: image
+    filePath: myparti/i03.png
+    fileSize: 14009
+    createdAt: 2025-01-18T14:39:38.778Z
+    updatedAt: 2025-01-18T14:39:38.778Z
+  - fileName: i02.png
+    fileType: image
+    filePath: myparti/i02.png
+    fileSize: 7732
+    createdAt: 2025-01-18T14:39:38.778Z
+    updatedAt: 2025-01-18T14:39:38.778Z
+  - fileName: i01.png
+    fileType: image
+    filePath: myparti/i01.png
+    fileSize: 6438
+    createdAt: 2025-01-18T14:39:38.779Z
+    updatedAt: 2025-01-18T14:39:38.779Z

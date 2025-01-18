@@ -1,0 +1,87 @@
+description: ""
+tags: []
+owner: kate
+createdAt: 2025-01-18T14:39:38.724Z
+updatedAt: 2025-01-18T14:39:38.728Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_myPartO_v01.json
+    fileType: pxJson
+    filePath: myparto/px_myPartO_v01.json
+    fileSize: 215
+    createdAt: 2025-01-18T14:39:38.725Z
+    updatedAt: 2025-01-18T14:39:38.725Z
+  - fileName: o03.png
+    fileType: image
+    filePath: myparto/o03.png
+    fileSize: 5495
+    createdAt: 2025-01-18T14:39:38.725Z
+    updatedAt: 2025-01-18T14:39:38.725Z
+  - fileName: o02.png
+    fileType: image
+    filePath: myparto/o02.png
+    fileSize: 4977
+    createdAt: 2025-01-18T14:39:38.726Z
+    updatedAt: 2025-01-18T14:39:38.726Z
+  - fileName: o01.png
+    fileType: image
+    filePath: myparto/o01.png
+    fileSize: 3663
+    createdAt: 2025-01-18T14:39:38.726Z
+    updatedAt: 2025-01-18T14:39:38.726Z
+  - fileName: myPartO_v01_oscad.stl
+    fileType: stl
+    filePath: myparto/myPartO_v01_oscad.stl
+    fileSize: 36400
+    createdAt: 2025-01-18T14:39:38.726Z
+    updatedAt: 2025-01-18T14:39:38.726Z
+  - fileName: myPartO_v01_face1.svg
+    fileType: svg
+    filePath: myparto/myPartO_v01_face1.svg
+    fileSize: 341
+    createdAt: 2025-01-18T14:39:38.726Z
+    updatedAt: 2025-01-18T14:39:38.726Z
+  - fileName: myPartO_v01_face1.dxf
+    fileType: dxf
+    filePath: myparto/myPartO_v01_face1.dxf
+    fileSize: 397
+    createdAt: 2025-01-18T14:39:38.727Z
+    updatedAt: 2025-01-18T14:39:38.727Z
+  - fileName: myPartO_v01.scad
+    fileType: scad
+    filePath: myparto/myPartO_v01.scad
+    fileSize: 1857
+    createdAt: 2025-01-18T14:39:38.727Z
+    updatedAt: 2025-01-18T14:39:38.727Z
+  - fileName: myPartO_v01.py
+    fileType: pyFreecad
+    filePath: myparto/myPartO_v01.py
+    fileSize: 1885
+    createdAt: 2025-01-18T14:39:38.727Z
+    updatedAt: 2025-01-18T14:39:38.727Z
+  - fileName: myPartO_v01.pax.json
+    fileType: paxJson
+    filePath: myparto/myPartO_v01.pax.json
+    fileSize: 3565
+    createdAt: 2025-01-18T14:39:38.728Z
+    updatedAt: 2025-01-18T14:39:38.728Z
+  - fileName: myPartO_v01.log.txt
+    fileType: txtLog
+    filePath: myparto/myPartO_v01.log.txt
+    fileSize: 70
+    createdAt: 2025-01-18T14:39:38.728Z
+    updatedAt: 2025-01-18T14:39:38.728Z
+  - fileName: myPartO_v01.js
+    fileType: jsCad
+    filePath: myparto/myPartO_v01.js
+    fileSize: 2259
+    createdAt: 2025-01-18T14:39:38.728Z
+    updatedAt: 2025-01-18T14:39:38.728Z

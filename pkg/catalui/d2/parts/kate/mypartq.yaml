@@ -1,0 +1,93 @@
+description: ""
+tags: []
+owner: kate
+createdAt: 2025-01-18T14:39:38.712Z
+updatedAt: 2025-01-18T14:39:38.717Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: q04.png
+    fileType: image
+    filePath: mypartq/q04.png
+    fileSize: 16315
+    createdAt: 2025-01-18T14:39:38.713Z
+    updatedAt: 2025-01-18T14:39:38.713Z
+  - fileName: q03.png
+    fileType: image
+    filePath: mypartq/q03.png
+    fileSize: 7376
+    createdAt: 2025-01-18T14:39:38.713Z
+    updatedAt: 2025-01-18T14:39:38.713Z
+  - fileName: q02.png
+    fileType: image
+    filePath: mypartq/q02.png
+    fileSize: 8201
+    createdAt: 2025-01-18T14:39:38.714Z
+    updatedAt: 2025-01-18T14:39:38.714Z
+  - fileName: q01.png
+    fileType: image
+    filePath: mypartq/q01.png
+    fileSize: 8845
+    createdAt: 2025-01-18T14:39:38.714Z
+    updatedAt: 2025-01-18T14:39:38.714Z
+  - fileName: px_myPartQ_v01.json
+    fileType: pxJson
+    filePath: mypartq/px_myPartQ_v01.json
+    fileSize: 140
+    createdAt: 2025-01-18T14:39:38.715Z
+    updatedAt: 2025-01-18T14:39:38.715Z
+  - fileName: myPartQ_v01_oscad.stl
+    fileType: stl
+    filePath: mypartq/myPartQ_v01_oscad.stl
+    fileSize: 55301
+    createdAt: 2025-01-18T14:39:38.715Z
+    updatedAt: 2025-01-18T14:39:38.715Z
+  - fileName: myPartQ_v01_face1.svg
+    fileType: svg
+    filePath: mypartq/myPartQ_v01_face1.svg
+    fileSize: 483
+    createdAt: 2025-01-18T14:39:38.715Z
+    updatedAt: 2025-01-18T14:39:38.715Z
+  - fileName: myPartQ_v01_face1.dxf
+    fileType: dxf
+    filePath: mypartq/myPartQ_v01_face1.dxf
+    fileSize: 642
+    createdAt: 2025-01-18T14:39:38.716Z
+    updatedAt: 2025-01-18T14:39:38.716Z
+  - fileName: myPartQ_v01.scad
+    fileType: scad
+    filePath: mypartq/myPartQ_v01.scad
+    fileSize: 2704
+    createdAt: 2025-01-18T14:39:38.716Z
+    updatedAt: 2025-01-18T14:39:38.716Z
+  - fileName: myPartQ_v01.py
+    fileType: pyFreecad
+    filePath: mypartq/myPartQ_v01.py
+    fileSize: 2429
+    createdAt: 2025-01-18T14:39:38.716Z
+    updatedAt: 2025-01-18T14:39:38.716Z
+  - fileName: myPartQ_v01.pax.json
+    fileType: paxJson
+    filePath: mypartq/myPartQ_v01.pax.json
+    fileSize: 3019
+    createdAt: 2025-01-18T14:39:38.717Z
+    updatedAt: 2025-01-18T14:39:38.717Z
+  - fileName: myPartQ_v01.log.txt
+    fileType: txtLog
+    filePath: mypartq/myPartQ_v01.log.txt
+    fileSize: 75
+    createdAt: 2025-01-18T14:39:38.717Z
+    updatedAt: 2025-01-18T14:39:38.717Z
+  - fileName: myPartQ_v01.js
+    fileType: jsCad
+    filePath: mypartq/myPartQ_v01.js
+    fileSize: 3074
+    createdAt: 2025-01-18T14:39:38.717Z
+    updatedAt: 2025-01-18T14:39:38.717Z

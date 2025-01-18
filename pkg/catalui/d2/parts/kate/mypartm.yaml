@@ -1,0 +1,93 @@
+description: ""
+tags: []
+owner: kate
+createdAt: 2025-01-18T14:39:38.741Z
+updatedAt: 2025-01-18T14:39:38.746Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_myPartM_v01.json
+    fileType: pxJson
+    filePath: mypartm/px_myPartM_v01.json
+    fileSize: 252
+    createdAt: 2025-01-18T14:39:38.742Z
+    updatedAt: 2025-01-18T14:39:38.742Z
+  - fileName: myPartM_v01_oscad.stl
+    fileType: stl
+    filePath: mypartm/myPartM_v01_oscad.stl
+    fileSize: 119861
+    createdAt: 2025-01-18T14:39:38.742Z
+    updatedAt: 2025-01-18T14:39:38.742Z
+  - fileName: myPartM_v01_face1.svg
+    fileType: svg
+    filePath: mypartm/myPartM_v01_face1.svg
+    fileSize: 826
+    createdAt: 2025-01-18T14:39:38.743Z
+    updatedAt: 2025-01-18T14:39:38.743Z
+  - fileName: myPartM_v01_face1.dxf
+    fileType: dxf
+    filePath: mypartm/myPartM_v01_face1.dxf
+    fileSize: 1261
+    createdAt: 2025-01-18T14:39:38.743Z
+    updatedAt: 2025-01-18T14:39:38.743Z
+  - fileName: myPartM_v01.scad
+    fileType: scad
+    filePath: mypartm/myPartM_v01.scad
+    fileSize: 5220
+    createdAt: 2025-01-18T14:39:38.743Z
+    updatedAt: 2025-01-18T14:39:38.743Z
+  - fileName: myPartM_v01.py
+    fileType: pyFreecad
+    filePath: mypartm/myPartM_v01.py
+    fileSize: 3262
+    createdAt: 2025-01-18T14:39:38.744Z
+    updatedAt: 2025-01-18T14:39:38.744Z
+  - fileName: myPartM_v01.pax.json
+    fileType: paxJson
+    filePath: mypartm/myPartM_v01.pax.json
+    fileSize: 6763
+    createdAt: 2025-01-18T14:39:38.744Z
+    updatedAt: 2025-01-18T14:39:38.744Z
+  - fileName: myPartM_v01.log.txt
+    fileType: txtLog
+    filePath: mypartm/myPartM_v01.log.txt
+    fileSize: 74
+    createdAt: 2025-01-18T14:39:38.744Z
+    updatedAt: 2025-01-18T14:39:38.744Z
+  - fileName: myPartM_v01.js
+    fileType: jsCad
+    filePath: mypartm/myPartM_v01.js
+    fileSize: 5275
+    createdAt: 2025-01-18T14:39:38.745Z
+    updatedAt: 2025-01-18T14:39:38.745Z
+  - fileName: m04.png
+    fileType: image
+    filePath: mypartm/m04.png
+    fileSize: 13155
+    createdAt: 2025-01-18T14:39:38.745Z
+    updatedAt: 2025-01-18T14:39:38.745Z
+  - fileName: m03.png
+    fileType: image
+    filePath: mypartm/m03.png
+    fileSize: 8336
+    createdAt: 2025-01-18T14:39:38.745Z
+    updatedAt: 2025-01-18T14:39:38.745Z
+  - fileName: m02.png
+    fileType: image
+    filePath: mypartm/m02.png
+    fileSize: 9642
+    createdAt: 2025-01-18T14:39:38.746Z
+    updatedAt: 2025-01-18T14:39:38.746Z
+  - fileName: m01.png
+    fileType: image
+    filePath: mypartm/m01.png
+    fileSize: 24670
+    createdAt: 2025-01-18T14:39:38.746Z
+    updatedAt: 2025-01-18T14:39:38.746Z
