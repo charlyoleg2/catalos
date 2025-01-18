@@ -1,0 +1,141 @@
+description: ""
+tags: []
+owner: rob
+createdAt: 2025-01-18T19:35:01.586Z
+updatedAt: 2025-01-18T19:35:01.598Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: reinforced_cone_v01_oscad.stl
+    fileType: stl
+    filePath: reinforced_cone/reinforced_cone_v01_oscad.stl
+    fileSize: 89699
+    createdAt: 2025-01-18T19:35:01.588Z
+    updatedAt: 2025-01-18T19:35:01.588Z
+  - fileName: reinforced_cone_v01_faceTopWaveL.svg
+    fileType: svg
+    filePath: reinforced_cone/reinforced_cone_v01_faceTopWaveL.svg
+    fileSize: 8843
+    createdAt: 2025-01-18T19:35:01.589Z
+    updatedAt: 2025-01-18T19:35:01.589Z
+  - fileName: reinforced_cone_v01_faceTopWaveL.dxf
+    fileType: dxf
+    filePath: reinforced_cone/reinforced_cone_v01_faceTopWaveL.dxf
+    fileSize: 18000
+    createdAt: 2025-01-18T19:35:01.590Z
+    updatedAt: 2025-01-18T19:35:01.590Z
+  - fileName: reinforced_cone_v01_faceTopWaveH.svg
+    fileType: svg
+    filePath: reinforced_cone/reinforced_cone_v01_faceTopWaveH.svg
+    fileSize: 8827
+    createdAt: 2025-01-18T19:35:01.590Z
+    updatedAt: 2025-01-18T19:35:01.590Z
+  - fileName: reinforced_cone_v01_faceTopWaveH.dxf
+    fileType: dxf
+    filePath: reinforced_cone/reinforced_cone_v01_faceTopWaveH.dxf
+    fileSize: 17964
+    createdAt: 2025-01-18T19:35:01.591Z
+    updatedAt: 2025-01-18T19:35:01.591Z
+  - fileName: reinforced_cone_v01_faceTopWave.svg
+    fileType: svg
+    filePath: reinforced_cone/reinforced_cone_v01_faceTopWave.svg
+    fileSize: 8843
+    createdAt: 2025-01-18T19:35:01.592Z
+    updatedAt: 2025-01-18T19:35:01.592Z
+  - fileName: reinforced_cone_v01_faceTopWave.dxf
+    fileType: dxf
+    filePath: reinforced_cone/reinforced_cone_v01_faceTopWave.dxf
+    fileSize: 18000
+    createdAt: 2025-01-18T19:35:01.592Z
+    updatedAt: 2025-01-18T19:35:01.592Z
+  - fileName: reinforced_cone_v01_faceSideInt.svg
+    fileType: svg
+    filePath: reinforced_cone/reinforced_cone_v01_faceSideInt.svg
+    fileSize: 259
+    createdAt: 2025-01-18T19:35:01.593Z
+    updatedAt: 2025-01-18T19:35:01.593Z
+  - fileName: reinforced_cone_v01_faceSideInt.dxf
+    fileType: dxf
+    filePath: reinforced_cone/reinforced_cone_v01_faceSideInt.dxf
+    fileSize: 306
+    createdAt: 2025-01-18T19:35:01.593Z
+    updatedAt: 2025-01-18T19:35:01.593Z
+  - fileName: reinforced_cone_v01_faceSideExt.svg
+    fileType: svg
+    filePath: reinforced_cone/reinforced_cone_v01_faceSideExt.svg
+    fileSize: 259
+    createdAt: 2025-01-18T19:35:01.593Z
+    updatedAt: 2025-01-18T19:35:01.593Z
+  - fileName: reinforced_cone_v01_faceSideExt.dxf
+    fileType: dxf
+    filePath: reinforced_cone/reinforced_cone_v01_faceSideExt.dxf
+    fileSize: 306
+    createdAt: 2025-01-18T19:35:01.594Z
+    updatedAt: 2025-01-18T19:35:01.594Z
+  - fileName: reinforced_cone_v01.scad
+    fileType: scad
+    filePath: reinforced_cone/reinforced_cone_v01.scad
+    fileSize: 359373
+    createdAt: 2025-01-18T19:35:01.594Z
+    updatedAt: 2025-01-18T19:35:01.594Z
+  - fileName: reinforced_cone_v01.py
+    fileType: pyFreecad
+    filePath: reinforced_cone/reinforced_cone_v01.py
+    fileSize: 87154
+    createdAt: 2025-01-18T19:35:01.595Z
+    updatedAt: 2025-01-18T19:35:01.595Z
+  - fileName: reinforced_cone_v01.pax.json
+    fileType: paxJson
+    filePath: reinforced_cone/reinforced_cone_v01.pax.json
+    fileSize: 149595
+    createdAt: 2025-01-18T19:35:01.595Z
+    updatedAt: 2025-01-18T19:35:01.595Z
+  - fileName: reinforced_cone_v01.log.txt
+    fileType: txtLog
+    filePath: reinforced_cone/reinforced_cone_v01.log.txt
+    fileSize: 1511
+    createdAt: 2025-01-18T19:35:01.596Z
+    updatedAt: 2025-01-18T19:35:01.596Z
+  - fileName: reinforced_cone_v01.js
+    fileType: jsCad
+    filePath: reinforced_cone/reinforced_cone_v01.js
+    fileSize: 314867
+    createdAt: 2025-01-18T19:35:01.596Z
+    updatedAt: 2025-01-18T19:35:01.596Z
+  - fileName: rc04.png
+    fileType: image
+    filePath: reinforced_cone/rc04.png
+    fileSize: 8120
+    createdAt: 2025-01-18T19:35:01.597Z
+    updatedAt: 2025-01-18T19:35:01.597Z
+  - fileName: rc03.png
+    fileType: image
+    filePath: reinforced_cone/rc03.png
+    fileSize: 14188
+    createdAt: 2025-01-18T19:35:01.597Z
+    updatedAt: 2025-01-18T19:35:01.597Z
+  - fileName: rc02.png
+    fileType: image
+    filePath: reinforced_cone/rc02.png
+    fileSize: 13771
+    createdAt: 2025-01-18T19:35:01.597Z
+    updatedAt: 2025-01-18T19:35:01.597Z
+  - fileName: rc01.png
+    fileType: image
+    filePath: reinforced_cone/rc01.png
+    fileSize: 7732
+    createdAt: 2025-01-18T19:35:01.598Z
+    updatedAt: 2025-01-18T19:35:01.598Z
+  - fileName: px_reinforced_cone_v01.json
+    fileType: pxJson
+    filePath: reinforced_cone/px_reinforced_cone_v01.json
+    fileSize: 488
+    createdAt: 2025-01-18T19:35:01.598Z
+    updatedAt: 2025-01-18T19:35:01.598Z

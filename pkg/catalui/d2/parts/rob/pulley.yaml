@@ -1,0 +1,117 @@
+description: ""
+tags: []
+owner: rob
+createdAt: 2025-01-18T19:35:01.607Z
+updatedAt: 2025-01-18T19:35:01.614Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_pulley_v01.json
+    fileType: pxJson
+    filePath: pulley/px_pulley_v01.json
+    fileSize: 400
+    createdAt: 2025-01-18T19:35:01.608Z
+    updatedAt: 2025-01-18T19:35:01.608Z
+  - fileName: pulley_v01_oscad.stl
+    fileType: stl
+    filePath: pulley/pulley_v01_oscad.stl
+    fileSize: 1476379
+    createdAt: 2025-01-18T19:35:01.609Z
+    updatedAt: 2025-01-18T19:35:01.609Z
+  - fileName: pulley_v01_facePulleyWidth.svg
+    fileType: svg
+    filePath: pulley/pulley_v01_facePulleyWidth.svg
+    fileSize: 535
+    createdAt: 2025-01-18T19:35:01.609Z
+    updatedAt: 2025-01-18T19:35:01.609Z
+  - fileName: pulley_v01_facePulleyWidth.dxf
+    fileType: dxf
+    filePath: pulley/pulley_v01_facePulleyWidth.dxf
+    fileSize: 804
+    createdAt: 2025-01-18T19:35:01.610Z
+    updatedAt: 2025-01-18T19:35:01.610Z
+  - fileName: pulley_v01_facePulleyRim.svg
+    fileType: svg
+    filePath: pulley/pulley_v01_facePulleyRim.svg
+    fileSize: 273
+    createdAt: 2025-01-18T19:35:01.610Z
+    updatedAt: 2025-01-18T19:35:01.610Z
+  - fileName: pulley_v01_facePulleyRim.dxf
+    fileType: dxf
+    filePath: pulley/pulley_v01_facePulleyRim.dxf
+    fileSize: 142
+    createdAt: 2025-01-18T19:35:01.610Z
+    updatedAt: 2025-01-18T19:35:01.610Z
+  - fileName: pulley_v01_facePulleyProfile.svg
+    fileType: svg
+    filePath: pulley/pulley_v01_facePulleyProfile.svg
+    fileSize: 11890
+    createdAt: 2025-01-18T19:35:01.611Z
+    updatedAt: 2025-01-18T19:35:01.611Z
+  - fileName: pulley_v01_facePulleyProfile.dxf
+    fileType: dxf
+    filePath: pulley/pulley_v01_facePulleyProfile.dxf
+    fileSize: 28062
+    createdAt: 2025-01-18T19:35:01.611Z
+    updatedAt: 2025-01-18T19:35:01.611Z
+  - fileName: pulley_v01.scad
+    fileType: scad
+    filePath: pulley/pulley_v01.scad
+    fileSize: 61274
+    createdAt: 2025-01-18T19:35:01.612Z
+    updatedAt: 2025-01-18T19:35:01.612Z
+  - fileName: pulley_v01.py
+    fileType: pyFreecad
+    filePath: pulley/pulley_v01.py
+    fileSize: 46961
+    createdAt: 2025-01-18T19:35:01.612Z
+    updatedAt: 2025-01-18T19:35:01.612Z
+  - fileName: pulley_v01.pax.json
+    fileType: paxJson
+    filePath: pulley/pulley_v01.pax.json
+    fileSize: 81428
+    createdAt: 2025-01-18T19:35:01.612Z
+    updatedAt: 2025-01-18T19:35:01.612Z
+  - fileName: pulley_v01.log.txt
+    fileType: txtLog
+    filePath: pulley/pulley_v01.log.txt
+    fileSize: 219
+    createdAt: 2025-01-18T19:35:01.613Z
+    updatedAt: 2025-01-18T19:35:01.613Z
+  - fileName: pulley_v01.js
+    fileType: jsCad
+    filePath: pulley/pulley_v01.js
+    fileSize: 54585
+    createdAt: 2025-01-18T19:35:01.613Z
+    updatedAt: 2025-01-18T19:35:01.613Z
+  - fileName: p04.png
+    fileType: image
+    filePath: pulley/p04.png
+    fileSize: 30326
+    createdAt: 2025-01-18T19:35:01.613Z
+    updatedAt: 2025-01-18T19:35:01.613Z
+  - fileName: p03.png
+    fileType: image
+    filePath: pulley/p03.png
+    fileSize: 14681
+    createdAt: 2025-01-18T19:35:01.614Z
+    updatedAt: 2025-01-18T19:35:01.614Z
+  - fileName: p02.png
+    fileType: image
+    filePath: pulley/p02.png
+    fileSize: 18632
+    createdAt: 2025-01-18T19:35:01.614Z
+    updatedAt: 2025-01-18T19:35:01.614Z
+  - fileName: p01.png
+    fileType: image
+    filePath: pulley/p01.png
+    fileSize: 7581
+    createdAt: 2025-01-18T19:35:01.614Z
+    updatedAt: 2025-01-18T19:35:01.614Z

@@ -1,0 +1,165 @@
+description: ""
+tags: []
+owner: rob
+createdAt: 2025-01-18T19:35:01.673Z
+updatedAt: 2025-01-18T19:35:01.682Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_cabane_v01.json
+    fileType: pxJson
+    filePath: cabane/px_cabane_v01.json
+    fileSize: 725
+    createdAt: 2025-01-18T19:35:01.674Z
+    updatedAt: 2025-01-18T19:35:01.674Z
+  - fileName: cabane_v01_oscad.stl
+    fileType: stl
+    filePath: cabane/cabane_v01_oscad.stl
+    fileSize: 642074
+    createdAt: 2025-01-18T19:35:01.674Z
+    updatedAt: 2025-01-18T19:35:01.674Z
+  - fileName: cabane_v01_faceTop.svg
+    fileType: svg
+    filePath: cabane/cabane_v01_faceTop.svg
+    fileSize: 307
+    createdAt: 2025-01-18T19:35:01.675Z
+    updatedAt: 2025-01-18T19:35:01.675Z
+  - fileName: cabane_v01_faceTop.dxf
+    fileType: dxf
+    filePath: cabane/cabane_v01_faceTop.dxf
+    fileSize: 460
+    createdAt: 2025-01-18T19:35:01.675Z
+    updatedAt: 2025-01-18T19:35:01.675Z
+  - fileName: cabane_v01_faceSide.svg
+    fileType: svg
+    filePath: cabane/cabane_v01_faceSide.svg
+    fileSize: 425
+    createdAt: 2025-01-18T19:35:01.675Z
+    updatedAt: 2025-01-18T19:35:01.675Z
+  - fileName: cabane_v01_faceSide.dxf
+    fileType: dxf
+    filePath: cabane/cabane_v01_faceSide.dxf
+    fileSize: 592
+    createdAt: 2025-01-18T19:35:01.676Z
+    updatedAt: 2025-01-18T19:35:01.676Z
+  - fileName: cabane_v01_faceFaceSide.svg
+    fileType: svg
+    filePath: cabane/cabane_v01_faceFaceSide.svg
+    fileSize: 425
+    createdAt: 2025-01-18T19:35:01.676Z
+    updatedAt: 2025-01-18T19:35:01.676Z
+  - fileName: cabane_v01_faceFaceSide.dxf
+    fileType: dxf
+    filePath: cabane/cabane_v01_faceFaceSide.dxf
+    fileSize: 594
+    createdAt: 2025-01-18T19:35:01.676Z
+    updatedAt: 2025-01-18T19:35:01.676Z
+  - fileName: cabane_v01_faceFaceRoof.svg
+    fileType: svg
+    filePath: cabane/cabane_v01_faceFaceRoof.svg
+    fileSize: 333
+    createdAt: 2025-01-18T19:35:01.677Z
+    updatedAt: 2025-01-18T19:35:01.677Z
+  - fileName: cabane_v01_faceFaceRoof.dxf
+    fileType: dxf
+    filePath: cabane/cabane_v01_faceFaceRoof.dxf
+    fileSize: 534
+    createdAt: 2025-01-18T19:35:01.677Z
+    updatedAt: 2025-01-18T19:35:01.677Z
+  - fileName: cabane_v01_faceFaceFront.svg
+    fileType: svg
+    filePath: cabane/cabane_v01_faceFaceFront.svg
+    fileSize: 541
+    createdAt: 2025-01-18T19:35:01.677Z
+    updatedAt: 2025-01-18T19:35:01.677Z
+  - fileName: cabane_v01_faceFaceFront.dxf
+    fileType: dxf
+    filePath: cabane/cabane_v01_faceFaceFront.dxf
+    fileSize: 1039
+    createdAt: 2025-01-18T19:35:01.678Z
+    updatedAt: 2025-01-18T19:35:01.678Z
+  - fileName: cabane_v01_faceFaceBack.svg
+    fileType: svg
+    filePath: cabane/cabane_v01_faceFaceBack.svg
+    fileSize: 633
+    createdAt: 2025-01-18T19:35:01.678Z
+    updatedAt: 2025-01-18T19:35:01.678Z
+  - fileName: cabane_v01_faceFaceBack.dxf
+    fileType: dxf
+    filePath: cabane/cabane_v01_faceFaceBack.dxf
+    fileSize: 1044
+    createdAt: 2025-01-18T19:35:01.678Z
+    updatedAt: 2025-01-18T19:35:01.678Z
+  - fileName: cabane_v01.scad
+    fileType: scad
+    filePath: cabane/cabane_v01.scad
+    fileSize: 30103
+    createdAt: 2025-01-18T19:35:01.678Z
+    updatedAt: 2025-01-18T19:35:01.678Z
+  - fileName: cabane_v01.py
+    fileType: pyFreecad
+    filePath: cabane/cabane_v01.py
+    fileSize: 38751
+    createdAt: 2025-01-18T19:35:01.679Z
+    updatedAt: 2025-01-18T19:35:01.679Z
+  - fileName: cabane_v01.pax.json
+    fileType: paxJson
+    filePath: cabane/cabane_v01.pax.json
+    fileSize: 494072
+    createdAt: 2025-01-18T19:35:01.679Z
+    updatedAt: 2025-01-18T19:35:01.679Z
+  - fileName: cabane_v01.log.txt
+    fileType: txtLog
+    filePath: cabane/cabane_v01.log.txt
+    fileSize: 764
+    createdAt: 2025-01-18T19:35:01.680Z
+    updatedAt: 2025-01-18T19:35:01.680Z
+  - fileName: cabane_v01.js
+    fileType: jsCad
+    filePath: cabane/cabane_v01.js
+    fileSize: 31194
+    createdAt: 2025-01-18T19:35:01.680Z
+    updatedAt: 2025-01-18T19:35:01.680Z
+  - fileName: c06.png
+    fileType: image
+    filePath: cabane/c06.png
+    fileSize: 9329
+    createdAt: 2025-01-18T19:35:01.680Z
+    updatedAt: 2025-01-18T19:35:01.680Z
+  - fileName: c05.png
+    fileType: image
+    filePath: cabane/c05.png
+    fileSize: 9595
+    createdAt: 2025-01-18T19:35:01.681Z
+    updatedAt: 2025-01-18T19:35:01.681Z
+  - fileName: c04.png
+    fileType: image
+    filePath: cabane/c04.png
+    fileSize: 7523
+    createdAt: 2025-01-18T19:35:01.681Z
+    updatedAt: 2025-01-18T19:35:01.681Z
+  - fileName: c03.png
+    fileType: image
+    filePath: cabane/c03.png
+    fileSize: 7304
+    createdAt: 2025-01-18T19:35:01.681Z
+    updatedAt: 2025-01-18T19:35:01.681Z
+  - fileName: c02.png
+    fileType: image
+    filePath: cabane/c02.png
+    fileSize: 10269
+    createdAt: 2025-01-18T19:35:01.681Z
+    updatedAt: 2025-01-18T19:35:01.681Z
+  - fileName: c01.png
+    fileType: image
+    filePath: cabane/c01.png
+    fileSize: 10135
+    createdAt: 2025-01-18T19:35:01.682Z
+    updatedAt: 2025-01-18T19:35:01.682Z

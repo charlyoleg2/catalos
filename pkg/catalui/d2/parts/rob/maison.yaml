@@ -1,0 +1,135 @@
+description: ""
+tags: []
+owner: rob
+createdAt: 2025-01-18T19:35:01.616Z
+updatedAt: 2025-01-18T19:35:01.627Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_maison_v01.json
+    fileType: pxJson
+    filePath: maison/px_maison_v01.json
+    fileSize: 474
+    createdAt: 2025-01-18T19:35:01.618Z
+    updatedAt: 2025-01-18T19:35:01.618Z
+  - fileName: maison_v01_oscad.stl
+    fileType: stl
+    filePath: maison/maison_v01_oscad.stl
+    fileSize: 66769
+    createdAt: 2025-01-18T19:35:01.619Z
+    updatedAt: 2025-01-18T19:35:01.619Z
+  - fileName: maison_v01_faceTop1.svg
+    fileType: svg
+    filePath: maison/maison_v01_faceTop1.svg
+    fileSize: 237
+    createdAt: 2025-01-18T19:35:01.619Z
+    updatedAt: 2025-01-18T19:35:01.619Z
+  - fileName: maison_v01_faceTop1.dxf
+    fileType: dxf
+    filePath: maison/maison_v01_faceTop1.dxf
+    fileSize: 288
+    createdAt: 2025-01-18T19:35:01.620Z
+    updatedAt: 2025-01-18T19:35:01.620Z
+  - fileName: maison_v01_faceSide2.svg
+    fileType: svg
+    filePath: maison/maison_v01_faceSide2.svg
+    fileSize: 407
+    createdAt: 2025-01-18T19:35:01.621Z
+    updatedAt: 2025-01-18T19:35:01.621Z
+  - fileName: maison_v01_faceSide2.dxf
+    fileType: dxf
+    filePath: maison/maison_v01_faceSide2.dxf
+    fileSize: 797
+    createdAt: 2025-01-18T19:35:01.621Z
+    updatedAt: 2025-01-18T19:35:01.621Z
+  - fileName: maison_v01_faceSide1.svg
+    fileType: svg
+    filePath: maison/maison_v01_faceSide1.svg
+    fileSize: 407
+    createdAt: 2025-01-18T19:35:01.621Z
+    updatedAt: 2025-01-18T19:35:01.622Z
+  - fileName: maison_v01_faceSide1.dxf
+    fileType: dxf
+    filePath: maison/maison_v01_faceSide1.dxf
+    fileSize: 797
+    createdAt: 2025-01-18T19:35:01.622Z
+    updatedAt: 2025-01-18T19:35:01.622Z
+  - fileName: maison_v01_faceChimney.svg
+    fileType: svg
+    filePath: maison/maison_v01_faceChimney.svg
+    fileSize: 805
+    createdAt: 2025-01-18T19:35:01.622Z
+    updatedAt: 2025-01-18T19:35:01.622Z
+  - fileName: maison_v01_faceChimney.dxf
+    fileType: dxf
+    filePath: maison/maison_v01_faceChimney.dxf
+    fileSize: 1284
+    createdAt: 2025-01-18T19:35:01.623Z
+    updatedAt: 2025-01-18T19:35:01.623Z
+  - fileName: maison_v01.scad
+    fileType: scad
+    filePath: maison/maison_v01.scad
+    fileSize: 4857
+    createdAt: 2025-01-18T19:35:01.623Z
+    updatedAt: 2025-01-18T19:35:01.623Z
+  - fileName: maison_v01.py
+    fileType: pyFreecad
+    filePath: maison/maison_v01.py
+    fileSize: 11304
+    createdAt: 2025-01-18T19:35:01.624Z
+    updatedAt: 2025-01-18T19:35:01.624Z
+  - fileName: maison_v01.pax.json
+    fileType: paxJson
+    filePath: maison/maison_v01.pax.json
+    fileSize: 16347
+    createdAt: 2025-01-18T19:35:01.624Z
+    updatedAt: 2025-01-18T19:35:01.624Z
+  - fileName: maison_v01.log.txt
+    fileType: txtLog
+    filePath: maison/maison_v01.log.txt
+    fileSize: 246
+    createdAt: 2025-01-18T19:35:01.624Z
+    updatedAt: 2025-01-18T19:35:01.624Z
+  - fileName: maison_v01.js
+    fileType: jsCad
+    filePath: maison/maison_v01.js
+    fileSize: 5631
+    createdAt: 2025-01-18T19:35:01.625Z
+    updatedAt: 2025-01-18T19:35:01.625Z
+  - fileName: m05.png
+    fileType: image
+    filePath: maison/m05.png
+    fileSize: 9547
+    createdAt: 2025-01-18T19:35:01.625Z
+    updatedAt: 2025-01-18T19:35:01.625Z
+  - fileName: m04.png
+    fileType: image
+    filePath: maison/m04.png
+    fileSize: 8563
+    createdAt: 2025-01-18T19:35:01.626Z
+    updatedAt: 2025-01-18T19:35:01.626Z
+  - fileName: m03.png
+    fileType: image
+    filePath: maison/m03.png
+    fileSize: 8582
+    createdAt: 2025-01-18T19:35:01.626Z
+    updatedAt: 2025-01-18T19:35:01.626Z
+  - fileName: m02.png
+    fileType: image
+    filePath: maison/m02.png
+    fileSize: 5945
+    createdAt: 2025-01-18T19:35:01.626Z
+    updatedAt: 2025-01-18T19:35:01.626Z
+  - fileName: m01.png
+    fileType: image
+    filePath: maison/m01.png
+    fileSize: 40062
+    createdAt: 2025-01-18T19:35:01.627Z
+    updatedAt: 2025-01-18T19:35:01.627Z

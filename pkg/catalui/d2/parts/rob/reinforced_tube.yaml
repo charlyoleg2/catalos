@@ -1,0 +1,135 @@
+description: ""
+tags: []
+owner: rob
+createdAt: 2025-01-18T19:35:01.552Z
+updatedAt: 2025-01-18T19:35:01.579Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: rt05.png
+    fileType: image
+    filePath: reinforced_tube/rt05.png
+    fileSize: 54188
+    createdAt: 2025-01-18T19:35:01.565Z
+    updatedAt: 2025-01-18T19:35:01.565Z
+  - fileName: rt04.png
+    fileType: image
+    filePath: reinforced_tube/rt04.png
+    fileSize: 24146
+    createdAt: 2025-01-18T19:35:01.565Z
+    updatedAt: 2025-01-18T19:35:01.565Z
+  - fileName: rt03.png
+    fileType: image
+    filePath: reinforced_tube/rt03.png
+    fileSize: 30433
+    createdAt: 2025-01-18T19:35:01.566Z
+    updatedAt: 2025-01-18T19:35:01.566Z
+  - fileName: rt02.png
+    fileType: image
+    filePath: reinforced_tube/rt02.png
+    fileSize: 38896
+    createdAt: 2025-01-18T19:35:01.566Z
+    updatedAt: 2025-01-18T19:35:01.566Z
+  - fileName: rt01.png
+    fileType: image
+    filePath: reinforced_tube/rt01.png
+    fileSize: 37132
+    createdAt: 2025-01-18T19:35:01.566Z
+    updatedAt: 2025-01-18T19:35:01.566Z
+  - fileName: reinforced_tube_v01_oscad.stl
+    fileType: stl
+    filePath: reinforced_tube/reinforced_tube_v01_oscad.stl
+    fileSize: 8156022
+    createdAt: 2025-01-18T19:35:01.571Z
+    updatedAt: 2025-01-18T19:35:01.571Z
+  - fileName: reinforced_tube_v01_faceTopWave.svg
+    fileType: svg
+    filePath: reinforced_tube/reinforced_tube_v01_faceTopWave.svg
+    fileSize: 2433
+    createdAt: 2025-01-18T19:35:01.572Z
+    updatedAt: 2025-01-18T19:35:01.572Z
+  - fileName: reinforced_tube_v01_faceTopWave.dxf
+    fileType: dxf
+    filePath: reinforced_tube/reinforced_tube_v01_faceTopWave.dxf
+    fileSize: 4551
+    createdAt: 2025-01-18T19:35:01.572Z
+    updatedAt: 2025-01-18T19:35:01.572Z
+  - fileName: reinforced_tube_v01_faceTopInt.svg
+    fileType: svg
+    filePath: reinforced_tube/reinforced_tube_v01_faceTopInt.svg
+    fileSize: 89
+    createdAt: 2025-01-18T19:35:01.573Z
+    updatedAt: 2025-01-18T19:35:01.573Z
+  - fileName: reinforced_tube_v01_faceTopInt.dxf
+    fileType: dxf
+    filePath: reinforced_tube/reinforced_tube_v01_faceTopInt.dxf
+    fileSize: 36
+    createdAt: 2025-01-18T19:35:01.573Z
+    updatedAt: 2025-01-18T19:35:01.573Z
+  - fileName: reinforced_tube_v01_faceTopExt.svg
+    fileType: svg
+    filePath: reinforced_tube/reinforced_tube_v01_faceTopExt.svg
+    fileSize: 285
+    createdAt: 2025-01-18T19:35:01.573Z
+    updatedAt: 2025-01-18T19:35:01.573Z
+  - fileName: reinforced_tube_v01_faceTopExt.dxf
+    fileType: dxf
+    filePath: reinforced_tube/reinforced_tube_v01_faceTopExt.dxf
+    fileSize: 144
+    createdAt: 2025-01-18T19:35:01.574Z
+    updatedAt: 2025-01-18T19:35:01.574Z
+  - fileName: reinforced_tube_v01_faceSide.svg
+    fileType: svg
+    filePath: reinforced_tube/reinforced_tube_v01_faceSide.svg
+    fileSize: 422
+    createdAt: 2025-01-18T19:35:01.574Z
+    updatedAt: 2025-01-18T19:35:01.574Z
+  - fileName: reinforced_tube_v01_faceSide.dxf
+    fileType: dxf
+    filePath: reinforced_tube/reinforced_tube_v01_faceSide.dxf
+    fileSize: 580
+    createdAt: 2025-01-18T19:35:01.575Z
+    updatedAt: 2025-01-18T19:35:01.575Z
+  - fileName: reinforced_tube_v01.scad
+    fileType: scad
+    filePath: reinforced_tube/reinforced_tube_v01.scad
+    fileSize: 294486
+    createdAt: 2025-01-18T19:35:01.575Z
+    updatedAt: 2025-01-18T19:35:01.575Z
+  - fileName: reinforced_tube_v01.py
+    fileType: pyFreecad
+    filePath: reinforced_tube/reinforced_tube_v01.py
+    fileSize: 11734
+    createdAt: 2025-01-18T19:35:01.576Z
+    updatedAt: 2025-01-18T19:35:01.576Z
+  - fileName: reinforced_tube_v01.pax.json
+    fileType: paxJson
+    filePath: reinforced_tube/reinforced_tube_v01.pax.json
+    fileSize: 20397
+    createdAt: 2025-01-18T19:35:01.576Z
+    updatedAt: 2025-01-18T19:35:01.576Z
+  - fileName: reinforced_tube_v01.log.txt
+    fileType: txtLog
+    filePath: reinforced_tube/reinforced_tube_v01.log.txt
+    fileSize: 652
+    createdAt: 2025-01-18T19:35:01.577Z
+    updatedAt: 2025-01-18T19:35:01.577Z
+  - fileName: reinforced_tube_v01.js
+    fileType: jsCad
+    filePath: reinforced_tube/reinforced_tube_v01.js
+    fileSize: 257725
+    createdAt: 2025-01-18T19:35:01.578Z
+    updatedAt: 2025-01-18T19:35:01.578Z
+  - fileName: px_reinforced_tube_v01.json
+    fileType: pxJson
+    filePath: reinforced_tube/px_reinforced_tube_v01.json
+    fileSize: 434
+    createdAt: 2025-01-18T19:35:01.578Z
+    updatedAt: 2025-01-18T19:35:01.578Z

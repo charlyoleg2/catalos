@@ -1,0 +1,87 @@
+description: ""
+tags: []
+owner: rob
+createdAt: 2025-01-18T19:35:01.658Z
+updatedAt: 2025-01-18T19:35:01.663Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_codeExample1_v01.json
+    fileType: pxJson
+    filePath: codeexample1/px_codeExample1_v01.json
+    fileSize: 294
+    createdAt: 2025-01-18T19:35:01.659Z
+    updatedAt: 2025-01-18T19:35:01.659Z
+  - fileName: codeExample1_v01_oscad.stl
+    fileType: stl
+    filePath: codeexample1/codeExample1_v01_oscad.stl
+    fileSize: 37514
+    createdAt: 2025-01-18T19:35:01.660Z
+    updatedAt: 2025-01-18T19:35:01.660Z
+  - fileName: codeExample1_v01_faceExample1.svg
+    fileType: svg
+    filePath: codeexample1/codeExample1_v01_faceExample1.svg
+    fileSize: 336
+    createdAt: 2025-01-18T19:35:01.660Z
+    updatedAt: 2025-01-18T19:35:01.660Z
+  - fileName: codeExample1_v01_faceExample1.dxf
+    fileType: dxf
+    filePath: codeexample1/codeExample1_v01_faceExample1.dxf
+    fileSize: 447
+    createdAt: 2025-01-18T19:35:01.660Z
+    updatedAt: 2025-01-18T19:35:01.660Z
+  - fileName: codeExample1_v01.scad
+    fileType: scad
+    filePath: codeexample1/codeExample1_v01.scad
+    fileSize: 2050
+    createdAt: 2025-01-18T19:35:01.661Z
+    updatedAt: 2025-01-18T19:35:01.661Z
+  - fileName: codeExample1_v01.py
+    fileType: pyFreecad
+    filePath: codeexample1/codeExample1_v01.py
+    fileSize: 2094
+    createdAt: 2025-01-18T19:35:01.661Z
+    updatedAt: 2025-01-18T19:35:01.661Z
+  - fileName: codeExample1_v01.pax.json
+    fileType: paxJson
+    filePath: codeexample1/codeExample1_v01.pax.json
+    fileSize: 4834
+    createdAt: 2025-01-18T19:35:01.661Z
+    updatedAt: 2025-01-18T19:35:01.661Z
+  - fileName: codeExample1_v01.log.txt
+    fileType: txtLog
+    filePath: codeexample1/codeExample1_v01.log.txt
+    fileSize: 85
+    createdAt: 2025-01-18T19:35:01.661Z
+    updatedAt: 2025-01-18T19:35:01.661Z
+  - fileName: codeExample1_v01.js
+    fileType: jsCad
+    filePath: codeexample1/codeExample1_v01.js
+    fileSize: 2424
+    createdAt: 2025-01-18T19:35:01.662Z
+    updatedAt: 2025-01-18T19:35:01.662Z
+  - fileName: ce03.png
+    fileType: image
+    filePath: codeexample1/ce03.png
+    fileSize: 31790
+    createdAt: 2025-01-18T19:35:01.662Z
+    updatedAt: 2025-01-18T19:35:01.662Z
+  - fileName: ce02.png
+    fileType: image
+    filePath: codeexample1/ce02.png
+    fileSize: 6960
+    createdAt: 2025-01-18T19:35:01.662Z
+    updatedAt: 2025-01-18T19:35:01.662Z
+  - fileName: ce01.png
+    fileType: image
+    filePath: codeexample1/ce01.png
+    fileSize: 10308
+    createdAt: 2025-01-18T19:35:01.663Z
+    updatedAt: 2025-01-18T19:35:01.663Z

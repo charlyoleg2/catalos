@@ -1,0 +1,105 @@
+description: ""
+tags: []
+owner: rob
+createdAt: 2025-01-18T19:35:01.641Z
+updatedAt: 2025-01-18T19:35:01.647Z
+updateCount: 1
+visible: true
+linkToUi: ""
+linkToSrc: ""
+linkToPkg: ""
+linkToCli: ""
+linkToUis: ""
+linkToRepo: ""
+linkOthers: []
+files:
+  - fileName: px_lens_x1_v01.json
+    fileType: pxJson
+    filePath: lens_x1/px_lens_x1_v01.json
+    fileSize: 489
+    createdAt: 2025-01-18T19:35:01.643Z
+    updatedAt: 2025-01-18T19:35:01.643Z
+  - fileName: lens_x1_v01_oscad.stl
+    fileType: stl
+    filePath: lens_x1/lens_x1_v01_oscad.stl
+    fileSize: 204939
+    createdAt: 2025-01-18T19:35:01.643Z
+    updatedAt: 2025-01-18T19:35:01.643Z
+  - fileName: lens_x1_v01_faceLensSim.svg
+    fileType: svg
+    filePath: lens_x1/lens_x1_v01_faceLensSim.svg
+    fileSize: 431
+    createdAt: 2025-01-18T19:35:01.644Z
+    updatedAt: 2025-01-18T19:35:01.644Z
+  - fileName: lens_x1_v01_faceLensSim.dxf
+    fileType: dxf
+    filePath: lens_x1/lens_x1_v01_faceLensSim.dxf
+    fileSize: 721
+    createdAt: 2025-01-18T19:35:01.644Z
+    updatedAt: 2025-01-18T19:35:01.644Z
+  - fileName: lens_x1_v01_faceLens3D.svg
+    fileType: svg
+    filePath: lens_x1/lens_x1_v01_faceLens3D.svg
+    fileSize: 319
+    createdAt: 2025-01-18T19:35:01.644Z
+    updatedAt: 2025-01-18T19:35:01.644Z
+  - fileName: lens_x1_v01_faceLens3D.dxf
+    fileType: dxf
+    filePath: lens_x1/lens_x1_v01_faceLens3D.dxf
+    fileSize: 444
+    createdAt: 2025-01-18T19:35:01.644Z
+    updatedAt: 2025-01-18T19:35:01.644Z
+  - fileName: lens_x1_v01.scad
+    fileType: scad
+    filePath: lens_x1/lens_x1_v01.scad
+    fileSize: 2051
+    createdAt: 2025-01-18T19:35:01.645Z
+    updatedAt: 2025-01-18T19:35:01.645Z
+  - fileName: lens_x1_v01.py
+    fileType: pyFreecad
+    filePath: lens_x1/lens_x1_v01.py
+    fileSize: 3438
+    createdAt: 2025-01-18T19:35:01.645Z
+    updatedAt: 2025-01-18T19:35:01.645Z
+  - fileName: lens_x1_v01.pax.json
+    fileType: paxJson
+    filePath: lens_x1/lens_x1_v01.pax.json
+    fileSize: 9213
+    createdAt: 2025-01-18T19:35:01.645Z
+    updatedAt: 2025-01-18T19:35:01.645Z
+  - fileName: lens_x1_v01.log.txt
+    fileType: txtLog
+    filePath: lens_x1/lens_x1_v01.log.txt
+    fileSize: 384
+    createdAt: 2025-01-18T19:35:01.646Z
+    updatedAt: 2025-01-18T19:35:01.646Z
+  - fileName: lens_x1_v01.js
+    fileType: jsCad
+    filePath: lens_x1/lens_x1_v01.js
+    fileSize: 2509
+    createdAt: 2025-01-18T19:35:01.646Z
+    updatedAt: 2025-01-18T19:35:01.646Z
+  - fileName: l04.png
+    fileType: image
+    filePath: lens_x1/l04.png
+    fileSize: 28135
+    createdAt: 2025-01-18T19:35:01.646Z
+    updatedAt: 2025-01-18T19:35:01.646Z
+  - fileName: l03.png
+    fileType: image
+    filePath: lens_x1/l03.png
+    fileSize: 7183
+    createdAt: 2025-01-18T19:35:01.646Z
+    updatedAt: 2025-01-18T19:35:01.646Z
+  - fileName: l02.png
+    fileType: image
+    filePath: lens_x1/l02.png
+    fileSize: 10996
+    createdAt: 2025-01-18T19:35:01.647Z
+    updatedAt: 2025-01-18T19:35:01.647Z
+  - fileName: l01.png
+    fileType: image
+    filePath: lens_x1/l01.png
+    fileSize: 16697
+    createdAt: 2025-01-18T19:35:01.647Z
+    updatedAt: 2025-01-18T19:35:01.647Z
