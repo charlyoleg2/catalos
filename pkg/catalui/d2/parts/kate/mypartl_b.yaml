@@ -1,16 +1,17 @@
-description: ""
-tags: []
+description: An other Maltese cross
+tags:
+  - tutorial
 owner: kate
 createdAt: 2025-01-18T14:39:38.747Z
 updatedAt: 2025-01-18T14:39:38.751Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parame52/desi52/myPartL
+linkToSrc: https://github.com/charlyoleg2/parame52
+linkToPkg: https://www.npmjs.com/package/desi52
+linkToCli: https://www.npmjs.com/package/desi52-cli
+linkToUis: https://www.npmjs.com/package/desi52-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame51
 linkOthers: []
 files:
   - fileName: px_myPartL_B_v01.json

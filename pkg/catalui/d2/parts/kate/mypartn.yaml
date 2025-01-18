@@ -1,16 +1,18 @@
-description: ""
-tags: []
+description: A Scout-cross for illustration a combination of arcs and modified corners
+tags:
+  - tutorial
+  - arcs and corners
 owner: kate
 createdAt: 2025-01-18T14:39:38.729Z
 updatedAt: 2025-01-18T14:39:38.735Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parame52/desi52/myPartN
+linkToSrc: https://github.com/charlyoleg2/parame52
+linkToPkg: https://www.npmjs.com/package/desi52
+linkToCli: https://www.npmjs.com/package/desi52-cli
+linkToUis: https://www.npmjs.com/package/desi52-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame51
 linkOthers: []
 files:
   - fileName: px_myPartN_v01.json
