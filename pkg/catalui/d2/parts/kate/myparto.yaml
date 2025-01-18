@@ -1,16 +1,18 @@
-description: ""
-tags: []
+description: A bubble for illustration double-arcs
+tags:
+  - tutorial
+  - double arcs for complex curve approximation
 owner: kate
 createdAt: 2025-01-18T14:39:38.724Z
 updatedAt: 2025-01-18T14:39:38.728Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parame53/desi53/myPartO
+linkToSrc: https://github.com/charlyoleg2/parame53
+linkToPkg: https://www.npmjs.com/package/desi53
+linkToCli: https://www.npmjs.com/package/desi53-cli
+linkToUis: https://www.npmjs.com/package/desi53-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame51
 linkOthers: []
 files:
   - fileName: px_myPartO_v01.json

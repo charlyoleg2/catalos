@@ -1,16 +1,18 @@
-description: ""
-tags: []
+description: Using a function for creating contours
+tags:
+  - tutorial
+  - function returning a Contour
 owner: kate
 createdAt: 2025-01-18T14:39:38.718Z
 updatedAt: 2025-01-18T14:39:38.723Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parame53/desi53/myPartP
+linkToSrc: https://github.com/charlyoleg2/parame53
+linkToPkg: https://www.npmjs.com/package/desi53
+linkToCli: https://www.npmjs.com/package/desi53-cli
+linkToUis: https://www.npmjs.com/package/desi53-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame51
 linkOthers: []
 files:
   - fileName: px_myPartP_v01.json

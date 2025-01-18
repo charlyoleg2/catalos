@@ -1,16 +1,19 @@
-description: ""
-tags: []
+description: Using extra layers like vectors and dynamics
+tags:
+  - tutorial
+  - vector
+  - dynamics layer
 owner: kate
 createdAt: 2025-01-18T14:39:38.712Z
 updatedAt: 2025-01-18T14:39:38.717Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parame53/desi53/myPartQ
+linkToSrc: https://github.com/charlyoleg2/parame53
+linkToPkg: https://www.npmjs.com/package/desi53
+linkToCli: https://www.npmjs.com/package/desi53-cli
+linkToUis: https://www.npmjs.com/package/desi53-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame51
 linkOthers: []
 files:
   - fileName: q04.png
