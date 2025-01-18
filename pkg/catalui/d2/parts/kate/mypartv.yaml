@@ -1,16 +1,18 @@
-description: ""
-tags: []
+description: a re-export of myPartKDef with few modifications
+tags:
+  - tutorial
+  - re-export design
 owner: kate
 createdAt: 2025-01-18T14:39:38.650Z
 updatedAt: 2025-01-18T14:39:38.661Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parame53/desi53b/myPartV
+linkToSrc: https://github.com/charlyoleg2/parame53
+linkToPkg: https://www.npmjs.com/package/desi53
+linkToCli: https://www.npmjs.com/package/desi53-cli
+linkToUis: https://www.npmjs.com/package/desi53-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame51
 linkOthers: []
 files:
   - fileName: v06.png

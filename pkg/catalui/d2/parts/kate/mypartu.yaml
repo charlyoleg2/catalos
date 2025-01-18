@@ -1,16 +1,18 @@
-description: ""
-tags: []
+description: an assembly of external design
+tags:
+  - tutorial
+  - import and assemble designs
 owner: kate
 createdAt: 2025-01-18T14:39:38.662Z
 updatedAt: 2025-01-18T14:39:38.670Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parame53/desi53b/myPartU
+linkToSrc: https://github.com/charlyoleg2/parame53
+linkToPkg: https://www.npmjs.com/package/desi53
+linkToCli: https://www.npmjs.com/package/desi53-cli
+linkToUis: https://www.npmjs.com/package/desi53-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame51
 linkOthers: []
 files:
   - fileName: u09.png
