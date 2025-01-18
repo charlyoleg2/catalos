@@ -1,16 +1,18 @@
-description: ""
-tags: []
+description: Three spherical lens
+tags:
+  - optics
+  - optical simulation
 owner: rob
 createdAt: 2025-01-18T19:35:01.629Z
 updatedAt: 2025-01-18T19:35:01.640Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parame78/desi78/lens_x3
+linkToSrc: https://github.com/charlyoleg2/parame78
+linkToPkg: https://www.npmjs.com/package/desi78
+linkToCli: https://www.npmjs.com/package/desi78-cli
+linkToUis: https://www.npmjs.com/package/desi78-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame78
 linkOthers: []
 files:
   - fileName: px_lens_x3_v01.json

@@ -1,16 +1,19 @@
-description: ""
-tags: []
+description: Une cabane pour enfants
+tags:
+  - menuiserie
+  - wood
+  - carpentry
 owner: rob
 createdAt: 2025-01-18T19:35:01.673Z
 updatedAt: 2025-01-18T19:35:01.682Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parame78/desi78/cabane
+linkToSrc: https://github.com/charlyoleg2/parame78
+linkToPkg: https://www.npmjs.com/package/desi78
+linkToCli: https://www.npmjs.com/package/desi78-cli
+linkToUis: https://www.npmjs.com/package/desi78-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame78
 linkOthers: []
 files:
   - fileName: px_cabane_v01.json

@@ -1,16 +1,19 @@
-description: ""
-tags: []
+description: A single spherical lens
+tags:
+  - optics
+  - optical simulation
+  - ray tracing
 owner: rob
 createdAt: 2025-01-18T19:35:01.641Z
 updatedAt: 2025-01-18T19:35:01.647Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parame78/desi78/lens_x1
+linkToSrc: https://github.com/charlyoleg2/parame78
+linkToPkg: https://www.npmjs.com/package/desi78
+linkToCli: https://www.npmjs.com/package/desi78-cli
+linkToUis: https://www.npmjs.com/package/desi78-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame78
 linkOthers: []
 files:
   - fileName: px_lens_x1_v01.json
