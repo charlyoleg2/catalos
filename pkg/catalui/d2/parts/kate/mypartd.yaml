@@ -1,16 +1,19 @@
-description: ""
-tags: []
+description: Illustrating the power of 2D technical drawing
+tags:
+  - tutorial
+  - 2D technical drawing
+  - Gaspard Monge
 owner: kate
 createdAt: 2025-01-18T14:39:38.801Z
 updatedAt: 2025-01-18T14:39:38.809Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parame51/desi51/myGroup1/myPartD
+linkToSrc: https://github.com/charlyoleg2/parame51
+linkToPkg: https://www.npmjs.com/package/desi51
+linkToCli: https://www.npmjs.com/package/desi51-cli
+linkToUis: https://www.npmjs.com/package/desi51-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame51
 linkOthers: []
 files:
   - fileName: px_myPartD_v01.json

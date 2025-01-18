@@ -1,16 +1,18 @@
-description: ""
-tags: []
+description: A simple cylinder for showcasing the usage of geometrix
+tags:
+  - tutorial
+  - cylinder
 owner: kate
 createdAt: 2025-01-18T14:39:38.825Z
 updatedAt: 2025-01-18T14:39:38.829Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parame51/desi51/myGroup1/myPartA
+linkToSrc: https://github.com/charlyoleg2/parame51
+linkToPkg: https://www.npmjs.com/package/desi51
+linkToCli: https://www.npmjs.com/package/desi51-cli
+linkToUis: https://www.npmjs.com/package/desi51-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame51
 linkOthers: []
 files:
   - fileName: px_myPartA_v01.json

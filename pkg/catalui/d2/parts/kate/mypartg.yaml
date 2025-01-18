@@ -1,16 +1,18 @@
-description: ""
-tags: []
+description: illustrating the transformations of contours
+tags:
+  - tutorial
+  - 2D transform
 owner: kate
 createdAt: 2025-01-18T14:39:38.785Z
 updatedAt: 2025-01-18T14:39:38.789Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parame51/desi51/myGroup2/myPartG
+linkToSrc: https://github.com/charlyoleg2/parame51
+linkToPkg: https://www.npmjs.com/package/desi51
+linkToCli: https://www.npmjs.com/package/desi51-cli
+linkToUis: https://www.npmjs.com/package/desi51-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame51
 linkOthers: []
 files:
   - fileName: px_myPartG_v01.json

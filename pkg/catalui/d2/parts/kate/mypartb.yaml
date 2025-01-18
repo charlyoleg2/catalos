@@ -1,16 +1,17 @@
-description: ""
-tags: []
+description: A simple part for showcasing the possible parameter types
+tags:
+  - tutorial
 owner: kate
 createdAt: 2025-01-18T14:39:38.819Z
 updatedAt: 2025-01-18T14:39:38.824Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parame51/desi51/myGroup1/myPartB
+linkToSrc: https://github.com/charlyoleg2/parame51
+linkToPkg: https://www.npmjs.com/package/desi51
+linkToCli: https://www.npmjs.com/package/desi51-cli
+linkToUis: https://www.npmjs.com/package/desi51-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame51
 linkOthers: []
 files:
   - fileName: px_myPartB_v01.json

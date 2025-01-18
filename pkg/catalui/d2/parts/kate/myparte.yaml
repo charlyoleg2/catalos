@@ -1,16 +1,19 @@
-description: ""
-tags: []
+description: illustrating Cartesian (absolute and relative) and polar (absolute and relative) coordinates
+tags:
+  - tutorial
+  - relative and absolute coordinates
+  - Cartesian or polar
 owner: kate
 createdAt: 2025-01-18T14:39:38.795Z
 updatedAt: 2025-01-18T14:39:38.801Z
 updateCount: 1
 visible: true
-linkToUi: ""
-linkToSrc: ""
-linkToPkg: ""
-linkToCli: ""
-linkToUis: ""
-linkToRepo: ""
+linkToUi: https://charlyoleg2.github.io/parame51/desi51/myGroup2/myPartE
+linkToSrc: https://github.com/charlyoleg2/parame51
+linkToPkg: https://www.npmjs.com/package/desi51
+linkToCli: https://www.npmjs.com/package/desi51-cli
+linkToUis: https://www.npmjs.com/package/desi51-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame51
 linkOthers: []
 files:
   - fileName: px_myPartE_v01.json
