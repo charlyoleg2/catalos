@@ -4,8 +4,8 @@ tags:
   - example
 owner: cindy
 createdAt: 2025-01-20T19:53:09.455Z
-updatedAt: 2025-01-20T19:53:09.483Z
-updateCount: 1
+updatedAt: 2025-01-20T20:03:28.937Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame82/desi82/myBox
 linkToSrc: https://github.com/charlyoleg2/parame82
@@ -105,3 +105,33 @@ files:
     fileSize: 6555
     createdAt: 2025-01-20T19:53:09.483Z
     updatedAt: 2025-01-20T19:53:09.483Z
+  - fileName: mb05.png
+    fileType: image
+    filePath: mybox/mb05.png
+    fileSize: 3956
+    createdAt: 2025-01-20T20:03:28.934Z
+    updatedAt: 2025-01-20T20:03:28.934Z
+  - fileName: mb04.png
+    fileType: image
+    filePath: mybox/mb04.png
+    fileSize: 7006
+    createdAt: 2025-01-20T20:03:28.935Z
+    updatedAt: 2025-01-20T20:03:28.935Z
+  - fileName: mb03.png
+    fileType: image
+    filePath: mybox/mb03.png
+    fileSize: 7814
+    createdAt: 2025-01-20T20:03:28.936Z
+    updatedAt: 2025-01-20T20:03:28.936Z
+  - fileName: mb02.png
+    fileType: image
+    filePath: mybox/mb02.png
+    fileSize: 5823
+    createdAt: 2025-01-20T20:03:28.936Z
+    updatedAt: 2025-01-20T20:03:28.936Z
+  - fileName: mb01.png
+    fileType: image
+    filePath: mybox/mb01.png
+    fileSize: 4006
+    createdAt: 2025-01-20T20:03:28.937Z
+    updatedAt: 2025-01-20T20:03:28.937Z
