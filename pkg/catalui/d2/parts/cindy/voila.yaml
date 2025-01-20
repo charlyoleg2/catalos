@@ -1,0 +1,72 @@
+description: A simple design for testing exports
+tags:
+  - minimal design
+  - tutorial
+  - example
+owner: cindy
+createdAt: 2025-01-20T19:53:09.169Z
+updatedAt: 2025-01-20T19:53:09.209Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame82/desi82/voila
+linkToSrc: https://github.com/charlyoleg2/parame82
+linkToPkg: https://www.npmjs.com/package/desi82
+linkToCli: https://www.npmjs.com/package/desi82-cli
+linkToUis: https://www.npmjs.com/package/desi82-uis
+linkToRepo: https://github.com/charlyoleg2/maker_ustensile
+linkOthers: []
+files:
+  - fileName: voila_v01_oscad.stl
+    fileType: stl
+    filePath: voila/voila_v01_oscad.stl
+    fileSize: 32732
+    createdAt: 2025-01-20T19:53:09.179Z
+    updatedAt: 2025-01-20T19:53:09.179Z
+  - fileName: voila_v01_faceVoila.svg
+    fileType: svg
+    filePath: voila/voila_v01_faceVoila.svg
+    fileSize: 418
+    createdAt: 2025-01-20T19:53:09.185Z
+    updatedAt: 2025-01-20T19:53:09.185Z
+  - fileName: voila_v01_faceVoila.dxf
+    fileType: dxf
+    filePath: voila/voila_v01_faceVoila.dxf
+    fileSize: 506
+    createdAt: 2025-01-20T19:53:09.190Z
+    updatedAt: 2025-01-20T19:53:09.190Z
+  - fileName: voila_v01.scad
+    fileType: scad
+    filePath: voila/voila_v01.scad
+    fileSize: 1871
+    createdAt: 2025-01-20T19:53:09.194Z
+    updatedAt: 2025-01-20T19:53:09.194Z
+  - fileName: voila_v01.py
+    fileType: pyFreecad
+    filePath: voila/voila_v01.py
+    fileSize: 2209
+    createdAt: 2025-01-20T19:53:09.197Z
+    updatedAt: 2025-01-20T19:53:09.197Z
+  - fileName: voila_v01.pax.json
+    fileType: paxJson
+    filePath: voila/voila_v01.pax.json
+    fileSize: 3093
+    createdAt: 2025-01-20T19:53:09.200Z
+    updatedAt: 2025-01-20T19:53:09.200Z
+  - fileName: voila_v01.log.txt
+    fileType: txtLog
+    filePath: voila/voila_v01.log.txt
+    fileSize: 43
+    createdAt: 2025-01-20T19:53:09.203Z
+    updatedAt: 2025-01-20T19:53:09.203Z
+  - fileName: voila_v01.js
+    fileType: jsCad
+    filePath: voila/voila_v01.js
+    fileSize: 2301
+    createdAt: 2025-01-20T19:53:09.205Z
+    updatedAt: 2025-01-20T19:53:09.205Z
+  - fileName: px_voila_v01.json
+    fileType: pxJson
+    filePath: voila/px_voila_v01.json
+    fileSize: 170
+    createdAt: 2025-01-20T19:53:09.208Z
+    updatedAt: 2025-01-20T19:53:09.208Z
