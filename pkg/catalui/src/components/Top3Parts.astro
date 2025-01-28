@@ -18,6 +18,9 @@ const parts = dSorted[sortKey as tDSortedKey].parts;
 <section>
 	<a href=`sorted-parts/${sortKey}`>
 		<h1>{title}</h1>
+		<p class:list={['subtitle', { withsub: 'newest' === sortKey }]}>
+			Click here to see all parts
+		</p>
 	</a>
 	{parts.slice(0, 3).map((part) => <PartCard part={part} />)}
 </section>
@@ -44,5 +47,17 @@ const parts = dSorted[sortKey as tDSortedKey].parts;
 	}
 	h1 {
 		margin: 0;
+	}
+	p.subtitle {
+		visibility: hidden;
+		font-size: 1rem;
+		font-weight: normal;
+		color: var(--cLight);
+		border: none;
+		padding: 0;
+		margin: 0 0 0.2rem;
+	}
+	p.subtitle.withsub {
+		visibility: visible;
 	}
 </style>
