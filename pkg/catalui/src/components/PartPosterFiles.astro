@@ -31,7 +31,7 @@ const base2 = base === '/' ? '/' : `${base}/`;
 				{
 					part.data.files
 						.filter((item) => selectFileTable(item.fileType))
-						.map((item) => (
+						.map((item, idx) => (
 							<tr>
 								<td>{item.fileName}</td>
 								<td>{renameExt(item.fileType)}</td>
@@ -41,7 +41,7 @@ const base2 = base === '/' ? '/' : `${base}/`;
 								</td>
 								<td class="rvd">
 									<button
-										class="bview"
+										class:list={['bview', { firstView: 0 === idx }]}
 										data-dfurl={`u/${part.id}/${item.fileName}`}
 										data-dftype={item.fileType}
 									>
@@ -218,6 +218,11 @@ const base2 = base === '/' ? '/' : `${base}/`;
 		background-color: transparent;
 		border: none;
 		outline: none;
+	}
+	button.bview.firstView {
+		color: var(--c5b);
+		background-color: var(--c1w);
+		font-weight: bolder;
 	}
 	dialog#dBview {
 		display: none;
