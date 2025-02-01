@@ -31,7 +31,7 @@ const base2 = base === '/' ? '/' : `${base}/`;
 				{
 					part.data.files
 						.filter((item) => selectFileTable(item.fileType))
-						.map((item, idx) => (
+						.map((item) => (
 							<tr>
 								<td>{item.fileName}</td>
 								<td>{renameExt(item.fileType)}</td>
@@ -41,7 +41,10 @@ const base2 = base === '/' ? '/' : `${base}/`;
 								</td>
 								<td class="rvd">
 									<button
-										class:list={['bview', { firstView: 0 === idx }]}
+										class:list={[
+											'bview',
+											{ firstView: 'pxJson' === item.fileType },
+										]}
 										data-dfurl={`u/${part.id}/${item.fileName}`}
 										data-dftype={item.fileType}
 									>
