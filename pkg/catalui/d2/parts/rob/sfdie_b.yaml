@@ -1,0 +1,135 @@
+description: a die (or dice) made out metal sheet
+tags:
+  - metal
+  - sheet
+  - fold
+  - sheetfold
+  - demo
+  - die
+owner: rob
+createdAt: 2025-02-01T22:35:09.490Z
+updatedAt: 2025-02-01T22:35:09.502Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame78/desi78/sfDie
+linkToSrc: https://github.com/charlyoleg2/parame78
+linkToPkg: https://www.npmjs.com/package/desi78
+linkToCli: https://www.npmjs.com/package/desi78-cli
+linkToUis: https://www.npmjs.com/package/desi78-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame78
+linkOthers: []
+files:
+  - fileName: sfd04.png
+    fileType: image
+    filePath: sfdie_b/sfd04.png
+    fileSize: 22759
+    createdAt: 2025-02-01T22:35:09.494Z
+    updatedAt: 2025-02-01T22:35:09.494Z
+  - fileName: sfd03.png
+    fileType: image
+    filePath: sfdie_b/sfd03.png
+    fileSize: 21360
+    createdAt: 2025-02-01T22:35:09.495Z
+    updatedAt: 2025-02-01T22:35:09.495Z
+  - fileName: sfd02.png
+    fileType: image
+    filePath: sfdie_b/sfd02.png
+    fileSize: 17906
+    createdAt: 2025-02-01T22:35:09.496Z
+    updatedAt: 2025-02-01T22:35:09.496Z
+  - fileName: sfd01.png
+    fileType: image
+    filePath: sfdie_b/sfd01.png
+    fileSize: 21375
+    createdAt: 2025-02-01T22:35:09.496Z
+    updatedAt: 2025-02-01T22:35:09.496Z
+  - fileName: sfDie_B_v01_oscad.stl
+    fileType: stl
+    filePath: sfdie_b/sfDie_B_v01_oscad.stl
+    fileSize: 1242170
+    createdAt: 2025-02-01T22:35:09.497Z
+    updatedAt: 2025-02-01T22:35:09.497Z
+  - fileName: sfDie_B_v01_facePattern.svg
+    fileType: svg
+    filePath: sfdie_b/sfDie_B_v01_facePattern.svg
+    fileSize: 2942
+    createdAt: 2025-02-01T22:35:09.498Z
+    updatedAt: 2025-02-01T22:35:09.498Z
+  - fileName: sfDie_B_v01_facePattern.dxf
+    fileType: dxf
+    filePath: sfdie_b/sfDie_B_v01_facePattern.dxf
+    fileSize: 2752
+    createdAt: 2025-02-01T22:35:09.498Z
+    updatedAt: 2025-02-01T22:35:09.498Z
+  - fileName: sfDie_B_v01_SFG_fj00.svg
+    fileType: svg
+    filePath: sfdie_b/sfDie_B_v01_SFG_fj00.svg
+    fileSize: 278
+    createdAt: 2025-02-01T22:35:09.498Z
+    updatedAt: 2025-02-01T22:35:09.498Z
+  - fileName: sfDie_B_v01_SFG_fj00.dxf
+    fileType: dxf
+    filePath: sfdie_b/sfDie_B_v01_SFG_fj00.dxf
+    fileSize: 313
+    createdAt: 2025-02-01T22:35:09.499Z
+    updatedAt: 2025-02-01T22:35:09.499Z
+  - fileName: sfDie_B_v01_SFG_f01.svg
+    fileType: svg
+    filePath: sfdie_b/sfDie_B_v01_SFG_f01.svg
+    fileSize: 434
+    createdAt: 2025-02-01T22:35:09.499Z
+    updatedAt: 2025-02-01T22:35:09.499Z
+  - fileName: sfDie_B_v01_SFG_f01.dxf
+    fileType: dxf
+    filePath: sfdie_b/sfDie_B_v01_SFG_f01.dxf
+    fileSize: 408
+    createdAt: 2025-02-01T22:35:09.499Z
+    updatedAt: 2025-02-01T22:35:09.499Z
+  - fileName: sfDie_B_v01_SFG_f00.svg
+    fileType: svg
+    filePath: sfdie_b/sfDie_B_v01_SFG_f00.svg
+    fileSize: 339
+    createdAt: 2025-02-01T22:35:09.500Z
+    updatedAt: 2025-02-01T22:35:09.500Z
+  - fileName: sfDie_B_v01_SFG_f00.dxf
+    fileType: dxf
+    filePath: sfdie_b/sfDie_B_v01_SFG_f00.dxf
+    fileSize: 349
+    createdAt: 2025-02-01T22:35:09.500Z
+    updatedAt: 2025-02-01T22:35:09.500Z
+  - fileName: sfDie_B_v01.scad
+    fileType: scad
+    filePath: sfdie_b/sfDie_B_v01.scad
+    fileSize: 105065
+    createdAt: 2025-02-01T22:35:09.500Z
+    updatedAt: 2025-02-01T22:35:09.500Z
+  - fileName: sfDie_B_v01.py
+    fileType: pyFreecad
+    filePath: sfdie_b/sfDie_B_v01.py
+    fileSize: 30158
+    createdAt: 2025-02-01T22:35:09.501Z
+    updatedAt: 2025-02-01T22:35:09.501Z
+  - fileName: sfDie_B_v01.pax.json
+    fileType: paxJson
+    filePath: sfdie_b/sfDie_B_v01.pax.json
+    fileSize: 23320
+    createdAt: 2025-02-01T22:35:09.501Z
+    updatedAt: 2025-02-01T22:35:09.501Z
+  - fileName: sfDie_B_v01.log.txt
+    fileType: txtLog
+    filePath: sfdie_b/sfDie_B_v01.log.txt
+    fileSize: 102
+    createdAt: 2025-02-01T22:35:09.502Z
+    updatedAt: 2025-02-01T22:35:09.502Z
+  - fileName: sfDie_B_v01.js
+    fileType: jsCad
+    filePath: sfdie_b/sfDie_B_v01.js
+    fileSize: 96246
+    createdAt: 2025-02-01T22:35:09.502Z
+    updatedAt: 2025-02-01T22:35:09.502Z
+  - fileName: px_sfDie_B_v01.json
+    fileType: pxJson
+    filePath: sfdie_b/px_sfDie_B_v01.json
+    fileSize: 247
+    createdAt: 2025-02-01T22:35:09.502Z
+    updatedAt: 2025-02-01T22:35:09.502Z

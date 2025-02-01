@@ -1,0 +1,140 @@
+description: demonstrate the SheetFold library
+tags:
+  - metal
+  - sheet
+  - fold
+  - sheetfold
+  - demo
+owner: rob
+createdAt: 2025-02-01T22:35:09.640Z
+updatedAt: 2025-02-01T22:35:09.648Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame78/desi78/demoSheetFold
+linkToSrc: https://github.com/charlyoleg2/parame78
+linkToPkg: https://www.npmjs.com/package/desi78
+linkToCli: https://www.npmjs.com/package/desi78-cli
+linkToUis: https://www.npmjs.com/package/desi78-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame78
+linkOthers: []
+files:
+  - fileName: sf05.png
+    fileType: image
+    filePath: demosheetfold/sf05.png
+    fileSize: 33058
+    createdAt: 2025-02-01T22:35:09.641Z
+    updatedAt: 2025-02-01T22:35:09.641Z
+  - fileName: sf04.png
+    fileType: image
+    filePath: demosheetfold/sf04.png
+    fileSize: 12326
+    createdAt: 2025-02-01T22:35:09.642Z
+    updatedAt: 2025-02-01T22:35:09.642Z
+  - fileName: sf03.png
+    fileType: image
+    filePath: demosheetfold/sf03.png
+    fileSize: 13199
+    createdAt: 2025-02-01T22:35:09.642Z
+    updatedAt: 2025-02-01T22:35:09.642Z
+  - fileName: sf02.png
+    fileType: image
+    filePath: demosheetfold/sf02.png
+    fileSize: 8278
+    createdAt: 2025-02-01T22:35:09.642Z
+    updatedAt: 2025-02-01T22:35:09.642Z
+  - fileName: sf01.png
+    fileType: image
+    filePath: demosheetfold/sf01.png
+    fileSize: 7819
+    createdAt: 2025-02-01T22:35:09.643Z
+    updatedAt: 2025-02-01T22:35:09.643Z
+  - fileName: px_demoSheetFold_v01.json
+    fileType: pxJson
+    filePath: demosheetfold/px_demoSheetFold_v01.json
+    fileSize: 275
+    createdAt: 2025-02-01T22:35:09.643Z
+    updatedAt: 2025-02-01T22:35:09.643Z
+  - fileName: demoSheetFold_v01_oscad.stl
+    fileType: stl
+    filePath: demosheetfold/demoSheetFold_v01_oscad.stl
+    fileSize: 29646
+    createdAt: 2025-02-01T22:35:09.643Z
+    updatedAt: 2025-02-01T22:35:09.643Z
+  - fileName: demoSheetFold_v01_faceCut.svg
+    fileType: svg
+    filePath: demosheetfold/demoSheetFold_v01_faceCut.svg
+    fileSize: 632
+    createdAt: 2025-02-01T22:35:09.644Z
+    updatedAt: 2025-02-01T22:35:09.644Z
+  - fileName: demoSheetFold_v01_faceCut.dxf
+    fileType: dxf
+    filePath: demosheetfold/demoSheetFold_v01_faceCut.dxf
+    fileSize: 955
+    createdAt: 2025-02-01T22:35:09.644Z
+    updatedAt: 2025-02-01T22:35:09.644Z
+  - fileName: demoSheetFold_v01_SFG_fj00.svg
+    fileType: svg
+    filePath: demosheetfold/demoSheetFold_v01_SFG_fj00.svg
+    fileSize: 274
+    createdAt: 2025-02-01T22:35:09.645Z
+    updatedAt: 2025-02-01T22:35:09.645Z
+  - fileName: demoSheetFold_v01_SFG_fj00.dxf
+    fileType: dxf
+    filePath: demosheetfold/demoSheetFold_v01_SFG_fj00.dxf
+    fileSize: 308
+    createdAt: 2025-02-01T22:35:09.645Z
+    updatedAt: 2025-02-01T22:35:09.645Z
+  - fileName: demoSheetFold_v01_SFG_f01.svg
+    fileType: svg
+    filePath: demosheetfold/demoSheetFold_v01_SFG_f01.svg
+    fileSize: 257
+    createdAt: 2025-02-01T22:35:09.645Z
+    updatedAt: 2025-02-01T22:35:09.645Z
+  - fileName: demoSheetFold_v01_SFG_f01.dxf
+    fileType: dxf
+    filePath: demosheetfold/demoSheetFold_v01_SFG_f01.dxf
+    fileSize: 297
+    createdAt: 2025-02-01T22:35:09.646Z
+    updatedAt: 2025-02-01T22:35:09.646Z
+  - fileName: demoSheetFold_v01_SFG_f00.svg
+    fileType: svg
+    filePath: demosheetfold/demoSheetFold_v01_SFG_f00.svg
+    fileSize: 315
+    createdAt: 2025-02-01T22:35:09.646Z
+    updatedAt: 2025-02-01T22:35:09.646Z
+  - fileName: demoSheetFold_v01_SFG_f00.dxf
+    fileType: dxf
+    filePath: demosheetfold/demoSheetFold_v01_SFG_f00.dxf
+    fileSize: 438
+    createdAt: 2025-02-01T22:35:09.646Z
+    updatedAt: 2025-02-01T22:35:09.646Z
+  - fileName: demoSheetFold_v01.scad
+    fileType: scad
+    filePath: demosheetfold/demoSheetFold_v01.scad
+    fileSize: 6314
+    createdAt: 2025-02-01T22:35:09.647Z
+    updatedAt: 2025-02-01T22:35:09.647Z
+  - fileName: demoSheetFold_v01.py
+    fileType: pyFreecad
+    filePath: demosheetfold/demoSheetFold_v01.py
+    fileSize: 10798
+    createdAt: 2025-02-01T22:35:09.647Z
+    updatedAt: 2025-02-01T22:35:09.647Z
+  - fileName: demoSheetFold_v01.pax.json
+    fileType: paxJson
+    filePath: demosheetfold/demoSheetFold_v01.pax.json
+    fileSize: 13357
+    createdAt: 2025-02-01T22:35:09.647Z
+    updatedAt: 2025-02-01T22:35:09.647Z
+  - fileName: demoSheetFold_v01.log.txt
+    fileType: txtLog
+    filePath: demosheetfold/demoSheetFold_v01.log.txt
+    fileSize: 180
+    createdAt: 2025-02-01T22:35:09.648Z
+    updatedAt: 2025-02-01T22:35:09.648Z
+  - fileName: demoSheetFold_v01.js
+    fileType: jsCad
+    filePath: demosheetfold/demoSheetFold_v01.js
+    fileSize: 6924
+    createdAt: 2025-02-01T22:35:09.648Z
+    updatedAt: 2025-02-01T22:35:09.648Z
