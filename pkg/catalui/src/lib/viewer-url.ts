@@ -4,6 +4,7 @@ const urlDxfViewer = 'https://vagran.github.io/dxf-viewer-example/';
 const urlJscadViewer = 'https://jscad.app/';
 const urlStepViewer = 'https://stepbro.vercel.app/';
 const urlStlViewer = 'https://stl-viewer.dualbox.com/';
+const urlStlViewer2 = 'https://3dviewer.net/';
 const urlGltfViewer = 'https://gltf-viewer.donmccurdy.com/';
 const urlGlbViewer = 'https://app.web3d.be/';
 const url3dViewer = 'https://3dviewer.net/';
@@ -14,6 +15,7 @@ export {
 	urlJscadViewer,
 	urlStepViewer,
 	urlStlViewer,
+	urlStlViewer2,
 	urlGltfViewer,
 	urlGlbViewer,
 	url3dViewer,
