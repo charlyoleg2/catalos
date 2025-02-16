@@ -1,6 +1,7 @@
 // viewer-url.ts
 
 const urlDxfViewer = 'https://vagran.github.io/dxf-viewer-example/';
+const urlJscadViewer = 'https://jscad.app/';
 const urlStepViewer = 'https://stepbro.vercel.app/';
 const urlStlViewer = 'https://stl-viewer.dualbox.com/';
 const urlGltfViewer = 'https://gltf-viewer.donmccurdy.com/';
@@ -10,6 +11,7 @@ const urlCadViewer = 'https://sharecad.org/';
 
 export {
 	urlDxfViewer,
+	urlJscadViewer,
 	urlStepViewer,
 	urlStlViewer,
 	urlGltfViewer,
