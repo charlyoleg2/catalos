@@ -25,21 +25,21 @@
 		"clean": "run-s clean-astro clean-u clean-d1 clean-tmp"
 	},
 	"dependencies": {
-		"@astrojs/node": "^9.0.2",
-		"@vercel/analytics": "^1.4.1",
-		"astro": "^5.2.3",
+		"@astrojs/node": "^9.1.0",
+		"@vercel/analytics": "^1.5.0",
+		"astro": "^5.3.0",
 		"yargs": "^17.7.2"
 	},
 	"devDependencies": {
 		"@astrojs/check": "^0.9.4",
 		"@colinaut/action-table": "^2.4.21",
-		"@types/node": "^22.13.0",
+		"@types/node": "^22.13.4",
 		"degit": "^2.8.4",
 		"fs-extra": "^11.3.0",
 		"glob": "^11.0.1",
 		"npm-run-all2": "^7.0.2",
 		"pagefind": "^1.3.0",
-		"prettier": "^3.4.2",
+		"prettier": "^3.5.1",
 		"prettier-plugin-astro": "^0.14.1",
 		"rimraf": "^6.0.1",
 		"typescript": "^5.7.3",
