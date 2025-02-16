@@ -76,6 +76,7 @@ const base2 = base === '/' ? '/' : `${base}/`;
 	import {
 		urlDxfViewer,
 		urlJscadViewer,
+		urlOpenscadViewer,
 		urlStepViewer,
 		urlStlViewer2,
 		urlGlbViewer,
@@ -156,7 +157,7 @@ const base2 = base === '/' ? '/' : `${base}/`;
 			const pxUrl = `${c_uiUrl}?pxUrl=${window.location.origin}${c_base2}${dfUrl}`;
 			//const pxUrl = `${part.data.linkToUi}`;
 			window.open(pxUrl);
-		} else if (['txtLog', 'paxJson', 'jsManifold', 'scad', 'pyFreecad'].includes(dfType)) {
+		} else if (['txtLog', 'paxJson', 'jsManifold', 'pyFreecad'].includes(dfType)) {
 			//window.open(dfUrl);
 			//cleanDiv();
 			addTxt(dfUrl);
@@ -171,6 +172,10 @@ const base2 = base === '/' ? '/' : `${base}/`;
 			const jscadUrl = `${urlJscadViewer}#${window.location.origin}${c_base2}${dfUrl}`;
 			//const jscadUrl = `${urlJscadViewer}`;
 			window.open(jscadUrl);
+		} else if (['scad'].includes(dfType)) {
+			const scadUrl = `${urlOpenscadViewer}#url=${window.location.origin}${c_base2}${dfUrl}`;
+			//const scadUrl = `${urlOpenscadViewer}`;
+			window.open(scadUrl);
 		} else {
 			console.log(`dbg722: the viewer of dfType ${dfType} is not defined`);
 		}
