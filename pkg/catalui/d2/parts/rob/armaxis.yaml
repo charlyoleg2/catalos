@@ -4,8 +4,8 @@ tags:
   - metal sheet
 owner: rob
 createdAt: 2025-02-19T19:35:01.658Z
-updatedAt: 2025-03-04T11:11:45.325Z
-updateCount: 2
+updatedAt: 2025-03-04T11:37:08.800Z
+updateCount: 3
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/armAxis
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -87,3 +87,33 @@ files:
     fileSize: 4791
     createdAt: 2025-03-04T11:11:45.325Z
     updatedAt: 2025-03-04T11:11:45.325Z
+  - fileName: armAxis_05.png
+    fileType: image
+    filePath: armaxis/armAxis_05.png
+    fileSize: 4254
+    createdAt: 2025-03-04T11:37:08.797Z
+    updatedAt: 2025-03-04T11:37:08.797Z
+  - fileName: armAxis_04.png
+    fileType: image
+    filePath: armaxis/armAxis_04.png
+    fileSize: 2949
+    createdAt: 2025-03-04T11:37:08.798Z
+    updatedAt: 2025-03-04T11:37:08.798Z
+  - fileName: armAxis_03.png
+    fileType: image
+    filePath: armaxis/armAxis_03.png
+    fileSize: 4654
+    createdAt: 2025-03-04T11:37:08.798Z
+    updatedAt: 2025-03-04T11:37:08.798Z
+  - fileName: armAxis_02.png
+    fileType: image
+    filePath: armaxis/armAxis_02.png
+    fileSize: 5085
+    createdAt: 2025-03-04T11:37:08.799Z
+    updatedAt: 2025-03-04T11:37:08.799Z
+  - fileName: armAxis_01.png
+    fileType: image
+    filePath: armaxis/armAxis_01.png
+    fileSize: 4363
+    createdAt: 2025-03-04T11:37:08.800Z
+    updatedAt: 2025-03-04T11:37:08.800Z

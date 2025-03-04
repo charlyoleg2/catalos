@@ -4,8 +4,8 @@ tags:
   - metal sheet
 owner: rob
 createdAt: 2025-02-18T19:35:01.658Z
-updatedAt: 2025-03-04T11:11:45.319Z
-updateCount: 2
+updatedAt: 2025-03-04T11:37:08.789Z
+updateCount: 3
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/armEnd
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -111,3 +111,27 @@ files:
     fileSize: 42699
     createdAt: 2025-03-04T11:11:45.319Z
     updatedAt: 2025-03-04T11:11:45.319Z
+  - fileName: armEnd_04.png
+    fileType: image
+    filePath: armend/armEnd_04.png
+    fileSize: 17099
+    createdAt: 2025-03-04T11:37:08.785Z
+    updatedAt: 2025-03-04T11:37:08.785Z
+  - fileName: armEnd_03.png
+    fileType: image
+    filePath: armend/armEnd_03.png
+    fileSize: 14362
+    createdAt: 2025-03-04T11:37:08.786Z
+    updatedAt: 2025-03-04T11:37:08.786Z
+  - fileName: armEnd_02.png
+    fileType: image
+    filePath: armend/armEnd_02.png
+    fileSize: 12952
+    createdAt: 2025-03-04T11:37:08.788Z
+    updatedAt: 2025-03-04T11:37:08.788Z
+  - fileName: armEnd_01.png
+    fileType: image
+    filePath: armend/armEnd_01.png
+    fileSize: 13085
+    createdAt: 2025-03-04T11:37:08.789Z
+    updatedAt: 2025-03-04T11:37:08.789Z
