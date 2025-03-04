@@ -7,8 +7,8 @@ tags:
   - demo
 owner: rob
 createdAt: 2025-02-01T22:35:09.613Z
-updatedAt: 2025-02-01T22:35:09.620Z
-updateCount: 1
+updatedAt: 2025-03-04T11:02:23.969Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/demoSheetFold2
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -72,6 +72,30 @@ files:
     fileSize: 1108
     createdAt: 2025-02-01T22:35:09.616Z
     updatedAt: 2025-02-01T22:35:09.616Z
+  - fileName: demoSheetFold2_C_v01_SFG_profiles.svg
+    fileType: svg
+    filePath: demosheetfold2_c/demoSheetFold2_C_v01_SFG_profiles.svg
+    fileSize: 3230
+    createdAt: 2025-03-04T11:02:23.956Z
+    updatedAt: 2025-03-04T11:02:23.956Z
+  - fileName: demoSheetFold2_C_v01_SFG_profiles.dxf
+    fileType: dxf
+    filePath: demosheetfold2_c/demoSheetFold2_C_v01_SFG_profiles.dxf
+    fileSize: 4961
+    createdAt: 2025-03-04T11:02:23.957Z
+    updatedAt: 2025-03-04T11:02:23.957Z
+  - fileName: demoSheetFold2_C_v01_SFG_pattern.svg
+    fileType: svg
+    filePath: demosheetfold2_c/demoSheetFold2_C_v01_SFG_pattern.svg
+    fileSize: 1698
+    createdAt: 2025-03-04T11:02:23.958Z
+    updatedAt: 2025-03-04T11:02:23.958Z
+  - fileName: demoSheetFold2_C_v01_SFG_pattern.dxf
+    fileType: dxf
+    filePath: demosheetfold2_c/demoSheetFold2_C_v01_SFG_pattern.dxf
+    fileSize: 3451
+    createdAt: 2025-03-04T11:02:23.959Z
+    updatedAt: 2025-03-04T11:02:23.959Z
   - fileName: demoSheetFold2_C_v01_SFG_fj00.svg
     fileType: svg
     filePath: demosheetfold2_c/demoSheetFold2_C_v01_SFG_fj00.svg
@@ -111,21 +135,21 @@ files:
   - fileName: demoSheetFold2_C_v01.scad
     fileType: scad
     filePath: demosheetfold2_c/demoSheetFold2_C_v01.scad
-    fileSize: 9258
+    fileSize: 24648
     createdAt: 2025-02-01T22:35:09.618Z
-    updatedAt: 2025-02-01T22:35:09.618Z
+    updatedAt: 2025-03-04T11:02:23.966Z
   - fileName: demoSheetFold2_C_v01.py
     fileType: pyFreecad
     filePath: demosheetfold2_c/demoSheetFold2_C_v01.py
-    fileSize: 14994
+    fileSize: 32811
     createdAt: 2025-02-01T22:35:09.619Z
-    updatedAt: 2025-02-01T22:35:09.619Z
+    updatedAt: 2025-03-04T11:02:23.966Z
   - fileName: demoSheetFold2_C_v01.pax.json
     fileType: paxJson
     filePath: demosheetfold2_c/demoSheetFold2_C_v01.pax.json
-    fileSize: 17758
+    fileSize: 37734
     createdAt: 2025-02-01T22:35:09.619Z
-    updatedAt: 2025-02-01T22:35:09.619Z
+    updatedAt: 2025-03-04T11:02:23.967Z
   - fileName: demoSheetFold2_C_v01.log.txt
     fileType: txtLog
     filePath: demosheetfold2_c/demoSheetFold2_C_v01.log.txt
@@ -135,6 +159,6 @@ files:
   - fileName: demoSheetFold2_C_v01.js
     fileType: jsCad
     filePath: demosheetfold2_c/demoSheetFold2_C_v01.js
-    fileSize: 9590
+    fileSize: 25103
     createdAt: 2025-02-01T22:35:09.620Z
-    updatedAt: 2025-02-01T22:35:09.620Z
+    updatedAt: 2025-03-04T11:02:23.969Z

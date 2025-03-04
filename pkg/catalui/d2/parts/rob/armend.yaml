@@ -1,0 +1,113 @@
+description: extremity of a robotic arm
+tags:
+  - robot arm
+  - metal sheet
+owner: rob
+createdAt: 2025-02-18T19:35:01.658Z
+updatedAt: 2025-03-04T11:11:45.319Z
+updateCount: 2
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame78/desi78/armEnd
+linkToSrc: https://github.com/charlyoleg2/parame78
+linkToPkg: https://www.npmjs.com/package/desi78
+linkToCli: https://www.npmjs.com/package/desi78-cli
+linkToUis: https://www.npmjs.com/package/desi78-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame78
+linkOthers: []
+files:
+  - fileName: px_armEnd_v01.json
+    fileType: pxJson
+    filePath: armend/px_armEnd_v01.json
+    fileSize: 370
+    createdAt: 2025-02-18T19:35:01.659Z
+    updatedAt: 2025-03-04T11:11:45.315Z
+  - fileName: armEnd_v01_SFG_profiles.svg
+    fileType: svg
+    filePath: armend/armEnd_v01_SFG_profiles.svg
+    fileSize: 1409
+    createdAt: 2025-03-04T11:11:45.316Z
+    updatedAt: 2025-03-04T11:11:45.316Z
+  - fileName: armEnd_v01_SFG_profiles.dxf
+    fileType: dxf
+    filePath: armend/armEnd_v01_SFG_profiles.dxf
+    fileSize: 2124
+    createdAt: 2025-03-04T11:11:45.316Z
+    updatedAt: 2025-03-04T11:11:45.316Z
+  - fileName: armEnd_v01_SFG_pattern.svg
+    fileType: svg
+    filePath: armend/armEnd_v01_SFG_pattern.svg
+    fileSize: 2697
+    createdAt: 2025-03-04T11:11:45.316Z
+    updatedAt: 2025-03-04T11:11:45.316Z
+  - fileName: armEnd_v01_SFG_pattern.dxf
+    fileType: dxf
+    filePath: armend/armEnd_v01_SFG_pattern.dxf
+    fileSize: 4489
+    createdAt: 2025-03-04T11:11:45.317Z
+    updatedAt: 2025-03-04T11:11:45.317Z
+  - fileName: armEnd_v01_SFG_fj00.svg
+    fileType: svg
+    filePath: armend/armEnd_v01_SFG_fj00.svg
+    fileSize: 269
+    createdAt: 2025-03-04T11:11:45.317Z
+    updatedAt: 2025-03-04T11:11:45.317Z
+  - fileName: armEnd_v01_SFG_fj00.dxf
+    fileType: dxf
+    filePath: armend/armEnd_v01_SFG_fj00.dxf
+    fileSize: 301
+    createdAt: 2025-03-04T11:11:45.317Z
+    updatedAt: 2025-03-04T11:11:45.317Z
+  - fileName: armEnd_v01_SFG_f01.svg
+    fileType: svg
+    filePath: armend/armEnd_v01_SFG_f01.svg
+    fileSize: 329
+    createdAt: 2025-03-04T11:11:45.317Z
+    updatedAt: 2025-03-04T11:11:45.317Z
+  - fileName: armEnd_v01_SFG_f01.dxf
+    fileType: dxf
+    filePath: armend/armEnd_v01_SFG_f01.dxf
+    fileSize: 343
+    createdAt: 2025-03-04T11:11:45.317Z
+    updatedAt: 2025-03-04T11:11:45.317Z
+  - fileName: armEnd_v01_SFG_f00.svg
+    fileType: svg
+    filePath: armend/armEnd_v01_SFG_f00.svg
+    fileSize: 581
+    createdAt: 2025-03-04T11:11:45.318Z
+    updatedAt: 2025-03-04T11:11:45.318Z
+  - fileName: armEnd_v01_SFG_f00.dxf
+    fileType: dxf
+    filePath: armend/armEnd_v01_SFG_f00.dxf
+    fileSize: 596
+    createdAt: 2025-03-04T11:11:45.318Z
+    updatedAt: 2025-03-04T11:11:45.318Z
+  - fileName: armEnd_v01.scad
+    fileType: scad
+    filePath: armend/armEnd_v01.scad
+    fileSize: 44760
+    createdAt: 2025-03-04T11:11:45.318Z
+    updatedAt: 2025-03-04T11:11:45.318Z
+  - fileName: armEnd_v01.py
+    fileType: pyFreecad
+    filePath: armend/armEnd_v01.py
+    fileSize: 28926
+    createdAt: 2025-03-04T11:11:45.319Z
+    updatedAt: 2025-03-04T11:11:45.319Z
+  - fileName: armEnd_v01.pax.json
+    fileType: paxJson
+    filePath: armend/armEnd_v01.pax.json
+    fileSize: 31995
+    createdAt: 2025-03-04T11:11:45.319Z
+    updatedAt: 2025-03-04T11:11:45.319Z
+  - fileName: armEnd_v01.log.txt
+    fileType: txtLog
+    filePath: armend/armEnd_v01.log.txt
+    fileSize: 66
+    createdAt: 2025-03-04T11:11:45.319Z
+    updatedAt: 2025-03-04T11:11:45.319Z
+  - fileName: armEnd_v01.js
+    fileType: jsCad
+    filePath: armend/armEnd_v01.js
+    fileSize: 42699
+    createdAt: 2025-03-04T11:11:45.319Z
+    updatedAt: 2025-03-04T11:11:45.319Z

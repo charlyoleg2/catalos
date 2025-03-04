@@ -8,8 +8,8 @@ tags:
   - die
 owner: rob
 createdAt: 2025-02-01T22:35:09.504Z
-updatedAt: 2025-02-01T22:35:09.513Z
-updateCount: 1
+updatedAt: 2025-03-04T11:02:23.664Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/sfDie
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -67,6 +67,30 @@ files:
     fileSize: 2752
     createdAt: 2025-02-01T22:35:09.508Z
     updatedAt: 2025-02-01T22:35:09.508Z
+  - fileName: sfDie_A_v01_SFG_profiles.svg
+    fileType: svg
+    filePath: sfdie_a/sfDie_A_v01_SFG_profiles.svg
+    fileSize: 2169
+    createdAt: 2025-03-04T11:02:23.637Z
+    updatedAt: 2025-03-04T11:02:23.637Z
+  - fileName: sfDie_A_v01_SFG_profiles.dxf
+    fileType: dxf
+    filePath: sfdie_a/sfDie_A_v01_SFG_profiles.dxf
+    fileSize: 3318
+    createdAt: 2025-03-04T11:02:23.640Z
+    updatedAt: 2025-03-04T11:02:23.640Z
+  - fileName: sfDie_A_v01_SFG_pattern.svg
+    fileType: svg
+    filePath: sfdie_a/sfDie_A_v01_SFG_pattern.svg
+    fileSize: 4121
+    createdAt: 2025-03-04T11:02:23.642Z
+    updatedAt: 2025-03-04T11:02:23.642Z
+  - fileName: sfDie_A_v01_SFG_pattern.dxf
+    fileType: dxf
+    filePath: sfdie_a/sfDie_A_v01_SFG_pattern.dxf
+    fileSize: 5833
+    createdAt: 2025-03-04T11:02:23.645Z
+    updatedAt: 2025-03-04T11:02:23.645Z
   - fileName: sfDie_A_v01_SFG_fj00.svg
     fileType: svg
     filePath: sfdie_a/sfDie_A_v01_SFG_fj00.svg
@@ -106,21 +130,21 @@ files:
   - fileName: sfDie_A_v01.scad
     fileType: scad
     filePath: sfdie_a/sfDie_A_v01.scad
-    fileSize: 105570
+    fileSize: 119610
     createdAt: 2025-02-01T22:35:09.511Z
-    updatedAt: 2025-02-01T22:35:09.511Z
+    updatedAt: 2025-03-04T11:02:23.656Z
   - fileName: sfDie_A_v01.py
     fileType: pyFreecad
     filePath: sfdie_a/sfDie_A_v01.py
-    fileSize: 30161
+    fileSize: 43726
     createdAt: 2025-02-01T22:35:09.511Z
-    updatedAt: 2025-02-01T22:35:09.511Z
+    updatedAt: 2025-03-04T11:02:23.657Z
   - fileName: sfDie_A_v01.pax.json
     fileType: paxJson
     filePath: sfdie_a/sfDie_A_v01.pax.json
-    fileSize: 23246
+    fileSize: 39052
     createdAt: 2025-02-01T22:35:09.512Z
-    updatedAt: 2025-02-01T22:35:09.512Z
+    updatedAt: 2025-03-04T11:02:23.659Z
   - fileName: sfDie_A_v01.log.txt
     fileType: txtLog
     filePath: sfdie_a/sfDie_A_v01.log.txt
@@ -130,9 +154,9 @@ files:
   - fileName: sfDie_A_v01.js
     fileType: jsCad
     filePath: sfdie_a/sfDie_A_v01.js
-    fileSize: 96709
+    fileSize: 110333
     createdAt: 2025-02-01T22:35:09.512Z
-    updatedAt: 2025-02-01T22:35:09.512Z
+    updatedAt: 2025-03-04T11:02:23.663Z
   - fileName: px_sfDie_A_v01.json
     fileType: pxJson
     filePath: sfdie_a/px_sfDie_A_v01.json

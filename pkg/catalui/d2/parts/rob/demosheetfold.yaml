@@ -7,8 +7,8 @@ tags:
   - demo
 owner: rob
 createdAt: 2025-02-01T22:35:09.640Z
-updatedAt: 2025-02-01T22:35:09.648Z
-updateCount: 1
+updatedAt: 2025-03-04T11:02:24.031Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/demoSheetFold
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -60,6 +60,30 @@ files:
     fileSize: 29646
     createdAt: 2025-02-01T22:35:09.643Z
     updatedAt: 2025-02-01T22:35:09.643Z
+  - fileName: demoSheetFold_v01_facet3.svg
+    fileType: svg
+    filePath: demosheetfold/demoSheetFold_v01_facet3.svg
+    fileSize: 260
+    createdAt: 2025-03-04T11:02:24.020Z
+    updatedAt: 2025-03-04T11:02:24.020Z
+  - fileName: demoSheetFold_v01_facet3.dxf
+    fileType: dxf
+    filePath: demosheetfold/demoSheetFold_v01_facet3.dxf
+    fileSize: 301
+    createdAt: 2025-03-04T11:02:24.020Z
+    updatedAt: 2025-03-04T11:02:24.020Z
+  - fileName: demoSheetFold_v01_facet1.svg
+    fileType: svg
+    filePath: demosheetfold/demoSheetFold_v01_facet1.svg
+    fileSize: 315
+    createdAt: 2025-03-04T11:02:24.021Z
+    updatedAt: 2025-03-04T11:02:24.021Z
+  - fileName: demoSheetFold_v01_facet1.dxf
+    fileType: dxf
+    filePath: demosheetfold/demoSheetFold_v01_facet1.dxf
+    fileSize: 438
+    createdAt: 2025-03-04T11:02:24.021Z
+    updatedAt: 2025-03-04T11:02:24.021Z
   - fileName: demoSheetFold_v01_faceCut.svg
     fileType: svg
     filePath: demosheetfold/demoSheetFold_v01_faceCut.svg
@@ -72,6 +96,30 @@ files:
     fileSize: 955
     createdAt: 2025-02-01T22:35:09.644Z
     updatedAt: 2025-02-01T22:35:09.644Z
+  - fileName: demoSheetFold_v01_SFG_profiles.svg
+    fileType: svg
+    filePath: demosheetfold/demoSheetFold_v01_SFG_profiles.svg
+    fileSize: 574
+    createdAt: 2025-03-04T11:02:24.023Z
+    updatedAt: 2025-03-04T11:02:24.023Z
+  - fileName: demoSheetFold_v01_SFG_profiles.dxf
+    fileType: dxf
+    filePath: demosheetfold/demoSheetFold_v01_SFG_profiles.dxf
+    fileSize: 815
+    createdAt: 2025-03-04T11:02:24.024Z
+    updatedAt: 2025-03-04T11:02:24.024Z
+  - fileName: demoSheetFold_v01_SFG_pattern.svg
+    fileType: svg
+    filePath: demosheetfold/demoSheetFold_v01_SFG_pattern.svg
+    fileSize: 915
+    createdAt: 2025-03-04T11:02:24.024Z
+    updatedAt: 2025-03-04T11:02:24.024Z
+  - fileName: demoSheetFold_v01_SFG_pattern.dxf
+    fileType: dxf
+    filePath: demosheetfold/demoSheetFold_v01_SFG_pattern.dxf
+    fileSize: 1650
+    createdAt: 2025-03-04T11:02:24.025Z
+    updatedAt: 2025-03-04T11:02:24.025Z
   - fileName: demoSheetFold_v01_SFG_fj00.svg
     fileType: svg
     filePath: demosheetfold/demoSheetFold_v01_SFG_fj00.svg
@@ -111,21 +159,21 @@ files:
   - fileName: demoSheetFold_v01.scad
     fileType: scad
     filePath: demosheetfold/demoSheetFold_v01.scad
-    fileSize: 6314
+    fileSize: 9295
     createdAt: 2025-02-01T22:35:09.647Z
-    updatedAt: 2025-02-01T22:35:09.647Z
+    updatedAt: 2025-03-04T11:02:24.029Z
   - fileName: demoSheetFold_v01.py
     fileType: pyFreecad
     filePath: demosheetfold/demoSheetFold_v01.py
-    fileSize: 10798
+    fileSize: 14812
     createdAt: 2025-02-01T22:35:09.647Z
-    updatedAt: 2025-02-01T22:35:09.647Z
+    updatedAt: 2025-03-04T11:02:24.029Z
   - fileName: demoSheetFold_v01.pax.json
     fileType: paxJson
     filePath: demosheetfold/demoSheetFold_v01.pax.json
-    fileSize: 13357
+    fileSize: 17868
     createdAt: 2025-02-01T22:35:09.647Z
-    updatedAt: 2025-02-01T22:35:09.647Z
+    updatedAt: 2025-03-04T11:02:24.030Z
   - fileName: demoSheetFold_v01.log.txt
     fileType: txtLog
     filePath: demosheetfold/demoSheetFold_v01.log.txt
@@ -135,6 +183,6 @@ files:
   - fileName: demoSheetFold_v01.js
     fileType: jsCad
     filePath: demosheetfold/demoSheetFold_v01.js
-    fileSize: 6924
+    fileSize: 9911
     createdAt: 2025-02-01T22:35:09.648Z
-    updatedAt: 2025-02-01T22:35:09.648Z
+    updatedAt: 2025-03-04T11:02:24.031Z

@@ -1,0 +1,89 @@
+description: axis of robotic arm joint
+tags:
+  - robot arm
+  - metal sheet
+owner: rob
+createdAt: 2025-02-19T19:35:01.658Z
+updatedAt: 2025-03-04T11:11:45.325Z
+updateCount: 2
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame78/desi78/armAxis
+linkToSrc: https://github.com/charlyoleg2/parame78
+linkToPkg: https://www.npmjs.com/package/desi78
+linkToCli: https://www.npmjs.com/package/desi78-cli
+linkToUis: https://www.npmjs.com/package/desi78-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame78
+linkOthers: []
+files:
+  - fileName: px_armAxis_v01.json
+    fileType: pxJson
+    filePath: armaxis/px_armAxis_v01.json
+    fileSize: 180
+    createdAt: 2025-02-19T19:35:01.659Z
+    updatedAt: 2025-03-04T11:11:45.322Z
+  - fileName: armAxis_v01_faceHoleS.svg
+    fileType: svg
+    filePath: armaxis/armAxis_v01_faceHoleS.svg
+    fileSize: 180
+    createdAt: 2025-03-04T11:11:45.322Z
+    updatedAt: 2025-03-04T11:11:45.322Z
+  - fileName: armAxis_v01_faceHoleS.dxf
+    fileType: dxf
+    filePath: armaxis/armAxis_v01_faceHoleS.dxf
+    fileSize: 88
+    createdAt: 2025-03-04T11:11:45.323Z
+    updatedAt: 2025-03-04T11:11:45.323Z
+  - fileName: armAxis_v01_faceHoleL.svg
+    fileType: svg
+    filePath: armaxis/armAxis_v01_faceHoleL.svg
+    fileSize: 183
+    createdAt: 2025-03-04T11:11:45.323Z
+    updatedAt: 2025-03-04T11:11:45.323Z
+  - fileName: armAxis_v01_faceHoleL.dxf
+    fileType: dxf
+    filePath: armaxis/armAxis_v01_faceHoleL.dxf
+    fileSize: 89
+    createdAt: 2025-03-04T11:11:45.323Z
+    updatedAt: 2025-03-04T11:11:45.323Z
+  - fileName: armAxis_v01_faceAxis.svg
+    fileType: svg
+    filePath: armaxis/armAxis_v01_faceAxis.svg
+    fileSize: 272
+    createdAt: 2025-03-04T11:11:45.323Z
+    updatedAt: 2025-03-04T11:11:45.323Z
+  - fileName: armAxis_v01_faceAxis.dxf
+    fileType: dxf
+    filePath: armaxis/armAxis_v01_faceAxis.dxf
+    fileSize: 141
+    createdAt: 2025-03-04T11:11:45.324Z
+    updatedAt: 2025-03-04T11:11:45.324Z
+  - fileName: armAxis_v01.scad
+    fileType: scad
+    filePath: armaxis/armAxis_v01.scad
+    fileSize: 4432
+    createdAt: 2025-03-04T11:11:45.324Z
+    updatedAt: 2025-03-04T11:11:45.324Z
+  - fileName: armAxis_v01.py
+    fileType: pyFreecad
+    filePath: armaxis/armAxis_v01.py
+    fileSize: 3693
+    createdAt: 2025-03-04T11:11:45.324Z
+    updatedAt: 2025-03-04T11:11:45.324Z
+  - fileName: armAxis_v01.pax.json
+    fileType: paxJson
+    filePath: armaxis/armAxis_v01.pax.json
+    fileSize: 3437
+    createdAt: 2025-03-04T11:11:45.325Z
+    updatedAt: 2025-03-04T11:11:45.325Z
+  - fileName: armAxis_v01.log.txt
+    fileType: txtLog
+    filePath: armaxis/armAxis_v01.log.txt
+    fileSize: 86
+    createdAt: 2025-03-04T11:11:45.325Z
+    updatedAt: 2025-03-04T11:11:45.325Z
+  - fileName: armAxis_v01.js
+    fileType: jsCad
+    filePath: armaxis/armAxis_v01.js
+    fileSize: 4791
+    createdAt: 2025-03-04T11:11:45.325Z
+    updatedAt: 2025-03-04T11:11:45.325Z
