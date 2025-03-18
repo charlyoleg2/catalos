@@ -8,8 +8,8 @@ tags:
   - die
 owner: rob
 createdAt: 2025-02-01T22:35:09.504Z
-updatedAt: 2025-03-04T11:02:23.664Z
-updateCount: 2
+updatedAt: 2025-03-18T19:19:15.888Z
+updateCount: 3
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/sfDie
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -130,21 +130,21 @@ files:
   - fileName: sfDie_A_v01.scad
     fileType: scad
     filePath: sfdie_a/sfDie_A_v01.scad
-    fileSize: 119610
+    fileSize: 119742
     createdAt: 2025-02-01T22:35:09.511Z
-    updatedAt: 2025-03-04T11:02:23.656Z
+    updatedAt: 2025-03-18T19:19:15.883Z
   - fileName: sfDie_A_v01.py
     fileType: pyFreecad
     filePath: sfdie_a/sfDie_A_v01.py
-    fileSize: 43726
+    fileSize: 43990
     createdAt: 2025-02-01T22:35:09.511Z
-    updatedAt: 2025-03-04T11:02:23.657Z
+    updatedAt: 2025-03-18T19:19:15.885Z
   - fileName: sfDie_A_v01.pax.json
     fileType: paxJson
     filePath: sfdie_a/sfDie_A_v01.pax.json
-    fileSize: 39052
+    fileSize: 39184
     createdAt: 2025-02-01T22:35:09.512Z
-    updatedAt: 2025-03-04T11:02:23.659Z
+    updatedAt: 2025-03-18T19:19:15.886Z
   - fileName: sfDie_A_v01.log.txt
     fileType: txtLog
     filePath: sfdie_a/sfDie_A_v01.log.txt
@@ -154,9 +154,9 @@ files:
   - fileName: sfDie_A_v01.js
     fileType: jsCad
     filePath: sfdie_a/sfDie_A_v01.js
-    fileSize: 110333
+    fileSize: 110465
     createdAt: 2025-02-01T22:35:09.512Z
-    updatedAt: 2025-03-04T11:02:23.663Z
+    updatedAt: 2025-03-18T19:19:15.888Z
   - fileName: px_sfDie_A_v01.json
     fileType: pxJson
     filePath: sfdie_a/px_sfDie_A_v01.json

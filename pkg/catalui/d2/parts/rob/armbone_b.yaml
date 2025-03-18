@@ -1,0 +1,123 @@
+description: ""
+tags: []
+owner: rob
+createdAt: 2025-03-18T19:19:16.322Z
+updatedAt: 2025-03-18T19:19:16.356Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame78/desi78/armBone
+linkToSrc: https://github.com/charlyoleg2/parame78
+linkToPkg: https://www.npmjs.com/package/desi78
+linkToCli: https://www.npmjs.com/package/desi78-cli
+linkToUis: https://www.npmjs.com/package/desi78-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame78
+linkOthers: []
+files:
+  - fileName: px_armBone_B_v01.json
+    fileType: pxJson
+    filePath: armbone_b/px_armBone_B_v01.json
+    fileSize: 443
+    createdAt: 2025-03-18T19:19:16.324Z
+    updatedAt: 2025-03-18T19:19:16.324Z
+  - fileName: armBone_B_v01_faceB.svg
+    fileType: svg
+    filePath: armbone_b/armBone_B_v01_faceB.svg
+    fileSize: 884
+    createdAt: 2025-03-18T19:19:16.325Z
+    updatedAt: 2025-03-18T19:19:16.325Z
+  - fileName: armBone_B_v01_faceB.dxf
+    fileType: dxf
+    filePath: armbone_b/armBone_B_v01_faceB.dxf
+    fileSize: 1118
+    createdAt: 2025-03-18T19:19:16.327Z
+    updatedAt: 2025-03-18T19:19:16.327Z
+  - fileName: armBone_B_v01_faceA.svg
+    fileType: svg
+    filePath: armbone_b/armBone_B_v01_faceA.svg
+    fileSize: 894
+    createdAt: 2025-03-18T19:19:16.329Z
+    updatedAt: 2025-03-18T19:19:16.329Z
+  - fileName: armBone_B_v01_faceA.dxf
+    fileType: dxf
+    filePath: armbone_b/armBone_B_v01_faceA.dxf
+    fileSize: 1124
+    createdAt: 2025-03-18T19:19:16.331Z
+    updatedAt: 2025-03-18T19:19:16.331Z
+  - fileName: armBone_B_v01_SFG_profiles.svg
+    fileType: svg
+    filePath: armbone_b/armBone_B_v01_SFG_profiles.svg
+    fileSize: 1409
+    createdAt: 2025-03-18T19:19:16.333Z
+    updatedAt: 2025-03-18T19:19:16.333Z
+  - fileName: armBone_B_v01_SFG_profiles.dxf
+    fileType: dxf
+    filePath: armbone_b/armBone_B_v01_SFG_profiles.dxf
+    fileSize: 2124
+    createdAt: 2025-03-18T19:19:16.335Z
+    updatedAt: 2025-03-18T19:19:16.335Z
+  - fileName: armBone_B_v01_SFG_pattern.svg
+    fileType: svg
+    filePath: armbone_b/armBone_B_v01_SFG_pattern.svg
+    fileSize: 3283
+    createdAt: 2025-03-18T19:19:16.337Z
+    updatedAt: 2025-03-18T19:19:16.337Z
+  - fileName: armBone_B_v01_SFG_pattern.dxf
+    fileType: dxf
+    filePath: armbone_b/armBone_B_v01_SFG_pattern.dxf
+    fileSize: 5280
+    createdAt: 2025-03-18T19:19:16.339Z
+    updatedAt: 2025-03-18T19:19:16.339Z
+  - fileName: armBone_B_v01_SFG_f01.svg
+    fileType: svg
+    filePath: armbone_b/armBone_B_v01_SFG_f01.svg
+    fileSize: 582
+    createdAt: 2025-03-18T19:19:16.342Z
+    updatedAt: 2025-03-18T19:19:16.342Z
+  - fileName: armBone_B_v01_SFG_f01.dxf
+    fileType: dxf
+    filePath: armbone_b/armBone_B_v01_SFG_f01.dxf
+    fileSize: 597
+    createdAt: 2025-03-18T19:19:16.344Z
+    updatedAt: 2025-03-18T19:19:16.344Z
+  - fileName: armBone_B_v01_SFG_f00.svg
+    fileType: svg
+    filePath: armbone_b/armBone_B_v01_SFG_f00.svg
+    fileSize: 579
+    createdAt: 2025-03-18T19:19:16.347Z
+    updatedAt: 2025-03-18T19:19:16.347Z
+  - fileName: armBone_B_v01_SFG_f00.dxf
+    fileType: dxf
+    filePath: armbone_b/armBone_B_v01_SFG_f00.dxf
+    fileSize: 596
+    createdAt: 2025-03-18T19:19:16.349Z
+    updatedAt: 2025-03-18T19:19:16.349Z
+  - fileName: armBone_B_v01.scad
+    fileType: scad
+    filePath: armbone_b/armBone_B_v01.scad
+    fileSize: 68492
+    createdAt: 2025-03-18T19:19:16.351Z
+    updatedAt: 2025-03-18T19:19:16.351Z
+  - fileName: armBone_B_v01.py
+    fileType: pyFreecad
+    filePath: armbone_b/armBone_B_v01.py
+    fileSize: 39401
+    createdAt: 2025-03-18T19:19:16.353Z
+    updatedAt: 2025-03-18T19:19:16.353Z
+  - fileName: armBone_B_v01.pax.json
+    fileType: paxJson
+    filePath: armbone_b/armBone_B_v01.pax.json
+    fileSize: 41726
+    createdAt: 2025-03-18T19:19:16.354Z
+    updatedAt: 2025-03-18T19:19:16.354Z
+  - fileName: armBone_B_v01.log.txt
+    fileType: txtLog
+    filePath: armbone_b/armBone_B_v01.log.txt
+    fileSize: 84
+    createdAt: 2025-03-18T19:19:16.355Z
+    updatedAt: 2025-03-18T19:19:16.355Z
+  - fileName: armBone_B_v01.js
+    fileType: jsCad
+    filePath: armbone_b/armBone_B_v01.js
+    fileSize: 64822
+    createdAt: 2025-03-18T19:19:16.356Z
+    updatedAt: 2025-03-18T19:19:16.356Z

@@ -1,0 +1,87 @@
+description: ""
+tags: []
+owner: rob
+createdAt: 2025-03-18T19:19:16.263Z
+updatedAt: 2025-03-18T19:19:16.273Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame78/desi78/armJoint
+linkToSrc: https://github.com/charlyoleg2/parame78
+linkToPkg: https://www.npmjs.com/package/desi78
+linkToCli: https://www.npmjs.com/package/desi78-cli
+linkToUis: https://www.npmjs.com/package/desi78-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame78
+linkOthers: []
+files:
+  - fileName: px_armJoint_A1_v01.json
+    fileType: pxJson
+    filePath: armjoint_a1/px_armJoint_A1_v01.json
+    fileSize: 650
+    createdAt: 2025-03-18T19:19:16.264Z
+    updatedAt: 2025-03-18T19:19:16.264Z
+  - fileName: armJoint_A1_v01_faceTop.svg
+    fileType: svg
+    filePath: armjoint_a1/armJoint_A1_v01_faceTop.svg
+    fileSize: 1279
+    createdAt: 2025-03-18T19:19:16.265Z
+    updatedAt: 2025-03-18T19:19:16.265Z
+  - fileName: armJoint_A1_v01_faceTop.dxf
+    fileType: dxf
+    filePath: armjoint_a1/armJoint_A1_v01_faceTop.dxf
+    fileSize: 1772
+    createdAt: 2025-03-18T19:19:16.266Z
+    updatedAt: 2025-03-18T19:19:16.266Z
+  - fileName: armJoint_A1_v01_faceSide.svg
+    fileType: svg
+    filePath: armjoint_a1/armJoint_A1_v01_faceSide.svg
+    fileSize: 1257
+    createdAt: 2025-03-18T19:19:16.267Z
+    updatedAt: 2025-03-18T19:19:16.267Z
+  - fileName: armJoint_A1_v01_faceSide.dxf
+    fileType: dxf
+    filePath: armjoint_a1/armJoint_A1_v01_faceSide.dxf
+    fileSize: 1289
+    createdAt: 2025-03-18T19:19:16.267Z
+    updatedAt: 2025-03-18T19:19:16.267Z
+  - fileName: armJoint_A1_v01_faceSection.svg
+    fileType: svg
+    filePath: armjoint_a1/armJoint_A1_v01_faceSection.svg
+    fileSize: 2950
+    createdAt: 2025-03-18T19:19:16.268Z
+    updatedAt: 2025-03-18T19:19:16.268Z
+  - fileName: armJoint_A1_v01_faceSection.dxf
+    fileType: dxf
+    filePath: armjoint_a1/armJoint_A1_v01_faceSection.dxf
+    fileSize: 4452
+    createdAt: 2025-03-18T19:19:16.269Z
+    updatedAt: 2025-03-18T19:19:16.269Z
+  - fileName: armJoint_A1_v01.scad
+    fileType: scad
+    filePath: armjoint_a1/armJoint_A1_v01.scad
+    fileSize: 140814
+    createdAt: 2025-03-18T19:19:16.269Z
+    updatedAt: 2025-03-18T19:19:16.269Z
+  - fileName: armJoint_A1_v01.py
+    fileType: pyFreecad
+    filePath: armjoint_a1/armJoint_A1_v01.py
+    fileSize: 94034
+    createdAt: 2025-03-18T19:19:16.270Z
+    updatedAt: 2025-03-18T19:19:16.270Z
+  - fileName: armJoint_A1_v01.pax.json
+    fileType: paxJson
+    filePath: armjoint_a1/armJoint_A1_v01.pax.json
+    fileSize: 552182
+    createdAt: 2025-03-18T19:19:16.271Z
+    updatedAt: 2025-03-18T19:19:16.271Z
+  - fileName: armJoint_A1_v01.log.txt
+    fileType: txtLog
+    filePath: armjoint_a1/armJoint_A1_v01.log.txt
+    fileSize: 529
+    createdAt: 2025-03-18T19:19:16.272Z
+    updatedAt: 2025-03-18T19:19:16.272Z
+  - fileName: armJoint_A1_v01.js
+    fileType: jsCad
+    filePath: armjoint_a1/armJoint_A1_v01.js
+    fileSize: 134868
+    createdAt: 2025-03-18T19:19:16.273Z
+    updatedAt: 2025-03-18T19:19:16.273Z

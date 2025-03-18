@@ -7,8 +7,8 @@ tags:
   - demo
 owner: rob
 createdAt: 2025-02-01T22:35:09.613Z
-updatedAt: 2025-03-04T11:02:23.969Z
-updateCount: 2
+updatedAt: 2025-03-18T19:19:16.114Z
+updateCount: 3
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/demoSheetFold2
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -135,21 +135,21 @@ files:
   - fileName: demoSheetFold2_C_v01.scad
     fileType: scad
     filePath: demosheetfold2_c/demoSheetFold2_C_v01.scad
-    fileSize: 24648
+    fileSize: 24918
     createdAt: 2025-02-01T22:35:09.618Z
-    updatedAt: 2025-03-04T11:02:23.966Z
+    updatedAt: 2025-03-18T19:19:16.108Z
   - fileName: demoSheetFold2_C_v01.py
     fileType: pyFreecad
     filePath: demosheetfold2_c/demoSheetFold2_C_v01.py
-    fileSize: 32811
+    fileSize: 33351
     createdAt: 2025-02-01T22:35:09.619Z
-    updatedAt: 2025-03-04T11:02:23.966Z
+    updatedAt: 2025-03-18T19:19:16.111Z
   - fileName: demoSheetFold2_C_v01.pax.json
     fileType: paxJson
     filePath: demosheetfold2_c/demoSheetFold2_C_v01.pax.json
-    fileSize: 37734
+    fileSize: 38004
     createdAt: 2025-02-01T22:35:09.619Z
-    updatedAt: 2025-03-04T11:02:23.967Z
+    updatedAt: 2025-03-18T19:19:16.112Z
   - fileName: demoSheetFold2_C_v01.log.txt
     fileType: txtLog
     filePath: demosheetfold2_c/demoSheetFold2_C_v01.log.txt
@@ -159,6 +159,6 @@ files:
   - fileName: demoSheetFold2_C_v01.js
     fileType: jsCad
     filePath: demosheetfold2_c/demoSheetFold2_C_v01.js
-    fileSize: 25103
+    fileSize: 25373
     createdAt: 2025-02-01T22:35:09.620Z
-    updatedAt: 2025-03-04T11:02:23.969Z
+    updatedAt: 2025-03-18T19:19:16.114Z

@@ -1,0 +1,87 @@
+description: ""
+tags: []
+owner: rob
+createdAt: 2025-03-18T19:19:16.307Z
+updatedAt: 2025-03-18T19:19:16.321Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame78/desi78/armChain
+linkToSrc: https://github.com/charlyoleg2/parame78
+linkToPkg: https://www.npmjs.com/package/desi78
+linkToCli: https://www.npmjs.com/package/desi78-cli
+linkToUis: https://www.npmjs.com/package/desi78-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame78
+linkOthers: []
+files:
+  - fileName: px_armChain_A_v01.json
+    fileType: pxJson
+    filePath: armchain_a/px_armChain_A_v01.json
+    fileSize: 637
+    createdAt: 2025-03-18T19:19:16.309Z
+    updatedAt: 2025-03-18T19:19:16.309Z
+  - fileName: armChain_A_v01_faceSection.svg
+    fileType: svg
+    filePath: armchain_a/armChain_A_v01_faceSection.svg
+    fileSize: 9783
+    createdAt: 2025-03-18T19:19:16.310Z
+    updatedAt: 2025-03-18T19:19:16.310Z
+  - fileName: armChain_A_v01_faceSection.dxf
+    fileType: dxf
+    filePath: armchain_a/armChain_A_v01_faceSection.dxf
+    fileSize: 15310
+    createdAt: 2025-03-18T19:19:16.311Z
+    updatedAt: 2025-03-18T19:19:16.311Z
+  - fileName: armChain_A_v01_faceB.svg
+    fileType: svg
+    filePath: armchain_a/armChain_A_v01_faceB.svg
+    fileSize: 3979
+    createdAt: 2025-03-18T19:19:16.312Z
+    updatedAt: 2025-03-18T19:19:16.312Z
+  - fileName: armChain_A_v01_faceB.dxf
+    fileType: dxf
+    filePath: armchain_a/armChain_A_v01_faceB.dxf
+    fileSize: 6009
+    createdAt: 2025-03-18T19:19:16.313Z
+    updatedAt: 2025-03-18T19:19:16.313Z
+  - fileName: armChain_A_v01_faceA.svg
+    fileType: svg
+    filePath: armchain_a/armChain_A_v01_faceA.svg
+    fileSize: 3660
+    createdAt: 2025-03-18T19:19:16.313Z
+    updatedAt: 2025-03-18T19:19:16.313Z
+  - fileName: armChain_A_v01_faceA.dxf
+    fileType: dxf
+    filePath: armchain_a/armChain_A_v01_faceA.dxf
+    fileSize: 4675
+    createdAt: 2025-03-18T19:19:16.314Z
+    updatedAt: 2025-03-18T19:19:16.314Z
+  - fileName: armChain_A_v01.scad
+    fileType: scad
+    filePath: armchain_a/armChain_A_v01.scad
+    fileSize: 422407
+    createdAt: 2025-03-18T19:19:16.315Z
+    updatedAt: 2025-03-18T19:19:16.315Z
+  - fileName: armChain_A_v01.py
+    fileType: pyFreecad
+    filePath: armchain_a/armChain_A_v01.py
+    fileSize: 314268
+    createdAt: 2025-03-18T19:19:16.316Z
+    updatedAt: 2025-03-18T19:19:16.316Z
+  - fileName: armChain_A_v01.pax.json
+    fileType: paxJson
+    filePath: armchain_a/armChain_A_v01.pax.json
+    fileSize: 1853052
+    createdAt: 2025-03-18T19:19:16.319Z
+    updatedAt: 2025-03-18T19:19:16.319Z
+  - fileName: armChain_A_v01.log.txt
+    fileType: txtLog
+    filePath: armchain_a/armChain_A_v01.log.txt
+    fileSize: 1082
+    createdAt: 2025-03-18T19:19:16.319Z
+    updatedAt: 2025-03-18T19:19:16.319Z
+  - fileName: armChain_A_v01.js
+    fileType: jsCad
+    filePath: armchain_a/armChain_A_v01.js
+    fileSize: 404894
+    createdAt: 2025-03-18T19:19:16.321Z
+    updatedAt: 2025-03-18T19:19:16.321Z

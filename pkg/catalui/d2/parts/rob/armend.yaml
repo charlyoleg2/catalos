@@ -4,8 +4,8 @@ tags:
   - metal sheet
 owner: rob
 createdAt: 2025-02-18T19:35:01.658Z
-updatedAt: 2025-03-04T11:37:08.789Z
-updateCount: 3
+updatedAt: 2025-03-18T19:19:16.288Z
+updateCount: 4
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/armEnd
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -84,21 +84,21 @@ files:
   - fileName: armEnd_v01.scad
     fileType: scad
     filePath: armend/armEnd_v01.scad
-    fileSize: 44760
+    fileSize: 52702
     createdAt: 2025-03-04T11:11:45.318Z
-    updatedAt: 2025-03-04T11:11:45.318Z
+    updatedAt: 2025-03-18T19:19:16.283Z
   - fileName: armEnd_v01.py
     fileType: pyFreecad
     filePath: armend/armEnd_v01.py
-    fileSize: 28926
+    fileSize: 33469
     createdAt: 2025-03-04T11:11:45.319Z
-    updatedAt: 2025-03-04T11:11:45.319Z
+    updatedAt: 2025-03-18T19:19:16.284Z
   - fileName: armEnd_v01.pax.json
     fileType: paxJson
     filePath: armend/armEnd_v01.pax.json
-    fileSize: 31995
+    fileSize: 35335
     createdAt: 2025-03-04T11:11:45.319Z
-    updatedAt: 2025-03-04T11:11:45.319Z
+    updatedAt: 2025-03-18T19:19:16.285Z
   - fileName: armEnd_v01.log.txt
     fileType: txtLog
     filePath: armend/armEnd_v01.log.txt
@@ -108,9 +108,9 @@ files:
   - fileName: armEnd_v01.js
     fileType: jsCad
     filePath: armend/armEnd_v01.js
-    fileSize: 42699
+    fileSize: 50341
     createdAt: 2025-03-04T11:11:45.319Z
-    updatedAt: 2025-03-04T11:11:45.319Z
+    updatedAt: 2025-03-18T19:19:16.286Z
   - fileName: armEnd_04.png
     fileType: image
     filePath: armend/armEnd_04.png
