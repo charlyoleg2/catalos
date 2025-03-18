@@ -2,8 +2,8 @@ description: ""
 tags: []
 owner: rob
 createdAt: 2025-03-18T19:19:16.290Z
-updatedAt: 2025-03-18T19:19:16.305Z
-updateCount: 1
+updatedAt: 2025-03-18T21:19:43.030Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/armChain
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -85,3 +85,57 @@ files:
     fileSize: 331385
     createdAt: 2025-03-18T19:19:16.305Z
     updatedAt: 2025-03-18T19:19:16.305Z
+  - fileName: armChain_09.png
+    fileType: image
+    filePath: armchain_b/armChain_09.png
+    fileSize: 24319
+    createdAt: 2025-03-18T21:19:43.025Z
+    updatedAt: 2025-03-18T21:19:43.025Z
+  - fileName: armChain_08.png
+    fileType: image
+    filePath: armchain_b/armChain_08.png
+    fileSize: 20865
+    createdAt: 2025-03-18T21:19:43.026Z
+    updatedAt: 2025-03-18T21:19:43.026Z
+  - fileName: armChain_07.png
+    fileType: image
+    filePath: armchain_b/armChain_07.png
+    fileSize: 26821
+    createdAt: 2025-03-18T21:19:43.026Z
+    updatedAt: 2025-03-18T21:19:43.026Z
+  - fileName: armChain_06.png
+    fileType: image
+    filePath: armchain_b/armChain_06.png
+    fileSize: 24253
+    createdAt: 2025-03-18T21:19:43.027Z
+    updatedAt: 2025-03-18T21:19:43.027Z
+  - fileName: armChain_05.png
+    fileType: image
+    filePath: armchain_b/armChain_05.png
+    fileSize: 18587
+    createdAt: 2025-03-18T21:19:43.028Z
+    updatedAt: 2025-03-18T21:19:43.028Z
+  - fileName: armChain_04.png
+    fileType: image
+    filePath: armchain_b/armChain_04.png
+    fileSize: 27086
+    createdAt: 2025-03-18T21:19:43.028Z
+    updatedAt: 2025-03-18T21:19:43.028Z
+  - fileName: armChain_03.png
+    fileType: image
+    filePath: armchain_b/armChain_03.png
+    fileSize: 25016
+    createdAt: 2025-03-18T21:19:43.029Z
+    updatedAt: 2025-03-18T21:19:43.029Z
+  - fileName: armChain_02.png
+    fileType: image
+    filePath: armchain_b/armChain_02.png
+    fileSize: 24042
+    createdAt: 2025-03-18T21:19:43.030Z
+    updatedAt: 2025-03-18T21:19:43.030Z
+  - fileName: armChain_01.png
+    fileType: image
+    filePath: armchain_b/armChain_01.png
+    fileSize: 25918
+    createdAt: 2025-03-18T21:19:43.030Z
+    updatedAt: 2025-03-18T21:19:43.030Z

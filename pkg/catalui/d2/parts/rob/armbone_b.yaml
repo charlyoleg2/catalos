@@ -2,8 +2,8 @@ description: ""
 tags: []
 owner: rob
 createdAt: 2025-03-18T19:19:16.322Z
-updatedAt: 2025-03-18T19:19:16.356Z
-updateCount: 1
+updatedAt: 2025-03-18T21:19:43.061Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/armBone
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -121,3 +121,39 @@ files:
     fileSize: 64822
     createdAt: 2025-03-18T19:19:16.356Z
     updatedAt: 2025-03-18T19:19:16.356Z
+  - fileName: armBone_06.png
+    fileType: image
+    filePath: armbone_b/armBone_06.png
+    fileSize: 17320
+    createdAt: 2025-03-18T21:19:43.058Z
+    updatedAt: 2025-03-18T21:19:43.058Z
+  - fileName: armBone_05.png
+    fileType: image
+    filePath: armbone_b/armBone_05.png
+    fileSize: 16675
+    createdAt: 2025-03-18T21:19:43.059Z
+    updatedAt: 2025-03-18T21:19:43.059Z
+  - fileName: armBone_04.png
+    fileType: image
+    filePath: armbone_b/armBone_04.png
+    fileSize: 16742
+    createdAt: 2025-03-18T21:19:43.059Z
+    updatedAt: 2025-03-18T21:19:43.059Z
+  - fileName: armBone_03.png
+    fileType: image
+    filePath: armbone_b/armBone_03.png
+    fileSize: 17450
+    createdAt: 2025-03-18T21:19:43.060Z
+    updatedAt: 2025-03-18T21:19:43.060Z
+  - fileName: armBone_02.png
+    fileType: image
+    filePath: armbone_b/armBone_02.png
+    fileSize: 12594
+    createdAt: 2025-03-18T21:19:43.061Z
+    updatedAt: 2025-03-18T21:19:43.061Z
+  - fileName: armBone_01.png
+    fileType: image
+    filePath: armbone_b/armBone_01.png
+    fileSize: 18880
+    createdAt: 2025-03-18T21:19:43.061Z
+    updatedAt: 2025-03-18T21:19:43.061Z

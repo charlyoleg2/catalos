@@ -2,8 +2,8 @@ description: ""
 tags: []
 owner: rob
 createdAt: 2025-03-18T19:19:16.250Z
-updatedAt: 2025-03-18T19:19:16.261Z
-updateCount: 1
+updatedAt: 2025-03-18T21:19:42.988Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/armJoint
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -85,3 +85,39 @@ files:
     fileSize: 312291
     createdAt: 2025-03-18T19:19:16.261Z
     updatedAt: 2025-03-18T19:19:16.261Z
+  - fileName: armJoint_06.png
+    fileType: image
+    filePath: armjoint_a2/armJoint_06.png
+    fileSize: 15285
+    createdAt: 2025-03-18T21:19:42.984Z
+    updatedAt: 2025-03-18T21:19:42.984Z
+  - fileName: armJoint_05.png
+    fileType: image
+    filePath: armjoint_a2/armJoint_05.png
+    fileSize: 16956
+    createdAt: 2025-03-18T21:19:42.985Z
+    updatedAt: 2025-03-18T21:19:42.985Z
+  - fileName: armJoint_04.png
+    fileType: image
+    filePath: armjoint_a2/armJoint_04.png
+    fileSize: 14970
+    createdAt: 2025-03-18T21:19:42.985Z
+    updatedAt: 2025-03-18T21:19:42.985Z
+  - fileName: armJoint_03.png
+    fileType: image
+    filePath: armjoint_a2/armJoint_03.png
+    fileSize: 6804
+    createdAt: 2025-03-18T21:19:42.987Z
+    updatedAt: 2025-03-18T21:19:42.987Z
+  - fileName: armJoint_02.png
+    fileType: image
+    filePath: armjoint_a2/armJoint_02.png
+    fileSize: 16518
+    createdAt: 2025-03-18T21:19:42.988Z
+    updatedAt: 2025-03-18T21:19:42.988Z
+  - fileName: armJoint_01.png
+    fileType: image
+    filePath: armjoint_a2/armJoint_01.png
+    fileSize: 14886
+    createdAt: 2025-03-18T21:19:42.988Z
+    updatedAt: 2025-03-18T21:19:42.988Z

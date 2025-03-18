@@ -2,8 +2,8 @@ description: ""
 tags: []
 owner: rob
 createdAt: 2025-03-18T19:19:16.307Z
-updatedAt: 2025-03-18T19:19:16.321Z
-updateCount: 1
+updatedAt: 2025-03-18T21:19:43.046Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/armChain
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -85,3 +85,51 @@ files:
     fileSize: 404894
     createdAt: 2025-03-18T19:19:16.321Z
     updatedAt: 2025-03-18T19:19:16.321Z
+  - fileName: armChain_08.png
+    fileType: image
+    filePath: armchain_a/armChain_08.png
+    fileSize: 28724
+    createdAt: 2025-03-18T21:19:43.041Z
+    updatedAt: 2025-03-18T21:19:43.041Z
+  - fileName: armChain_07.png
+    fileType: image
+    filePath: armchain_a/armChain_07.png
+    fileSize: 11089
+    createdAt: 2025-03-18T21:19:43.041Z
+    updatedAt: 2025-03-18T21:19:43.041Z
+  - fileName: armChain_06.png
+    fileType: image
+    filePath: armchain_a/armChain_06.png
+    fileSize: 15192
+    createdAt: 2025-03-18T21:19:43.042Z
+    updatedAt: 2025-03-18T21:19:43.042Z
+  - fileName: armChain_05.png
+    fileType: image
+    filePath: armchain_a/armChain_05.png
+    fileSize: 21937
+    createdAt: 2025-03-18T21:19:43.043Z
+    updatedAt: 2025-03-18T21:19:43.043Z
+  - fileName: armChain_04.png
+    fileType: image
+    filePath: armchain_a/armChain_04.png
+    fileSize: 21690
+    createdAt: 2025-03-18T21:19:43.044Z
+    updatedAt: 2025-03-18T21:19:43.044Z
+  - fileName: armChain_03.png
+    fileType: image
+    filePath: armchain_a/armChain_03.png
+    fileSize: 17740
+    createdAt: 2025-03-18T21:19:43.044Z
+    updatedAt: 2025-03-18T21:19:43.044Z
+  - fileName: armChain_02.png
+    fileType: image
+    filePath: armchain_a/armChain_02.png
+    fileSize: 22439
+    createdAt: 2025-03-18T21:19:43.045Z
+    updatedAt: 2025-03-18T21:19:43.045Z
+  - fileName: armChain_01.png
+    fileType: image
+    filePath: armchain_a/armChain_01.png
+    fileSize: 22084
+    createdAt: 2025-03-18T21:19:43.046Z
+    updatedAt: 2025-03-18T21:19:43.046Z
