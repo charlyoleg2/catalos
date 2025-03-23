@@ -1,0 +1,138 @@
+description: a conic tube made out metal sheet
+tags:
+  - sheetfold
+  - tube
+  - structure
+owner: rob
+createdAt: 2025-03-23T19:51:59.402Z
+updatedAt: 2025-03-23T19:51:59.471Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame78/desi78/sfTube
+linkToSrc: https://github.com/charlyoleg2/parame78
+linkToPkg: https://www.npmjs.com/package/desi78
+linkToCli: https://www.npmjs.com/package/desi78-cli
+linkToUis: https://www.npmjs.com/package/desi78-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame78
+linkOthers: []
+files:
+  - fileName: tube06.png
+    fileType: image
+    filePath: sftube/tube06.png
+    fileSize: 9431
+    createdAt: 2025-03-23T19:51:59.412Z
+    updatedAt: 2025-03-23T19:51:59.412Z
+  - fileName: tube05.png
+    fileType: image
+    filePath: sftube/tube05.png
+    fileSize: 9899
+    createdAt: 2025-03-23T19:51:59.417Z
+    updatedAt: 2025-03-23T19:51:59.417Z
+  - fileName: tube04.png
+    fileType: image
+    filePath: sftube/tube04.png
+    fileSize: 13176
+    createdAt: 2025-03-23T19:51:59.421Z
+    updatedAt: 2025-03-23T19:51:59.421Z
+  - fileName: tube03.png
+    fileType: image
+    filePath: sftube/tube03.png
+    fileSize: 12329
+    createdAt: 2025-03-23T19:51:59.427Z
+    updatedAt: 2025-03-23T19:51:59.427Z
+  - fileName: tube02.png
+    fileType: image
+    filePath: sftube/tube02.png
+    fileSize: 9138
+    createdAt: 2025-03-23T19:51:59.430Z
+    updatedAt: 2025-03-23T19:51:59.430Z
+  - fileName: tube01.png
+    fileType: image
+    filePath: sftube/tube01.png
+    fileSize: 10184
+    createdAt: 2025-03-23T19:51:59.433Z
+    updatedAt: 2025-03-23T19:51:59.433Z
+  - fileName: sfTube_v01_SFG_profiles.svg
+    fileType: svg
+    filePath: sftube/sfTube_v01_SFG_profiles.svg
+    fileSize: 3975
+    createdAt: 2025-03-23T19:51:59.435Z
+    updatedAt: 2025-03-23T19:51:59.435Z
+  - fileName: sfTube_v01_SFG_profiles.dxf
+    fileType: dxf
+    filePath: sftube/sfTube_v01_SFG_profiles.dxf
+    fileSize: 6077
+    createdAt: 2025-03-23T19:51:59.438Z
+    updatedAt: 2025-03-23T19:51:59.438Z
+  - fileName: sfTube_v01_SFG_pattern.svg
+    fileType: svg
+    filePath: sftube/sfTube_v01_SFG_pattern.svg
+    fileSize: 2530
+    createdAt: 2025-03-23T19:51:59.441Z
+    updatedAt: 2025-03-23T19:51:59.441Z
+  - fileName: sfTube_v01_SFG_pattern.dxf
+    fileType: dxf
+    filePath: sftube/sfTube_v01_SFG_pattern.dxf
+    fileSize: 5371
+    createdAt: 2025-03-23T19:51:59.443Z
+    updatedAt: 2025-03-23T19:51:59.443Z
+  - fileName: sfTube_v01_SFG_fj00.svg
+    fileType: svg
+    filePath: sftube/sfTube_v01_SFG_fj00.svg
+    fileSize: 277
+    createdAt: 2025-03-23T19:51:59.446Z
+    updatedAt: 2025-03-23T19:51:59.446Z
+  - fileName: sfTube_v01_SFG_fj00.dxf
+    fileType: dxf
+    filePath: sftube/sfTube_v01_SFG_fj00.dxf
+    fileSize: 311
+    createdAt: 2025-03-23T19:51:59.449Z
+    updatedAt: 2025-03-23T19:51:59.449Z
+  - fileName: sfTube_v01_SFG_f00.svg
+    fileType: svg
+    filePath: sftube/sfTube_v01_SFG_f00.svg
+    fileSize: 259
+    createdAt: 2025-03-23T19:51:59.451Z
+    updatedAt: 2025-03-23T19:51:59.451Z
+  - fileName: sfTube_v01_SFG_f00.dxf
+    fileType: dxf
+    filePath: sftube/sfTube_v01_SFG_f00.dxf
+    fileSize: 304
+    createdAt: 2025-03-23T19:51:59.454Z
+    updatedAt: 2025-03-23T19:51:59.454Z
+  - fileName: sfTube_v01.scad
+    fileType: scad
+    filePath: sftube/sfTube_v01.scad
+    fileSize: 29593
+    createdAt: 2025-03-23T19:51:59.457Z
+    updatedAt: 2025-03-23T19:51:59.457Z
+  - fileName: sfTube_v01.py
+    fileType: pyFreecad
+    filePath: sftube/sfTube_v01.py
+    fileSize: 42195
+    createdAt: 2025-03-23T19:51:59.459Z
+    updatedAt: 2025-03-23T19:51:59.459Z
+  - fileName: sfTube_v01.pax.json
+    fileType: paxJson
+    filePath: sftube/sfTube_v01.pax.json
+    fileSize: 48859
+    createdAt: 2025-03-23T19:51:59.462Z
+    updatedAt: 2025-03-23T19:51:59.462Z
+  - fileName: sfTube_v01.log.txt
+    fileType: txtLog
+    filePath: sftube/sfTube_v01.log.txt
+    fileSize: 273
+    createdAt: 2025-03-23T19:51:59.465Z
+    updatedAt: 2025-03-23T19:51:59.465Z
+  - fileName: sfTube_v01.js
+    fileType: jsCad
+    filePath: sftube/sfTube_v01.js
+    fileSize: 30351
+    createdAt: 2025-03-23T19:51:59.468Z
+    updatedAt: 2025-03-23T19:51:59.468Z
+  - fileName: px_sfTube_v01.json
+    fileType: pxJson
+    filePath: sftube/px_sfTube_v01.json
+    fileSize: 250
+    createdAt: 2025-03-23T19:51:59.470Z
+    updatedAt: 2025-03-23T19:51:59.470Z

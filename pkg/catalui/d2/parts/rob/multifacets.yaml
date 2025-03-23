@@ -1,0 +1,131 @@
+description: a shape for testing sheetfold
+tags:
+  - sheetfold
+  - testing
+owner: rob
+createdAt: 2025-03-23T19:51:59.875Z
+updatedAt: 2025-03-23T19:51:59.926Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame78/desi78/multiFacets
+linkToSrc: https://github.com/charlyoleg2/parame78
+linkToPkg: https://www.npmjs.com/package/desi78
+linkToCli: https://www.npmjs.com/package/desi78-cli
+linkToUis: https://www.npmjs.com/package/desi78-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame78
+linkOthers: []
+files:
+  - fileName: px_multiFacets_v01.json
+    fileType: pxJson
+    filePath: multifacets/px_multiFacets_v01.json
+    fileSize: 442
+    createdAt: 2025-03-23T19:51:59.879Z
+    updatedAt: 2025-03-23T19:51:59.879Z
+  - fileName: multiFacets_v01_SFG_profiles.svg
+    fileType: svg
+    filePath: multifacets/multiFacets_v01_SFG_profiles.svg
+    fileSize: 1073
+    createdAt: 2025-03-23T19:51:59.882Z
+    updatedAt: 2025-03-23T19:51:59.882Z
+  - fileName: multiFacets_v01_SFG_profiles.dxf
+    fileType: dxf
+    filePath: multifacets/multiFacets_v01_SFG_profiles.dxf
+    fileSize: 1621
+    createdAt: 2025-03-23T19:51:59.885Z
+    updatedAt: 2025-03-23T19:51:59.885Z
+  - fileName: multiFacets_v01_SFG_pattern.svg
+    fileType: svg
+    filePath: multifacets/multiFacets_v01_SFG_pattern.svg
+    fileSize: 13762
+    createdAt: 2025-03-23T19:51:59.888Z
+    updatedAt: 2025-03-23T19:51:59.888Z
+  - fileName: multiFacets_v01_SFG_pattern.dxf
+    fileType: dxf
+    filePath: multifacets/multiFacets_v01_SFG_pattern.dxf
+    fileSize: 27716
+    createdAt: 2025-03-23T19:51:59.890Z
+    updatedAt: 2025-03-23T19:51:59.890Z
+  - fileName: multiFacets_v01_SFG_fj00.svg
+    fileType: svg
+    filePath: multifacets/multiFacets_v01_SFG_fj00.svg
+    fileSize: 277
+    createdAt: 2025-03-23T19:51:59.893Z
+    updatedAt: 2025-03-23T19:51:59.893Z
+  - fileName: multiFacets_v01_SFG_fj00.dxf
+    fileType: dxf
+    filePath: multifacets/multiFacets_v01_SFG_fj00.dxf
+    fileSize: 309
+    createdAt: 2025-03-23T19:51:59.896Z
+    updatedAt: 2025-03-23T19:51:59.896Z
+  - fileName: multiFacets_v01_SFG_f00.svg
+    fileType: svg
+    filePath: multifacets/multiFacets_v01_SFG_f00.svg
+    fileSize: 568
+    createdAt: 2025-03-23T19:51:59.898Z
+    updatedAt: 2025-03-23T19:51:59.898Z
+  - fileName: multiFacets_v01_SFG_f00.dxf
+    fileType: dxf
+    filePath: multifacets/multiFacets_v01_SFG_f00.dxf
+    fileSize: 747
+    createdAt: 2025-03-23T19:51:59.901Z
+    updatedAt: 2025-03-23T19:51:59.901Z
+  - fileName: multiFacets_v01.scad
+    fileType: scad
+    filePath: multifacets/multiFacets_v01.scad
+    fileSize: 170790
+    createdAt: 2025-03-23T19:51:59.903Z
+    updatedAt: 2025-03-23T19:51:59.903Z
+  - fileName: multiFacets_v01.py
+    fileType: pyFreecad
+    filePath: multifacets/multiFacets_v01.py
+    fileSize: 149934
+    createdAt: 2025-03-23T19:51:59.906Z
+    updatedAt: 2025-03-23T19:51:59.906Z
+  - fileName: multiFacets_v01.pax.json
+    fileType: paxJson
+    filePath: multifacets/multiFacets_v01.pax.json
+    fileSize: 165308
+    createdAt: 2025-03-23T19:51:59.909Z
+    updatedAt: 2025-03-23T19:51:59.909Z
+  - fileName: multiFacets_v01.log.txt
+    fileType: txtLog
+    filePath: multifacets/multiFacets_v01.log.txt
+    fileSize: 68
+    createdAt: 2025-03-23T19:51:59.911Z
+    updatedAt: 2025-03-23T19:51:59.911Z
+  - fileName: multiFacets_v01.js
+    fileType: jsCad
+    filePath: multifacets/multiFacets_v01.js
+    fileSize: 160608
+    createdAt: 2025-03-23T19:51:59.914Z
+    updatedAt: 2025-03-23T19:51:59.914Z
+  - fileName: mf05.png
+    fileType: image
+    filePath: multifacets/mf05.png
+    fileSize: 20734
+    createdAt: 2025-03-23T19:51:59.916Z
+    updatedAt: 2025-03-23T19:51:59.916Z
+  - fileName: mf04.png
+    fileType: image
+    filePath: multifacets/mf04.png
+    fileSize: 35071
+    createdAt: 2025-03-23T19:51:59.919Z
+    updatedAt: 2025-03-23T19:51:59.919Z
+  - fileName: mf03.png
+    fileType: image
+    filePath: multifacets/mf03.png
+    fileSize: 23930
+    createdAt: 2025-03-23T19:51:59.921Z
+    updatedAt: 2025-03-23T19:51:59.921Z
+  - fileName: mf02.png
+    fileType: image
+    filePath: multifacets/mf02.png
+    fileSize: 31198
+    createdAt: 2025-03-23T19:51:59.924Z
+    updatedAt: 2025-03-23T19:51:59.924Z
+  - fileName: mf01.png
+    fileType: image
+    filePath: multifacets/mf01.png
+    fileSize: 40316
+    createdAt: 2025-03-23T19:51:59.926Z
+    updatedAt: 2025-03-23T19:51:59.926Z
