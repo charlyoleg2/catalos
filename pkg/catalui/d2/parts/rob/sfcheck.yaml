@@ -1,0 +1,102 @@
+description: an other shape for testing sheetfold
+tags:
+  - sheetfold
+  - testing shape
+  - metal sheet
+owner: rob
+createdAt: 2025-03-24T22:05:31.771Z
+updatedAt: 2025-03-24T22:05:31.794Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame78/desi78/sfCheck
+linkToSrc: https://github.com/charlyoleg2/parame78
+linkToPkg: https://www.npmjs.com/package/desi78
+linkToCli: https://www.npmjs.com/package/desi78-cli
+linkToUis: https://www.npmjs.com/package/desi78-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame78
+linkOthers: []
+files:
+  - fileName: sfCheck_v01_SFG_profiles.svg
+    fileType: svg
+    filePath: sfcheck/sfCheck_v01_SFG_profiles.svg
+    fileSize: 1423
+    createdAt: 2025-03-24T22:05:31.776Z
+    updatedAt: 2025-03-24T22:05:31.776Z
+  - fileName: sfCheck_v01_SFG_profiles.dxf
+    fileType: dxf
+    filePath: sfcheck/sfCheck_v01_SFG_profiles.dxf
+    fileSize: 2155
+    createdAt: 2025-03-24T22:05:31.778Z
+    updatedAt: 2025-03-24T22:05:31.778Z
+  - fileName: sfCheck_v01_SFG_pattern.svg
+    fileType: svg
+    filePath: sfcheck/sfCheck_v01_SFG_pattern.svg
+    fileSize: 2003
+    createdAt: 2025-03-24T22:05:31.779Z
+    updatedAt: 2025-03-24T22:05:31.779Z
+  - fileName: sfCheck_v01_SFG_pattern.dxf
+    fileType: dxf
+    filePath: sfcheck/sfCheck_v01_SFG_pattern.dxf
+    fileSize: 3963
+    createdAt: 2025-03-24T22:05:31.782Z
+    updatedAt: 2025-03-24T22:05:31.782Z
+  - fileName: sfCheck_v01_SFG_fj00.svg
+    fileType: svg
+    filePath: sfcheck/sfCheck_v01_SFG_fj00.svg
+    fileSize: 275
+    createdAt: 2025-03-24T22:05:31.783Z
+    updatedAt: 2025-03-24T22:05:31.783Z
+  - fileName: sfCheck_v01_SFG_fj00.dxf
+    fileType: dxf
+    filePath: sfcheck/sfCheck_v01_SFG_fj00.dxf
+    fileSize: 305
+    createdAt: 2025-03-24T22:05:31.785Z
+    updatedAt: 2025-03-24T22:05:31.785Z
+  - fileName: sfCheck_v01_SFG_f00.svg
+    fileType: svg
+    filePath: sfcheck/sfCheck_v01_SFG_f00.svg
+    fileSize: 420
+    createdAt: 2025-03-24T22:05:31.786Z
+    updatedAt: 2025-03-24T22:05:31.786Z
+  - fileName: sfCheck_v01_SFG_f00.dxf
+    fileType: dxf
+    filePath: sfcheck/sfCheck_v01_SFG_f00.dxf
+    fileSize: 668
+    createdAt: 2025-03-24T22:05:31.786Z
+    updatedAt: 2025-03-24T22:05:31.786Z
+  - fileName: sfCheck_v01.scad
+    fileType: scad
+    filePath: sfcheck/sfCheck_v01.scad
+    fileSize: 19427
+    createdAt: 2025-03-24T22:05:31.788Z
+    updatedAt: 2025-03-24T22:05:31.788Z
+  - fileName: sfCheck_v01.py
+    fileType: pyFreecad
+    filePath: sfcheck/sfCheck_v01.py
+    fileSize: 25583
+    createdAt: 2025-03-24T22:05:31.790Z
+    updatedAt: 2025-03-24T22:05:31.790Z
+  - fileName: sfCheck_v01.pax.json
+    fileType: paxJson
+    filePath: sfcheck/sfCheck_v01.pax.json
+    fileSize: 26966
+    createdAt: 2025-03-24T22:05:31.791Z
+    updatedAt: 2025-03-24T22:05:31.791Z
+  - fileName: sfCheck_v01.log.txt
+    fileType: txtLog
+    filePath: sfcheck/sfCheck_v01.log.txt
+    fileSize: 84
+    createdAt: 2025-03-24T22:05:31.792Z
+    updatedAt: 2025-03-24T22:05:31.792Z
+  - fileName: sfCheck_v01.js
+    fileType: jsCad
+    filePath: sfcheck/sfCheck_v01.js
+    fileSize: 19772
+    createdAt: 2025-03-24T22:05:31.793Z
+    updatedAt: 2025-03-24T22:05:31.793Z
+  - fileName: px_sfCheck_v01.json
+    fileType: pxJson
+    filePath: sfcheck/px_sfCheck_v01.json
+    fileSize: 240
+    createdAt: 2025-03-24T22:05:31.793Z
+    updatedAt: 2025-03-24T22:05:31.793Z

@@ -4,8 +4,8 @@ tags:
   - testing
 owner: rob
 createdAt: 2025-03-23T19:51:59.875Z
-updatedAt: 2025-03-23T19:51:59.926Z
-updateCount: 1
+updatedAt: 2025-03-24T22:05:31.928Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/multiFacets
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -24,15 +24,15 @@ files:
   - fileName: multiFacets_v01_SFG_profiles.svg
     fileType: svg
     filePath: multifacets/multiFacets_v01_SFG_profiles.svg
-    fileSize: 1073
+    fileSize: 2789
     createdAt: 2025-03-23T19:51:59.882Z
-    updatedAt: 2025-03-23T19:51:59.882Z
+    updatedAt: 2025-03-24T22:05:31.914Z
   - fileName: multiFacets_v01_SFG_profiles.dxf
     fileType: dxf
     filePath: multifacets/multiFacets_v01_SFG_profiles.dxf
-    fileSize: 1621
+    fileSize: 4151
     createdAt: 2025-03-23T19:51:59.885Z
-    updatedAt: 2025-03-23T19:51:59.885Z
+    updatedAt: 2025-03-24T22:05:31.916Z
   - fileName: multiFacets_v01_SFG_pattern.svg
     fileType: svg
     filePath: multifacets/multiFacets_v01_SFG_pattern.svg
@@ -72,33 +72,33 @@ files:
   - fileName: multiFacets_v01.scad
     fileType: scad
     filePath: multifacets/multiFacets_v01.scad
-    fileSize: 170790
+    fileSize: 179824
     createdAt: 2025-03-23T19:51:59.903Z
-    updatedAt: 2025-03-23T19:51:59.903Z
+    updatedAt: 2025-03-24T22:05:31.920Z
   - fileName: multiFacets_v01.py
     fileType: pyFreecad
     filePath: multifacets/multiFacets_v01.py
-    fileSize: 149934
+    fileSize: 161292
     createdAt: 2025-03-23T19:51:59.906Z
-    updatedAt: 2025-03-23T19:51:59.906Z
+    updatedAt: 2025-03-24T22:05:31.922Z
   - fileName: multiFacets_v01.pax.json
     fileType: paxJson
     filePath: multifacets/multiFacets_v01.pax.json
-    fileSize: 165308
+    fileSize: 174546
     createdAt: 2025-03-23T19:51:59.909Z
-    updatedAt: 2025-03-23T19:51:59.909Z
+    updatedAt: 2025-03-24T22:05:31.924Z
   - fileName: multiFacets_v01.log.txt
     fileType: txtLog
     filePath: multifacets/multiFacets_v01.log.txt
-    fileSize: 68
+    fileSize: 73
     createdAt: 2025-03-23T19:51:59.911Z
-    updatedAt: 2025-03-23T19:51:59.911Z
+    updatedAt: 2025-03-24T22:05:31.925Z
   - fileName: multiFacets_v01.js
     fileType: jsCad
     filePath: multifacets/multiFacets_v01.js
-    fileSize: 160608
+    fileSize: 168632
     createdAt: 2025-03-23T19:51:59.914Z
-    updatedAt: 2025-03-23T19:51:59.914Z
+    updatedAt: 2025-03-24T22:05:31.926Z
   - fileName: mf05.png
     fileType: image
     filePath: multifacets/mf05.png
