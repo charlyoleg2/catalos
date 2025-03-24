@@ -5,8 +5,8 @@ tags:
   - metal sheet
 owner: rob
 createdAt: 2025-03-24T22:05:31.771Z
-updatedAt: 2025-03-24T22:05:31.794Z
-updateCount: 1
+updatedAt: 2025-03-24T22:15:37.426Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame78/desi78/sfCheck
 linkToSrc: https://github.com/charlyoleg2/parame78
@@ -94,6 +94,36 @@ files:
     fileSize: 19772
     createdAt: 2025-03-24T22:05:31.793Z
     updatedAt: 2025-03-24T22:05:31.793Z
+  - fileName: sfCheck05.png
+    fileType: image
+    filePath: sfcheck/sfCheck05.png
+    fileSize: 12555
+    createdAt: 2025-03-24T22:15:37.412Z
+    updatedAt: 2025-03-24T22:15:37.412Z
+  - fileName: sfCheck04.png
+    fileType: image
+    filePath: sfcheck/sfCheck04.png
+    fileSize: 7978
+    createdAt: 2025-03-24T22:15:37.417Z
+    updatedAt: 2025-03-24T22:15:37.417Z
+  - fileName: sfCheck03.png
+    fileType: image
+    filePath: sfcheck/sfCheck03.png
+    fileSize: 8678
+    createdAt: 2025-03-24T22:15:37.422Z
+    updatedAt: 2025-03-24T22:15:37.422Z
+  - fileName: sfCheck02.png
+    fileType: image
+    filePath: sfcheck/sfCheck02.png
+    fileSize: 11214
+    createdAt: 2025-03-24T22:15:37.423Z
+    updatedAt: 2025-03-24T22:15:37.423Z
+  - fileName: sfCheck01.png
+    fileType: image
+    filePath: sfcheck/sfCheck01.png
+    fileSize: 8003
+    createdAt: 2025-03-24T22:15:37.426Z
+    updatedAt: 2025-03-24T22:15:37.426Z
   - fileName: px_sfCheck_v01.json
     fileType: pxJson
     filePath: sfcheck/px_sfCheck_v01.json
