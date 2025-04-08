@@ -1,0 +1,86 @@
+description: A Roman window with a half circle vault
+tags:
+  - stone
+  - pierre
+  - architecture
+  - window
+  - door
+owner: mishka
+createdAt: 2025-04-08T20:59:52.584Z
+updatedAt: 2025-04-08T20:59:52.620Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/door1arc
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: px_door1arc_B_v01.json
+    fileType: pxJson
+    filePath: door1arc_b/px_door1arc_B_v01.json
+    fileSize: 295
+    createdAt: 2025-04-08T20:59:52.591Z
+    updatedAt: 2025-04-08T20:59:52.592Z
+  - fileName: door_03.png
+    fileType: image
+    filePath: door1arc_b/door_03.png
+    fileSize: 9329
+    createdAt: 2025-04-08T20:59:52.594Z
+    updatedAt: 2025-04-08T20:59:52.594Z
+  - fileName: door_02.png
+    fileType: image
+    filePath: door1arc_b/door_02.png
+    fileSize: 5496
+    createdAt: 2025-04-08T20:59:52.596Z
+    updatedAt: 2025-04-08T20:59:52.596Z
+  - fileName: door_01.png
+    fileType: image
+    filePath: door1arc_b/door_01.png
+    fileSize: 8822
+    createdAt: 2025-04-08T20:59:52.598Z
+    updatedAt: 2025-04-08T20:59:52.598Z
+  - fileName: door1arc_B_v01_faceDoor.svg
+    fileType: svg
+    filePath: door1arc_b/door1arc_B_v01_faceDoor.svg
+    fileSize: 5636
+    createdAt: 2025-04-08T20:59:52.601Z
+    updatedAt: 2025-04-08T20:59:52.601Z
+  - fileName: door1arc_B_v01_faceDoor.dxf
+    fileType: dxf
+    filePath: door1arc_b/door1arc_B_v01_faceDoor.dxf
+    fileSize: 9542
+    createdAt: 2025-04-08T20:59:52.603Z
+    updatedAt: 2025-04-08T20:59:52.603Z
+  - fileName: door1arc_B_v01.scad
+    fileType: scad
+    filePath: door1arc_b/door1arc_B_v01.scad
+    fileSize: 9079
+    createdAt: 2025-04-08T20:59:52.606Z
+    updatedAt: 2025-04-08T20:59:52.606Z
+  - fileName: door1arc_B_v01.py
+    fileType: pyFreecad
+    filePath: door1arc_b/door1arc_B_v01.py
+    fileSize: 25848
+    createdAt: 2025-04-08T20:59:52.608Z
+    updatedAt: 2025-04-08T20:59:52.608Z
+  - fileName: door1arc_B_v01.pax.json
+    fileType: paxJson
+    filePath: door1arc_b/door1arc_B_v01.pax.json
+    fileSize: 28368
+    createdAt: 2025-04-08T20:59:52.614Z
+    updatedAt: 2025-04-08T20:59:52.614Z
+  - fileName: door1arc_B_v01.log.txt
+    fileType: txtLog
+    filePath: door1arc_b/door1arc_B_v01.log.txt
+    fileSize: 213
+    createdAt: 2025-04-08T20:59:52.617Z
+    updatedAt: 2025-04-08T20:59:52.617Z
+  - fileName: door1arc_B_v01.js
+    fileType: jsCad
+    filePath: door1arc_b/door1arc_B_v01.js
+    fileSize: 11667
+    createdAt: 2025-04-08T20:59:52.619Z
+    updatedAt: 2025-04-08T20:59:52.619Z

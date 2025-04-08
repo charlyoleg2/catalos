@@ -7,8 +7,8 @@ tags:
   - door
 owner: mishka
 createdAt: 2025-04-08T19:51:25.888Z
-updatedAt: 2025-04-08T19:51:25.921Z
-updateCount: 1
+updatedAt: 2025-04-08T20:59:52.660Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame77/desi77/door1arc
 linkToSrc: https://github.com/charlyoleg2/parame77
@@ -75,15 +75,15 @@ files:
   - fileName: door1arc_A_v01.pax.json
     fileType: paxJson
     filePath: door1arc_a/door1arc_A_v01.pax.json
-    fileSize: 25011
+    fileSize: 25062
     createdAt: 2025-04-08T19:51:25.917Z
-    updatedAt: 2025-04-08T19:51:25.917Z
+    updatedAt: 2025-04-08T20:59:52.656Z
   - fileName: door1arc_A_v01.log.txt
     fileType: txtLog
     filePath: door1arc_a/door1arc_A_v01.log.txt
-    fileSize: 153
+    fileSize: 203
     createdAt: 2025-04-08T19:51:25.919Z
-    updatedAt: 2025-04-08T19:51:25.919Z
+    updatedAt: 2025-04-08T20:59:52.660Z
   - fileName: door1arc_A_v01.js
     fileType: jsCad
     filePath: door1arc_a/door1arc_A_v01.js
