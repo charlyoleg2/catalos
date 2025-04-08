@@ -52,6 +52,7 @@ if (eDBDIR === 'd2') {
 	await degit_and_update('https://github.com/charlyoleg2/maker_ustensile', 'cindy', vDBDIR);
 	await degit_and_update('https://github.com/charlyoleg2/maker_parame51', 'kate', vDBDIR);
 	await degit_and_update('https://github.com/charlyoleg2/maker_parame78', 'rob', vDBDIR);
+	await degit_and_update('https://github.com/charlyoleg2/maker_parame77', 'mishka', vDBDIR);
 	console.log('update_d1.js says Bye with DBDIR=d2!');
 } else {
 	const vDBDIR = 'd1';
