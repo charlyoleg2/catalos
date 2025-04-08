@@ -1,0 +1,92 @@
+description: A door or a window with a 1-arc vault
+tags:
+  - stone
+  - pierre
+  - architecture
+  - window
+  - door
+owner: mishka
+createdAt: 2025-04-08T19:51:25.888Z
+updatedAt: 2025-04-08T19:51:25.921Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/door1arc
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: px_door1arc_A_v01.json
+    fileType: pxJson
+    filePath: door1arc_a/px_door1arc_A_v01.json
+    fileSize: 294
+    createdAt: 2025-04-08T19:51:25.896Z
+    updatedAt: 2025-04-08T19:51:25.896Z
+  - fileName: door_04.png
+    fileType: image
+    filePath: door1arc_a/door_04.png
+    fileSize: 7945
+    createdAt: 2025-04-08T19:51:25.898Z
+    updatedAt: 2025-04-08T19:51:25.898Z
+  - fileName: door_03.png
+    fileType: image
+    filePath: door1arc_a/door_03.png
+    fileSize: 5361
+    createdAt: 2025-04-08T19:51:25.900Z
+    updatedAt: 2025-04-08T19:51:25.900Z
+  - fileName: door_02.png
+    fileType: image
+    filePath: door1arc_a/door_02.png
+    fileSize: 5884
+    createdAt: 2025-04-08T19:51:25.902Z
+    updatedAt: 2025-04-08T19:51:25.902Z
+  - fileName: door_01.png
+    fileType: image
+    filePath: door1arc_a/door_01.png
+    fileSize: 11666
+    createdAt: 2025-04-08T19:51:25.904Z
+    updatedAt: 2025-04-08T19:51:25.904Z
+  - fileName: door1arc_A_v01_faceDoor.svg
+    fileType: svg
+    filePath: door1arc_a/door1arc_A_v01_faceDoor.svg
+    fileSize: 4969
+    createdAt: 2025-04-08T19:51:25.907Z
+    updatedAt: 2025-04-08T19:51:25.907Z
+  - fileName: door1arc_A_v01_faceDoor.dxf
+    fileType: dxf
+    filePath: door1arc_a/door1arc_A_v01_faceDoor.dxf
+    fileSize: 8404
+    createdAt: 2025-04-08T19:51:25.909Z
+    updatedAt: 2025-04-08T19:51:25.909Z
+  - fileName: door1arc_A_v01.scad
+    fileType: scad
+    filePath: door1arc_a/door1arc_A_v01.scad
+    fileSize: 8024
+    createdAt: 2025-04-08T19:51:25.912Z
+    updatedAt: 2025-04-08T19:51:25.912Z
+  - fileName: door1arc_A_v01.py
+    fileType: pyFreecad
+    filePath: door1arc_a/door1arc_A_v01.py
+    fileSize: 22909
+    createdAt: 2025-04-08T19:51:25.914Z
+    updatedAt: 2025-04-08T19:51:25.914Z
+  - fileName: door1arc_A_v01.pax.json
+    fileType: paxJson
+    filePath: door1arc_a/door1arc_A_v01.pax.json
+    fileSize: 25011
+    createdAt: 2025-04-08T19:51:25.917Z
+    updatedAt: 2025-04-08T19:51:25.917Z
+  - fileName: door1arc_A_v01.log.txt
+    fileType: txtLog
+    filePath: door1arc_a/door1arc_A_v01.log.txt
+    fileSize: 153
+    createdAt: 2025-04-08T19:51:25.919Z
+    updatedAt: 2025-04-08T19:51:25.919Z
+  - fileName: door1arc_A_v01.js
+    fileType: jsCad
+    filePath: door1arc_a/door1arc_A_v01.js
+    fileSize: 10372
+    createdAt: 2025-04-08T19:51:25.921Z
+    updatedAt: 2025-04-08T19:51:25.921Z
