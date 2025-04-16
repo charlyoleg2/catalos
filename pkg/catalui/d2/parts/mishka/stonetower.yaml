@@ -1,0 +1,338 @@
+description: a middle-age tower made out of stones
+tags:
+  - architecture
+  - stones
+  - double wall
+  - floor
+  - windows
+owner: mishka
+createdAt: 2025-04-16T00:47:41.562Z
+updatedAt: 2025-04-16T00:47:41.729Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/stoneTower
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: tower13.png
+    fileType: image
+    filePath: stonetower/tower13.png
+    fileSize: 17117
+    createdAt: 2025-04-16T00:47:41.579Z
+    updatedAt: 2025-04-16T00:47:41.579Z
+  - fileName: tower12.png
+    fileType: image
+    filePath: stonetower/tower12.png
+    fileSize: 7815
+    createdAt: 2025-04-16T00:47:41.581Z
+    updatedAt: 2025-04-16T00:47:41.581Z
+  - fileName: tower11.png
+    fileType: image
+    filePath: stonetower/tower11.png
+    fileSize: 20071
+    createdAt: 2025-04-16T00:47:41.584Z
+    updatedAt: 2025-04-16T00:47:41.584Z
+  - fileName: tower10.png
+    fileType: image
+    filePath: stonetower/tower10.png
+    fileSize: 17219
+    createdAt: 2025-04-16T00:47:41.588Z
+    updatedAt: 2025-04-16T00:47:41.588Z
+  - fileName: tower09.png
+    fileType: image
+    filePath: stonetower/tower09.png
+    fileSize: 16948
+    createdAt: 2025-04-16T00:47:41.590Z
+    updatedAt: 2025-04-16T00:47:41.590Z
+  - fileName: tower08.png
+    fileType: image
+    filePath: stonetower/tower08.png
+    fileSize: 15966
+    createdAt: 2025-04-16T00:47:41.596Z
+    updatedAt: 2025-04-16T00:47:41.596Z
+  - fileName: tower07.png
+    fileType: image
+    filePath: stonetower/tower07.png
+    fileSize: 13732
+    createdAt: 2025-04-16T00:47:41.599Z
+    updatedAt: 2025-04-16T00:47:41.599Z
+  - fileName: tower06.png
+    fileType: image
+    filePath: stonetower/tower06.png
+    fileSize: 9144
+    createdAt: 2025-04-16T00:47:41.601Z
+    updatedAt: 2025-04-16T00:47:41.601Z
+  - fileName: tower05.png
+    fileType: image
+    filePath: stonetower/tower05.png
+    fileSize: 15782
+    createdAt: 2025-04-16T00:47:41.604Z
+    updatedAt: 2025-04-16T00:47:41.604Z
+  - fileName: tower04.png
+    fileType: image
+    filePath: stonetower/tower04.png
+    fileSize: 12448
+    createdAt: 2025-04-16T00:47:41.606Z
+    updatedAt: 2025-04-16T00:47:41.606Z
+  - fileName: tower03.png
+    fileType: image
+    filePath: stonetower/tower03.png
+    fileSize: 7898
+    createdAt: 2025-04-16T00:47:41.609Z
+    updatedAt: 2025-04-16T00:47:41.609Z
+  - fileName: tower02.png
+    fileType: image
+    filePath: stonetower/tower02.png
+    fileSize: 8025
+    createdAt: 2025-04-16T00:47:41.610Z
+    updatedAt: 2025-04-16T00:47:41.610Z
+  - fileName: tower01.png
+    fileType: image
+    filePath: stonetower/tower01.png
+    fileSize: 7728
+    createdAt: 2025-04-16T00:47:41.614Z
+    updatedAt: 2025-04-16T00:47:41.614Z
+  - fileName: stoneTower_v01_faceWin4.svg
+    fileType: svg
+    filePath: stonetower/stoneTower_v01_faceWin4.svg
+    fileSize: 636
+    createdAt: 2025-04-16T00:47:41.616Z
+    updatedAt: 2025-04-16T00:47:41.616Z
+  - fileName: stoneTower_v01_faceWin4.dxf
+    fileType: dxf
+    filePath: stonetower/stoneTower_v01_faceWin4.dxf
+    fileSize: 872
+    createdAt: 2025-04-16T00:47:41.618Z
+    updatedAt: 2025-04-16T00:47:41.618Z
+  - fileName: stoneTower_v01_faceWin3.svg
+    fileType: svg
+    filePath: stonetower/stoneTower_v01_faceWin3.svg
+    fileSize: 453
+    createdAt: 2025-04-16T00:47:41.621Z
+    updatedAt: 2025-04-16T00:47:41.621Z
+  - fileName: stoneTower_v01_faceWin3.dxf
+    fileType: dxf
+    filePath: stonetower/stoneTower_v01_faceWin3.dxf
+    fileSize: 589
+    createdAt: 2025-04-16T00:47:41.624Z
+    updatedAt: 2025-04-16T00:47:41.624Z
+  - fileName: stoneTower_v01_faceWin2.svg
+    fileType: svg
+    filePath: stonetower/stoneTower_v01_faceWin2.svg
+    fileSize: 273
+    createdAt: 2025-04-16T00:47:41.627Z
+    updatedAt: 2025-04-16T00:47:41.627Z
+  - fileName: stoneTower_v01_faceWin2.dxf
+    fileType: dxf
+    filePath: stonetower/stoneTower_v01_faceWin2.dxf
+    fileSize: 311
+    createdAt: 2025-04-16T00:47:41.629Z
+    updatedAt: 2025-04-16T00:47:41.629Z
+  - fileName: stoneTower_v01_faceWin1.svg
+    fileType: svg
+    filePath: stonetower/stoneTower_v01_faceWin1.svg
+    fileSize: 89
+    createdAt: 2025-04-16T00:47:41.631Z
+    updatedAt: 2025-04-16T00:47:41.631Z
+  - fileName: stoneTower_v01_faceWin1.dxf
+    fileType: dxf
+    filePath: stonetower/stoneTower_v01_faceWin1.dxf
+    fileSize: 36
+    createdAt: 2025-04-16T00:47:41.634Z
+    updatedAt: 2025-04-16T00:47:41.634Z
+  - fileName: stoneTower_v01_faceTopExt.svg
+    fileType: svg
+    filePath: stonetower/stoneTower_v01_faceTopExt.svg
+    fileSize: 404
+    createdAt: 2025-04-16T00:47:41.636Z
+    updatedAt: 2025-04-16T00:47:41.636Z
+  - fileName: stoneTower_v01_faceTopExt.dxf
+    fileType: dxf
+    filePath: stonetower/stoneTower_v01_faceTopExt.dxf
+    fileSize: 564
+    createdAt: 2025-04-16T00:47:41.639Z
+    updatedAt: 2025-04-16T00:47:41.639Z
+  - fileName: stoneTower_v01_faceTCRear.svg
+    fileType: svg
+    filePath: stonetower/stoneTower_v01_faceTCRear.svg
+    fileSize: 281
+    createdAt: 2025-04-16T00:47:41.642Z
+    updatedAt: 2025-04-16T00:47:41.642Z
+  - fileName: stoneTower_v01_faceTCRear.dxf
+    fileType: dxf
+    filePath: stonetower/stoneTower_v01_faceTCRear.dxf
+    fileSize: 386
+    createdAt: 2025-04-16T00:47:41.645Z
+    updatedAt: 2025-04-16T00:47:41.645Z
+  - fileName: stoneTower_v01_faceTCMid.svg
+    fileType: svg
+    filePath: stonetower/stoneTower_v01_faceTCMid.svg
+    fileSize: 386
+    createdAt: 2025-04-16T00:47:41.647Z
+    updatedAt: 2025-04-16T00:47:41.647Z
+  - fileName: stoneTower_v01_faceTCMid.dxf
+    fileType: dxf
+    filePath: stonetower/stoneTower_v01_faceTCMid.dxf
+    fileSize: 736
+    createdAt: 2025-04-16T00:47:41.651Z
+    updatedAt: 2025-04-16T00:47:41.651Z
+  - fileName: stoneTower_v01_faceTCFront.svg
+    fileType: svg
+    filePath: stonetower/stoneTower_v01_faceTCFront.svg
+    fileSize: 387
+    createdAt: 2025-04-16T00:47:41.653Z
+    updatedAt: 2025-04-16T00:47:41.653Z
+  - fileName: stoneTower_v01_faceTCFront.dxf
+    fileType: dxf
+    filePath: stonetower/stoneTower_v01_faceTCFront.dxf
+    fileSize: 673
+    createdAt: 2025-04-16T00:47:41.656Z
+    updatedAt: 2025-04-16T00:47:41.656Z
+  - fileName: stoneTower_v01_faceStairsW2.svg
+    fileType: svg
+    filePath: stonetower/stoneTower_v01_faceStairsW2.svg
+    fileSize: 4172
+    createdAt: 2025-04-16T00:47:41.660Z
+    updatedAt: 2025-04-16T00:47:41.660Z
+  - fileName: stoneTower_v01_faceStairsW2.dxf
+    fileType: dxf
+    filePath: stonetower/stoneTower_v01_faceStairsW2.dxf
+    fileSize: 7036
+    createdAt: 2025-04-16T00:47:41.663Z
+    updatedAt: 2025-04-16T00:47:41.663Z
+  - fileName: stoneTower_v01_faceStairsW1.svg
+    fileType: svg
+    filePath: stonetower/stoneTower_v01_faceStairsW1.svg
+    fileSize: 6065
+    createdAt: 2025-04-16T00:47:41.666Z
+    updatedAt: 2025-04-16T00:47:41.666Z
+  - fileName: stoneTower_v01_faceStairsW1.dxf
+    fileType: dxf
+    filePath: stonetower/stoneTower_v01_faceStairsW1.dxf
+    fileSize: 10192
+    createdAt: 2025-04-16T00:47:41.668Z
+    updatedAt: 2025-04-16T00:47:41.668Z
+  - fileName: stoneTower_v01_faceStairsL2.svg
+    fileType: svg
+    filePath: stonetower/stoneTower_v01_faceStairsL2.svg
+    fileSize: 6139
+    createdAt: 2025-04-16T00:47:41.671Z
+    updatedAt: 2025-04-16T00:47:41.671Z
+  - fileName: stoneTower_v01_faceStairsL2.dxf
+    fileType: dxf
+    filePath: stonetower/stoneTower_v01_faceStairsL2.dxf
+    fileSize: 10524
+    createdAt: 2025-04-16T00:47:41.675Z
+    updatedAt: 2025-04-16T00:47:41.675Z
+  - fileName: stoneTower_v01_faceStairsL1.svg
+    fileType: svg
+    filePath: stonetower/stoneTower_v01_faceStairsL1.svg
+    fileSize: 4085
+    createdAt: 2025-04-16T00:47:41.678Z
+    updatedAt: 2025-04-16T00:47:41.678Z
+  - fileName: stoneTower_v01_faceStairsL1.dxf
+    fileType: dxf
+    filePath: stonetower/stoneTower_v01_faceStairsL1.dxf
+    fileSize: 6896
+    createdAt: 2025-04-16T00:47:41.681Z
+    updatedAt: 2025-04-16T00:47:41.681Z
+  - fileName: stoneTower_v01_faceHplan.svg
+    fileType: svg
+    filePath: stonetower/stoneTower_v01_faceHplan.svg
+    fileSize: 722
+    createdAt: 2025-04-16T00:47:41.686Z
+    updatedAt: 2025-04-16T00:47:41.686Z
+  - fileName: stoneTower_v01_faceHplan.dxf
+    fileType: dxf
+    filePath: stonetower/stoneTower_v01_faceHplan.dxf
+    fileSize: 1112
+    createdAt: 2025-04-16T00:47:41.691Z
+    updatedAt: 2025-04-16T00:47:41.691Z
+  - fileName: stoneTower_v01_faceFloors.svg
+    fileType: svg
+    filePath: stonetower/stoneTower_v01_faceFloors.svg
+    fileSize: 89
+    createdAt: 2025-04-16T00:47:41.695Z
+    updatedAt: 2025-04-16T00:47:41.695Z
+  - fileName: stoneTower_v01_faceFloors.dxf
+    fileType: dxf
+    filePath: stonetower/stoneTower_v01_faceFloors.dxf
+    fileSize: 36
+    createdAt: 2025-04-16T00:47:41.699Z
+    updatedAt: 2025-04-16T00:47:41.699Z
+  - fileName: stoneTower_v01_faceFS.svg
+    fileType: svg
+    filePath: stonetower/stoneTower_v01_faceFS.svg
+    fileSize: 405
+    createdAt: 2025-04-16T00:47:41.702Z
+    updatedAt: 2025-04-16T00:47:41.702Z
+  - fileName: stoneTower_v01_faceFS.dxf
+    fileType: dxf
+    filePath: stonetower/stoneTower_v01_faceFS.dxf
+    fileSize: 568
+    createdAt: 2025-04-16T00:47:41.705Z
+    updatedAt: 2025-04-16T00:47:41.705Z
+  - fileName: stoneTower_v01_faceDoor.svg
+    fileType: svg
+    filePath: stonetower/stoneTower_v01_faceDoor.svg
+    fileSize: 273
+    createdAt: 2025-04-16T00:47:41.708Z
+    updatedAt: 2025-04-16T00:47:41.708Z
+  - fileName: stoneTower_v01_faceDoor.dxf
+    fileType: dxf
+    filePath: stonetower/stoneTower_v01_faceDoor.dxf
+    fileSize: 303
+    createdAt: 2025-04-16T00:47:41.710Z
+    updatedAt: 2025-04-16T00:47:41.710Z
+  - fileName: stoneTower_v01_faceCorri.svg
+    fileType: svg
+    filePath: stonetower/stoneTower_v01_faceCorri.svg
+    fileSize: 264
+    createdAt: 2025-04-16T00:47:41.712Z
+    updatedAt: 2025-04-16T00:47:41.712Z
+  - fileName: stoneTower_v01_faceCorri.dxf
+    fileType: dxf
+    filePath: stonetower/stoneTower_v01_faceCorri.dxf
+    fileSize: 306
+    createdAt: 2025-04-16T00:47:41.714Z
+    updatedAt: 2025-04-16T00:47:41.714Z
+  - fileName: stoneTower_v01.scad
+    fileType: scad
+    filePath: stonetower/stoneTower_v01.scad
+    fileSize: 72570
+    createdAt: 2025-04-16T00:47:41.716Z
+    updatedAt: 2025-04-16T00:47:41.716Z
+  - fileName: stoneTower_v01.py
+    fileType: pyFreecad
+    filePath: stonetower/stoneTower_v01.py
+    fileSize: 146502
+    createdAt: 2025-04-16T00:47:41.718Z
+    updatedAt: 2025-04-16T00:47:41.718Z
+  - fileName: stoneTower_v01.pax.json
+    fileType: paxJson
+    filePath: stonetower/stoneTower_v01.pax.json
+    fileSize: 137116
+    createdAt: 2025-04-16T00:47:41.721Z
+    updatedAt: 2025-04-16T00:47:41.721Z
+  - fileName: stoneTower_v01.log.txt
+    fileType: txtLog
+    filePath: stonetower/stoneTower_v01.log.txt
+    fileSize: 125
+    createdAt: 2025-04-16T00:47:41.723Z
+    updatedAt: 2025-04-16T00:47:41.723Z
+  - fileName: stoneTower_v01.js
+    fileType: jsCad
+    filePath: stonetower/stoneTower_v01.js
+    fileSize: 80427
+    createdAt: 2025-04-16T00:47:41.726Z
+    updatedAt: 2025-04-16T00:47:41.726Z
+  - fileName: px_stoneTower_v01.json
+    fileType: pxJson
+    filePath: stonetower/px_stoneTower_v01.json
+    fileSize: 875
+    createdAt: 2025-04-16T00:47:41.728Z
+    updatedAt: 2025-04-16T00:47:41.728Z
