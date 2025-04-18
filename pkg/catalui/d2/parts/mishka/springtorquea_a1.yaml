@@ -1,0 +1,84 @@
+description: spring disc for torque transmission
+tags:
+  - mechanism
+  - spring
+  - torque
+owner: mishka
+createdAt: 2025-04-18T01:32:23.551Z
+updatedAt: 2025-04-18T01:32:23.581Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/springTorqueA
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: springTorqueA_A1_v01_faceProfile.svg
+    fileType: svg
+    filePath: springtorquea_a1/springTorqueA_A1_v01_faceProfile.svg
+    fileSize: 4912
+    createdAt: 2025-04-18T01:32:23.555Z
+    updatedAt: 2025-04-18T01:32:23.555Z
+  - fileName: springTorqueA_A1_v01_faceProfile.dxf
+    fileType: dxf
+    filePath: springtorquea_a1/springTorqueA_A1_v01_faceProfile.dxf
+    fileSize: 4742
+    createdAt: 2025-04-18T01:32:23.558Z
+    updatedAt: 2025-04-18T01:32:23.558Z
+  - fileName: springTorqueA_A1_v01.scad
+    fileType: scad
+    filePath: springtorquea_a1/springTorqueA_A1_v01.scad
+    fileSize: 45991
+    createdAt: 2025-04-18T01:32:23.561Z
+    updatedAt: 2025-04-18T01:32:23.561Z
+  - fileName: springTorqueA_A1_v01.py
+    fileType: pyFreecad
+    filePath: springtorquea_a1/springTorqueA_A1_v01.py
+    fileSize: 17578
+    createdAt: 2025-04-18T01:32:23.563Z
+    updatedAt: 2025-04-18T01:32:23.563Z
+  - fileName: springTorqueA_A1_v01.pax.json
+    fileType: paxJson
+    filePath: springtorquea_a1/springTorqueA_A1_v01.pax.json
+    fileSize: 17970
+    createdAt: 2025-04-18T01:32:23.566Z
+    updatedAt: 2025-04-18T01:32:23.566Z
+  - fileName: springTorqueA_A1_v01.log.txt
+    fileType: txtLog
+    filePath: springtorquea_a1/springTorqueA_A1_v01.log.txt
+    fileSize: 85
+    createdAt: 2025-04-18T01:32:23.569Z
+    updatedAt: 2025-04-18T01:32:23.569Z
+  - fileName: springTorqueA_A1_v01.js
+    fileType: jsCad
+    filePath: springtorquea_a1/springTorqueA_A1_v01.js
+    fileSize: 41173
+    createdAt: 2025-04-18T01:32:23.572Z
+    updatedAt: 2025-04-18T01:32:23.572Z
+  - fileName: spring03.png
+    fileType: image
+    filePath: springtorquea_a1/spring03.png
+    fileSize: 18683
+    createdAt: 2025-04-18T01:32:23.575Z
+    updatedAt: 2025-04-18T01:32:23.575Z
+  - fileName: spring02.png
+    fileType: image
+    filePath: springtorquea_a1/spring02.png
+    fileSize: 26050
+    createdAt: 2025-04-18T01:32:23.578Z
+    updatedAt: 2025-04-18T01:32:23.578Z
+  - fileName: spring01.png
+    fileType: image
+    filePath: springtorquea_a1/spring01.png
+    fileSize: 24038
+    createdAt: 2025-04-18T01:32:23.579Z
+    updatedAt: 2025-04-18T01:32:23.579Z
+  - fileName: px_springTorqueA_A1_v01.json
+    fileType: pxJson
+    filePath: springtorquea_a1/px_springTorqueA_A1_v01.json
+    fileSize: 316
+    createdAt: 2025-04-18T01:32:23.581Z
+    updatedAt: 2025-04-18T01:32:23.581Z

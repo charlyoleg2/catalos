@@ -1,0 +1,85 @@
+description: ring-spacer for spring-torque mechanism
+tags:
+  - ring
+  - spacer
+  - mechanism
+  - spring
+owner: mishka
+createdAt: 2025-04-18T01:32:23.435Z
+updatedAt: 2025-04-18T01:32:23.474Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/springTorqueA
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: springTorqueA_C2_v01_faceProfile.svg
+    fileType: svg
+    filePath: springtorquea_c2/springTorqueA_C2_v01_faceProfile.svg
+    fileSize: 1745
+    createdAt: 2025-04-18T01:32:23.441Z
+    updatedAt: 2025-04-18T01:32:23.441Z
+  - fileName: springTorqueA_C2_v01_faceProfile.dxf
+    fileType: dxf
+    filePath: springtorquea_c2/springTorqueA_C2_v01_faceProfile.dxf
+    fileSize: 1017
+    createdAt: 2025-04-18T01:32:23.444Z
+    updatedAt: 2025-04-18T01:32:23.444Z
+  - fileName: springTorqueA_C2_v01.scad
+    fileType: scad
+    filePath: springtorquea_c2/springTorqueA_C2_v01.scad
+    fileSize: 23815
+    createdAt: 2025-04-18T01:32:23.446Z
+    updatedAt: 2025-04-18T01:32:23.446Z
+  - fileName: springTorqueA_C2_v01.py
+    fileType: pyFreecad
+    filePath: springtorquea_c2/springTorqueA_C2_v01.py
+    fileSize: 6799
+    createdAt: 2025-04-18T01:32:23.451Z
+    updatedAt: 2025-04-18T01:32:23.451Z
+  - fileName: springTorqueA_C2_v01.pax.json
+    fileType: paxJson
+    filePath: springtorquea_c2/springTorqueA_C2_v01.pax.json
+    fileSize: 6856
+    createdAt: 2025-04-18T01:32:23.455Z
+    updatedAt: 2025-04-18T01:32:23.455Z
+  - fileName: springTorqueA_C2_v01.log.txt
+    fileType: txtLog
+    filePath: springtorquea_c2/springTorqueA_C2_v01.log.txt
+    fileSize: 85
+    createdAt: 2025-04-18T01:32:23.460Z
+    updatedAt: 2025-04-18T01:32:23.460Z
+  - fileName: springTorqueA_C2_v01.js
+    fileType: jsCad
+    filePath: springtorquea_c2/springTorqueA_C2_v01.js
+    fileSize: 21909
+    createdAt: 2025-04-18T01:32:23.463Z
+    updatedAt: 2025-04-18T01:32:23.463Z
+  - fileName: spring03.png
+    fileType: image
+    filePath: springtorquea_c2/spring03.png
+    fileSize: 15836
+    createdAt: 2025-04-18T01:32:23.467Z
+    updatedAt: 2025-04-18T01:32:23.467Z
+  - fileName: spring02.png
+    fileType: image
+    filePath: springtorquea_c2/spring02.png
+    fileSize: 10019
+    createdAt: 2025-04-18T01:32:23.470Z
+    updatedAt: 2025-04-18T01:32:23.470Z
+  - fileName: spring01.png
+    fileType: image
+    filePath: springtorquea_c2/spring01.png
+    fileSize: 18322
+    createdAt: 2025-04-18T01:32:23.472Z
+    updatedAt: 2025-04-18T01:32:23.472Z
+  - fileName: px_springTorqueA_C2_v01.json
+    fileType: pxJson
+    filePath: springtorquea_c2/px_springTorqueA_C2_v01.json
+    fileSize: 317
+    createdAt: 2025-04-18T01:32:23.473Z
+    updatedAt: 2025-04-18T01:32:23.473Z
