@@ -5,8 +5,8 @@ tags:
   - separation
 owner: mishka
 createdAt: 2025-04-18T01:32:23.476Z
-updatedAt: 2025-04-18T01:32:23.499Z
-updateCount: 1
+updatedAt: 2025-04-20T03:59:21.060Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame77/desi77/springTorqueA
 linkToSrc: https://github.com/charlyoleg2/parame77
@@ -43,15 +43,15 @@ files:
   - fileName: springTorqueA_C1_v01.pax.json
     fileType: paxJson
     filePath: springtorquea_c1/springTorqueA_C1_v01.pax.json
-    fileSize: 6853
+    fileSize: 6881
     createdAt: 2025-04-18T01:32:23.487Z
-    updatedAt: 2025-04-18T01:32:23.487Z
+    updatedAt: 2025-04-20T03:59:21.054Z
   - fileName: springTorqueA_C1_v01.log.txt
     fileType: txtLog
     filePath: springtorquea_c1/springTorqueA_C1_v01.log.txt
-    fileSize: 85
+    fileSize: 112
     createdAt: 2025-04-18T01:32:23.489Z
-    updatedAt: 2025-04-18T01:32:23.489Z
+    updatedAt: 2025-04-20T03:59:21.056Z
   - fileName: springTorqueA_C1_v01.js
     fileType: jsCad
     filePath: springtorquea_c1/springTorqueA_C1_v01.js

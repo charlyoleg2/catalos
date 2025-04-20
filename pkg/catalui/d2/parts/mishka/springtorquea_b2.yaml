@@ -6,8 +6,8 @@ tags:
   - spring
 owner: mishka
 createdAt: 2025-04-18T01:32:23.502Z
-updatedAt: 2025-04-18T01:32:23.529Z
-updateCount: 1
+updatedAt: 2025-04-20T03:59:21.076Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame77/desi77/springTorqueA
 linkToSrc: https://github.com/charlyoleg2/parame77
@@ -44,15 +44,15 @@ files:
   - fileName: springTorqueA_B2_v01.pax.json
     fileType: paxJson
     filePath: springtorquea_b2/springTorqueA_B2_v01.pax.json
-    fileSize: 6850
+    fileSize: 6878
     createdAt: 2025-04-18T01:32:23.515Z
-    updatedAt: 2025-04-18T01:32:23.515Z
+    updatedAt: 2025-04-20T03:59:21.072Z
   - fileName: springTorqueA_B2_v01.log.txt
     fileType: txtLog
     filePath: springtorquea_b2/springTorqueA_B2_v01.log.txt
-    fileSize: 85
+    fileSize: 112
     createdAt: 2025-04-18T01:32:23.517Z
-    updatedAt: 2025-04-18T01:32:23.517Z
+    updatedAt: 2025-04-20T03:59:21.073Z
   - fileName: springTorqueA_B2_v01.js
     fileType: jsCad
     filePath: springtorquea_b2/springTorqueA_B2_v01.js

@@ -1,0 +1,96 @@
+description: plugable torque transmission
+tags:
+  - mechanics
+  - torque
+  - plug
+owner: mishka
+createdAt: 2025-04-20T03:59:21.116Z
+updatedAt: 2025-04-20T03:59:21.125Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/plugTorque
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: px_plugTorque_v01.json
+    fileType: pxJson
+    filePath: plugtorque/px_plugTorque_v01.json
+    fileSize: 602
+    createdAt: 2025-04-20T03:59:21.118Z
+    updatedAt: 2025-04-20T03:59:21.118Z
+  - fileName: plugTorque_v01_faceIntern.svg
+    fileType: svg
+    filePath: plugtorque/plugTorque_v01_faceIntern.svg
+    fileSize: 2458
+    createdAt: 2025-04-20T03:59:21.118Z
+    updatedAt: 2025-04-20T03:59:21.118Z
+  - fileName: plugTorque_v01_faceIntern.dxf
+    fileType: dxf
+    filePath: plugtorque/plugTorque_v01_faceIntern.dxf
+    fileSize: 4719
+    createdAt: 2025-04-20T03:59:21.119Z
+    updatedAt: 2025-04-20T03:59:21.119Z
+  - fileName: plugTorque_v01_faceExtern.svg
+    fileType: svg
+    filePath: plugtorque/plugTorque_v01_faceExtern.svg
+    fileSize: 2746
+    createdAt: 2025-04-20T03:59:21.120Z
+    updatedAt: 2025-04-20T03:59:21.120Z
+  - fileName: plugTorque_v01_faceExtern.dxf
+    fileType: dxf
+    filePath: plugtorque/plugTorque_v01_faceExtern.dxf
+    fileSize: 4895
+    createdAt: 2025-04-20T03:59:21.120Z
+    updatedAt: 2025-04-20T03:59:21.120Z
+  - fileName: plugTorque_v01.scad
+    fileType: scad
+    filePath: plugtorque/plugTorque_v01.scad
+    fileSize: 32042
+    createdAt: 2025-04-20T03:59:21.121Z
+    updatedAt: 2025-04-20T03:59:21.121Z
+  - fileName: plugTorque_v01.py
+    fileType: pyFreecad
+    filePath: plugtorque/plugTorque_v01.py
+    fileSize: 19929
+    createdAt: 2025-04-20T03:59:21.122Z
+    updatedAt: 2025-04-20T03:59:21.122Z
+  - fileName: plugTorque_v01.pax.json
+    fileType: paxJson
+    filePath: plugtorque/plugTorque_v01.pax.json
+    fileSize: 34125
+    createdAt: 2025-04-20T03:59:21.122Z
+    updatedAt: 2025-04-20T03:59:21.122Z
+  - fileName: plugTorque_v01.log.txt
+    fileType: txtLog
+    filePath: plugtorque/plugTorque_v01.log.txt
+    fileSize: 322
+    createdAt: 2025-04-20T03:59:21.123Z
+    updatedAt: 2025-04-20T03:59:21.123Z
+  - fileName: plugTorque_v01.js
+    fileType: jsCad
+    filePath: plugtorque/plugTorque_v01.js
+    fileSize: 29316
+    createdAt: 2025-04-20T03:59:21.123Z
+    updatedAt: 2025-04-20T03:59:21.123Z
+  - fileName: plug03.png
+    fileType: image
+    filePath: plugtorque/plug03.png
+    fileSize: 17507
+    createdAt: 2025-04-20T03:59:21.124Z
+    updatedAt: 2025-04-20T03:59:21.124Z
+  - fileName: plug02.png
+    fileType: image
+    filePath: plugtorque/plug02.png
+    fileSize: 18816
+    createdAt: 2025-04-20T03:59:21.125Z
+    updatedAt: 2025-04-20T03:59:21.125Z
+  - fileName: plug01.png
+    fileType: image
+    filePath: plugtorque/plug01.png
+    fileSize: 14694
+    createdAt: 2025-04-20T03:59:21.125Z
+    updatedAt: 2025-04-20T03:59:21.125Z
