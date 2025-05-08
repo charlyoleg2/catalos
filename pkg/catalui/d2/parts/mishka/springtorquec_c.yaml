@@ -1,0 +1,92 @@
+description: spring disc for smooth torque transmission with co-centric zigzag
+tags:
+  - ressort
+  - spring
+  - mechanics
+  - torque
+  - laser
+owner: mishka
+createdAt: 2025-05-08T18:43:32.490Z
+updatedAt: 2025-05-08T18:43:32.502Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/springTorqueC
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: springTorqueC_C_v01_faceProfile.svg
+    fileType: svg
+    filePath: springtorquec_c/springTorqueC_C_v01_faceProfile.svg
+    fileSize: 25113
+    createdAt: 2025-05-08T18:43:32.493Z
+    updatedAt: 2025-05-08T18:43:32.493Z
+  - fileName: springTorqueC_C_v01_faceProfile.dxf
+    fileType: dxf
+    filePath: springtorquec_c/springTorqueC_C_v01_faceProfile.dxf
+    fileSize: 49874
+    createdAt: 2025-05-08T18:43:32.494Z
+    updatedAt: 2025-05-08T18:43:32.494Z
+  - fileName: springTorqueC_C_v01.stl
+    fileType: stl
+    filePath: springtorquec_c/springTorqueC_C_v01.stl
+    fileSize: 810484
+    createdAt: 2025-05-08T18:43:32.495Z
+    updatedAt: 2025-05-08T18:43:32.495Z
+  - fileName: springTorqueC_C_v01.scad
+    fileType: scad
+    filePath: springtorquec_c/springTorqueC_C_v01.scad
+    fileSize: 118150
+    createdAt: 2025-05-08T18:43:32.496Z
+    updatedAt: 2025-05-08T18:43:32.496Z
+  - fileName: springTorqueC_C_v01.py
+    fileType: pyFreecad
+    filePath: springtorquec_c/springTorqueC_C_v01.py
+    fileSize: 88914
+    createdAt: 2025-05-08T18:43:32.497Z
+    updatedAt: 2025-05-08T18:43:32.497Z
+  - fileName: springTorqueC_C_v01.pax.json
+    fileType: paxJson
+    filePath: springtorquec_c/springTorqueC_C_v01.pax.json
+    fileSize: 147663
+    createdAt: 2025-05-08T18:43:32.498Z
+    updatedAt: 2025-05-08T18:43:32.498Z
+  - fileName: springTorqueC_C_v01.log.txt
+    fileType: txtLog
+    filePath: springtorquec_c/springTorqueC_C_v01.log.txt
+    fileSize: 232
+    createdAt: 2025-05-08T18:43:32.498Z
+    updatedAt: 2025-05-08T18:43:32.498Z
+  - fileName: springTorqueC_C_v01.js
+    fileType: jsCad
+    filePath: springtorquec_c/springTorqueC_C_v01.js
+    fileSize: 103034
+    createdAt: 2025-05-08T18:43:32.499Z
+    updatedAt: 2025-05-08T18:43:32.499Z
+  - fileName: spring03.png
+    fileType: image
+    filePath: springtorquec_c/spring03.png
+    fileSize: 45897
+    createdAt: 2025-05-08T18:43:32.500Z
+    updatedAt: 2025-05-08T18:43:32.500Z
+  - fileName: spring02.png
+    fileType: image
+    filePath: springtorquec_c/spring02.png
+    fileSize: 47579
+    createdAt: 2025-05-08T18:43:32.500Z
+    updatedAt: 2025-05-08T18:43:32.500Z
+  - fileName: spring01.png
+    fileType: image
+    filePath: springtorquec_c/spring01.png
+    fileSize: 57101
+    createdAt: 2025-05-08T18:43:32.501Z
+    updatedAt: 2025-05-08T18:43:32.501Z
+  - fileName: px_springTorqueC_C_v01.json
+    fileType: pxJson
+    filePath: springtorquec_c/px_springTorqueC_C_v01.json
+    fileSize: 655
+    createdAt: 2025-05-08T18:43:32.502Z
+    updatedAt: 2025-05-08T18:43:32.502Z

@@ -7,8 +7,8 @@ tags:
   - laser
 owner: mishka
 createdAt: 2025-04-25T01:44:29.983Z
-updatedAt: 2025-04-25T01:44:30.016Z
-updateCount: 1
+updatedAt: 2025-05-08T18:43:32.568Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame77/desi77/springTorqueB
 linkToSrc: https://github.com/charlyoleg2/parame77
@@ -48,6 +48,12 @@ files:
     fileSize: 19305
     createdAt: 2025-04-25T01:44:29.999Z
     updatedAt: 2025-04-25T01:44:29.999Z
+  - fileName: springTorqueB_A_v01.stl
+    fileType: stl
+    filePath: springtorqueb_a/springTorqueB_A_v01.stl
+    fileSize: 564884
+    createdAt: 2025-05-08T18:43:32.564Z
+    updatedAt: 2025-05-08T18:43:32.564Z
   - fileName: springTorqueB_A_v01.scad
     fileType: scad
     filePath: springtorqueb_a/springTorqueB_A_v01.scad
