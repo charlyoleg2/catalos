@@ -1,0 +1,168 @@
+description: bearing-holder with integated spring
+tags:
+  - spring
+  - bearing
+  - mechanics
+owner: mishka
+createdAt: 2025-05-14T21:29:19.275Z
+updatedAt: 2025-05-14T21:29:19.338Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/springOne
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: springOne_v01_faceWallB.svg
+    fileType: svg
+    filePath: springone/springOne_v01_faceWallB.svg
+    fileSize: 4708
+    createdAt: 2025-05-14T21:29:19.279Z
+    updatedAt: 2025-05-14T21:29:19.279Z
+  - fileName: springOne_v01_faceWallB.dxf
+    fileType: dxf
+    filePath: springone/springOne_v01_faceWallB.dxf
+    fileSize: 8417
+    createdAt: 2025-05-14T21:29:19.281Z
+    updatedAt: 2025-05-14T21:29:19.281Z
+  - fileName: springOne_v01_SFG_profiles.svg
+    fileType: svg
+    filePath: springone/springOne_v01_SFG_profiles.svg
+    fileSize: 1719
+    createdAt: 2025-05-14T21:29:19.283Z
+    updatedAt: 2025-05-14T21:29:19.283Z
+  - fileName: springOne_v01_SFG_profiles.dxf
+    fileType: dxf
+    filePath: springone/springOne_v01_SFG_profiles.dxf
+    fileSize: 2636
+    createdAt: 2025-05-14T21:29:19.286Z
+    updatedAt: 2025-05-14T21:29:19.286Z
+  - fileName: springOne_v01_SFG_pattern.svg
+    fileType: svg
+    filePath: springone/springOne_v01_SFG_pattern.svg
+    fileSize: 12095
+    createdAt: 2025-05-14T21:29:19.289Z
+    updatedAt: 2025-05-14T21:29:19.289Z
+  - fileName: springOne_v01_SFG_pattern.dxf
+    fileType: dxf
+    filePath: springone/springOne_v01_SFG_pattern.dxf
+    fileSize: 23090
+    createdAt: 2025-05-14T21:29:19.291Z
+    updatedAt: 2025-05-14T21:29:19.291Z
+  - fileName: springOne_v01_SFG_f01.svg
+    fileType: svg
+    filePath: springone/springOne_v01_SFG_f01.svg
+    fileSize: 4489
+    createdAt: 2025-05-14T21:29:19.294Z
+    updatedAt: 2025-05-14T21:29:19.294Z
+  - fileName: springOne_v01_SFG_f01.dxf
+    fileType: dxf
+    filePath: springone/springOne_v01_SFG_f01.dxf
+    fileSize: 8106
+    createdAt: 2025-05-14T21:29:19.297Z
+    updatedAt: 2025-05-14T21:29:19.297Z
+  - fileName: springOne_v01_SFG_f00.svg
+    fileType: svg
+    filePath: springone/springOne_v01_SFG_f00.svg
+    fileSize: 966
+    createdAt: 2025-05-14T21:29:19.299Z
+    updatedAt: 2025-05-14T21:29:19.299Z
+  - fileName: springOne_v01_SFG_f00.dxf
+    fileType: dxf
+    filePath: springone/springOne_v01_SFG_f00.dxf
+    fileSize: 1558
+    createdAt: 2025-05-14T21:29:19.301Z
+    updatedAt: 2025-05-14T21:29:19.301Z
+  - fileName: springOne_v01.scad
+    fileType: scad
+    filePath: springone/springOne_v01.scad
+    fileSize: 115067
+    createdAt: 2025-05-14T21:29:19.304Z
+    updatedAt: 2025-05-14T21:29:19.304Z
+  - fileName: springOne_v01.py
+    fileType: pyFreecad
+    filePath: springone/springOne_v01.py
+    fileSize: 115115
+    createdAt: 2025-05-14T21:29:19.306Z
+    updatedAt: 2025-05-14T21:29:19.306Z
+  - fileName: springOne_v01.pax.json
+    fileType: paxJson
+    filePath: springone/springOne_v01.pax.json
+    fileSize: 158282
+    createdAt: 2025-05-14T21:29:19.309Z
+    updatedAt: 2025-05-14T21:29:19.309Z
+  - fileName: springOne_v01.log.txt
+    fileType: txtLog
+    filePath: springone/springOne_v01.log.txt
+    fileSize: 126
+    createdAt: 2025-05-14T21:29:19.311Z
+    updatedAt: 2025-05-14T21:29:19.311Z
+  - fileName: springOne_v01.js
+    fileType: jsCad
+    filePath: springone/springOne_v01.js
+    fileSize: 105384
+    createdAt: 2025-05-14T21:29:19.313Z
+    updatedAt: 2025-05-14T21:29:19.313Z
+  - fileName: px_springOne_v01.json
+    fileType: pxJson
+    filePath: springone/px_springOne_v01.json
+    fileSize: 653
+    createdAt: 2025-05-14T21:29:19.316Z
+    updatedAt: 2025-05-14T21:29:19.316Z
+  - fileName: photo09.png
+    fileType: image
+    filePath: springone/photo09.png
+    fileSize: 9524
+    createdAt: 2025-05-14T21:29:19.319Z
+    updatedAt: 2025-05-14T21:29:19.319Z
+  - fileName: photo08.png
+    fileType: image
+    filePath: springone/photo08.png
+    fileSize: 8164
+    createdAt: 2025-05-14T21:29:19.320Z
+    updatedAt: 2025-05-14T21:29:19.320Z
+  - fileName: photo07.png
+    fileType: image
+    filePath: springone/photo07.png
+    fileSize: 12104
+    createdAt: 2025-05-14T21:29:19.322Z
+    updatedAt: 2025-05-14T21:29:19.322Z
+  - fileName: photo06.png
+    fileType: image
+    filePath: springone/photo06.png
+    fileSize: 9083
+    createdAt: 2025-05-14T21:29:19.326Z
+    updatedAt: 2025-05-14T21:29:19.326Z
+  - fileName: photo05.png
+    fileType: image
+    filePath: springone/photo05.png
+    fileSize: 18783
+    createdAt: 2025-05-14T21:29:19.329Z
+    updatedAt: 2025-05-14T21:29:19.329Z
+  - fileName: photo04.png
+    fileType: image
+    filePath: springone/photo04.png
+    fileSize: 14439
+    createdAt: 2025-05-14T21:29:19.331Z
+    updatedAt: 2025-05-14T21:29:19.331Z
+  - fileName: photo03.png
+    fileType: image
+    filePath: springone/photo03.png
+    fileSize: 11220
+    createdAt: 2025-05-14T21:29:19.333Z
+    updatedAt: 2025-05-14T21:29:19.334Z
+  - fileName: photo02.png
+    fileType: image
+    filePath: springone/photo02.png
+    fileSize: 9891
+    createdAt: 2025-05-14T21:29:19.335Z
+    updatedAt: 2025-05-14T21:29:19.335Z
+  - fileName: photo01.png
+    fileType: image
+    filePath: springone/photo01.png
+    fileSize: 17084
+    createdAt: 2025-05-14T21:29:19.338Z
+    updatedAt: 2025-05-14T21:29:19.338Z

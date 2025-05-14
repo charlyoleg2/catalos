@@ -1,0 +1,170 @@
+description: Flex-part for unperfect coaxial transmission
+tags:
+  - co-axis
+  - spring
+  - mechanics
+  - torque
+  - transmission
+owner: mishka
+createdAt: 2025-05-14T21:29:18.926Z
+updatedAt: 2025-05-14T21:29:18.984Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/springWorm
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: worm07.png
+    fileType: image
+    filePath: springworm/worm07.png
+    fileSize: 21422
+    createdAt: 2025-05-14T21:29:18.931Z
+    updatedAt: 2025-05-14T21:29:18.931Z
+  - fileName: worm06.png
+    fileType: image
+    filePath: springworm/worm06.png
+    fileSize: 16415
+    createdAt: 2025-05-14T21:29:18.934Z
+    updatedAt: 2025-05-14T21:29:18.934Z
+  - fileName: worm05.png
+    fileType: image
+    filePath: springworm/worm05.png
+    fileSize: 22121
+    createdAt: 2025-05-14T21:29:18.936Z
+    updatedAt: 2025-05-14T21:29:18.936Z
+  - fileName: worm04.png
+    fileType: image
+    filePath: springworm/worm04.png
+    fileSize: 26622
+    createdAt: 2025-05-14T21:29:18.939Z
+    updatedAt: 2025-05-14T21:29:18.939Z
+  - fileName: worm03.png
+    fileType: image
+    filePath: springworm/worm03.png
+    fileSize: 17332
+    createdAt: 2025-05-14T21:29:18.942Z
+    updatedAt: 2025-05-14T21:29:18.942Z
+  - fileName: worm02.png
+    fileType: image
+    filePath: springworm/worm02.png
+    fileSize: 8502
+    createdAt: 2025-05-14T21:29:18.944Z
+    updatedAt: 2025-05-14T21:29:18.944Z
+  - fileName: worm01.png
+    fileType: image
+    filePath: springworm/worm01.png
+    fileSize: 15088
+    createdAt: 2025-05-14T21:29:18.946Z
+    updatedAt: 2025-05-14T21:29:18.946Z
+  - fileName: springWorm_v01_faceW1b.svg
+    fileType: svg
+    filePath: springworm/springWorm_v01_faceW1b.svg
+    fileSize: 183
+    createdAt: 2025-05-14T21:29:18.948Z
+    updatedAt: 2025-05-14T21:29:18.948Z
+  - fileName: springWorm_v01_faceW1b.dxf
+    fileType: dxf
+    filePath: springworm/springWorm_v01_faceW1b.dxf
+    fileSize: 89
+    createdAt: 2025-05-14T21:29:18.951Z
+    updatedAt: 2025-05-14T21:29:18.951Z
+  - fileName: springWorm_v01_faceTube.svg
+    fileType: svg
+    filePath: springworm/springWorm_v01_faceTube.svg
+    fileSize: 273
+    createdAt: 2025-05-14T21:29:18.954Z
+    updatedAt: 2025-05-14T21:29:18.954Z
+  - fileName: springWorm_v01_faceTube.dxf
+    fileType: dxf
+    filePath: springworm/springWorm_v01_faceTube.dxf
+    fileSize: 142
+    createdAt: 2025-05-14T21:29:18.957Z
+    updatedAt: 2025-05-14T21:29:18.957Z
+  - fileName: springWorm_v01_faceRight.svg
+    fileType: svg
+    filePath: springworm/springWorm_v01_faceRight.svg
+    fileSize: 2010
+    createdAt: 2025-05-14T21:29:18.960Z
+    updatedAt: 2025-05-14T21:29:18.960Z
+  - fileName: springWorm_v01_faceRight.dxf
+    fileType: dxf
+    filePath: springworm/springWorm_v01_faceRight.dxf
+    fileSize: 4452
+    createdAt: 2025-05-14T21:29:18.963Z
+    updatedAt: 2025-05-14T21:29:18.963Z
+  - fileName: springWorm_v01_faceLeft.svg
+    fileType: svg
+    filePath: springworm/springWorm_v01_faceLeft.svg
+    fileSize: 2010
+    createdAt: 2025-05-14T21:29:18.965Z
+    updatedAt: 2025-05-14T21:29:18.965Z
+  - fileName: springWorm_v01_faceLeft.dxf
+    fileType: dxf
+    filePath: springworm/springWorm_v01_faceLeft.dxf
+    fileSize: 4452
+    createdAt: 2025-05-14T21:29:18.968Z
+    updatedAt: 2025-05-14T21:29:18.968Z
+  - fileName: springWorm_v01_faceGroove2.svg
+    fileType: svg
+    filePath: springworm/springWorm_v01_faceGroove2.svg
+    fileSize: 1089
+    createdAt: 2025-05-14T21:29:18.971Z
+    updatedAt: 2025-05-14T21:29:18.971Z
+  - fileName: springWorm_v01_faceGroove2.dxf
+    fileType: dxf
+    filePath: springworm/springWorm_v01_faceGroove2.dxf
+    fileSize: 1615
+    createdAt: 2025-05-14T21:29:18.973Z
+    updatedAt: 2025-05-14T21:29:18.973Z
+  - fileName: springWorm_v01_faceGroove1.svg
+    fileType: svg
+    filePath: springworm/springWorm_v01_faceGroove1.svg
+    fileSize: 1089
+    createdAt: 2025-05-14T21:29:18.974Z
+    updatedAt: 2025-05-14T21:29:18.974Z
+  - fileName: springWorm_v01_faceGroove1.dxf
+    fileType: dxf
+    filePath: springworm/springWorm_v01_faceGroove1.dxf
+    fileSize: 1615
+    createdAt: 2025-05-14T21:29:18.977Z
+    updatedAt: 2025-05-14T21:29:18.977Z
+  - fileName: springWorm_v01.scad
+    fileType: scad
+    filePath: springworm/springWorm_v01.scad
+    fileSize: 32479
+    createdAt: 2025-05-14T21:29:18.978Z
+    updatedAt: 2025-05-14T21:29:18.978Z
+  - fileName: springWorm_v01.py
+    fileType: pyFreecad
+    filePath: springworm/springWorm_v01.py
+    fileSize: 29309
+    createdAt: 2025-05-14T21:29:18.978Z
+    updatedAt: 2025-05-14T21:29:18.978Z
+  - fileName: springWorm_v01.pax.json
+    fileType: paxJson
+    filePath: springworm/springWorm_v01.pax.json
+    fileSize: 40981
+    createdAt: 2025-05-14T21:29:18.979Z
+    updatedAt: 2025-05-14T21:29:18.979Z
+  - fileName: springWorm_v01.log.txt
+    fileType: txtLog
+    filePath: springworm/springWorm_v01.log.txt
+    fileSize: 89
+    createdAt: 2025-05-14T21:29:18.981Z
+    updatedAt: 2025-05-14T21:29:18.981Z
+  - fileName: springWorm_v01.js
+    fileType: jsCad
+    filePath: springworm/springWorm_v01.js
+    fileSize: 31090
+    createdAt: 2025-05-14T21:29:18.982Z
+    updatedAt: 2025-05-14T21:29:18.982Z
+  - fileName: px_springWorm_v01.json
+    fileType: pxJson
+    filePath: springworm/px_springWorm_v01.json
+    fileSize: 496
+    createdAt: 2025-05-14T21:29:18.984Z
+    updatedAt: 2025-05-14T21:29:18.984Z
