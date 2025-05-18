@@ -1,0 +1,150 @@
+description: bearing-holder in the interior of a ring
+tags:
+  - mechanics
+  - spring
+  - interior
+owner: mishka
+createdAt: 2025-05-18T21:28:43.555Z
+updatedAt: 2025-05-18T21:28:43.593Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/springInt
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: springInt_v01_SFG_profiles.svg
+    fileType: svg
+    filePath: springint/springInt_v01_SFG_profiles.svg
+    fileSize: 3664
+    createdAt: 2025-05-18T21:28:43.557Z
+    updatedAt: 2025-05-18T21:28:43.557Z
+  - fileName: springInt_v01_SFG_profiles.dxf
+    fileType: dxf
+    filePath: springint/springInt_v01_SFG_profiles.dxf
+    fileSize: 5736
+    createdAt: 2025-05-18T21:28:43.558Z
+    updatedAt: 2025-05-18T21:28:43.558Z
+  - fileName: springInt_v01_SFG_pattern.svg
+    fileType: svg
+    filePath: springint/springInt_v01_SFG_pattern.svg
+    fileSize: 84939
+    createdAt: 2025-05-18T21:28:43.559Z
+    updatedAt: 2025-05-18T21:28:43.559Z
+  - fileName: springInt_v01_SFG_pattern.dxf
+    fileType: dxf
+    filePath: springint/springInt_v01_SFG_pattern.dxf
+    fileSize: 154296
+    createdAt: 2025-05-18T21:28:43.560Z
+    updatedAt: 2025-05-18T21:28:43.560Z
+  - fileName: springInt_v01_SFG_f01.svg
+    fileType: svg
+    filePath: springint/springInt_v01_SFG_f01.svg
+    fileSize: 4415
+    createdAt: 2025-05-18T21:28:43.561Z
+    updatedAt: 2025-05-18T21:28:43.561Z
+  - fileName: springInt_v01_SFG_f01.dxf
+    fileType: dxf
+    filePath: springint/springInt_v01_SFG_f01.dxf
+    fileSize: 7968
+    createdAt: 2025-05-18T21:28:43.562Z
+    updatedAt: 2025-05-18T21:28:43.562Z
+  - fileName: springInt_v01_SFG_f00.svg
+    fileType: svg
+    filePath: springint/springInt_v01_SFG_f00.svg
+    fileSize: 594
+    createdAt: 2025-05-18T21:28:43.563Z
+    updatedAt: 2025-05-18T21:28:43.563Z
+  - fileName: springInt_v01_SFG_f00.dxf
+    fileType: dxf
+    filePath: springint/springInt_v01_SFG_f00.dxf
+    fileSize: 496
+    createdAt: 2025-05-18T21:28:43.564Z
+    updatedAt: 2025-05-18T21:28:43.564Z
+  - fileName: springInt_v01.scad
+    fileType: scad
+    filePath: springint/springInt_v01.scad
+    fileSize: 705684
+    createdAt: 2025-05-18T21:28:43.567Z
+    updatedAt: 2025-05-18T21:28:43.567Z
+  - fileName: springInt_v01.py
+    fileType: pyFreecad
+    filePath: springint/springInt_v01.py
+    fileSize: 634574
+    createdAt: 2025-05-18T21:28:43.570Z
+    updatedAt: 2025-05-18T21:28:43.570Z
+  - fileName: springInt_v01.pax.json
+    fileType: paxJson
+    filePath: springint/springInt_v01.pax.json
+    fileSize: 873788
+    createdAt: 2025-05-18T21:28:43.573Z
+    updatedAt: 2025-05-18T21:28:43.573Z
+  - fileName: springInt_v01.log.txt
+    fileType: txtLog
+    filePath: springint/springInt_v01.log.txt
+    fileSize: 226
+    createdAt: 2025-05-18T21:28:43.575Z
+    updatedAt: 2025-05-18T21:28:43.575Z
+  - fileName: springInt_v01.js
+    fileType: jsCad
+    filePath: springint/springInt_v01.js
+    fileSize: 633356
+    createdAt: 2025-05-18T21:28:43.578Z
+    updatedAt: 2025-05-18T21:28:43.578Z
+  - fileName: px_springInt_v01.json
+    fileType: pxJson
+    filePath: springint/px_springInt_v01.json
+    fileSize: 473
+    createdAt: 2025-05-18T21:28:43.580Z
+    updatedAt: 2025-05-18T21:28:43.580Z
+  - fileName: photo08.png
+    fileType: image
+    filePath: springint/photo08.png
+    fileSize: 28876
+    createdAt: 2025-05-18T21:28:43.583Z
+    updatedAt: 2025-05-18T21:28:43.583Z
+  - fileName: photo07.png
+    fileType: image
+    filePath: springint/photo07.png
+    fileSize: 31789
+    createdAt: 2025-05-18T21:28:43.585Z
+    updatedAt: 2025-05-18T21:28:43.585Z
+  - fileName: photo06.png
+    fileType: image
+    filePath: springint/photo06.png
+    fileSize: 31958
+    createdAt: 2025-05-18T21:28:43.586Z
+    updatedAt: 2025-05-18T21:28:43.586Z
+  - fileName: photo05.png
+    fileType: image
+    filePath: springint/photo05.png
+    fileSize: 31914
+    createdAt: 2025-05-18T21:28:43.588Z
+    updatedAt: 2025-05-18T21:28:43.588Z
+  - fileName: photo04.png
+    fileType: image
+    filePath: springint/photo04.png
+    fileSize: 23662
+    createdAt: 2025-05-18T21:28:43.590Z
+    updatedAt: 2025-05-18T21:28:43.590Z
+  - fileName: photo03.png
+    fileType: image
+    filePath: springint/photo03.png
+    fileSize: 7750
+    createdAt: 2025-05-18T21:28:43.591Z
+    updatedAt: 2025-05-18T21:28:43.591Z
+  - fileName: photo02.png
+    fileType: image
+    filePath: springint/photo02.png
+    fileSize: 33539
+    createdAt: 2025-05-18T21:28:43.592Z
+    updatedAt: 2025-05-18T21:28:43.592Z
+  - fileName: photo01.png
+    fileType: image
+    filePath: springint/photo01.png
+    fileSize: 33198
+    createdAt: 2025-05-18T21:28:43.593Z
+    updatedAt: 2025-05-18T21:28:43.593Z

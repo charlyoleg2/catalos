@@ -1,0 +1,179 @@
+description: the envelop of an house with large roof
+tags:
+  - stones
+  - architecture
+  - house
+  - mazure
+  - roof
+  - toit
+  - maison
+  - cottage
+owner: mishka
+createdAt: 2025-05-18T21:28:43.612Z
+updatedAt: 2025-05-18T21:28:43.633Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/house
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: px_house_v01.json
+    fileType: pxJson
+    filePath: house/px_house_v01.json
+    fileSize: 635
+    createdAt: 2025-05-18T21:28:43.614Z
+    updatedAt: 2025-05-18T21:28:43.614Z
+  - fileName: house_v01_faceTerrasse.svg
+    fileType: svg
+    filePath: house/house_v01_faceTerrasse.svg
+    fileSize: 442
+    createdAt: 2025-05-18T21:28:43.615Z
+    updatedAt: 2025-05-18T21:28:43.615Z
+  - fileName: house_v01_faceTerrasse.dxf
+    fileType: dxf
+    filePath: house/house_v01_faceTerrasse.dxf
+    fileSize: 620
+    createdAt: 2025-05-18T21:28:43.616Z
+    updatedAt: 2025-05-18T21:28:43.616Z
+  - fileName: house_v01_facePE.svg
+    fileType: svg
+    filePath: house/house_v01_facePE.svg
+    fileSize: 280
+    createdAt: 2025-05-18T21:28:43.617Z
+    updatedAt: 2025-05-18T21:28:43.617Z
+  - fileName: house_v01_facePE.dxf
+    fileType: dxf
+    filePath: house/house_v01_facePE.dxf
+    fileSize: 374
+    createdAt: 2025-05-18T21:28:43.617Z
+    updatedAt: 2025-05-18T21:28:43.617Z
+  - fileName: house_v01_facePD.svg
+    fileType: svg
+    filePath: house/house_v01_facePD.svg
+    fileSize: 280
+    createdAt: 2025-05-18T21:28:43.618Z
+    updatedAt: 2025-05-18T21:28:43.618Z
+  - fileName: house_v01_facePD.dxf
+    fileType: dxf
+    filePath: house/house_v01_facePD.dxf
+    fileSize: 370
+    createdAt: 2025-05-18T21:28:43.620Z
+    updatedAt: 2025-05-18T21:28:43.620Z
+  - fileName: house_v01_facePC.svg
+    fileType: svg
+    filePath: house/house_v01_facePC.svg
+    fileSize: 280
+    createdAt: 2025-05-18T21:28:43.620Z
+    updatedAt: 2025-05-18T21:28:43.620Z
+  - fileName: house_v01_facePC.dxf
+    fileType: dxf
+    filePath: house/house_v01_facePC.dxf
+    fileSize: 370
+    createdAt: 2025-05-18T21:28:43.621Z
+    updatedAt: 2025-05-18T21:28:43.621Z
+  - fileName: house_v01_facePB.svg
+    fileType: svg
+    filePath: house/house_v01_facePB.svg
+    fileSize: 282
+    createdAt: 2025-05-18T21:28:43.622Z
+    updatedAt: 2025-05-18T21:28:43.622Z
+  - fileName: house_v01_facePB.dxf
+    fileType: dxf
+    filePath: house/house_v01_facePB.dxf
+    fileSize: 370
+    createdAt: 2025-05-18T21:28:43.623Z
+    updatedAt: 2025-05-18T21:28:43.623Z
+  - fileName: house_v01_facePA.svg
+    fileType: svg
+    filePath: house/house_v01_facePA.svg
+    fileSize: 284
+    createdAt: 2025-05-18T21:28:43.624Z
+    updatedAt: 2025-05-18T21:28:43.624Z
+  - fileName: house_v01_facePA.dxf
+    fileType: dxf
+    filePath: house/house_v01_facePA.dxf
+    fileSize: 370
+    createdAt: 2025-05-18T21:28:43.624Z
+    updatedAt: 2025-05-18T21:28:43.624Z
+  - fileName: house_v01.scad
+    fileType: scad
+    filePath: house/house_v01.scad
+    fileSize: 3950
+    createdAt: 2025-05-18T21:28:43.625Z
+    updatedAt: 2025-05-18T21:28:43.625Z
+  - fileName: house_v01.py
+    fileType: pyFreecad
+    filePath: house/house_v01.py
+    fileSize: 10845
+    createdAt: 2025-05-18T21:28:43.625Z
+    updatedAt: 2025-05-18T21:28:43.625Z
+  - fileName: house_v01.pax.json
+    fileType: paxJson
+    filePath: house/house_v01.pax.json
+    fileSize: 16738
+    createdAt: 2025-05-18T21:28:43.626Z
+    updatedAt: 2025-05-18T21:28:43.626Z
+  - fileName: house_v01.log.txt
+    fileType: txtLog
+    filePath: house/house_v01.log.txt
+    fileSize: 123
+    createdAt: 2025-05-18T21:28:43.627Z
+    updatedAt: 2025-05-18T21:28:43.627Z
+  - fileName: house_v01.js
+    fileType: jsCad
+    filePath: house/house_v01.js
+    fileSize: 4807
+    createdAt: 2025-05-18T21:28:43.628Z
+    updatedAt: 2025-05-18T21:28:43.628Z
+  - fileName: house08.png
+    fileType: image
+    filePath: house/house08.png
+    fileSize: 5605
+    createdAt: 2025-05-18T21:28:43.629Z
+    updatedAt: 2025-05-18T21:28:43.629Z
+  - fileName: house07.png
+    fileType: image
+    filePath: house/house07.png
+    fileSize: 5569
+    createdAt: 2025-05-18T21:28:43.629Z
+    updatedAt: 2025-05-18T21:28:43.629Z
+  - fileName: house06.png
+    fileType: image
+    filePath: house/house06.png
+    fileSize: 9450
+    createdAt: 2025-05-18T21:28:43.630Z
+    updatedAt: 2025-05-18T21:28:43.630Z
+  - fileName: house05.png
+    fileType: image
+    filePath: house/house05.png
+    fileSize: 9254
+    createdAt: 2025-05-18T21:28:43.631Z
+    updatedAt: 2025-05-18T21:28:43.631Z
+  - fileName: house04.png
+    fileType: image
+    filePath: house/house04.png
+    fileSize: 7416
+    createdAt: 2025-05-18T21:28:43.631Z
+    updatedAt: 2025-05-18T21:28:43.631Z
+  - fileName: house03.png
+    fileType: image
+    filePath: house/house03.png
+    fileSize: 6248
+    createdAt: 2025-05-18T21:28:43.632Z
+    updatedAt: 2025-05-18T21:28:43.632Z
+  - fileName: house02.png
+    fileType: image
+    filePath: house/house02.png
+    fileSize: 6768
+    createdAt: 2025-05-18T21:28:43.633Z
+    updatedAt: 2025-05-18T21:28:43.633Z
+  - fileName: house01.png
+    fileType: image
+    filePath: house/house01.png
+    fileSize: 8556
+    createdAt: 2025-05-18T21:28:43.633Z
+    updatedAt: 2025-05-18T21:28:43.633Z
