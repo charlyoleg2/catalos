@@ -1,0 +1,228 @@
+description: the structure of an heliostat
+tags:
+  - sun tracker
+  - pan tilt
+  - mechanics
+owner: mishka
+createdAt: 2025-05-25T22:31:50.138Z
+updatedAt: 2025-05-25T22:31:50.186Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/heliostat
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: px_heliostat_v01.json
+    fileType: pxJson
+    filePath: heliostat/px_heliostat_v01.json
+    fileSize: 781
+    createdAt: 2025-05-25T22:31:50.140Z
+    updatedAt: 2025-05-25T22:31:50.140Z
+  - fileName: heliostat_v01_faceTopPole.svg
+    fileType: svg
+    filePath: heliostat/heliostat_v01_faceTopPole.svg
+    fileSize: 401
+    createdAt: 2025-05-25T22:31:50.140Z
+    updatedAt: 2025-05-25T22:31:50.140Z
+  - fileName: heliostat_v01_faceTopPole.dxf
+    fileType: dxf
+    filePath: heliostat/heliostat_v01_faceTopPole.dxf
+    fileSize: 756
+    createdAt: 2025-05-25T22:31:50.141Z
+    updatedAt: 2025-05-25T22:31:50.141Z
+  - fileName: heliostat_v01_faceHorizPoleInt.svg
+    fileType: svg
+    filePath: heliostat/heliostat_v01_faceHorizPoleInt.svg
+    fileSize: 193
+    createdAt: 2025-05-25T22:31:50.141Z
+    updatedAt: 2025-05-25T22:31:50.141Z
+  - fileName: heliostat_v01_faceHorizPoleInt.dxf
+    fileType: dxf
+    filePath: heliostat/heliostat_v01_faceHorizPoleInt.dxf
+    fileSize: 93
+    createdAt: 2025-05-25T22:31:50.142Z
+    updatedAt: 2025-05-25T22:31:50.142Z
+  - fileName: heliostat_v01_faceHorizPole.svg
+    fileType: svg
+    filePath: heliostat/heliostat_v01_faceHorizPole.svg
+    fileSize: 287
+    createdAt: 2025-05-25T22:31:50.143Z
+    updatedAt: 2025-05-25T22:31:50.143Z
+  - fileName: heliostat_v01_faceHorizPole.dxf
+    fileType: dxf
+    filePath: heliostat/heliostat_v01_faceHorizPole.dxf
+    fileSize: 150
+    createdAt: 2025-05-25T22:31:50.144Z
+    updatedAt: 2025-05-25T22:31:50.144Z
+  - fileName: heliostat_v01_faceHand.svg
+    fileType: svg
+    filePath: heliostat/heliostat_v01_faceHand.svg
+    fileSize: 357
+    createdAt: 2025-05-25T22:31:50.145Z
+    updatedAt: 2025-05-25T22:31:50.145Z
+  - fileName: heliostat_v01_faceHand.dxf
+    fileType: dxf
+    filePath: heliostat/heliostat_v01_faceHand.dxf
+    fileSize: 474
+    createdAt: 2025-05-25T22:31:50.146Z
+    updatedAt: 2025-05-25T22:31:50.146Z
+  - fileName: heliostat_v01_faceDoor.svg
+    fileType: svg
+    filePath: heliostat/heliostat_v01_faceDoor.svg
+    fileSize: 311
+    createdAt: 2025-05-25T22:31:50.148Z
+    updatedAt: 2025-05-25T22:31:50.148Z
+  - fileName: heliostat_v01_faceDoor.dxf
+    fileType: dxf
+    filePath: heliostat/heliostat_v01_faceDoor.dxf
+    fileSize: 327
+    createdAt: 2025-05-25T22:31:50.149Z
+    updatedAt: 2025-05-25T22:31:50.149Z
+  - fileName: heliostat_v01_faceDiagI.svg
+    fileType: svg
+    filePath: heliostat/heliostat_v01_faceDiagI.svg
+    fileSize: 190
+    createdAt: 2025-05-25T22:31:50.150Z
+    updatedAt: 2025-05-25T22:31:50.150Z
+  - fileName: heliostat_v01_faceDiagI.dxf
+    fileType: dxf
+    filePath: heliostat/heliostat_v01_faceDiagI.dxf
+    fileSize: 90
+    createdAt: 2025-05-25T22:31:50.152Z
+    updatedAt: 2025-05-25T22:31:50.152Z
+  - fileName: heliostat_v01_faceDiagE.svg
+    fileType: svg
+    filePath: heliostat/heliostat_v01_faceDiagE.svg
+    fileSize: 281
+    createdAt: 2025-05-25T22:31:50.154Z
+    updatedAt: 2025-05-25T22:31:50.154Z
+  - fileName: heliostat_v01_faceDiagE.dxf
+    fileType: dxf
+    filePath: heliostat/heliostat_v01_faceDiagE.dxf
+    fileSize: 144
+    createdAt: 2025-05-25T22:31:50.155Z
+    updatedAt: 2025-05-25T22:31:50.155Z
+  - fileName: heliostat_v01_faceDiag3.svg
+    fileType: svg
+    filePath: heliostat/heliostat_v01_faceDiag3.svg
+    fileSize: 444
+    createdAt: 2025-05-25T22:31:50.156Z
+    updatedAt: 2025-05-25T22:31:50.156Z
+  - fileName: heliostat_v01_faceDiag3.dxf
+    fileType: dxf
+    filePath: heliostat/heliostat_v01_faceDiag3.dxf
+    fileSize: 620
+    createdAt: 2025-05-25T22:31:50.158Z
+    updatedAt: 2025-05-25T22:31:50.158Z
+  - fileName: heliostat_v01_faceCleanDiag.svg
+    fileType: svg
+    filePath: heliostat/heliostat_v01_faceCleanDiag.svg
+    fileSize: 285
+    createdAt: 2025-05-25T22:31:50.160Z
+    updatedAt: 2025-05-25T22:31:50.160Z
+  - fileName: heliostat_v01_faceCleanDiag.dxf
+    fileType: dxf
+    filePath: heliostat/heliostat_v01_faceCleanDiag.dxf
+    fileSize: 384
+    createdAt: 2025-05-25T22:31:50.162Z
+    updatedAt: 2025-05-25T22:31:50.162Z
+  - fileName: heliostat_v01_faceBottomPole.svg
+    fileType: svg
+    filePath: heliostat/heliostat_v01_faceBottomPole.svg
+    fileSize: 347
+    createdAt: 2025-05-25T22:31:50.164Z
+    updatedAt: 2025-05-25T22:31:50.164Z
+  - fileName: heliostat_v01_faceBottomPole.dxf
+    fileType: dxf
+    filePath: heliostat/heliostat_v01_faceBottomPole.dxf
+    fileSize: 592
+    createdAt: 2025-05-25T22:31:50.166Z
+    updatedAt: 2025-05-25T22:31:50.166Z
+  - fileName: heliostat_v01_faceBottomDisc.svg
+    fileType: svg
+    filePath: heliostat/heliostat_v01_faceBottomDisc.svg
+    fileSize: 2557
+    createdAt: 2025-05-25T22:31:50.168Z
+    updatedAt: 2025-05-25T22:31:50.168Z
+  - fileName: heliostat_v01_faceBottomDisc.dxf
+    fileType: dxf
+    filePath: heliostat/heliostat_v01_faceBottomDisc.dxf
+    fileSize: 1527
+    createdAt: 2025-05-25T22:31:50.170Z
+    updatedAt: 2025-05-25T22:31:50.170Z
+  - fileName: heliostat_v01.scad
+    fileType: scad
+    filePath: heliostat/heliostat_v01.scad
+    fileSize: 274579
+    createdAt: 2025-05-25T22:31:50.172Z
+    updatedAt: 2025-05-25T22:31:50.172Z
+  - fileName: heliostat_v01.py
+    fileType: pyFreecad
+    filePath: heliostat/heliostat_v01.py
+    fileSize: 26799
+    createdAt: 2025-05-25T22:31:50.173Z
+    updatedAt: 2025-05-25T22:31:50.173Z
+  - fileName: heliostat_v01.pax.json
+    fileType: paxJson
+    filePath: heliostat/heliostat_v01.pax.json
+    fileSize: 27789
+    createdAt: 2025-05-25T22:31:50.175Z
+    updatedAt: 2025-05-25T22:31:50.175Z
+  - fileName: heliostat_v01.log.txt
+    fileType: txtLog
+    filePath: heliostat/heliostat_v01.log.txt
+    fileSize: 192
+    createdAt: 2025-05-25T22:31:50.176Z
+    updatedAt: 2025-05-25T22:31:50.176Z
+  - fileName: heliostat_v01.js
+    fileType: jsCad
+    filePath: heliostat/heliostat_v01.js
+    fileSize: 244920
+    createdAt: 2025-05-25T22:31:50.177Z
+    updatedAt: 2025-05-25T22:31:50.177Z
+  - fileName: h07.png
+    fileType: image
+    filePath: heliostat/h07.png
+    fileSize: 27372
+    createdAt: 2025-05-25T22:31:50.178Z
+    updatedAt: 2025-05-25T22:31:50.178Z
+  - fileName: h06.png
+    fileType: image
+    filePath: heliostat/h06.png
+    fileSize: 20384
+    createdAt: 2025-05-25T22:31:50.180Z
+    updatedAt: 2025-05-25T22:31:50.180Z
+  - fileName: h05.png
+    fileType: image
+    filePath: heliostat/h05.png
+    fileSize: 27693
+    createdAt: 2025-05-25T22:31:50.181Z
+    updatedAt: 2025-05-25T22:31:50.181Z
+  - fileName: h04.png
+    fileType: image
+    filePath: heliostat/h04.png
+    fileSize: 28490
+    createdAt: 2025-05-25T22:31:50.182Z
+    updatedAt: 2025-05-25T22:31:50.182Z
+  - fileName: h03.png
+    fileType: image
+    filePath: heliostat/h03.png
+    fileSize: 30905
+    createdAt: 2025-05-25T22:31:50.183Z
+    updatedAt: 2025-05-25T22:31:50.183Z
+  - fileName: h02.png
+    fileType: image
+    filePath: heliostat/h02.png
+    fileSize: 24724
+    createdAt: 2025-05-25T22:31:50.184Z
+    updatedAt: 2025-05-25T22:31:50.184Z
+  - fileName: h01.png
+    fileType: image
+    filePath: heliostat/h01.png
+    fileSize: 27269
+    createdAt: 2025-05-25T22:31:50.185Z
+    updatedAt: 2025-05-25T22:31:50.185Z
