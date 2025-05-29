@@ -1,0 +1,211 @@
+description: high-level concept of the train-capsule
+tags:
+  - train
+  - autonomous
+  - individual transportation
+  - electric
+owner: mishka
+createdAt: 2025-05-29T15:00:45.901Z
+updatedAt: 2025-05-29T15:00:45.931Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/capsule
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: px_capsule_A_v01.json
+    fileType: pxJson
+    filePath: capsule_a/px_capsule_A_v01.json
+    fileSize: 920
+    createdAt: 2025-05-29T15:00:45.904Z
+    updatedAt: 2025-05-29T15:00:45.904Z
+  - fileName: f10.png
+    fileType: image
+    filePath: capsule_a/f10.png
+    fileSize: 15875
+    createdAt: 2025-05-29T15:00:45.905Z
+    updatedAt: 2025-05-29T15:00:45.905Z
+  - fileName: f09.png
+    fileType: image
+    filePath: capsule_a/f09.png
+    fileSize: 23778
+    createdAt: 2025-05-29T15:00:45.905Z
+    updatedAt: 2025-05-29T15:00:45.905Z
+  - fileName: f08.png
+    fileType: image
+    filePath: capsule_a/f08.png
+    fileSize: 23882
+    createdAt: 2025-05-29T15:00:45.906Z
+    updatedAt: 2025-05-29T15:00:45.906Z
+  - fileName: f07.png
+    fileType: image
+    filePath: capsule_a/f07.png
+    fileSize: 23263
+    createdAt: 2025-05-29T15:00:45.907Z
+    updatedAt: 2025-05-29T15:00:45.907Z
+  - fileName: f06.png
+    fileType: image
+    filePath: capsule_a/f06.png
+    fileSize: 23158
+    createdAt: 2025-05-29T15:00:45.907Z
+    updatedAt: 2025-05-29T15:00:45.907Z
+  - fileName: f05.png
+    fileType: image
+    filePath: capsule_a/f05.png
+    fileSize: 20707
+    createdAt: 2025-05-29T15:00:45.908Z
+    updatedAt: 2025-05-29T15:00:45.908Z
+  - fileName: f04.png
+    fileType: image
+    filePath: capsule_a/f04.png
+    fileSize: 19645
+    createdAt: 2025-05-29T15:00:45.909Z
+    updatedAt: 2025-05-29T15:00:45.909Z
+  - fileName: f03.png
+    fileType: image
+    filePath: capsule_a/f03.png
+    fileSize: 15715
+    createdAt: 2025-05-29T15:00:45.909Z
+    updatedAt: 2025-05-29T15:00:45.909Z
+  - fileName: f02.png
+    fileType: image
+    filePath: capsule_a/f02.png
+    fileSize: 24591
+    createdAt: 2025-05-29T15:00:45.910Z
+    updatedAt: 2025-05-29T15:00:45.910Z
+  - fileName: f01.png
+    fileType: image
+    filePath: capsule_a/f01.png
+    fileSize: 21632
+    createdAt: 2025-05-29T15:00:45.911Z
+    updatedAt: 2025-05-29T15:00:45.911Z
+  - fileName: capsule_A_v01_faceWheels.svg
+    fileType: svg
+    filePath: capsule_a/capsule_A_v01_faceWheels.svg
+    fileSize: 334
+    createdAt: 2025-05-29T15:00:45.912Z
+    updatedAt: 2025-05-29T15:00:45.912Z
+  - fileName: capsule_A_v01_faceWheels.dxf
+    fileType: dxf
+    filePath: capsule_a/capsule_A_v01_faceWheels.dxf
+    fileSize: 576
+    createdAt: 2025-05-29T15:00:45.913Z
+    updatedAt: 2025-05-29T15:00:45.913Z
+  - fileName: capsule_A_v01_faceWall.svg
+    fileType: svg
+    filePath: capsule_a/capsule_A_v01_faceWall.svg
+    fileSize: 1881
+    createdAt: 2025-05-29T15:00:45.913Z
+    updatedAt: 2025-05-29T15:00:45.913Z
+  - fileName: capsule_A_v01_faceWall.dxf
+    fileType: dxf
+    filePath: capsule_a/capsule_A_v01_faceWall.dxf
+    fileSize: 3092
+    createdAt: 2025-05-29T15:00:45.914Z
+    updatedAt: 2025-05-29T15:00:45.914Z
+  - fileName: capsule_A_v01_faceTopTop.svg
+    fileType: svg
+    filePath: capsule_a/capsule_A_v01_faceTopTop.svg
+    fileSize: 447
+    createdAt: 2025-05-29T15:00:45.914Z
+    updatedAt: 2025-05-29T15:00:45.914Z
+  - fileName: capsule_A_v01_faceTopTop.dxf
+    fileType: dxf
+    filePath: capsule_a/capsule_A_v01_faceTopTop.dxf
+    fileSize: 628
+    createdAt: 2025-05-29T15:00:45.915Z
+    updatedAt: 2025-05-29T15:00:45.915Z
+  - fileName: capsule_A_v01_faceTopLeg.svg
+    fileType: svg
+    filePath: capsule_a/capsule_A_v01_faceTopLeg.svg
+    fileSize: 511
+    createdAt: 2025-05-29T15:00:45.916Z
+    updatedAt: 2025-05-29T15:00:45.916Z
+  - fileName: capsule_A_v01_faceTopLeg.dxf
+    fileType: dxf
+    filePath: capsule_a/capsule_A_v01_faceTopLeg.dxf
+    fileSize: 896
+    createdAt: 2025-05-29T15:00:45.918Z
+    updatedAt: 2025-05-29T15:00:45.918Z
+  - fileName: capsule_A_v01_faceTopInt.svg
+    fileType: svg
+    filePath: capsule_a/capsule_A_v01_faceTopInt.svg
+    fileSize: 441
+    createdAt: 2025-05-29T15:00:45.920Z
+    updatedAt: 2025-05-29T15:00:45.920Z
+  - fileName: capsule_A_v01_faceTopInt.dxf
+    fileType: dxf
+    filePath: capsule_a/capsule_A_v01_faceTopInt.dxf
+    fileSize: 624
+    createdAt: 2025-05-29T15:00:45.922Z
+    updatedAt: 2025-05-29T15:00:45.922Z
+  - fileName: capsule_A_v01_faceTop.svg
+    fileType: svg
+    filePath: capsule_a/capsule_A_v01_faceTop.svg
+    fileSize: 779
+    createdAt: 2025-05-29T15:00:45.923Z
+    updatedAt: 2025-05-29T15:00:45.923Z
+  - fileName: capsule_A_v01_faceTop.dxf
+    fileType: dxf
+    filePath: capsule_a/capsule_A_v01_faceTop.dxf
+    fileSize: 1212
+    createdAt: 2025-05-29T15:00:45.923Z
+    updatedAt: 2025-05-29T15:00:45.923Z
+  - fileName: capsule_A_v01_faceFront.svg
+    fileType: svg
+    filePath: capsule_a/capsule_A_v01_faceFront.svg
+    fileSize: 451
+    createdAt: 2025-05-29T15:00:45.924Z
+    updatedAt: 2025-05-29T15:00:45.924Z
+  - fileName: capsule_A_v01_faceFront.dxf
+    fileType: dxf
+    filePath: capsule_a/capsule_A_v01_faceFront.dxf
+    fileSize: 636
+    createdAt: 2025-05-29T15:00:45.925Z
+    updatedAt: 2025-05-29T15:00:45.925Z
+  - fileName: capsule_A_v01_faceBody.svg
+    fileType: svg
+    filePath: capsule_a/capsule_A_v01_faceBody.svg
+    fileSize: 1710
+    createdAt: 2025-05-29T15:00:45.925Z
+    updatedAt: 2025-05-29T15:00:45.925Z
+  - fileName: capsule_A_v01_faceBody.dxf
+    fileType: dxf
+    filePath: capsule_a/capsule_A_v01_faceBody.dxf
+    fileSize: 3058
+    createdAt: 2025-05-29T15:00:45.926Z
+    updatedAt: 2025-05-29T15:00:45.926Z
+  - fileName: capsule_A_v01.scad
+    fileType: scad
+    filePath: capsule_a/capsule_A_v01.scad
+    fileSize: 478530
+    createdAt: 2025-05-29T15:00:45.927Z
+    updatedAt: 2025-05-29T15:00:45.927Z
+  - fileName: capsule_A_v01.py
+    fileType: pyFreecad
+    filePath: capsule_a/capsule_A_v01.py
+    fileSize: 29783
+    createdAt: 2025-05-29T15:00:45.928Z
+    updatedAt: 2025-05-29T15:00:45.928Z
+  - fileName: capsule_A_v01.pax.json
+    fileType: paxJson
+    filePath: capsule_a/capsule_A_v01.pax.json
+    fileSize: 44095
+    createdAt: 2025-05-29T15:00:45.928Z
+    updatedAt: 2025-05-29T15:00:45.928Z
+  - fileName: capsule_A_v01.log.txt
+    fileType: txtLog
+    filePath: capsule_a/capsule_A_v01.log.txt
+    fileSize: 208
+    createdAt: 2025-05-29T15:00:45.929Z
+    updatedAt: 2025-05-29T15:00:45.929Z
+  - fileName: capsule_A_v01.js
+    fileType: jsCad
+    filePath: capsule_a/capsule_A_v01.js
+    fileSize: 423239
+    createdAt: 2025-05-29T15:00:45.930Z
+    updatedAt: 2025-05-29T15:00:45.930Z
