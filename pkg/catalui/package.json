@@ -27,13 +27,13 @@
 	"dependencies": {
 		"@astrojs/node": "^9.2.2",
 		"@vercel/analytics": "^1.5.0",
-		"astro": "^5.8.1",
+		"astro": "^5.9.2",
 		"yargs": "^18.0.0"
 	},
 	"devDependencies": {
 		"@astrojs/check": "^0.9.4",
 		"@colinaut/action-table": "^2.4.21",
-		"@types/node": "^22.15.24",
+		"@types/node": "^22.15.30",
 		"degit": "^2.8.4",
 		"fs-extra": "^11.3.0",
 		"glob": "^11.0.2",
