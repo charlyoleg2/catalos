@@ -1,0 +1,276 @@
+description: rc-car for agro-robotics with 5 rows of wheels
+tags:
+  - vehicle
+  - robotics
+  - remote control
+owner: mishka
+createdAt: 2025-06-09T21:54:10.773Z
+updatedAt: 2025-06-09T21:54:10.831Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/rccar
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: rccar_A1_v01_faceWheel.svg
+    fileType: svg
+    filePath: rccar_a1/rccar_A1_v01_faceWheel.svg
+    fileSize: 362
+    createdAt: 2025-06-09T21:54:10.777Z
+    updatedAt: 2025-06-09T21:54:10.777Z
+  - fileName: rccar_A1_v01_faceWheel.dxf
+    fileType: dxf
+    filePath: rccar_a1/rccar_A1_v01_faceWheel.dxf
+    fileSize: 568
+    createdAt: 2025-06-09T21:54:10.779Z
+    updatedAt: 2025-06-09T21:54:10.779Z
+  - fileName: rccar_A1_v01_faceTriangle.svg
+    fileType: svg
+    filePath: rccar_a1/rccar_A1_v01_faceTriangle.svg
+    fileSize: 444
+    createdAt: 2025-06-09T21:54:10.781Z
+    updatedAt: 2025-06-09T21:54:10.781Z
+  - fileName: rccar_A1_v01_faceTriangle.dxf
+    fileType: dxf
+    filePath: rccar_a1/rccar_A1_v01_faceTriangle.dxf
+    fileSize: 698
+    createdAt: 2025-06-09T21:54:10.783Z
+    updatedAt: 2025-06-09T21:54:10.783Z
+  - fileName: rccar_A1_v01_faceTop.svg
+    fileType: svg
+    filePath: rccar_a1/rccar_A1_v01_faceTop.svg
+    fileSize: 417
+    createdAt: 2025-06-09T21:54:10.785Z
+    updatedAt: 2025-06-09T21:54:10.785Z
+  - fileName: rccar_A1_v01_faceTop.dxf
+    fileType: dxf
+    filePath: rccar_a1/rccar_A1_v01_faceTop.dxf
+    fileSize: 572
+    createdAt: 2025-06-09T21:54:10.786Z
+    updatedAt: 2025-06-09T21:54:10.786Z
+  - fileName: rccar_A1_v01_faceSide.svg
+    fileType: svg
+    filePath: rccar_a1/rccar_A1_v01_faceSide.svg
+    fileSize: 249
+    createdAt: 2025-06-09T21:54:10.787Z
+    updatedAt: 2025-06-09T21:54:10.787Z
+  - fileName: rccar_A1_v01_faceSide.dxf
+    fileType: dxf
+    filePath: rccar_a1/rccar_A1_v01_faceSide.dxf
+    fileSize: 296
+    createdAt: 2025-06-09T21:54:10.789Z
+    updatedAt: 2025-06-09T21:54:10.789Z
+  - fileName: rccar_A1_v01_facePlatform.svg
+    fileType: svg
+    filePath: rccar_a1/rccar_A1_v01_facePlatform.svg
+    fileSize: 484
+    createdAt: 2025-06-09T21:54:10.790Z
+    updatedAt: 2025-06-09T21:54:10.790Z
+  - fileName: rccar_A1_v01_facePlatform.dxf
+    fileType: dxf
+    filePath: rccar_a1/rccar_A1_v01_facePlatform.dxf
+    fileSize: 836
+    createdAt: 2025-06-09T21:54:10.791Z
+    updatedAt: 2025-06-09T21:54:10.791Z
+  - fileName: rccar_A1_v01_facePFfixation.svg
+    fileType: svg
+    filePath: rccar_a1/rccar_A1_v01_facePFfixation.svg
+    fileSize: 1012
+    createdAt: 2025-06-09T21:54:10.793Z
+    updatedAt: 2025-06-09T21:54:10.793Z
+  - fileName: rccar_A1_v01_facePFfixation.dxf
+    fileType: dxf
+    filePath: rccar_a1/rccar_A1_v01_facePFfixation.dxf
+    fileSize: 1350
+    createdAt: 2025-06-09T21:54:10.794Z
+    updatedAt: 2025-06-09T21:54:10.794Z
+  - fileName: rccar_A1_v01_faceMotorBulkR.svg
+    fileType: svg
+    filePath: rccar_a1/rccar_A1_v01_faceMotorBulkR.svg
+    fileSize: 1477
+    createdAt: 2025-06-09T21:54:10.797Z
+    updatedAt: 2025-06-09T21:54:10.797Z
+  - fileName: rccar_A1_v01_faceMotorBulkR.dxf
+    fileType: dxf
+    filePath: rccar_a1/rccar_A1_v01_faceMotorBulkR.dxf
+    fileSize: 1737
+    createdAt: 2025-06-09T21:54:10.798Z
+    updatedAt: 2025-06-09T21:54:10.798Z
+  - fileName: rccar_A1_v01_faceMotorBulkL.svg
+    fileType: svg
+    filePath: rccar_a1/rccar_A1_v01_faceMotorBulkL.svg
+    fileSize: 1511
+    createdAt: 2025-06-09T21:54:10.800Z
+    updatedAt: 2025-06-09T21:54:10.800Z
+  - fileName: rccar_A1_v01_faceMotorBulkL.dxf
+    fileType: dxf
+    filePath: rccar_a1/rccar_A1_v01_faceMotorBulkL.dxf
+    fileSize: 1779
+    createdAt: 2025-06-09T21:54:10.801Z
+    updatedAt: 2025-06-09T21:54:10.801Z
+  - fileName: rccar_A1_v01_faceMFoot.svg
+    fileType: svg
+    filePath: rccar_a1/rccar_A1_v01_faceMFoot.svg
+    fileSize: 405
+    createdAt: 2025-06-09T21:54:10.802Z
+    updatedAt: 2025-06-09T21:54:10.802Z
+  - fileName: rccar_A1_v01_faceMFoot.dxf
+    fileType: dxf
+    filePath: rccar_a1/rccar_A1_v01_faceMFoot.dxf
+    fileSize: 492
+    createdAt: 2025-06-09T21:54:10.803Z
+    updatedAt: 2025-06-09T21:54:10.803Z
+  - fileName: rccar_A1_v01_faceHandPlateR.svg
+    fileType: svg
+    filePath: rccar_a1/rccar_A1_v01_faceHandPlateR.svg
+    fileSize: 1478
+    createdAt: 2025-06-09T21:54:10.803Z
+    updatedAt: 2025-06-09T21:54:10.803Z
+  - fileName: rccar_A1_v01_faceHandPlateR.dxf
+    fileType: dxf
+    filePath: rccar_a1/rccar_A1_v01_faceHandPlateR.dxf
+    fileSize: 1739
+    createdAt: 2025-06-09T21:54:10.804Z
+    updatedAt: 2025-06-09T21:54:10.804Z
+  - fileName: rccar_A1_v01_faceHandPlateL.svg
+    fileType: svg
+    filePath: rccar_a1/rccar_A1_v01_faceHandPlateL.svg
+    fileSize: 1508
+    createdAt: 2025-06-09T21:54:10.805Z
+    updatedAt: 2025-06-09T21:54:10.805Z
+  - fileName: rccar_A1_v01_faceHandPlateL.dxf
+    fileType: dxf
+    filePath: rccar_a1/rccar_A1_v01_faceHandPlateL.dxf
+    fileSize: 1779
+    createdAt: 2025-06-09T21:54:10.805Z
+    updatedAt: 2025-06-09T21:54:10.805Z
+  - fileName: rccar_A1_v01_faceHandFixation.svg
+    fileType: svg
+    filePath: rccar_a1/rccar_A1_v01_faceHandFixation.svg
+    fileSize: 1039
+    createdAt: 2025-06-09T21:54:10.806Z
+    updatedAt: 2025-06-09T21:54:10.806Z
+  - fileName: rccar_A1_v01_faceHandFixation.dxf
+    fileType: dxf
+    filePath: rccar_a1/rccar_A1_v01_faceHandFixation.dxf
+    fileSize: 1388
+    createdAt: 2025-06-09T21:54:10.809Z
+    updatedAt: 2025-06-09T21:54:10.809Z
+  - fileName: rccar_A1_v01_faceHandBackR.svg
+    fileType: svg
+    filePath: rccar_a1/rccar_A1_v01_faceHandBackR.svg
+    fileSize: 894
+    createdAt: 2025-06-09T21:54:10.810Z
+    updatedAt: 2025-06-09T21:54:10.810Z
+  - fileName: rccar_A1_v01_faceHandBackR.dxf
+    fileType: dxf
+    filePath: rccar_a1/rccar_A1_v01_faceHandBackR.dxf
+    fileSize: 1408
+    createdAt: 2025-06-09T21:54:10.812Z
+    updatedAt: 2025-06-09T21:54:10.812Z
+  - fileName: rccar_A1_v01_faceHandBackL.svg
+    fileType: svg
+    filePath: rccar_a1/rccar_A1_v01_faceHandBackL.svg
+    fileSize: 920
+    createdAt: 2025-06-09T21:54:10.812Z
+    updatedAt: 2025-06-09T21:54:10.812Z
+  - fileName: rccar_A1_v01_faceHandBackL.dxf
+    fileType: dxf
+    filePath: rccar_a1/rccar_A1_v01_faceHandBackL.dxf
+    fileSize: 1448
+    createdAt: 2025-06-09T21:54:10.813Z
+    updatedAt: 2025-06-09T21:54:10.814Z
+  - fileName: rccar_A1_v01_faceBones.svg
+    fileType: svg
+    filePath: rccar_a1/rccar_A1_v01_faceBones.svg
+    fileSize: 1644
+    createdAt: 2025-06-09T21:54:10.814Z
+    updatedAt: 2025-06-09T21:54:10.814Z
+  - fileName: rccar_A1_v01_faceBones.dxf
+    fileType: dxf
+    filePath: rccar_a1/rccar_A1_v01_faceBones.dxf
+    fileSize: 1639
+    createdAt: 2025-06-09T21:54:10.815Z
+    updatedAt: 2025-06-09T21:54:10.815Z
+  - fileName: rccar_A1_v01.scad
+    fileType: scad
+    filePath: rccar_a1/rccar_A1_v01.scad
+    fileSize: 190037
+    createdAt: 2025-06-09T21:54:10.816Z
+    updatedAt: 2025-06-09T21:54:10.816Z
+  - fileName: rccar_A1_v01.py
+    fileType: pyFreecad
+    filePath: rccar_a1/rccar_A1_v01.py
+    fileSize: 91826
+    createdAt: 2025-06-09T21:54:10.817Z
+    updatedAt: 2025-06-09T21:54:10.817Z
+  - fileName: rccar_A1_v01.pax.json
+    fileType: paxJson
+    filePath: rccar_a1/rccar_A1_v01.pax.json
+    fileSize: 82547
+    createdAt: 2025-06-09T21:54:10.818Z
+    updatedAt: 2025-06-09T21:54:10.818Z
+  - fileName: rccar_A1_v01.log.txt
+    fileType: txtLog
+    filePath: rccar_a1/rccar_A1_v01.log.txt
+    fileSize: 104
+    createdAt: 2025-06-09T21:54:10.819Z
+    updatedAt: 2025-06-09T21:54:10.819Z
+  - fileName: rccar_A1_v01.js
+    fileType: jsCad
+    filePath: rccar_a1/rccar_A1_v01.js
+    fileSize: 176411
+    createdAt: 2025-06-09T21:54:10.820Z
+    updatedAt: 2025-06-09T21:54:10.820Z
+  - fileName: px_rccar_A1_v01.json
+    fileType: pxJson
+    filePath: rccar_a1/px_rccar_A1_v01.json
+    fileSize: 704
+    createdAt: 2025-06-09T21:54:10.821Z
+    updatedAt: 2025-06-09T21:54:10.821Z
+  - fileName: f07.png
+    fileType: image
+    filePath: rccar_a1/f07.png
+    fileSize: 23676
+    createdAt: 2025-06-09T21:54:10.822Z
+    updatedAt: 2025-06-09T21:54:10.822Z
+  - fileName: f06.png
+    fileType: image
+    filePath: rccar_a1/f06.png
+    fileSize: 22352
+    createdAt: 2025-06-09T21:54:10.824Z
+    updatedAt: 2025-06-09T21:54:10.824Z
+  - fileName: f05.png
+    fileType: image
+    filePath: rccar_a1/f05.png
+    fileSize: 39915
+    createdAt: 2025-06-09T21:54:10.825Z
+    updatedAt: 2025-06-09T21:54:10.825Z
+  - fileName: f04.png
+    fileType: image
+    filePath: rccar_a1/f04.png
+    fileSize: 88564
+    createdAt: 2025-06-09T21:54:10.826Z
+    updatedAt: 2025-06-09T21:54:10.826Z
+  - fileName: f03.png
+    fileType: image
+    filePath: rccar_a1/f03.png
+    fileSize: 34595
+    createdAt: 2025-06-09T21:54:10.828Z
+    updatedAt: 2025-06-09T21:54:10.828Z
+  - fileName: f02.png
+    fileType: image
+    filePath: rccar_a1/f02.png
+    fileSize: 30092
+    createdAt: 2025-06-09T21:54:10.830Z
+    updatedAt: 2025-06-09T21:54:10.830Z
+  - fileName: f01.png
+    fileType: image
+    filePath: rccar_a1/f01.png
+    fileSize: 97130
+    createdAt: 2025-06-09T21:54:10.831Z
+    updatedAt: 2025-06-09T21:54:10.831Z
