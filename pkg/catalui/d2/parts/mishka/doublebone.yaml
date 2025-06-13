@@ -1,0 +1,174 @@
+description: combined suspension bones of the rccar
+tags:
+  - rc-car
+  - mechanics
+  - suspension
+owner: mishka
+createdAt: 2025-06-13T20:33:09.421Z
+updatedAt: 2025-06-13T20:33:09.430Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/doubleBone
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: px_doubleBone_v01.json
+    fileType: pxJson
+    filePath: doublebone/px_doubleBone_v01.json
+    fileSize: 516
+    createdAt: 2025-06-13T20:33:09.422Z
+    updatedAt: 2025-06-13T20:33:09.422Z
+  - fileName: f12.png
+    fileType: image
+    filePath: doublebone/f12.png
+    fileSize: 21309
+    createdAt: 2025-06-13T20:33:09.422Z
+    updatedAt: 2025-06-13T20:33:09.422Z
+  - fileName: f11.png
+    fileType: image
+    filePath: doublebone/f11.png
+    fileSize: 18914
+    createdAt: 2025-06-13T20:33:09.423Z
+    updatedAt: 2025-06-13T20:33:09.423Z
+  - fileName: f10.png
+    fileType: image
+    filePath: doublebone/f10.png
+    fileSize: 11662
+    createdAt: 2025-06-13T20:33:09.423Z
+    updatedAt: 2025-06-13T20:33:09.423Z
+  - fileName: f09.png
+    fileType: image
+    filePath: doublebone/f09.png
+    fileSize: 10447
+    createdAt: 2025-06-13T20:33:09.423Z
+    updatedAt: 2025-06-13T20:33:09.423Z
+  - fileName: f08.png
+    fileType: image
+    filePath: doublebone/f08.png
+    fileSize: 23371
+    createdAt: 2025-06-13T20:33:09.423Z
+    updatedAt: 2025-06-13T20:33:09.423Z
+  - fileName: f07.png
+    fileType: image
+    filePath: doublebone/f07.png
+    fileSize: 24912
+    createdAt: 2025-06-13T20:33:09.424Z
+    updatedAt: 2025-06-13T20:33:09.424Z
+  - fileName: f06.png
+    fileType: image
+    filePath: doublebone/f06.png
+    fileSize: 15690
+    createdAt: 2025-06-13T20:33:09.424Z
+    updatedAt: 2025-06-13T20:33:09.424Z
+  - fileName: f05.png
+    fileType: image
+    filePath: doublebone/f05.png
+    fileSize: 30341
+    createdAt: 2025-06-13T20:33:09.424Z
+    updatedAt: 2025-06-13T20:33:09.424Z
+  - fileName: f04.png
+    fileType: image
+    filePath: doublebone/f04.png
+    fileSize: 19835
+    createdAt: 2025-06-13T20:33:09.425Z
+    updatedAt: 2025-06-13T20:33:09.425Z
+  - fileName: f03.png
+    fileType: image
+    filePath: doublebone/f03.png
+    fileSize: 33061
+    createdAt: 2025-06-13T20:33:09.425Z
+    updatedAt: 2025-06-13T20:33:09.425Z
+  - fileName: f02.png
+    fileType: image
+    filePath: doublebone/f02.png
+    fileSize: 28818
+    createdAt: 2025-06-13T20:33:09.425Z
+    updatedAt: 2025-06-13T20:33:09.425Z
+  - fileName: f01.png
+    fileType: image
+    filePath: doublebone/f01.png
+    fileSize: 26950
+    createdAt: 2025-06-13T20:33:09.426Z
+    updatedAt: 2025-06-13T20:33:09.426Z
+  - fileName: doubleBone_v01_SFG_profiles.svg
+    fileType: svg
+    filePath: doublebone/doubleBone_v01_SFG_profiles.svg
+    fileSize: 2885
+    createdAt: 2025-06-13T20:33:09.426Z
+    updatedAt: 2025-06-13T20:33:09.426Z
+  - fileName: doubleBone_v01_SFG_profiles.dxf
+    fileType: dxf
+    filePath: doublebone/doubleBone_v01_SFG_profiles.dxf
+    fileSize: 4347
+    createdAt: 2025-06-13T20:33:09.426Z
+    updatedAt: 2025-06-13T20:33:09.426Z
+  - fileName: doubleBone_v01_SFG_pattern.svg
+    fileType: svg
+    filePath: doublebone/doubleBone_v01_SFG_pattern.svg
+    fileSize: 15750
+    createdAt: 2025-06-13T20:33:09.427Z
+    updatedAt: 2025-06-13T20:33:09.427Z
+  - fileName: doubleBone_v01_SFG_pattern.dxf
+    fileType: dxf
+    filePath: doublebone/doubleBone_v01_SFG_pattern.dxf
+    fileSize: 29188
+    createdAt: 2025-06-13T20:33:09.427Z
+    updatedAt: 2025-06-13T20:33:09.427Z
+  - fileName: doubleBone_v01_SFG_f01.svg
+    fileType: svg
+    filePath: doublebone/doubleBone_v01_SFG_f01.svg
+    fileSize: 1806
+    createdAt: 2025-06-13T20:33:09.427Z
+    updatedAt: 2025-06-13T20:33:09.427Z
+  - fileName: doubleBone_v01_SFG_f01.dxf
+    fileType: dxf
+    filePath: doublebone/doubleBone_v01_SFG_f01.dxf
+    fileSize: 3850
+    createdAt: 2025-06-13T20:33:09.428Z
+    updatedAt: 2025-06-13T20:33:09.428Z
+  - fileName: doubleBone_v01_SFG_f00.svg
+    fileType: svg
+    filePath: doublebone/doubleBone_v01_SFG_f00.svg
+    fileSize: 1200
+    createdAt: 2025-06-13T20:33:09.428Z
+    updatedAt: 2025-06-13T20:33:09.428Z
+  - fileName: doubleBone_v01_SFG_f00.dxf
+    fileType: dxf
+    filePath: doublebone/doubleBone_v01_SFG_f00.dxf
+    fileSize: 856
+    createdAt: 2025-06-13T20:33:09.428Z
+    updatedAt: 2025-06-13T20:33:09.428Z
+  - fileName: doubleBone_v01.scad
+    fileType: scad
+    filePath: doublebone/doubleBone_v01.scad
+    fileSize: 209884
+    createdAt: 2025-06-13T20:33:09.429Z
+    updatedAt: 2025-06-13T20:33:09.429Z
+  - fileName: doubleBone_v01.py
+    fileType: pyFreecad
+    filePath: doublebone/doubleBone_v01.py
+    fileSize: 172920
+    createdAt: 2025-06-13T20:33:09.429Z
+    updatedAt: 2025-06-13T20:33:09.429Z
+  - fileName: doubleBone_v01.pax.json
+    fileType: paxJson
+    filePath: doublebone/doubleBone_v01.pax.json
+    fileSize: 187419
+    createdAt: 2025-06-13T20:33:09.430Z
+    updatedAt: 2025-06-13T20:33:09.430Z
+  - fileName: doubleBone_v01.log.txt
+    fileType: txtLog
+    filePath: doublebone/doubleBone_v01.log.txt
+    fileSize: 188
+    createdAt: 2025-06-13T20:33:09.430Z
+    updatedAt: 2025-06-13T20:33:09.430Z
+  - fileName: doubleBone_v01.js
+    fileType: jsCad
+    filePath: doublebone/doubleBone_v01.js
+    fileSize: 195030
+    createdAt: 2025-06-13T20:33:09.430Z
+    updatedAt: 2025-06-13T20:33:09.430Z
