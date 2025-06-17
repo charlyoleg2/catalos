@@ -1,0 +1,162 @@
+description: the envelop of a passager car
+tags:
+  - passager car
+  - surface profile
+  - 3D intersection
+owner: mishka
+createdAt: 2025-06-17T09:09:15.460Z
+updatedAt: 2025-06-17T09:09:15.481Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/pcar
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: px_pcar_v01.json
+    fileType: pxJson
+    filePath: pcar/px_pcar_v01.json
+    fileSize: 832
+    createdAt: 2025-06-17T09:09:15.464Z
+    updatedAt: 2025-06-17T09:09:15.464Z
+  - fileName: pcar_v01_faceWheel.svg
+    fileType: svg
+    filePath: pcar/pcar_v01_faceWheel.svg
+    fileSize: 366
+    createdAt: 2025-06-17T09:09:15.465Z
+    updatedAt: 2025-06-17T09:09:15.465Z
+  - fileName: pcar_v01_faceWheel.dxf
+    fileType: dxf
+    filePath: pcar/pcar_v01_faceWheel.dxf
+    fileSize: 575
+    createdAt: 2025-06-17T09:09:15.466Z
+    updatedAt: 2025-06-17T09:09:15.466Z
+  - fileName: pcar_v01_faceTop.svg
+    fileType: svg
+    filePath: pcar/pcar_v01_faceTop.svg
+    fileSize: 558
+    createdAt: 2025-06-17T09:09:15.467Z
+    updatedAt: 2025-06-17T09:09:15.467Z
+  - fileName: pcar_v01_faceTop.dxf
+    fileType: dxf
+    filePath: pcar/pcar_v01_faceTop.dxf
+    fileSize: 684
+    createdAt: 2025-06-17T09:09:15.468Z
+    updatedAt: 2025-06-17T09:09:15.468Z
+  - fileName: pcar_v01_faceSideWoWheels.svg
+    fileType: svg
+    filePath: pcar/pcar_v01_faceSideWoWheels.svg
+    fileSize: 754
+    createdAt: 2025-06-17T09:09:15.468Z
+    updatedAt: 2025-06-17T09:09:15.468Z
+  - fileName: pcar_v01_faceSideWoWheels.dxf
+    fileType: dxf
+    filePath: pcar/pcar_v01_faceSideWoWheels.dxf
+    fileSize: 1131
+    createdAt: 2025-06-17T09:09:15.469Z
+    updatedAt: 2025-06-17T09:09:15.469Z
+  - fileName: pcar_v01_faceSideWiWheels.svg
+    fileType: svg
+    filePath: pcar/pcar_v01_faceSideWiWheels.svg
+    fileSize: 889
+    createdAt: 2025-06-17T09:09:15.470Z
+    updatedAt: 2025-06-17T09:09:15.470Z
+  - fileName: pcar_v01_faceSideWiWheels.dxf
+    fileType: dxf
+    filePath: pcar/pcar_v01_faceSideWiWheels.dxf
+    fileSize: 1427
+    createdAt: 2025-06-17T09:09:15.470Z
+    updatedAt: 2025-06-17T09:09:15.470Z
+  - fileName: pcar_v01_faceFront.svg
+    fileType: svg
+    filePath: pcar/pcar_v01_faceFront.svg
+    fileSize: 704
+    createdAt: 2025-06-17T09:09:15.471Z
+    updatedAt: 2025-06-17T09:09:15.471Z
+  - fileName: pcar_v01_faceFront.dxf
+    fileType: dxf
+    filePath: pcar/pcar_v01_faceFront.dxf
+    fileSize: 981
+    createdAt: 2025-06-17T09:09:15.472Z
+    updatedAt: 2025-06-17T09:09:15.472Z
+  - fileName: pcar_v01.scad
+    fileType: scad
+    filePath: pcar/pcar_v01.scad
+    fileSize: 509438
+    createdAt: 2025-06-17T09:09:15.473Z
+    updatedAt: 2025-06-17T09:09:15.473Z
+  - fileName: pcar_v01.py
+    fileType: pyFreecad
+    filePath: pcar/pcar_v01.py
+    fileSize: 14531
+    createdAt: 2025-06-17T09:09:15.473Z
+    updatedAt: 2025-06-17T09:09:15.473Z
+  - fileName: pcar_v01.pax.json
+    fileType: paxJson
+    filePath: pcar/pcar_v01.pax.json
+    fileSize: 27196
+    createdAt: 2025-06-17T09:09:15.474Z
+    updatedAt: 2025-06-17T09:09:15.474Z
+  - fileName: pcar_v01.log.txt
+    fileType: txtLog
+    filePath: pcar/pcar_v01.log.txt
+    fileSize: 109
+    createdAt: 2025-06-17T09:09:15.474Z
+    updatedAt: 2025-06-17T09:09:15.474Z
+  - fileName: pcar_v01.js
+    fileType: jsCad
+    filePath: pcar/pcar_v01.js
+    fileSize: 446765
+    createdAt: 2025-06-17T09:09:15.475Z
+    updatedAt: 2025-06-17T09:09:15.475Z
+  - fileName: f08.png
+    fileType: image
+    filePath: pcar/f08.png
+    fileSize: 65023
+    createdAt: 2025-06-17T09:09:15.476Z
+    updatedAt: 2025-06-17T09:09:15.476Z
+  - fileName: f07.png
+    fileType: image
+    filePath: pcar/f07.png
+    fileSize: 63770
+    createdAt: 2025-06-17T09:09:15.477Z
+    updatedAt: 2025-06-17T09:09:15.477Z
+  - fileName: f06.png
+    fileType: image
+    filePath: pcar/f06.png
+    fileSize: 45634
+    createdAt: 2025-06-17T09:09:15.477Z
+    updatedAt: 2025-06-17T09:09:15.477Z
+  - fileName: f05.png
+    fileType: image
+    filePath: pcar/f05.png
+    fileSize: 53493
+    createdAt: 2025-06-17T09:09:15.478Z
+    updatedAt: 2025-06-17T09:09:15.478Z
+  - fileName: f04.png
+    fileType: image
+    filePath: pcar/f04.png
+    fileSize: 47910
+    createdAt: 2025-06-17T09:09:15.479Z
+    updatedAt: 2025-06-17T09:09:15.479Z
+  - fileName: f03.png
+    fileType: image
+    filePath: pcar/f03.png
+    fileSize: 38945
+    createdAt: 2025-06-17T09:09:15.479Z
+    updatedAt: 2025-06-17T09:09:15.479Z
+  - fileName: f02.png
+    fileType: image
+    filePath: pcar/f02.png
+    fileSize: 51285
+    createdAt: 2025-06-17T09:09:15.480Z
+    updatedAt: 2025-06-17T09:09:15.480Z
+  - fileName: f01.png
+    fileType: image
+    filePath: pcar/f01.png
+    fileSize: 72865
+    createdAt: 2025-06-17T09:09:15.480Z
+    updatedAt: 2025-06-17T09:09:15.480Z
