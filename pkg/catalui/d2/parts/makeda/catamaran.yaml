@@ -1,0 +1,163 @@
+description: A model of catamaran boat
+tags:
+  - boat
+  - water
+  - float
+  - model
+owner: makeda
+createdAt: 2025-06-18T03:14:47.169Z
+updatedAt: 2025-06-18T03:14:47.237Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame76/desi76/catamaran
+linkToSrc: https://github.com/charlyoleg2/parame76
+linkToPkg: https://www.npmjs.com/package/desi76
+linkToCli: https://www.npmjs.com/package/desi76-cli
+linkToUis: https://www.npmjs.com/package/desi76-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame76
+linkOthers: []
+files:
+  - fileName: px_catamaran_v01.json
+    fileType: pxJson
+    filePath: catamaran/px_catamaran_v01.json
+    fileSize: 361
+    createdAt: 2025-06-18T03:14:47.177Z
+    updatedAt: 2025-06-18T03:14:47.177Z
+  - fileName: f06.png
+    fileType: image
+    filePath: catamaran/f06.png
+    fileSize: 17457
+    createdAt: 2025-06-18T03:14:47.179Z
+    updatedAt: 2025-06-18T03:14:47.179Z
+  - fileName: f05.png
+    fileType: image
+    filePath: catamaran/f05.png
+    fileSize: 17527
+    createdAt: 2025-06-18T03:14:47.181Z
+    updatedAt: 2025-06-18T03:14:47.181Z
+  - fileName: f04.png
+    fileType: image
+    filePath: catamaran/f04.png
+    fileSize: 18465
+    createdAt: 2025-06-18T03:14:47.184Z
+    updatedAt: 2025-06-18T03:14:47.184Z
+  - fileName: f03.png
+    fileType: image
+    filePath: catamaran/f03.png
+    fileSize: 9755
+    createdAt: 2025-06-18T03:14:47.186Z
+    updatedAt: 2025-06-18T03:14:47.186Z
+  - fileName: f02.png
+    fileType: image
+    filePath: catamaran/f02.png
+    fileSize: 7864
+    createdAt: 2025-06-18T03:14:47.190Z
+    updatedAt: 2025-06-18T03:14:47.190Z
+  - fileName: f01.png
+    fileType: image
+    filePath: catamaran/f01.png
+    fileSize: 13309
+    createdAt: 2025-06-18T03:14:47.192Z
+    updatedAt: 2025-06-18T03:14:47.192Z
+  - fileName: catamaran_v01_faceVault.svg
+    fileType: svg
+    filePath: catamaran/catamaran_v01_faceVault.svg
+    fileSize: 485
+    createdAt: 2025-06-18T03:14:47.195Z
+    updatedAt: 2025-06-18T03:14:47.195Z
+  - fileName: catamaran_v01_faceVault.dxf
+    fileType: dxf
+    filePath: catamaran/catamaran_v01_faceVault.dxf
+    fileSize: 720
+    createdAt: 2025-06-18T03:14:47.198Z
+    updatedAt: 2025-06-18T03:14:47.198Z
+  - fileName: catamaran_v01_faceFloatWall.svg
+    fileType: svg
+    filePath: catamaran/catamaran_v01_faceFloatWall.svg
+    fileSize: 1575
+    createdAt: 2025-06-18T03:14:47.201Z
+    updatedAt: 2025-06-18T03:14:47.201Z
+  - fileName: catamaran_v01_faceFloatWall.dxf
+    fileType: dxf
+    filePath: catamaran/catamaran_v01_faceFloatWall.dxf
+    fileSize: 2440
+    createdAt: 2025-06-18T03:14:47.204Z
+    updatedAt: 2025-06-18T03:14:47.204Z
+  - fileName: catamaran_v01_faceFloatBase.svg
+    fileType: svg
+    filePath: catamaran/catamaran_v01_faceFloatBase.svg
+    fileSize: 837
+    createdAt: 2025-06-18T03:14:47.207Z
+    updatedAt: 2025-06-18T03:14:47.207Z
+  - fileName: catamaran_v01_faceFloatBase.dxf
+    fileType: dxf
+    filePath: catamaran/catamaran_v01_faceFloatBase.dxf
+    fileSize: 1236
+    createdAt: 2025-06-18T03:14:47.209Z
+    updatedAt: 2025-06-18T03:14:47.209Z
+  - fileName: catamaran_v01_faceCabineWall.svg
+    fileType: svg
+    filePath: catamaran/catamaran_v01_faceCabineWall.svg
+    fileSize: 295
+    createdAt: 2025-06-18T03:14:47.211Z
+    updatedAt: 2025-06-18T03:14:47.211Z
+  - fileName: catamaran_v01_faceCabineWall.dxf
+    fileType: dxf
+    filePath: catamaran/catamaran_v01_faceCabineWall.dxf
+    fileSize: 444
+    createdAt: 2025-06-18T03:14:47.213Z
+    updatedAt: 2025-06-18T03:14:47.213Z
+  - fileName: catamaran_v01_faceCabineEnv.svg
+    fileType: svg
+    filePath: catamaran/catamaran_v01_faceCabineEnv.svg
+    fileSize: 493
+    createdAt: 2025-06-18T03:14:47.216Z
+    updatedAt: 2025-06-18T03:14:47.216Z
+  - fileName: catamaran_v01_faceCabineEnv.dxf
+    fileType: dxf
+    filePath: catamaran/catamaran_v01_faceCabineEnv.dxf
+    fileSize: 852
+    createdAt: 2025-06-18T03:14:47.219Z
+    updatedAt: 2025-06-18T03:14:47.219Z
+  - fileName: catamaran_v01_faceCabineBase.svg
+    fileType: svg
+    filePath: catamaran/catamaran_v01_faceCabineBase.svg
+    fileSize: 343
+    createdAt: 2025-06-18T03:14:47.221Z
+    updatedAt: 2025-06-18T03:14:47.221Z
+  - fileName: catamaran_v01_faceCabineBase.dxf
+    fileType: dxf
+    filePath: catamaran/catamaran_v01_faceCabineBase.dxf
+    fileSize: 357
+    createdAt: 2025-06-18T03:14:47.223Z
+    updatedAt: 2025-06-18T03:14:47.223Z
+  - fileName: catamaran_v01.scad
+    fileType: scad
+    filePath: catamaran/catamaran_v01.scad
+    fileSize: 80549
+    createdAt: 2025-06-18T03:14:47.227Z
+    updatedAt: 2025-06-18T03:14:47.227Z
+  - fileName: catamaran_v01.py
+    fileType: pyFreecad
+    filePath: catamaran/catamaran_v01.py
+    fileSize: 17587
+    createdAt: 2025-06-18T03:14:47.228Z
+    updatedAt: 2025-06-18T03:14:47.228Z
+  - fileName: catamaran_v01.pax.json
+    fileType: paxJson
+    filePath: catamaran/catamaran_v01.pax.json
+    fileSize: 22271
+    createdAt: 2025-06-18T03:14:47.231Z
+    updatedAt: 2025-06-18T03:14:47.231Z
+  - fileName: catamaran_v01.log.txt
+    fileType: txtLog
+    filePath: catamaran/catamaran_v01.log.txt
+    fileSize: 123
+    createdAt: 2025-06-18T03:14:47.235Z
+    updatedAt: 2025-06-18T03:14:47.235Z
+  - fileName: catamaran_v01.js
+    fileType: jsCad
+    filePath: catamaran/catamaran_v01.js
+    fileSize: 72709
+    createdAt: 2025-06-18T03:14:47.236Z
+    updatedAt: 2025-06-18T03:14:47.236Z
