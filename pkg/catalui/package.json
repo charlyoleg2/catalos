@@ -29,6 +29,7 @@
 		"@astrojs/sitemap": "^3.4.1",
 		"@vercel/analytics": "^1.5.0",
 		"astro": "^5.10.0",
+		"astro-seo-meta": "^5.1.0",
 		"yargs": "^18.0.0"
 	},
 	"devDependencies": {
