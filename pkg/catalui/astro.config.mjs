@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig, envField } from 'astro/config';
+import sitemap from '@astrojs/sitemap';
 //import node from "@astrojs/node";
 
 const basePath = process.env.BASE_PATH;
@@ -17,4 +18,6 @@ export default defineConfig({
 	//adapter: node({
 	//	mode: "standalone",
 	//}),
+	site: 'https://catalos.fr',
+	integrations: [sitemap()],
 });
