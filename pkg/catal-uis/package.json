@@ -1,0 +1,101 @@
+{
+	"name": "catal-uis",
+	"description": "mini-server for the static website catalos-catalui",
+	"version": "0.1.3",
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/charlyoleg2/catalos.git"
+	},
+	"homepage": "https://charlyoleg2.github.io/catalos/",
+	"author": "charlyoleg",
+	"license": "ISC",
+	"keywords": [
+		"parametrix",
+		"catalog",
+		"catalogue",
+		"catalos",
+		"3D",
+		"CAD"
+	],
+	"type": "module",
+	"exports": {
+		".": {
+			"types": "./dist/catal-uis.d.ts",
+			"default": "./dist/catal-uis.js"
+		}
+	},
+	"bin": {
+		"catal-uis": "dist/catal-uis.js"
+	},
+	"files": [
+		"dist/",
+		"!dist/**/*.d.ts",
+		"!dist/**/*.map",
+		"!dist/**/*.test.*",
+		"!dist/**/*.spec.*"
+	],
+	"engines": {
+		"node": ">=22.0.0"
+	},
+	"tsup": {
+		"entry": [
+			"src/catal-uis.ts"
+		],
+		"format": "esm",
+		"splitting": false,
+		"dts": false,
+		"sourcemap": false,
+		"clean": true
+	},
+	"prettier": {
+		"useTabs": true,
+		"singleQuote": true,
+		"trailingComma": "none",
+		"printWidth": 100,
+		"plugins": [],
+		"overrides": []
+	},
+	"scripts": {
+		"dev": "tsup --watch",
+		"build": "tsup",
+		"check": "tsc --noEmit",
+		"pretty": "prettier --check .",
+		"format": "prettier --write .",
+		"lint": "eslint .",
+		"test:unit": "vitest",
+		"test:unit:once": "vitest --run",
+		"clean_public": "rimraf dist/public",
+		"copy_ui": "fse copy ../catalui/build dist/public",
+		"checkCopy": "ls -l dist/public/index.html",
+		"copy_public": "run-s clean_public copy_ui checkCopy",
+		"ci": "run-s check build pretty lint test:unit:once copy_public",
+		"run": "node dist/catal-uis.js",
+		"run-help": "node dist/catal-uis.js --help",
+		"clean": "rimraf node_modules build dist tmp"
+	},
+	"dependencies": {
+		"express": "^5.1.0",
+		"fs-extra": "^11.3.0",
+		"get-port": "^7.1.0",
+		"open": "^10.1.2",
+		"yargs": "^18.0.0"
+	},
+	"devDependencies": {
+		"@atao60/fse-cli": "^0.1.9",
+		"@eslint/js": "^9.10.0",
+		"@types/eslint__js": "^8.42.3",
+		"@types/express": "^5.0.3",
+		"@types/fs-extra": "^11.0.4",
+		"@types/yargs": "^17.0.33",
+		"eslint": "^9.29.0",
+		"eslint-config-prettier": "^10.1.5",
+		"npm-run-all2": "^8.0.4",
+		"prettier": "^3.6.0",
+		"rimraf": "^6.0.1",
+		"tsup": "^8.5.0",
+		"typescript": "^5.8.3",
+		"typescript-eslint": "^8.34.1",
+		"vitest": "^3.2.4"
+	}
+}
