@@ -17,7 +17,9 @@ It can be compiled in two variants:
 - a static variant: [catalos](https://charlyoleg2.github.io/catalos/)
 - a dynamic variant: [catalos](https://charlyoleg2.github.io/catalos/)
 
-*Catalos* is also deployed on [Vercel](https://catalos-catalui.vercel.app/) with more parts.
+*Catalos* is also deployed with more parts on:
+- [Clever-cloud](https://parametrix.fr/)
+- [Vercel](https://catalos-catalui.vercel.app/)
 
 *catalos* is a monorepo that contains the following *javascript* packages:
 
