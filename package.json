@@ -30,7 +30,7 @@
 		"catal-uis:run": "npm -w catal-uis run run",
 		"catal-uis:clean": "npm -w catal-uis run clean",
 		"catal-uis:version": "npm -w catal-uis version patch",
-		"ci": "run-s catalui:ci catal-uis",
+		"ci": "run-s catalui:ci catal-uis:ci",
 		"clean-root": "rimraf tmp output output2 build",
 		"clean": "run-s clean-root catalui:clean catal-uis:clean",
 		"preview": "run-p catalui:preview",
