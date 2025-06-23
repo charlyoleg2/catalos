@@ -18,6 +18,6 @@ export default defineConfig({
 	//adapter: node({
 	//	mode: "standalone",
 	//}),
-	site: 'https://catalos.fr',
+	site: 'https://parametrix.fr',
 	integrations: [sitemap()],
 });
