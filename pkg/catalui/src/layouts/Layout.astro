@@ -4,7 +4,6 @@ import TopMenu from '@src/components/TopMenu.astro';
 import Footy from '@src/components/Footy.astro';
 import '@src/styles/styling-vars.css';
 import { Seo } from 'astro-seo-meta';
-import Analytics from '@vercel/analytics/astro';
 
 interface Props {
 	title: string;
@@ -34,7 +33,6 @@ const base2 = base === '/' ? '/' : `${base}/`;
 		<link rel="sitemap" href="sitemap-index.xml" />
 		<Seo title={title} description={description} keywords={tags} robots={robots} />
 		<title>{title}</title>
-		<Analytics />
 	</head>
 	<body>
 		<TopMenu />
