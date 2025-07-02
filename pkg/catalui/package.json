@@ -27,14 +27,14 @@
 	"dependencies": {
 		"@astrojs/node": "^9.2.2",
 		"@astrojs/sitemap": "^3.4.1",
-		"astro": "^5.10.1",
+		"astro": "^5.10.2",
 		"astro-seo-meta": "^5.1.0",
 		"yargs": "^18.0.0"
 	},
 	"devDependencies": {
 		"@astrojs/check": "^0.9.4",
 		"@colinaut/action-table": "^2.4.22",
-		"@types/node": "^24.0.7",
+		"@types/node": "^24.0.10",
 		"degit": "^2.8.4",
 		"fs-extra": "^11.3.0",
 		"glob": "^11.0.3",
