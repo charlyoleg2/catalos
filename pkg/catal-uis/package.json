@@ -2,7 +2,7 @@
 	"name": "catal-uis",
 	"description": "feli-package catal-uis for installing locally the web-ui catalos-catalui",
 	"version": "0.1.4",
-	"private": false,
+	"private": true,
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/charlyoleg2/catalos.git"
