@@ -1,11 +1,13 @@
-catal-uis
+Catal-uis
 =========
 
 
 Presentation
 ------------
 
-*catal-uis* is the static web-server of the static web-site *catalos-catalui*.
+*catal-uis* is the mini-server package for enabling the local installation of the web-ui *catalos-catalui*.
+
+Usually, this mini-server package catal-uis is part of a mono-repo containing an other package for the web-ui and potentially an *universal* library backing the web-ui.
 
 
 Requirements
@@ -39,17 +41,5 @@ Usage without installation
 npx catal-uis
 npx --package=catal-uis catal-uis
 npx --package=catal-uis catal-uis --help
-```
-
-
-Development
------------
-
-```bash
-git clone https://github.com/charlyoleg2/catalos
-cd catalos
-npm install
-npm run ci
-npm -w catal-uis run run
 ```
 
