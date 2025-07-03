@@ -25,9 +25,9 @@
 		"clean": "run-s clean-astro clean-u clean-d1 clean-tmp"
 	},
 	"dependencies": {
-		"@astrojs/node": "^9.2.2",
+		"@astrojs/node": "^9.3.0",
 		"@astrojs/sitemap": "^3.4.1",
-		"astro": "^5.10.2",
+		"astro": "^5.11.0",
 		"astro-seo-meta": "^5.1.0",
 		"yargs": "^18.0.0"
 	},
