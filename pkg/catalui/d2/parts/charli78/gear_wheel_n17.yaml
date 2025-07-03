@@ -5,8 +5,8 @@ tags:
   - mecanics
 owner: charli78
 createdAt: 2025-01-10T21:46:52.623Z
-updatedAt: 2025-01-12T18:02:04.051Z
-updateCount: 2
+updatedAt: 2025-07-03T13:03:43.789Z
+updateCount: 3
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/gear/gear_wheel
 linkToSrc: https://github.com/charlyoleg2/parametrix/tree/main/pkg/designix/src/gears
@@ -85,9 +85,9 @@ files:
   - fileName: gear_wheel_N17_v01.py
     fileType: pyFreecad
     filePath: gear_wheel_n17/gear_wheel_N17_v01.py
-    fileSize: 32795
+    fileSize: 32793
     createdAt: 2025-01-10T21:46:52.650Z
-    updatedAt: 2025-01-12T18:02:04.050Z
+    updatedAt: 2025-07-03T13:03:43.781Z
   - fileName: gear_wheel_N17_v01.pax.json
     fileType: paxJson
     filePath: gear_wheel_n17/gear_wheel_N17_v01.pax.json
