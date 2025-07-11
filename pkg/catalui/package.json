@@ -34,7 +34,7 @@
 	"devDependencies": {
 		"@astrojs/check": "^0.9.4",
 		"@colinaut/action-table": "^2.4.22",
-		"@types/node": "^24.0.10",
+		"@types/node": "^24.0.13",
 		"degit": "^2.8.4",
 		"fs-extra": "^11.3.0",
 		"glob": "^11.0.3",
