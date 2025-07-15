@@ -1,0 +1,90 @@
+description: simple cylinder shape for experimenting systemix
+tags:
+  - systemix
+  - sysmix
+  - hierarchical system
+owner: mishka
+createdAt: 2025-07-15T22:46:13.876Z
+updatedAt: 2025-07-15T22:46:13.884Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/cylinder
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: px_cylinder_A1_v01.json
+    fileType: pxJson
+    filePath: cylinder_a1/px_cylinder_A1_v01.json
+    fileSize: 158
+    createdAt: 2025-07-15T22:46:13.877Z
+    updatedAt: 2025-07-15T22:46:13.877Z
+  - fileName: f04.png
+    fileType: image
+    filePath: cylinder_a1/f04.png
+    fileSize: 11797
+    createdAt: 2025-07-15T22:46:13.878Z
+    updatedAt: 2025-07-15T22:46:13.878Z
+  - fileName: f03.png
+    fileType: image
+    filePath: cylinder_a1/f03.png
+    fileSize: 9871
+    createdAt: 2025-07-15T22:46:13.878Z
+    updatedAt: 2025-07-15T22:46:13.878Z
+  - fileName: f02.png
+    fileType: image
+    filePath: cylinder_a1/f02.png
+    fileSize: 6285
+    createdAt: 2025-07-15T22:46:13.879Z
+    updatedAt: 2025-07-15T22:46:13.879Z
+  - fileName: f01.png
+    fileType: image
+    filePath: cylinder_a1/f01.png
+    fileSize: 10416
+    createdAt: 2025-07-15T22:46:13.880Z
+    updatedAt: 2025-07-15T22:46:13.880Z
+  - fileName: cylinder_A1_v01_faceCylinder.svg
+    fileType: svg
+    filePath: cylinder_a1/cylinder_A1_v01_faceCylinder.svg
+    fileSize: 277
+    createdAt: 2025-07-15T22:46:13.880Z
+    updatedAt: 2025-07-15T22:46:13.880Z
+  - fileName: cylinder_A1_v01_faceCylinder.dxf
+    fileType: dxf
+    filePath: cylinder_a1/cylinder_A1_v01_faceCylinder.dxf
+    fileSize: 142
+    createdAt: 2025-07-15T22:46:13.881Z
+    updatedAt: 2025-07-15T22:46:13.881Z
+  - fileName: cylinder_A1_v01.scad
+    fileType: scad
+    filePath: cylinder_a1/cylinder_A1_v01.scad
+    fileSize: 6854
+    createdAt: 2025-07-15T22:46:13.881Z
+    updatedAt: 2025-07-15T22:46:13.881Z
+  - fileName: cylinder_A1_v01.py
+    fileType: pyFreecad
+    filePath: cylinder_a1/cylinder_A1_v01.py
+    fileSize: 1742
+    createdAt: 2025-07-15T22:46:13.882Z
+    updatedAt: 2025-07-15T22:46:13.882Z
+  - fileName: cylinder_A1_v01.pax.json
+    fileType: paxJson
+    filePath: cylinder_a1/cylinder_A1_v01.pax.json
+    fileSize: 2013
+    createdAt: 2025-07-15T22:46:13.883Z
+    updatedAt: 2025-07-15T22:46:13.883Z
+  - fileName: cylinder_A1_v01.log.txt
+    fileType: txtLog
+    filePath: cylinder_a1/cylinder_A1_v01.log.txt
+    fileSize: 91
+    createdAt: 2025-07-15T22:46:13.883Z
+    updatedAt: 2025-07-15T22:46:13.883Z
+  - fileName: cylinder_A1_v01.js
+    fileType: jsCad
+    filePath: cylinder_a1/cylinder_A1_v01.js
+    fileSize: 6753
+    createdAt: 2025-07-15T22:46:13.884Z
+    updatedAt: 2025-07-15T22:46:13.884Z

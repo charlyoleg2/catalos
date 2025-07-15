@@ -1,0 +1,84 @@
+description: simple square shape for experimenting systemix
+tags:
+  - systemix
+  - sysmix
+  - hierarchical system
+owner: mishka
+createdAt: 2025-07-15T22:46:12.937Z
+updatedAt: 2025-07-15T22:46:12.951Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/square
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: square_A1_v01_faceSquare.svg
+    fileType: svg
+    filePath: square_a1/square_A1_v01_faceSquare.svg
+    fileSize: 340
+    createdAt: 2025-07-15T22:46:12.941Z
+    updatedAt: 2025-07-15T22:46:12.941Z
+  - fileName: square_A1_v01_faceSquare.dxf
+    fileType: dxf
+    filePath: square_a1/square_A1_v01_faceSquare.dxf
+    fileSize: 353
+    createdAt: 2025-07-15T22:46:12.942Z
+    updatedAt: 2025-07-15T22:46:12.942Z
+  - fileName: square_A1_v01.scad
+    fileType: scad
+    filePath: square_a1/square_A1_v01.scad
+    fileSize: 2722
+    createdAt: 2025-07-15T22:46:12.943Z
+    updatedAt: 2025-07-15T22:46:12.943Z
+  - fileName: square_A1_v01.py
+    fileType: pyFreecad
+    filePath: square_a1/square_A1_v01.py
+    fileSize: 2002
+    createdAt: 2025-07-15T22:46:12.945Z
+    updatedAt: 2025-07-15T22:46:12.945Z
+  - fileName: square_A1_v01.pax.json
+    fileType: paxJson
+    filePath: square_a1/square_A1_v01.pax.json
+    fileSize: 2715
+    createdAt: 2025-07-15T22:46:12.947Z
+    updatedAt: 2025-07-15T22:46:12.947Z
+  - fileName: square_A1_v01.log.txt
+    fileType: txtLog
+    filePath: square_a1/square_A1_v01.log.txt
+    fileSize: 87
+    createdAt: 2025-07-15T22:46:12.948Z
+    updatedAt: 2025-07-15T22:46:12.948Z
+  - fileName: square_A1_v01.js
+    fileType: jsCad
+    filePath: square_a1/square_A1_v01.js
+    fileSize: 3077
+    createdAt: 2025-07-15T22:46:12.948Z
+    updatedAt: 2025-07-15T22:46:12.948Z
+  - fileName: px_square_A1_v01.json
+    fileType: pxJson
+    filePath: square_a1/px_square_A1_v01.json
+    fileSize: 181
+    createdAt: 2025-07-15T22:46:12.949Z
+    updatedAt: 2025-07-15T22:46:12.949Z
+  - fileName: f03.png
+    fileType: image
+    filePath: square_a1/f03.png
+    fileSize: 4833
+    createdAt: 2025-07-15T22:46:12.950Z
+    updatedAt: 2025-07-15T22:46:12.950Z
+  - fileName: f02.png
+    fileType: image
+    filePath: square_a1/f02.png
+    fileSize: 13346
+    createdAt: 2025-07-15T22:46:12.951Z
+    updatedAt: 2025-07-15T22:46:12.951Z
+  - fileName: f01.png
+    fileType: image
+    filePath: square_a1/f01.png
+    fileSize: 9204
+    createdAt: 2025-07-15T22:46:12.951Z
+    updatedAt: 2025-07-15T22:46:12.951Z

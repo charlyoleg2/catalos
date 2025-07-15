@@ -1,0 +1,96 @@
+description: triangle sandwich shape for experimenting systemix
+tags:
+  - systemix
+  - sysmix
+  - hierarchical system
+owner: mishka
+createdAt: 2025-07-15T22:46:12.766Z
+updatedAt: 2025-07-15T22:46:12.786Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/triangle
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: triangle_A1_v01_faceTriangle.svg
+    fileType: svg
+    filePath: triangle_a1/triangle_A1_v01_faceTriangle.svg
+    fileSize: 320
+    createdAt: 2025-07-15T22:46:12.773Z
+    updatedAt: 2025-07-15T22:46:12.773Z
+  - fileName: triangle_A1_v01_faceTriangle.dxf
+    fileType: dxf
+    filePath: triangle_a1/triangle_A1_v01_faceTriangle.dxf
+    fileSize: 285
+    createdAt: 2025-07-15T22:46:12.775Z
+    updatedAt: 2025-07-15T22:46:12.775Z
+  - fileName: triangle_A1_v01.scad
+    fileType: scad
+    filePath: triangle_a1/triangle_A1_v01.scad
+    fileSize: 3151
+    createdAt: 2025-07-15T22:46:12.776Z
+    updatedAt: 2025-07-15T22:46:12.776Z
+  - fileName: triangle_A1_v01.py
+    fileType: pyFreecad
+    filePath: triangle_a1/triangle_A1_v01.py
+    fileSize: 2996
+    createdAt: 2025-07-15T22:46:12.777Z
+    updatedAt: 2025-07-15T22:46:12.777Z
+  - fileName: triangle_A1_v01.pax.json
+    fileType: paxJson
+    filePath: triangle_a1/triangle_A1_v01.pax.json
+    fileSize: 3823
+    createdAt: 2025-07-15T22:46:12.778Z
+    updatedAt: 2025-07-15T22:46:12.778Z
+  - fileName: triangle_A1_v01.log.txt
+    fileType: txtLog
+    filePath: triangle_a1/triangle_A1_v01.log.txt
+    fileSize: 90
+    createdAt: 2025-07-15T22:46:12.779Z
+    updatedAt: 2025-07-15T22:46:12.779Z
+  - fileName: triangle_A1_v01.js
+    fileType: jsCad
+    filePath: triangle_a1/triangle_A1_v01.js
+    fileSize: 3438
+    createdAt: 2025-07-15T22:46:12.780Z
+    updatedAt: 2025-07-15T22:46:12.780Z
+  - fileName: px_triangle_A1_v01.json
+    fileType: pxJson
+    filePath: triangle_a1/px_triangle_A1_v01.json
+    fileSize: 206
+    createdAt: 2025-07-15T22:46:12.780Z
+    updatedAt: 2025-07-15T22:46:12.780Z
+  - fileName: f05.png
+    fileType: image
+    filePath: triangle_a1/f05.png
+    fileSize: 11429
+    createdAt: 2025-07-15T22:46:12.781Z
+    updatedAt: 2025-07-15T22:46:12.781Z
+  - fileName: f04.png
+    fileType: image
+    filePath: triangle_a1/f04.png
+    fileSize: 6482
+    createdAt: 2025-07-15T22:46:12.782Z
+    updatedAt: 2025-07-15T22:46:12.782Z
+  - fileName: f03.png
+    fileType: image
+    filePath: triangle_a1/f03.png
+    fileSize: 15711
+    createdAt: 2025-07-15T22:46:12.783Z
+    updatedAt: 2025-07-15T22:46:12.783Z
+  - fileName: f02.png
+    fileType: image
+    filePath: triangle_a1/f02.png
+    fileSize: 12736
+    createdAt: 2025-07-15T22:46:12.784Z
+    updatedAt: 2025-07-15T22:46:12.784Z
+  - fileName: f01.png
+    fileType: image
+    filePath: triangle_a1/f01.png
+    fileSize: 11769
+    createdAt: 2025-07-15T22:46:12.786Z
+    updatedAt: 2025-07-15T22:46:12.786Z
