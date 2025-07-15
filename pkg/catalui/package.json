@@ -27,7 +27,7 @@
 	"dependencies": {
 		"@astrojs/node": "^9.3.0",
 		"@astrojs/sitemap": "^3.4.1",
-		"astro": "^5.11.0",
+		"astro": "^5.11.1",
 		"astro-seo-meta": "^5.1.0",
 		"yargs": "^18.0.0"
 	},
