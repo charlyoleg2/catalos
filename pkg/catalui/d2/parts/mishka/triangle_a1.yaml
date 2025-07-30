@@ -5,8 +5,8 @@ tags:
   - hierarchical system
 owner: mishka
 createdAt: 2025-07-15T22:46:12.766Z
-updatedAt: 2025-07-15T22:46:12.786Z
-updateCount: 1
+updatedAt: 2025-07-30T21:23:44.552Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame77/desi77/triangle
 linkToSrc: https://github.com/charlyoleg2/parame77
@@ -28,24 +28,36 @@ files:
     fileSize: 285
     createdAt: 2025-07-15T22:46:12.775Z
     updatedAt: 2025-07-15T22:46:12.775Z
+  - fileName: triangle_A1_v01_faceHeight.svg
+    fileType: svg
+    filePath: triangle_a1/triangle_A1_v01_faceHeight.svg
+    fileSize: 545
+    createdAt: 2025-07-30T21:23:44.526Z
+    updatedAt: 2025-07-30T21:23:44.526Z
+  - fileName: triangle_A1_v01_faceHeight.dxf
+    fileType: dxf
+    filePath: triangle_a1/triangle_A1_v01_faceHeight.dxf
+    fileSize: 812
+    createdAt: 2025-07-30T21:23:44.528Z
+    updatedAt: 2025-07-30T21:23:44.528Z
   - fileName: triangle_A1_v01.scad
     fileType: scad
     filePath: triangle_a1/triangle_A1_v01.scad
-    fileSize: 3151
+    fileSize: 3952
     createdAt: 2025-07-15T22:46:12.776Z
-    updatedAt: 2025-07-15T22:46:12.776Z
+    updatedAt: 2025-07-30T21:23:44.531Z
   - fileName: triangle_A1_v01.py
     fileType: pyFreecad
     filePath: triangle_a1/triangle_A1_v01.py
-    fileSize: 2996
+    fileSize: 5243
     createdAt: 2025-07-15T22:46:12.777Z
-    updatedAt: 2025-07-15T22:46:12.777Z
+    updatedAt: 2025-07-30T21:23:44.534Z
   - fileName: triangle_A1_v01.pax.json
     fileType: paxJson
     filePath: triangle_a1/triangle_A1_v01.pax.json
-    fileSize: 3823
+    fileSize: 5871
     createdAt: 2025-07-15T22:46:12.778Z
-    updatedAt: 2025-07-15T22:46:12.778Z
+    updatedAt: 2025-07-30T21:23:44.536Z
   - fileName: triangle_A1_v01.log.txt
     fileType: txtLog
     filePath: triangle_a1/triangle_A1_v01.log.txt
@@ -55,9 +67,9 @@ files:
   - fileName: triangle_A1_v01.js
     fileType: jsCad
     filePath: triangle_a1/triangle_A1_v01.js
-    fileSize: 3438
+    fileSize: 4421
     createdAt: 2025-07-15T22:46:12.780Z
-    updatedAt: 2025-07-15T22:46:12.780Z
+    updatedAt: 2025-07-30T21:23:44.540Z
   - fileName: px_triangle_A1_v01.json
     fileType: pxJson
     filePath: triangle_a1/px_triangle_A1_v01.json

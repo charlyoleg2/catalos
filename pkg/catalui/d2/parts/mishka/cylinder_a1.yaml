@@ -5,8 +5,8 @@ tags:
   - hierarchical system
 owner: mishka
 createdAt: 2025-07-15T22:46:13.876Z
-updatedAt: 2025-07-15T22:46:13.884Z
-updateCount: 1
+updatedAt: 2025-07-30T21:23:45.628Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame77/desi77/cylinder
 linkToSrc: https://github.com/charlyoleg2/parame77
@@ -46,6 +46,18 @@ files:
     fileSize: 10416
     createdAt: 2025-07-15T22:46:13.880Z
     updatedAt: 2025-07-15T22:46:13.880Z
+  - fileName: cylinder_A1_v01_faceHeight.svg
+    fileType: svg
+    filePath: cylinder_a1/cylinder_A1_v01_faceHeight.svg
+    fileSize: 243
+    createdAt: 2025-07-30T21:23:45.622Z
+    updatedAt: 2025-07-30T21:23:45.623Z
+  - fileName: cylinder_A1_v01_faceHeight.dxf
+    fileType: dxf
+    filePath: cylinder_a1/cylinder_A1_v01_faceHeight.dxf
+    fileSize: 292
+    createdAt: 2025-07-30T21:23:45.623Z
+    updatedAt: 2025-07-30T21:23:45.623Z
   - fileName: cylinder_A1_v01_faceCylinder.svg
     fileType: svg
     filePath: cylinder_a1/cylinder_A1_v01_faceCylinder.svg
@@ -61,21 +73,21 @@ files:
   - fileName: cylinder_A1_v01.scad
     fileType: scad
     filePath: cylinder_a1/cylinder_A1_v01.scad
-    fileSize: 6854
+    fileSize: 7156
     createdAt: 2025-07-15T22:46:13.881Z
-    updatedAt: 2025-07-15T22:46:13.881Z
+    updatedAt: 2025-07-30T21:23:45.625Z
   - fileName: cylinder_A1_v01.py
     fileType: pyFreecad
     filePath: cylinder_a1/cylinder_A1_v01.py
-    fileSize: 1742
+    fileSize: 2534
     createdAt: 2025-07-15T22:46:13.882Z
-    updatedAt: 2025-07-15T22:46:13.882Z
+    updatedAt: 2025-07-30T21:23:45.626Z
   - fileName: cylinder_A1_v01.pax.json
     fileType: paxJson
     filePath: cylinder_a1/cylinder_A1_v01.pax.json
-    fileSize: 2013
+    fileSize: 2633
     createdAt: 2025-07-15T22:46:13.883Z
-    updatedAt: 2025-07-15T22:46:13.883Z
+    updatedAt: 2025-07-30T21:23:45.626Z
   - fileName: cylinder_A1_v01.log.txt
     fileType: txtLog
     filePath: cylinder_a1/cylinder_A1_v01.log.txt
@@ -85,6 +97,6 @@ files:
   - fileName: cylinder_A1_v01.js
     fileType: jsCad
     filePath: cylinder_a1/cylinder_A1_v01.js
-    fileSize: 6753
+    fileSize: 7093
     createdAt: 2025-07-15T22:46:13.884Z
-    updatedAt: 2025-07-15T22:46:13.884Z
+    updatedAt: 2025-07-30T21:23:45.627Z

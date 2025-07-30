@@ -1,0 +1,294 @@
+description: tunnel for the train-capsule
+tags:
+  - factory
+  - building
+  - offices
+owner: mishka
+createdAt: 2025-07-30T21:23:45.532Z
+updatedAt: 2025-07-30T21:23:45.568Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/factory
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: px_factory_A1_v01.json
+    fileType: pxJson
+    filePath: factory_a1/px_factory_A1_v01.json
+    fileSize: 863
+    createdAt: 2025-07-30T21:23:45.535Z
+    updatedAt: 2025-07-30T21:23:45.535Z
+  - fileName: factory_A1_v01_faceWest.svg
+    fileType: svg
+    filePath: factory_a1/factory_A1_v01_faceWest.svg
+    fileSize: 4525
+    createdAt: 2025-07-30T21:23:45.535Z
+    updatedAt: 2025-07-30T21:23:45.536Z
+  - fileName: factory_A1_v01_faceWest.dxf
+    fileType: dxf
+    filePath: factory_a1/factory_A1_v01_faceWest.dxf
+    fileSize: 8459
+    createdAt: 2025-07-30T21:23:45.536Z
+    updatedAt: 2025-07-30T21:23:45.536Z
+  - fileName: factory_A1_v01_faceWallNS.svg
+    fileType: svg
+    filePath: factory_a1/factory_A1_v01_faceWallNS.svg
+    fileSize: 261
+    createdAt: 2025-07-30T21:23:45.538Z
+    updatedAt: 2025-07-30T21:23:45.538Z
+  - fileName: factory_A1_v01_faceWallNS.dxf
+    fileType: dxf
+    filePath: factory_a1/factory_A1_v01_faceWallNS.dxf
+    fileSize: 304
+    createdAt: 2025-07-30T21:23:45.538Z
+    updatedAt: 2025-07-30T21:23:45.538Z
+  - fileName: factory_A1_v01_faceWallEW.svg
+    fileType: svg
+    filePath: factory_a1/factory_A1_v01_faceWallEW.svg
+    fileSize: 505
+    createdAt: 2025-07-30T21:23:45.539Z
+    updatedAt: 2025-07-30T21:23:45.539Z
+  - fileName: factory_A1_v01_faceWallEW.dxf
+    fileType: dxf
+    filePath: factory_a1/factory_A1_v01_faceWallEW.dxf
+    fileSize: 1126
+    createdAt: 2025-07-30T21:23:45.541Z
+    updatedAt: 2025-07-30T21:23:45.541Z
+  - fileName: factory_A1_v01_faceTop.svg
+    fileType: svg
+    filePath: factory_a1/factory_A1_v01_faceTop.svg
+    fileSize: 7674
+    createdAt: 2025-07-30T21:23:45.542Z
+    updatedAt: 2025-07-30T21:23:45.542Z
+  - fileName: factory_A1_v01_faceTop.dxf
+    fileType: dxf
+    filePath: factory_a1/factory_A1_v01_faceTop.dxf
+    fileSize: 12964
+    createdAt: 2025-07-30T21:23:45.543Z
+    updatedAt: 2025-07-30T21:23:45.543Z
+  - fileName: factory_A1_v01_faceRoof.svg
+    fileType: svg
+    filePath: factory_a1/factory_A1_v01_faceRoof.svg
+    fileSize: 782
+    createdAt: 2025-07-30T21:23:45.544Z
+    updatedAt: 2025-07-30T21:23:45.544Z
+  - fileName: factory_A1_v01_faceRoof.dxf
+    fileType: dxf
+    filePath: factory_a1/factory_A1_v01_faceRoof.dxf
+    fileSize: 1956
+    createdAt: 2025-07-30T21:23:45.545Z
+    updatedAt: 2025-07-30T21:23:45.545Z
+  - fileName: factory_A1_v01_faceOWallTop.svg
+    fileType: svg
+    filePath: factory_a1/factory_A1_v01_faceOWallTop.svg
+    fileSize: 2220
+    createdAt: 2025-07-30T21:23:45.546Z
+    updatedAt: 2025-07-30T21:23:45.546Z
+  - fileName: factory_A1_v01_faceOWallTop.dxf
+    fileType: dxf
+    filePath: factory_a1/factory_A1_v01_faceOWallTop.dxf
+    fileSize: 3644
+    createdAt: 2025-07-30T21:23:45.546Z
+    updatedAt: 2025-07-30T21:23:45.546Z
+  - fileName: factory_A1_v01_faceOWallS.svg
+    fileType: svg
+    filePath: factory_a1/factory_A1_v01_faceOWallS.svg
+    fileSize: 1553
+    createdAt: 2025-07-30T21:23:45.547Z
+    updatedAt: 2025-07-30T21:23:45.547Z
+  - fileName: factory_A1_v01_faceOWallS.dxf
+    fileType: dxf
+    filePath: factory_a1/factory_A1_v01_faceOWallS.dxf
+    fileSize: 2373
+    createdAt: 2025-07-30T21:23:45.547Z
+    updatedAt: 2025-07-30T21:23:45.547Z
+  - fileName: factory_A1_v01_faceOWallF.svg
+    fileType: svg
+    filePath: factory_a1/factory_A1_v01_faceOWallF.svg
+    fileSize: 1533
+    createdAt: 2025-07-30T21:23:45.548Z
+    updatedAt: 2025-07-30T21:23:45.548Z
+  - fileName: factory_A1_v01_faceOWallF.dxf
+    fileType: dxf
+    filePath: factory_a1/factory_A1_v01_faceOWallF.dxf
+    fileSize: 2652
+    createdAt: 2025-07-30T21:23:45.549Z
+    updatedAt: 2025-07-30T21:23:45.549Z
+  - fileName: factory_A1_v01_faceOWallB.svg
+    fileType: svg
+    filePath: factory_a1/factory_A1_v01_faceOWallB.svg
+    fileSize: 603
+    createdAt: 2025-07-30T21:23:45.549Z
+    updatedAt: 2025-07-30T21:23:45.549Z
+  - fileName: factory_A1_v01_faceOWallB.dxf
+    fileType: dxf
+    filePath: factory_a1/factory_A1_v01_faceOWallB.dxf
+    fileSize: 884
+    createdAt: 2025-07-30T21:23:45.550Z
+    updatedAt: 2025-07-30T21:23:45.550Z
+  - fileName: factory_A1_v01_faceOCeiling.svg
+    fileType: svg
+    filePath: factory_a1/factory_A1_v01_faceOCeiling.svg
+    fileSize: 2226
+    createdAt: 2025-07-30T21:23:45.550Z
+    updatedAt: 2025-07-30T21:23:45.550Z
+  - fileName: factory_A1_v01_faceOCeiling.dxf
+    fileType: dxf
+    filePath: factory_a1/factory_A1_v01_faceOCeiling.dxf
+    fileSize: 3656
+    createdAt: 2025-07-30T21:23:45.551Z
+    updatedAt: 2025-07-30T21:23:45.551Z
+  - fileName: factory_A1_v01_faceNorth.svg
+    fileType: svg
+    filePath: factory_a1/factory_A1_v01_faceNorth.svg
+    fileSize: 4240
+    createdAt: 2025-07-30T21:23:45.552Z
+    updatedAt: 2025-07-30T21:23:45.552Z
+  - fileName: factory_A1_v01_faceNorth.dxf
+    fileType: dxf
+    filePath: factory_a1/factory_A1_v01_faceNorth.dxf
+    fileSize: 7128
+    createdAt: 2025-07-30T21:23:45.553Z
+    updatedAt: 2025-07-30T21:23:45.553Z
+  - fileName: factory_A1_v01_faceGround.svg
+    fileType: svg
+    filePath: factory_a1/factory_A1_v01_faceGround.svg
+    fileSize: 267
+    createdAt: 2025-07-30T21:23:45.553Z
+    updatedAt: 2025-07-30T21:23:45.553Z
+  - fileName: factory_A1_v01_faceGround.dxf
+    fileType: dxf
+    filePath: factory_a1/factory_A1_v01_faceGround.dxf
+    fileSize: 308
+    createdAt: 2025-07-30T21:23:45.554Z
+    updatedAt: 2025-07-30T21:23:45.554Z
+  - fileName: factory_A1_v01_faceBridgeW.svg
+    fileType: svg
+    filePath: factory_a1/factory_A1_v01_faceBridgeW.svg
+    fileSize: 702
+    createdAt: 2025-07-30T21:23:45.555Z
+    updatedAt: 2025-07-30T21:23:45.555Z
+  - fileName: factory_A1_v01_faceBridgeW.dxf
+    fileType: dxf
+    filePath: factory_a1/factory_A1_v01_faceBridgeW.dxf
+    fileSize: 945
+    createdAt: 2025-07-30T21:23:45.555Z
+    updatedAt: 2025-07-30T21:23:45.556Z
+  - fileName: factory_A1_v01_faceBridgeN.svg
+    fileType: svg
+    filePath: factory_a1/factory_A1_v01_faceBridgeN.svg
+    fileSize: 501
+    createdAt: 2025-07-30T21:23:45.556Z
+    updatedAt: 2025-07-30T21:23:45.556Z
+  - fileName: factory_A1_v01_faceBridgeN.dxf
+    fileType: dxf
+    filePath: factory_a1/factory_A1_v01_faceBridgeN.dxf
+    fileSize: 642
+    createdAt: 2025-07-30T21:23:45.557Z
+    updatedAt: 2025-07-30T21:23:45.557Z
+  - fileName: factory_A1_v01.scad
+    fileType: scad
+    filePath: factory_a1/factory_A1_v01.scad
+    fileSize: 639468
+    createdAt: 2025-07-30T21:23:45.558Z
+    updatedAt: 2025-07-30T21:23:45.558Z
+  - fileName: factory_A1_v01.py
+    fileType: pyFreecad
+    filePath: factory_a1/factory_A1_v01.py
+    fileSize: 119391
+    createdAt: 2025-07-30T21:23:45.559Z
+    updatedAt: 2025-07-30T21:23:45.559Z
+  - fileName: factory_A1_v01.pax.json
+    fileType: paxJson
+    filePath: factory_a1/factory_A1_v01.pax.json
+    fileSize: 117728
+    createdAt: 2025-07-30T21:23:45.559Z
+    updatedAt: 2025-07-30T21:23:45.559Z
+  - fileName: factory_A1_v01.log.txt
+    fileType: txtLog
+    filePath: factory_a1/factory_A1_v01.log.txt
+    fileSize: 274
+    createdAt: 2025-07-30T21:23:45.560Z
+    updatedAt: 2025-07-30T21:23:45.560Z
+  - fileName: factory_A1_v01.js
+    fileType: jsCad
+    filePath: factory_a1/factory_A1_v01.js
+    fileSize: 576619
+    createdAt: 2025-07-30T21:23:45.561Z
+    updatedAt: 2025-07-30T21:23:45.561Z
+  - fileName: f12.png
+    fileType: image
+    filePath: factory_a1/f12.png
+    fileSize: 11741
+    createdAt: 2025-07-30T21:23:45.562Z
+    updatedAt: 2025-07-30T21:23:45.562Z
+  - fileName: f11.png
+    fileType: image
+    filePath: factory_a1/f11.png
+    fileSize: 50787
+    createdAt: 2025-07-30T21:23:45.562Z
+    updatedAt: 2025-07-30T21:23:45.562Z
+  - fileName: f10.png
+    fileType: image
+    filePath: factory_a1/f10.png
+    fileSize: 17009
+    createdAt: 2025-07-30T21:23:45.563Z
+    updatedAt: 2025-07-30T21:23:45.563Z
+  - fileName: f09.png
+    fileType: image
+    filePath: factory_a1/f09.png
+    fileSize: 7724
+    createdAt: 2025-07-30T21:23:45.563Z
+    updatedAt: 2025-07-30T21:23:45.563Z
+  - fileName: f08.png
+    fileType: image
+    filePath: factory_a1/f08.png
+    fileSize: 8571
+    createdAt: 2025-07-30T21:23:45.564Z
+    updatedAt: 2025-07-30T21:23:45.564Z
+  - fileName: f07.png
+    fileType: image
+    filePath: factory_a1/f07.png
+    fileSize: 10858
+    createdAt: 2025-07-30T21:23:45.565Z
+    updatedAt: 2025-07-30T21:23:45.565Z
+  - fileName: f06.png
+    fileType: image
+    filePath: factory_a1/f06.png
+    fileSize: 20868
+    createdAt: 2025-07-30T21:23:45.565Z
+    updatedAt: 2025-07-30T21:23:45.565Z
+  - fileName: f05.png
+    fileType: image
+    filePath: factory_a1/f05.png
+    fileSize: 45232
+    createdAt: 2025-07-30T21:23:45.566Z
+    updatedAt: 2025-07-30T21:23:45.566Z
+  - fileName: f04.png
+    fileType: image
+    filePath: factory_a1/f04.png
+    fileSize: 16529
+    createdAt: 2025-07-30T21:23:45.566Z
+    updatedAt: 2025-07-30T21:23:45.566Z
+  - fileName: f03.png
+    fileType: image
+    filePath: factory_a1/f03.png
+    fileSize: 8085
+    createdAt: 2025-07-30T21:23:45.567Z
+    updatedAt: 2025-07-30T21:23:45.567Z
+  - fileName: f02.png
+    fileType: image
+    filePath: factory_a1/f02.png
+    fileSize: 10161
+    createdAt: 2025-07-30T21:23:45.567Z
+    updatedAt: 2025-07-30T21:23:45.567Z
+  - fileName: f01.png
+    fileType: image
+    filePath: factory_a1/f01.png
+    fileSize: 12667
+    createdAt: 2025-07-30T21:23:45.568Z
+    updatedAt: 2025-07-30T21:23:45.568Z

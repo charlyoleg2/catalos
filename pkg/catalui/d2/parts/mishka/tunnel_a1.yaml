@@ -1,0 +1,139 @@
+description: tunnel for the train-capsule
+tags:
+  - train
+  - capsule
+  - ouvrage d'art
+  - mountain
+owner: mishka
+createdAt: 2025-07-30T21:23:44.442Z
+updatedAt: 2025-07-30T21:23:44.489Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/tunnel
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: tunnel_A1_v01_faceStoneB.svg
+    fileType: svg
+    filePath: tunnel_a1/tunnel_A1_v01_faceStoneB.svg
+    fileSize: 6998
+    createdAt: 2025-07-30T21:23:44.448Z
+    updatedAt: 2025-07-30T21:23:44.448Z
+  - fileName: tunnel_A1_v01_faceStoneB.dxf
+    fileType: dxf
+    filePath: tunnel_a1/tunnel_A1_v01_faceStoneB.dxf
+    fileSize: 11898
+    createdAt: 2025-07-30T21:23:44.450Z
+    updatedAt: 2025-07-30T21:23:44.450Z
+  - fileName: tunnel_A1_v01_faceStoneA.svg
+    fileType: svg
+    filePath: tunnel_a1/tunnel_A1_v01_faceStoneA.svg
+    fileSize: 6611
+    createdAt: 2025-07-30T21:23:44.451Z
+    updatedAt: 2025-07-30T21:23:44.451Z
+  - fileName: tunnel_A1_v01_faceStoneA.dxf
+    fileType: dxf
+    filePath: tunnel_a1/tunnel_A1_v01_faceStoneA.dxf
+    fileSize: 11168
+    createdAt: 2025-07-30T21:23:44.453Z
+    updatedAt: 2025-07-30T21:23:44.453Z
+  - fileName: tunnel_A1_v01_faceSlice.svg
+    fileType: svg
+    filePath: tunnel_a1/tunnel_A1_v01_faceSlice.svg
+    fileSize: 728
+    createdAt: 2025-07-30T21:23:44.455Z
+    updatedAt: 2025-07-30T21:23:44.455Z
+  - fileName: tunnel_A1_v01_faceSlice.dxf
+    fileType: dxf
+    filePath: tunnel_a1/tunnel_A1_v01_faceSlice.dxf
+    fileSize: 1116
+    createdAt: 2025-07-30T21:23:44.458Z
+    updatedAt: 2025-07-30T21:23:44.458Z
+  - fileName: tunnel_A1_v01_faceProfile.svg
+    fileType: svg
+    filePath: tunnel_a1/tunnel_A1_v01_faceProfile.svg
+    fileSize: 498
+    createdAt: 2025-07-30T21:23:44.460Z
+    updatedAt: 2025-07-30T21:23:44.460Z
+  - fileName: tunnel_A1_v01_faceProfile.dxf
+    fileType: dxf
+    filePath: tunnel_a1/tunnel_A1_v01_faceProfile.dxf
+    fileSize: 620
+    createdAt: 2025-07-30T21:23:44.463Z
+    updatedAt: 2025-07-30T21:23:44.463Z
+  - fileName: tunnel_A1_v01.scad
+    fileType: scad
+    filePath: tunnel_a1/tunnel_A1_v01.scad
+    fileSize: 226348
+    createdAt: 2025-07-30T21:23:44.466Z
+    updatedAt: 2025-07-30T21:23:44.466Z
+  - fileName: tunnel_A1_v01.py
+    fileType: pyFreecad
+    filePath: tunnel_a1/tunnel_A1_v01.py
+    fileSize: 64739
+    createdAt: 2025-07-30T21:23:44.469Z
+    updatedAt: 2025-07-30T21:23:44.469Z
+  - fileName: tunnel_A1_v01.pax.json
+    fileType: paxJson
+    filePath: tunnel_a1/tunnel_A1_v01.pax.json
+    fileSize: 66198
+    createdAt: 2025-07-30T21:23:44.471Z
+    updatedAt: 2025-07-30T21:23:44.471Z
+  - fileName: tunnel_A1_v01.log.txt
+    fileType: txtLog
+    filePath: tunnel_a1/tunnel_A1_v01.log.txt
+    fileSize: 86
+    createdAt: 2025-07-30T21:23:44.474Z
+    updatedAt: 2025-07-30T21:23:44.474Z
+  - fileName: tunnel_A1_v01.js
+    fileType: jsCad
+    filePath: tunnel_a1/tunnel_A1_v01.js
+    fileSize: 206783
+    createdAt: 2025-07-30T21:23:44.477Z
+    updatedAt: 2025-07-30T21:23:44.477Z
+  - fileName: px_tunnel_A1_v01.json
+    fileType: pxJson
+    filePath: tunnel_a1/px_tunnel_A1_v01.json
+    fileSize: 217
+    createdAt: 2025-07-30T21:23:44.479Z
+    updatedAt: 2025-07-30T21:23:44.480Z
+  - fileName: f06.png
+    fileType: image
+    filePath: tunnel_a1/f06.png
+    fileSize: 14673
+    createdAt: 2025-07-30T21:23:44.481Z
+    updatedAt: 2025-07-30T21:23:44.481Z
+  - fileName: f05.png
+    fileType: image
+    filePath: tunnel_a1/f05.png
+    fileSize: 14652
+    createdAt: 2025-07-30T21:23:44.483Z
+    updatedAt: 2025-07-30T21:23:44.483Z
+  - fileName: f04.png
+    fileType: image
+    filePath: tunnel_a1/f04.png
+    fileSize: 12474
+    createdAt: 2025-07-30T21:23:44.484Z
+    updatedAt: 2025-07-30T21:23:44.484Z
+  - fileName: f03.png
+    fileType: image
+    filePath: tunnel_a1/f03.png
+    fileSize: 8290
+    createdAt: 2025-07-30T21:23:44.486Z
+    updatedAt: 2025-07-30T21:23:44.486Z
+  - fileName: f02.png
+    fileType: image
+    filePath: tunnel_a1/f02.png
+    fileSize: 18296
+    createdAt: 2025-07-30T21:23:44.487Z
+    updatedAt: 2025-07-30T21:23:44.487Z
+  - fileName: f01.png
+    fileType: image
+    filePath: tunnel_a1/f01.png
+    fileSize: 12852
+    createdAt: 2025-07-30T21:23:44.488Z
+    updatedAt: 2025-07-30T21:23:44.488Z
