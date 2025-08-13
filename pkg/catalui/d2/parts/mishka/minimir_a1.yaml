@@ -1,0 +1,156 @@
+description: support of mirror of the heliostat-model
+tags:
+  - heliostat
+  - model
+  - mirror
+owner: mishka
+createdAt: 2025-08-13T11:04:32.765Z
+updatedAt: 2025-08-13T11:04:32.783Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/minimir
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: px_minimir_A1_v01.json
+    fileType: pxJson
+    filePath: minimir_a1/px_minimir_A1_v01.json
+    fileSize: 470
+    createdAt: 2025-08-13T11:04:32.766Z
+    updatedAt: 2025-08-13T11:04:32.766Z
+  - fileName: minimir_A1_v01_faceWheel.svg
+    fileType: svg
+    filePath: minimir_a1/minimir_A1_v01_faceWheel.svg
+    fileSize: 1866
+    createdAt: 2025-08-13T11:04:32.767Z
+    updatedAt: 2025-08-13T11:04:32.767Z
+  - fileName: minimir_A1_v01_faceWheel.dxf
+    fileType: dxf
+    filePath: minimir_a1/minimir_A1_v01_faceWheel.dxf
+    fileSize: 2683
+    createdAt: 2025-08-13T11:04:32.767Z
+    updatedAt: 2025-08-13T11:04:32.767Z
+  - fileName: minimir_A1_v01_faceTransversal.svg
+    fileType: svg
+    filePath: minimir_a1/minimir_A1_v01_faceTransversal.svg
+    fileSize: 387
+    createdAt: 2025-08-13T11:04:32.768Z
+    updatedAt: 2025-08-13T11:04:32.768Z
+  - fileName: minimir_A1_v01_faceTransversal.dxf
+    fileType: dxf
+    filePath: minimir_a1/minimir_A1_v01_faceTransversal.dxf
+    fileSize: 548
+    createdAt: 2025-08-13T11:04:32.769Z
+    updatedAt: 2025-08-13T11:04:32.769Z
+  - fileName: minimir_A1_v01_faceRod.svg
+    fileType: svg
+    filePath: minimir_a1/minimir_A1_v01_faceRod.svg
+    fileSize: 269
+    createdAt: 2025-08-13T11:04:32.770Z
+    updatedAt: 2025-08-13T11:04:32.770Z
+  - fileName: minimir_A1_v01_faceRod.dxf
+    fileType: dxf
+    filePath: minimir_a1/minimir_A1_v01_faceRod.dxf
+    fileSize: 140
+    createdAt: 2025-08-13T11:04:32.771Z
+    updatedAt: 2025-08-13T11:04:32.771Z
+  - fileName: minimir_A1_v01_faceLift.svg
+    fileType: svg
+    filePath: minimir_a1/minimir_A1_v01_faceLift.svg
+    fileSize: 705
+    createdAt: 2025-08-13T11:04:32.772Z
+    updatedAt: 2025-08-13T11:04:32.772Z
+  - fileName: minimir_A1_v01_faceLift.dxf
+    fileType: dxf
+    filePath: minimir_a1/minimir_A1_v01_faceLift.dxf
+    fileSize: 1092
+    createdAt: 2025-08-13T11:04:32.773Z
+    updatedAt: 2025-08-13T11:04:32.773Z
+  - fileName: minimir_A1_v01_faceFrame.svg
+    fileType: svg
+    filePath: minimir_a1/minimir_A1_v01_faceFrame.svg
+    fileSize: 1012
+    createdAt: 2025-08-13T11:04:32.774Z
+    updatedAt: 2025-08-13T11:04:32.774Z
+  - fileName: minimir_A1_v01_faceFrame.dxf
+    fileType: dxf
+    filePath: minimir_a1/minimir_A1_v01_faceFrame.dxf
+    fileSize: 1712
+    createdAt: 2025-08-13T11:04:32.776Z
+    updatedAt: 2025-08-13T11:04:32.776Z
+  - fileName: minimir_A1_v01.scad
+    fileType: scad
+    filePath: minimir_a1/minimir_A1_v01.scad
+    fileSize: 17991
+    createdAt: 2025-08-13T11:04:32.777Z
+    updatedAt: 2025-08-13T11:04:32.777Z
+  - fileName: minimir_A1_v01.py
+    fileType: pyFreecad
+    filePath: minimir_a1/minimir_A1_v01.py
+    fileSize: 18274
+    createdAt: 2025-08-13T11:04:32.777Z
+    updatedAt: 2025-08-13T11:04:32.777Z
+  - fileName: minimir_A1_v01.pax.json
+    fileType: paxJson
+    filePath: minimir_a1/minimir_A1_v01.pax.json
+    fileSize: 24708
+    createdAt: 2025-08-13T11:04:32.778Z
+    updatedAt: 2025-08-13T11:04:32.778Z
+  - fileName: minimir_A1_v01.log.txt
+    fileType: txtLog
+    filePath: minimir_a1/minimir_A1_v01.log.txt
+    fileSize: 78
+    createdAt: 2025-08-13T11:04:32.778Z
+    updatedAt: 2025-08-13T11:04:32.778Z
+  - fileName: minimir_A1_v01.js
+    fileType: jsCad
+    filePath: minimir_a1/minimir_A1_v01.js
+    fileSize: 17695
+    createdAt: 2025-08-13T11:04:32.779Z
+    updatedAt: 2025-08-13T11:04:32.779Z
+  - fileName: f07.png
+    fileType: image
+    filePath: minimir_a1/f07.png
+    fileSize: 17618
+    createdAt: 2025-08-13T11:04:32.779Z
+    updatedAt: 2025-08-13T11:04:32.779Z
+  - fileName: f06.png
+    fileType: image
+    filePath: minimir_a1/f06.png
+    fileSize: 16396
+    createdAt: 2025-08-13T11:04:32.780Z
+    updatedAt: 2025-08-13T11:04:32.780Z
+  - fileName: f05.png
+    fileType: image
+    filePath: minimir_a1/f05.png
+    fileSize: 15904
+    createdAt: 2025-08-13T11:04:32.781Z
+    updatedAt: 2025-08-13T11:04:32.781Z
+  - fileName: f04.png
+    fileType: image
+    filePath: minimir_a1/f04.png
+    fileSize: 15416
+    createdAt: 2025-08-13T11:04:32.781Z
+    updatedAt: 2025-08-13T11:04:32.781Z
+  - fileName: f03.png
+    fileType: image
+    filePath: minimir_a1/f03.png
+    fileSize: 13012
+    createdAt: 2025-08-13T11:04:32.782Z
+    updatedAt: 2025-08-13T11:04:32.782Z
+  - fileName: f02.png
+    fileType: image
+    filePath: minimir_a1/f02.png
+    fileSize: 14606
+    createdAt: 2025-08-13T11:04:32.782Z
+    updatedAt: 2025-08-13T11:04:32.782Z
+  - fileName: f01.png
+    fileType: image
+    filePath: minimir_a1/f01.png
+    fileSize: 10788
+    createdAt: 2025-08-13T11:04:32.783Z
+    updatedAt: 2025-08-13T11:04:32.783Z

@@ -1,0 +1,109 @@
+description: holder of the heliostat model
+tags:
+  - heliostat
+  - model
+  - maquette
+  - holder
+owner: mishka
+createdAt: 2025-08-13T11:04:32.809Z
+updatedAt: 2025-08-13T11:04:32.818Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/minifoot
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: px_minifoot_A1_v01.json
+    fileType: pxJson
+    filePath: minifoot_a1/px_minifoot_A1_v01.json
+    fileSize: 261
+    createdAt: 2025-08-13T11:04:32.810Z
+    updatedAt: 2025-08-13T11:04:32.810Z
+  - fileName: minifoot_A1_v01_faceFoot.svg
+    fileType: svg
+    filePath: minifoot_a1/minifoot_A1_v01_faceFoot.svg
+    fileSize: 1311
+    createdAt: 2025-08-13T11:04:32.811Z
+    updatedAt: 2025-08-13T11:04:32.811Z
+  - fileName: minifoot_A1_v01_faceFoot.dxf
+    fileType: dxf
+    filePath: minifoot_a1/minifoot_A1_v01_faceFoot.dxf
+    fileSize: 1774
+    createdAt: 2025-08-13T11:04:32.811Z
+    updatedAt: 2025-08-13T11:04:32.811Z
+  - fileName: minifoot_A1_v01_faceCylinder.svg
+    fileType: svg
+    filePath: minifoot_a1/minifoot_A1_v01_faceCylinder.svg
+    fileSize: 273
+    createdAt: 2025-08-13T11:04:32.812Z
+    updatedAt: 2025-08-13T11:04:32.812Z
+  - fileName: minifoot_A1_v01_faceCylinder.dxf
+    fileType: dxf
+    filePath: minifoot_a1/minifoot_A1_v01_faceCylinder.dxf
+    fileSize: 142
+    createdAt: 2025-08-13T11:04:32.812Z
+    updatedAt: 2025-08-13T11:04:32.812Z
+  - fileName: minifoot_A1_v01.scad
+    fileType: scad
+    filePath: minifoot_a1/minifoot_A1_v01.scad
+    fileSize: 13551
+    createdAt: 2025-08-13T11:04:32.813Z
+    updatedAt: 2025-08-13T11:04:32.813Z
+  - fileName: minifoot_A1_v01.py
+    fileType: pyFreecad
+    filePath: minifoot_a1/minifoot_A1_v01.py
+    fileSize: 6592
+    createdAt: 2025-08-13T11:04:32.813Z
+    updatedAt: 2025-08-13T11:04:32.813Z
+  - fileName: minifoot_A1_v01.pax.json
+    fileType: paxJson
+    filePath: minifoot_a1/minifoot_A1_v01.pax.json
+    fileSize: 8598
+    createdAt: 2025-08-13T11:04:32.814Z
+    updatedAt: 2025-08-13T11:04:32.814Z
+  - fileName: minifoot_A1_v01.log.txt
+    fileType: txtLog
+    filePath: minifoot_a1/minifoot_A1_v01.log.txt
+    fileSize: 96
+    createdAt: 2025-08-13T11:04:32.815Z
+    updatedAt: 2025-08-13T11:04:32.815Z
+  - fileName: minifoot_A1_v01.js
+    fileType: jsCad
+    filePath: minifoot_a1/minifoot_A1_v01.js
+    fileSize: 12978
+    createdAt: 2025-08-13T11:04:32.815Z
+    updatedAt: 2025-08-13T11:04:32.815Z
+  - fileName: f05.png
+    fileType: image
+    filePath: minifoot_a1/f05.png
+    fileSize: 7154
+    createdAt: 2025-08-13T11:04:32.816Z
+    updatedAt: 2025-08-13T11:04:32.816Z
+  - fileName: f04.png
+    fileType: image
+    filePath: minifoot_a1/f04.png
+    fileSize: 8058
+    createdAt: 2025-08-13T11:04:32.816Z
+    updatedAt: 2025-08-13T11:04:32.816Z
+  - fileName: f03.png
+    fileType: image
+    filePath: minifoot_a1/f03.png
+    fileSize: 5296
+    createdAt: 2025-08-13T11:04:32.817Z
+    updatedAt: 2025-08-13T11:04:32.817Z
+  - fileName: f02.png
+    fileType: image
+    filePath: minifoot_a1/f02.png
+    fileSize: 9003
+    createdAt: 2025-08-13T11:04:32.817Z
+    updatedAt: 2025-08-13T11:04:32.817Z
+  - fileName: f01.png
+    fileType: image
+    filePath: minifoot_a1/f01.png
+    fileSize: 6718
+    createdAt: 2025-08-13T11:04:32.818Z
+    updatedAt: 2025-08-13T11:04:32.818Z
