@@ -1,0 +1,121 @@
+description: bridge for the train-capsule
+tags:
+  - train
+  - capsule
+  - stone
+  - viaduc
+owner: mishka
+createdAt: 2025-08-16T02:06:23.448Z
+updatedAt: 2025-08-16T02:06:23.459Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/bridge
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: px_bridge_A1_v01.json
+    fileType: pxJson
+    filePath: bridge_a1/px_bridge_A1_v01.json
+    fileSize: 546
+    createdAt: 2025-08-16T02:06:23.450Z
+    updatedAt: 2025-08-16T02:06:23.450Z
+  - fileName: f05.png
+    fileType: image
+    filePath: bridge_a1/f05.png
+    fileSize: 6990
+    createdAt: 2025-08-16T02:06:23.450Z
+    updatedAt: 2025-08-16T02:06:23.450Z
+  - fileName: f04.png
+    fileType: image
+    filePath: bridge_a1/f04.png
+    fileSize: 5661
+    createdAt: 2025-08-16T02:06:23.451Z
+    updatedAt: 2025-08-16T02:06:23.451Z
+  - fileName: f03.png
+    fileType: image
+    filePath: bridge_a1/f03.png
+    fileSize: 6857
+    createdAt: 2025-08-16T02:06:23.452Z
+    updatedAt: 2025-08-16T02:06:23.452Z
+  - fileName: f02.png
+    fileType: image
+    filePath: bridge_a1/f02.png
+    fileSize: 7454
+    createdAt: 2025-08-16T02:06:23.453Z
+    updatedAt: 2025-08-16T02:06:23.453Z
+  - fileName: f01.png
+    fileType: image
+    filePath: bridge_a1/f01.png
+    fileSize: 6379
+    createdAt: 2025-08-16T02:06:23.453Z
+    updatedAt: 2025-08-16T02:06:23.453Z
+  - fileName: bridge_A1_v01_faceValley.svg
+    fileType: svg
+    filePath: bridge_a1/bridge_A1_v01_faceValley.svg
+    fileSize: 397
+    createdAt: 2025-08-16T02:06:23.454Z
+    updatedAt: 2025-08-16T02:06:23.454Z
+  - fileName: bridge_A1_v01_faceValley.dxf
+    fileType: dxf
+    filePath: bridge_a1/bridge_A1_v01_faceValley.dxf
+    fileSize: 816
+    createdAt: 2025-08-16T02:06:23.454Z
+    updatedAt: 2025-08-16T02:06:23.454Z
+  - fileName: bridge_A1_v01_faceColumn.svg
+    fileType: svg
+    filePath: bridge_a1/bridge_A1_v01_faceColumn.svg
+    fileSize: 312
+    createdAt: 2025-08-16T02:06:23.455Z
+    updatedAt: 2025-08-16T02:06:23.455Z
+  - fileName: bridge_A1_v01_faceColumn.dxf
+    fileType: dxf
+    filePath: bridge_a1/bridge_A1_v01_faceColumn.dxf
+    fileSize: 544
+    createdAt: 2025-08-16T02:06:23.455Z
+    updatedAt: 2025-08-16T02:06:23.455Z
+  - fileName: bridge_A1_v01_faceArcade.svg
+    fileType: svg
+    filePath: bridge_a1/bridge_A1_v01_faceArcade.svg
+    fileSize: 1479
+    createdAt: 2025-08-16T02:06:23.456Z
+    updatedAt: 2025-08-16T02:06:23.456Z
+  - fileName: bridge_A1_v01_faceArcade.dxf
+    fileType: dxf
+    filePath: bridge_a1/bridge_A1_v01_faceArcade.dxf
+    fileSize: 3466
+    createdAt: 2025-08-16T02:06:23.457Z
+    updatedAt: 2025-08-16T02:06:23.457Z
+  - fileName: bridge_A1_v01.scad
+    fileType: scad
+    filePath: bridge_a1/bridge_A1_v01.scad
+    fileSize: 10053
+    createdAt: 2025-08-16T02:06:23.457Z
+    updatedAt: 2025-08-16T02:06:23.457Z
+  - fileName: bridge_A1_v01.py
+    fileType: pyFreecad
+    filePath: bridge_a1/bridge_A1_v01.py
+    fileSize: 13975
+    createdAt: 2025-08-16T02:06:23.458Z
+    updatedAt: 2025-08-16T02:06:23.458Z
+  - fileName: bridge_A1_v01.pax.json
+    fileType: paxJson
+    filePath: bridge_a1/bridge_A1_v01.pax.json
+    fileSize: 20530
+    createdAt: 2025-08-16T02:06:23.458Z
+    updatedAt: 2025-08-16T02:06:23.458Z
+  - fileName: bridge_A1_v01.log.txt
+    fileType: txtLog
+    filePath: bridge_a1/bridge_A1_v01.log.txt
+    fileSize: 69
+    createdAt: 2025-08-16T02:06:23.459Z
+    updatedAt: 2025-08-16T02:06:23.459Z
+  - fileName: bridge_A1_v01.js
+    fileType: jsCad
+    filePath: bridge_a1/bridge_A1_v01.js
+    fileSize: 9888
+    createdAt: 2025-08-16T02:06:23.459Z
+    updatedAt: 2025-08-16T02:06:23.459Z

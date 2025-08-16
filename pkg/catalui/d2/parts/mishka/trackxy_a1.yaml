@@ -1,0 +1,128 @@
+description: simulation of train-capsule on XY-track
+tags:
+  - train
+  - capsule
+  - curve
+  - track
+  - beam
+owner: mishka
+createdAt: 2025-08-16T02:06:22.425Z
+updatedAt: 2025-08-16T02:06:22.475Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/trackXY
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: trackXY_A1_v01_faceTop2.svg
+    fileType: svg
+    filePath: trackxy_a1/trackXY_A1_v01_faceTop2.svg
+    fileSize: 853
+    createdAt: 2025-08-16T02:06:22.429Z
+    updatedAt: 2025-08-16T02:06:22.429Z
+  - fileName: trackXY_A1_v01_faceTop2.dxf
+    fileType: dxf
+    filePath: trackxy_a1/trackXY_A1_v01_faceTop2.dxf
+    fileSize: 1646
+    createdAt: 2025-08-16T02:06:22.432Z
+    updatedAt: 2025-08-16T02:06:22.432Z
+  - fileName: trackXY_A1_v01_faceTop1.svg
+    fileType: svg
+    filePath: trackxy_a1/trackXY_A1_v01_faceTop1.svg
+    fileSize: 28769
+    createdAt: 2025-08-16T02:06:22.435Z
+    updatedAt: 2025-08-16T02:06:22.435Z
+  - fileName: trackXY_A1_v01_faceTop1.dxf
+    fileType: dxf
+    filePath: trackxy_a1/trackXY_A1_v01_faceTop1.dxf
+    fileSize: 49214
+    createdAt: 2025-08-16T02:06:22.437Z
+    updatedAt: 2025-08-16T02:06:22.437Z
+  - fileName: trackXY_A1_v01_faceSide.svg
+    fileType: svg
+    filePath: trackxy_a1/trackXY_A1_v01_faceSide.svg
+    fileSize: 228
+    createdAt: 2025-08-16T02:06:22.440Z
+    updatedAt: 2025-08-16T02:06:22.440Z
+  - fileName: trackXY_A1_v01_faceSide.dxf
+    fileType: dxf
+    filePath: trackxy_a1/trackXY_A1_v01_faceSide.dxf
+    fileSize: 276
+    createdAt: 2025-08-16T02:06:22.443Z
+    updatedAt: 2025-08-16T02:06:22.443Z
+  - fileName: trackXY_A1_v01_faceSection.svg
+    fileType: svg
+    filePath: trackxy_a1/trackXY_A1_v01_faceSection.svg
+    fileSize: 371
+    createdAt: 2025-08-16T02:06:22.446Z
+    updatedAt: 2025-08-16T02:06:22.446Z
+  - fileName: trackXY_A1_v01_faceSection.dxf
+    fileType: dxf
+    filePath: trackxy_a1/trackXY_A1_v01_faceSection.dxf
+    fileSize: 524
+    createdAt: 2025-08-16T02:06:22.449Z
+    updatedAt: 2025-08-16T02:06:22.449Z
+  - fileName: trackXY_A1_v01.scad
+    fileType: scad
+    filePath: trackxy_a1/trackXY_A1_v01.scad
+    fileSize: 50872
+    createdAt: 2025-08-16T02:06:22.451Z
+    updatedAt: 2025-08-16T02:06:22.451Z
+  - fileName: trackXY_A1_v01.py
+    fileType: pyFreecad
+    filePath: trackxy_a1/trackXY_A1_v01.py
+    fileSize: 144733
+    createdAt: 2025-08-16T02:06:22.454Z
+    updatedAt: 2025-08-16T02:06:22.454Z
+  - fileName: trackXY_A1_v01.pax.json
+    fileType: paxJson
+    filePath: trackxy_a1/trackXY_A1_v01.pax.json
+    fileSize: 156138
+    createdAt: 2025-08-16T02:06:22.457Z
+    updatedAt: 2025-08-16T02:06:22.457Z
+  - fileName: trackXY_A1_v01.log.txt
+    fileType: txtLog
+    filePath: trackxy_a1/trackXY_A1_v01.log.txt
+    fileSize: 147
+    createdAt: 2025-08-16T02:06:22.460Z
+    updatedAt: 2025-08-16T02:06:22.460Z
+  - fileName: trackXY_A1_v01.js
+    fileType: jsCad
+    filePath: trackxy_a1/trackXY_A1_v01.js
+    fileSize: 63032
+    createdAt: 2025-08-16T02:06:22.463Z
+    updatedAt: 2025-08-16T02:06:22.463Z
+  - fileName: px_trackXY_A1_v01.json
+    fileType: pxJson
+    filePath: trackxy_a1/px_trackXY_A1_v01.json
+    fileSize: 328
+    createdAt: 2025-08-16T02:06:22.465Z
+    updatedAt: 2025-08-16T02:06:22.465Z
+  - fileName: f04.png
+    fileType: image
+    filePath: trackxy_a1/f04.png
+    fileSize: 15448
+    createdAt: 2025-08-16T02:06:22.468Z
+    updatedAt: 2025-08-16T02:06:22.468Z
+  - fileName: f03.png
+    fileType: image
+    filePath: trackxy_a1/f03.png
+    fileSize: 9154
+    createdAt: 2025-08-16T02:06:22.470Z
+    updatedAt: 2025-08-16T02:06:22.470Z
+  - fileName: f02.png
+    fileType: image
+    filePath: trackxy_a1/f02.png
+    fileSize: 15033
+    createdAt: 2025-08-16T02:06:22.473Z
+    updatedAt: 2025-08-16T02:06:22.473Z
+  - fileName: f01.png
+    fileType: image
+    filePath: trackxy_a1/f01.png
+    fileSize: 18164
+    createdAt: 2025-08-16T02:06:22.475Z
+    updatedAt: 2025-08-16T02:06:22.475Z

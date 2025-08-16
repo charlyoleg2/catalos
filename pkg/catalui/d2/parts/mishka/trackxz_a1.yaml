@@ -1,0 +1,134 @@
+description: simulation of train-capsule on XZ-track
+tags:
+  - train
+  - capsule
+  - slope
+  - track
+  - beam
+owner: mishka
+createdAt: 2025-08-16T02:06:22.352Z
+updatedAt: 2025-08-16T02:06:22.422Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame77/desi77/trackXZ
+linkToSrc: https://github.com/charlyoleg2/parame77
+linkToPkg: https://www.npmjs.com/package/desi77
+linkToCli: https://www.npmjs.com/package/desi77-cli
+linkToUis: https://www.npmjs.com/package/desi77-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame77
+linkOthers: []
+files:
+  - fileName: trackXZ_A1_v01_faceTop.svg
+    fileType: svg
+    filePath: trackxz_a1/trackXZ_A1_v01_faceTop.svg
+    fileSize: 372
+    createdAt: 2025-08-16T02:06:22.361Z
+    updatedAt: 2025-08-16T02:06:22.361Z
+  - fileName: trackXZ_A1_v01_faceTop.dxf
+    fileType: dxf
+    filePath: trackxz_a1/trackXZ_A1_v01_faceTop.dxf
+    fileSize: 524
+    createdAt: 2025-08-16T02:06:22.366Z
+    updatedAt: 2025-08-16T02:06:22.366Z
+  - fileName: trackXZ_A1_v01_faceSection.svg
+    fileType: svg
+    filePath: trackxz_a1/trackXZ_A1_v01_faceSection.svg
+    fileSize: 371
+    createdAt: 2025-08-16T02:06:22.372Z
+    updatedAt: 2025-08-16T02:06:22.372Z
+  - fileName: trackXZ_A1_v01_faceSection.dxf
+    fileType: dxf
+    filePath: trackxz_a1/trackXZ_A1_v01_faceSection.dxf
+    fileSize: 524
+    createdAt: 2025-08-16T02:06:22.377Z
+    updatedAt: 2025-08-16T02:06:22.377Z
+  - fileName: trackXZ_A1_v01_faceRail.svg
+    fileType: svg
+    filePath: trackxz_a1/trackXZ_A1_v01_faceRail.svg
+    fileSize: 458
+    createdAt: 2025-08-16T02:06:22.381Z
+    updatedAt: 2025-08-16T02:06:22.381Z
+  - fileName: trackXZ_A1_v01_faceRail.dxf
+    fileType: dxf
+    filePath: trackxz_a1/trackXZ_A1_v01_faceRail.dxf
+    fileSize: 836
+    createdAt: 2025-08-16T02:06:22.385Z
+    updatedAt: 2025-08-16T02:06:22.385Z
+  - fileName: trackXZ_A1_v01_faceBeam.svg
+    fileType: svg
+    filePath: trackxz_a1/trackXZ_A1_v01_faceBeam.svg
+    fileSize: 22299
+    createdAt: 2025-08-16T02:06:22.389Z
+    updatedAt: 2025-08-16T02:06:22.389Z
+  - fileName: trackXZ_A1_v01_faceBeam.dxf
+    fileType: dxf
+    filePath: trackxz_a1/trackXZ_A1_v01_faceBeam.dxf
+    fileSize: 38564
+    createdAt: 2025-08-16T02:06:22.392Z
+    updatedAt: 2025-08-16T02:06:22.392Z
+  - fileName: trackXZ_A1_v01.scad
+    fileType: scad
+    filePath: trackxz_a1/trackXZ_A1_v01.scad
+    fileSize: 39115
+    createdAt: 2025-08-16T02:06:22.395Z
+    updatedAt: 2025-08-16T02:06:22.395Z
+  - fileName: trackXZ_A1_v01.py
+    fileType: pyFreecad
+    filePath: trackxz_a1/trackXZ_A1_v01.py
+    fileSize: 117101
+    createdAt: 2025-08-16T02:06:22.398Z
+    updatedAt: 2025-08-16T02:06:22.398Z
+  - fileName: trackXZ_A1_v01.pax.json
+    fileType: paxJson
+    filePath: trackxz_a1/trackXZ_A1_v01.pax.json
+    fileSize: 126447
+    createdAt: 2025-08-16T02:06:22.401Z
+    updatedAt: 2025-08-16T02:06:22.401Z
+  - fileName: trackXZ_A1_v01.log.txt
+    fileType: txtLog
+    filePath: trackxz_a1/trackXZ_A1_v01.log.txt
+    fileSize: 199
+    createdAt: 2025-08-16T02:06:22.404Z
+    updatedAt: 2025-08-16T02:06:22.404Z
+  - fileName: trackXZ_A1_v01.js
+    fileType: jsCad
+    filePath: trackxz_a1/trackXZ_A1_v01.js
+    fileSize: 49230
+    createdAt: 2025-08-16T02:06:22.406Z
+    updatedAt: 2025-08-16T02:06:22.406Z
+  - fileName: px_trackXZ_A1_v01.json
+    fileType: pxJson
+    filePath: trackxz_a1/px_trackXZ_A1_v01.json
+    fileSize: 323
+    createdAt: 2025-08-16T02:06:22.409Z
+    updatedAt: 2025-08-16T02:06:22.409Z
+  - fileName: f05.png
+    fileType: image
+    filePath: trackxz_a1/f05.png
+    fileSize: 8054
+    createdAt: 2025-08-16T02:06:22.411Z
+    updatedAt: 2025-08-16T02:06:22.411Z
+  - fileName: f04.png
+    fileType: image
+    filePath: trackxz_a1/f04.png
+    fileSize: 8531
+    createdAt: 2025-08-16T02:06:22.413Z
+    updatedAt: 2025-08-16T02:06:22.413Z
+  - fileName: f03.png
+    fileType: image
+    filePath: trackxz_a1/f03.png
+    fileSize: 6145
+    createdAt: 2025-08-16T02:06:22.416Z
+    updatedAt: 2025-08-16T02:06:22.416Z
+  - fileName: f02.png
+    fileType: image
+    filePath: trackxz_a1/f02.png
+    fileSize: 10956
+    createdAt: 2025-08-16T02:06:22.419Z
+    updatedAt: 2025-08-16T02:06:22.419Z
+  - fileName: f01.png
+    fileType: image
+    filePath: trackxz_a1/f01.png
+    fileSize: 6514
+    createdAt: 2025-08-16T02:06:22.421Z
+    updatedAt: 2025-08-16T02:06:22.421Z
