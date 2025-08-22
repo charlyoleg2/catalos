@@ -1,0 +1,145 @@
+description: an helicoidal stairs
+tags:
+  - stone
+  - escalier
+  - helicoidal
+  - spiral
+owner: makeda
+createdAt: 2025-08-22T13:10:31.471Z
+updatedAt: 2025-08-22T13:10:31.532Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame76/desi76/stairs
+linkToSrc: https://github.com/charlyoleg2/parame76
+linkToPkg: https://www.npmjs.com/package/desi76
+linkToCli: https://www.npmjs.com/package/desi76-cli
+linkToUis: https://www.npmjs.com/package/desi76-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame76
+linkOthers: []
+files:
+  - fileName: stairs_A1_v01_faceTopColumn.svg
+    fileType: svg
+    filePath: stairs_a1/stairs_A1_v01_faceTopColumn.svg
+    fileSize: 1862
+    createdAt: 2025-08-22T13:10:31.478Z
+    updatedAt: 2025-08-22T13:10:31.478Z
+  - fileName: stairs_A1_v01_faceTopColumn.dxf
+    fileType: dxf
+    filePath: stairs_a1/stairs_A1_v01_faceTopColumn.dxf
+    fileSize: 2452
+    createdAt: 2025-08-22T13:10:31.480Z
+    updatedAt: 2025-08-22T13:10:31.480Z
+  - fileName: stairs_A1_v01_faceTop.svg
+    fileType: svg
+    filePath: stairs_a1/stairs_A1_v01_faceTop.svg
+    fileSize: 5585
+    createdAt: 2025-08-22T13:10:31.483Z
+    updatedAt: 2025-08-22T13:10:31.483Z
+  - fileName: stairs_A1_v01_faceTop.dxf
+    fileType: dxf
+    filePath: stairs_a1/stairs_A1_v01_faceTop.dxf
+    fileSize: 7565
+    createdAt: 2025-08-22T13:10:31.485Z
+    updatedAt: 2025-08-22T13:10:31.485Z
+  - fileName: stairs_A1_v01_faceBorderI.svg
+    fileType: svg
+    filePath: stairs_a1/stairs_A1_v01_faceBorderI.svg
+    fileSize: 4928
+    createdAt: 2025-08-22T13:10:31.487Z
+    updatedAt: 2025-08-22T13:10:31.487Z
+  - fileName: stairs_A1_v01_faceBorderI.dxf
+    fileType: dxf
+    filePath: stairs_a1/stairs_A1_v01_faceBorderI.dxf
+    fileSize: 8268
+    createdAt: 2025-08-22T13:10:31.490Z
+    updatedAt: 2025-08-22T13:10:31.490Z
+  - fileName: stairs_A1_v01_faceBorderE.svg
+    fileType: svg
+    filePath: stairs_a1/stairs_A1_v01_faceBorderE.svg
+    fileSize: 5033
+    createdAt: 2025-08-22T13:10:31.492Z
+    updatedAt: 2025-08-22T13:10:31.492Z
+  - fileName: stairs_A1_v01_faceBorderE.dxf
+    fileType: dxf
+    filePath: stairs_a1/stairs_A1_v01_faceBorderE.dxf
+    fileSize: 8432
+    createdAt: 2025-08-22T13:10:31.494Z
+    updatedAt: 2025-08-22T13:10:31.494Z
+  - fileName: stairs_A1_v01.scad
+    fileType: scad
+    filePath: stairs_a1/stairs_A1_v01.scad
+    fileSize: 1640825
+    createdAt: 2025-08-22T13:10:31.498Z
+    updatedAt: 2025-08-22T13:10:31.498Z
+  - fileName: stairs_A1_v01.py
+    fileType: pyFreecad
+    filePath: stairs_a1/stairs_A1_v01.py
+    fileSize: 113846
+    createdAt: 2025-08-22T13:10:31.501Z
+    updatedAt: 2025-08-22T13:10:31.501Z
+  - fileName: stairs_A1_v01.pax.json
+    fileType: paxJson
+    filePath: stairs_a1/stairs_A1_v01.pax.json
+    fileSize: 115792
+    createdAt: 2025-08-22T13:10:31.504Z
+    updatedAt: 2025-08-22T13:10:31.504Z
+  - fileName: stairs_A1_v01.log.txt
+    fileType: txtLog
+    filePath: stairs_a1/stairs_A1_v01.log.txt
+    fileSize: 108
+    createdAt: 2025-08-22T13:10:31.506Z
+    updatedAt: 2025-08-22T13:10:31.506Z
+  - fileName: stairs_A1_v01.js
+    fileType: jsCad
+    filePath: stairs_a1/stairs_A1_v01.js
+    fileSize: 1459207
+    createdAt: 2025-08-22T13:10:31.509Z
+    updatedAt: 2025-08-22T13:10:31.509Z
+  - fileName: px_stairs_A1_v01.json
+    fileType: pxJson
+    filePath: stairs_a1/px_stairs_A1_v01.json
+    fileSize: 300
+    createdAt: 2025-08-22T13:10:31.514Z
+    updatedAt: 2025-08-22T13:10:31.514Z
+  - fileName: f07.png
+    fileType: image
+    filePath: stairs_a1/f07.png
+    fileSize: 18170
+    createdAt: 2025-08-22T13:10:31.518Z
+    updatedAt: 2025-08-22T13:10:31.518Z
+  - fileName: f06.png
+    fileType: image
+    filePath: stairs_a1/f06.png
+    fileSize: 9351
+    createdAt: 2025-08-22T13:10:31.520Z
+    updatedAt: 2025-08-22T13:10:31.521Z
+  - fileName: f05.png
+    fileType: image
+    filePath: stairs_a1/f05.png
+    fileSize: 31450
+    createdAt: 2025-08-22T13:10:31.523Z
+    updatedAt: 2025-08-22T13:10:31.523Z
+  - fileName: f04.png
+    fileType: image
+    filePath: stairs_a1/f04.png
+    fileSize: 18004
+    createdAt: 2025-08-22T13:10:31.525Z
+    updatedAt: 2025-08-22T13:10:31.525Z
+  - fileName: f03.png
+    fileType: image
+    filePath: stairs_a1/f03.png
+    fileSize: 15957
+    createdAt: 2025-08-22T13:10:31.527Z
+    updatedAt: 2025-08-22T13:10:31.527Z
+  - fileName: f02.png
+    fileType: image
+    filePath: stairs_a1/f02.png
+    fileSize: 16187
+    createdAt: 2025-08-22T13:10:31.529Z
+    updatedAt: 2025-08-22T13:10:31.529Z
+  - fileName: f01.png
+    fileType: image
+    filePath: stairs_a1/f01.png
+    fileSize: 11183
+    createdAt: 2025-08-22T13:10:31.531Z
+    updatedAt: 2025-08-22T13:10:31.531Z
