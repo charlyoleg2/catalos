@@ -4,8 +4,8 @@ tags:
   - model
 owner: mishka
 createdAt: 2025-08-13T11:04:32.785Z
-updatedAt: 2025-08-13T11:04:32.807Z
-updateCount: 1
+updatedAt: 2025-08-29T21:58:42.403Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame77/desi77/minihelio
 linkToSrc: https://github.com/charlyoleg2/parame77
@@ -18,9 +18,9 @@ files:
   - fileName: px_minihelio_A1_v01.json
     fileType: pxJson
     filePath: minihelio_a1/px_minihelio_A1_v01.json
-    fileSize: 765
+    fileSize: 802
     createdAt: 2025-08-13T11:04:32.786Z
-    updatedAt: 2025-08-13T11:04:32.786Z
+    updatedAt: 2025-08-29T21:58:42.374Z
   - fileName: minihelio_A1_v01_faceOneMirror.svg
     fileType: svg
     filePath: minihelio_a1/minihelio_A1_v01_faceOneMirror.svg
@@ -60,9 +60,9 @@ files:
   - fileName: minihelio_A1_v01_faceFrameTop.svg
     fileType: svg
     filePath: minihelio_a1/minihelio_A1_v01_faceFrameTop.svg
-    fileSize: 295
+    fileSize: 293
     createdAt: 2025-08-13T11:04:32.790Z
-    updatedAt: 2025-08-13T11:04:32.790Z
+    updatedAt: 2025-08-29T21:58:42.380Z
   - fileName: minihelio_A1_v01_faceFrameTop.dxf
     fileType: dxf
     filePath: minihelio_a1/minihelio_A1_v01_faceFrameTop.dxf
@@ -78,15 +78,15 @@ files:
   - fileName: minihelio_A1_v01_faceFrameSide.dxf
     fileType: dxf
     filePath: minihelio_a1/minihelio_A1_v01_faceFrameSide.dxf
-    fileSize: 759
+    fileSize: 757
     createdAt: 2025-08-13T11:04:32.792Z
-    updatedAt: 2025-08-13T11:04:32.792Z
+    updatedAt: 2025-08-29T21:58:42.383Z
   - fileName: minihelio_A1_v01_faceFrameMid.svg
     fileType: svg
     filePath: minihelio_a1/minihelio_A1_v01_faceFrameMid.svg
-    fileSize: 721
+    fileSize: 719
     createdAt: 2025-08-13T11:04:32.793Z
-    updatedAt: 2025-08-13T11:04:32.793Z
+    updatedAt: 2025-08-29T21:58:42.384Z
   - fileName: minihelio_A1_v01_faceFrameMid.dxf
     fileType: dxf
     filePath: minihelio_a1/minihelio_A1_v01_faceFrameMid.dxf
@@ -96,9 +96,9 @@ files:
   - fileName: minihelio_A1_v01_faceFrameBottom.svg
     fileType: svg
     filePath: minihelio_a1/minihelio_A1_v01_faceFrameBottom.svg
-    fileSize: 416
+    fileSize: 492
     createdAt: 2025-08-13T11:04:32.794Z
-    updatedAt: 2025-08-13T11:04:32.794Z
+    updatedAt: 2025-08-29T21:58:42.386Z
   - fileName: minihelio_A1_v01_faceFrameBottom.dxf
     fileType: dxf
     filePath: minihelio_a1/minihelio_A1_v01_faceFrameBottom.dxf
@@ -108,9 +108,9 @@ files:
   - fileName: minihelio_A1_v01_faceFrameBand.svg
     fileType: svg
     filePath: minihelio_a1/minihelio_A1_v01_faceFrameBand.svg
-    fileSize: 617
+    fileSize: 615
     createdAt: 2025-08-13T11:04:32.796Z
-    updatedAt: 2025-08-13T11:04:32.796Z
+    updatedAt: 2025-08-29T21:58:42.388Z
   - fileName: minihelio_A1_v01_faceFrameBand.dxf
     fileType: dxf
     filePath: minihelio_a1/minihelio_A1_v01_faceFrameBand.dxf
@@ -120,96 +120,90 @@ files:
   - fileName: minihelio_A1_v01_faceFoot.svg
     fileType: svg
     filePath: minihelio_a1/minihelio_A1_v01_faceFoot.svg
-    fileSize: 352
+    fileSize: 384
     createdAt: 2025-08-13T11:04:32.798Z
-    updatedAt: 2025-08-13T11:04:32.798Z
+    updatedAt: 2025-08-29T21:58:42.390Z
   - fileName: minihelio_A1_v01_faceFoot.dxf
     fileType: dxf
     filePath: minihelio_a1/minihelio_A1_v01_faceFoot.dxf
-    fileSize: 674
+    fileSize: 802
     createdAt: 2025-08-13T11:04:32.799Z
-    updatedAt: 2025-08-13T11:04:32.799Z
+    updatedAt: 2025-08-29T21:58:42.391Z
   - fileName: minihelio_A1_v01.scad
     fileType: scad
     filePath: minihelio_a1/minihelio_A1_v01.scad
-    fileSize: 30118
+    fileSize: 36712
     createdAt: 2025-08-13T11:04:32.799Z
-    updatedAt: 2025-08-13T11:04:32.799Z
+    updatedAt: 2025-08-29T21:58:42.392Z
   - fileName: minihelio_A1_v01.py
     fileType: pyFreecad
     filePath: minihelio_a1/minihelio_A1_v01.py
-    fileSize: 22990
+    fileSize: 33747
     createdAt: 2025-08-13T11:04:32.800Z
-    updatedAt: 2025-08-13T11:04:32.800Z
+    updatedAt: 2025-08-29T21:58:42.393Z
   - fileName: minihelio_A1_v01.pax.json
     fileType: paxJson
     filePath: minihelio_a1/minihelio_A1_v01.pax.json
-    fileSize: 30205
+    fileSize: 38083
     createdAt: 2025-08-13T11:04:32.801Z
-    updatedAt: 2025-08-13T11:04:32.801Z
+    updatedAt: 2025-08-29T21:58:42.393Z
   - fileName: minihelio_A1_v01.log.txt
     fileType: txtLog
     filePath: minihelio_a1/minihelio_A1_v01.log.txt
-    fileSize: 655
+    fileSize: 656
     createdAt: 2025-08-13T11:04:32.801Z
-    updatedAt: 2025-08-13T11:04:32.801Z
+    updatedAt: 2025-08-29T21:58:42.394Z
   - fileName: minihelio_A1_v01.js
     fileType: jsCad
     filePath: minihelio_a1/minihelio_A1_v01.js
-    fileSize: 29392
+    fileSize: 36102
     createdAt: 2025-08-13T11:04:32.802Z
-    updatedAt: 2025-08-13T11:04:32.802Z
-  - fileName: f09.png
-    fileType: image
-    filePath: minihelio_a1/f09.png
-    fileSize: 9492
-    createdAt: 2025-08-13T11:04:32.802Z
-    updatedAt: 2025-08-13T11:04:32.802Z
+    updatedAt: 2025-08-29T21:58:42.395Z
   - fileName: f08.png
     fileType: image
     filePath: minihelio_a1/f08.png
-    fileSize: 7620
+    fileSize: 15393
     createdAt: 2025-08-13T11:04:32.803Z
-    updatedAt: 2025-08-13T11:04:32.803Z
+    updatedAt: 2025-08-29T21:58:42.396Z
   - fileName: f07.png
     fileType: image
     filePath: minihelio_a1/f07.png
-    fileSize: 8891
+    fileSize: 4073
     createdAt: 2025-08-13T11:04:32.803Z
-    updatedAt: 2025-08-13T11:04:32.803Z
+    updatedAt: 2025-08-29T21:58:42.397Z
   - fileName: f06.png
     fileType: image
     filePath: minihelio_a1/f06.png
-    fileSize: 13393
+    fileSize: 6821
     createdAt: 2025-08-13T11:04:32.804Z
-    updatedAt: 2025-08-13T11:04:32.804Z
+    updatedAt: 2025-08-29T21:58:42.398Z
   - fileName: f05.png
     fileType: image
     filePath: minihelio_a1/f05.png
-    fileSize: 9863
+    fileSize: 16694
     createdAt: 2025-08-13T11:04:32.805Z
-    updatedAt: 2025-08-13T11:04:32.805Z
+    updatedAt: 2025-08-29T21:58:42.399Z
   - fileName: f04.png
     fileType: image
     filePath: minihelio_a1/f04.png
-    fileSize: 12185
+    fileSize: 11224
     createdAt: 2025-08-13T11:04:32.805Z
-    updatedAt: 2025-08-13T11:04:32.805Z
+    updatedAt: 2025-08-29T21:58:42.400Z
   - fileName: f03.png
     fileType: image
     filePath: minihelio_a1/f03.png
-    fileSize: 8412
+    fileSize: 11353
     createdAt: 2025-08-13T11:04:32.806Z
-    updatedAt: 2025-08-13T11:04:32.806Z
+    updatedAt: 2025-08-29T21:58:42.401Z
   - fileName: f02.png
     fileType: image
     filePath: minihelio_a1/f02.png
-    fileSize: 12029
+    fileSize: 11146
     createdAt: 2025-08-13T11:04:32.807Z
-    updatedAt: 2025-08-13T11:04:32.807Z
+    updatedAt: 2025-08-29T21:58:42.402Z
   - fileName: f01.png
     fileType: image
     filePath: minihelio_a1/f01.png
-    fileSize: 11573
+    fileSize: 10559
     createdAt: 2025-08-13T11:04:32.807Z
-    updatedAt: 2025-08-13T11:04:32.807Z
+    updatedAt: 2025-08-29T21:58:42.403Z

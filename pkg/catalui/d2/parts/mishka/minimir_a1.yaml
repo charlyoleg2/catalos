@@ -5,8 +5,8 @@ tags:
   - mirror
 owner: mishka
 createdAt: 2025-08-13T11:04:32.765Z
-updatedAt: 2025-08-13T11:04:32.783Z
-updateCount: 1
+updatedAt: 2025-08-29T21:58:42.368Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame77/desi77/minimir
 linkToSrc: https://github.com/charlyoleg2/parame77
@@ -19,33 +19,33 @@ files:
   - fileName: px_minimir_A1_v01.json
     fileType: pxJson
     filePath: minimir_a1/px_minimir_A1_v01.json
-    fileSize: 470
+    fileSize: 469
     createdAt: 2025-08-13T11:04:32.766Z
-    updatedAt: 2025-08-13T11:04:32.766Z
+    updatedAt: 2025-08-29T21:58:42.345Z
   - fileName: minimir_A1_v01_faceWheel.svg
     fileType: svg
     filePath: minimir_a1/minimir_A1_v01_faceWheel.svg
-    fileSize: 1866
+    fileSize: 1842
     createdAt: 2025-08-13T11:04:32.767Z
-    updatedAt: 2025-08-13T11:04:32.767Z
+    updatedAt: 2025-08-29T21:58:42.346Z
   - fileName: minimir_A1_v01_faceWheel.dxf
     fileType: dxf
     filePath: minimir_a1/minimir_A1_v01_faceWheel.dxf
-    fileSize: 2683
+    fileSize: 2667
     createdAt: 2025-08-13T11:04:32.767Z
-    updatedAt: 2025-08-13T11:04:32.767Z
+    updatedAt: 2025-08-29T21:58:42.347Z
   - fileName: minimir_A1_v01_faceTransversal.svg
     fileType: svg
     filePath: minimir_a1/minimir_A1_v01_faceTransversal.svg
-    fileSize: 387
+    fileSize: 382
     createdAt: 2025-08-13T11:04:32.768Z
-    updatedAt: 2025-08-13T11:04:32.768Z
+    updatedAt: 2025-08-29T21:58:42.348Z
   - fileName: minimir_A1_v01_faceTransversal.dxf
     fileType: dxf
     filePath: minimir_a1/minimir_A1_v01_faceTransversal.dxf
-    fileSize: 548
+    fileSize: 540
     createdAt: 2025-08-13T11:04:32.769Z
-    updatedAt: 2025-08-13T11:04:32.769Z
+    updatedAt: 2025-08-29T21:58:42.349Z
   - fileName: minimir_A1_v01_faceRod.svg
     fileType: svg
     filePath: minimir_a1/minimir_A1_v01_faceRod.svg
@@ -61,15 +61,15 @@ files:
   - fileName: minimir_A1_v01_faceLift.svg
     fileType: svg
     filePath: minimir_a1/minimir_A1_v01_faceLift.svg
-    fileSize: 705
+    fileSize: 695
     createdAt: 2025-08-13T11:04:32.772Z
-    updatedAt: 2025-08-13T11:04:32.772Z
+    updatedAt: 2025-08-29T21:58:42.352Z
   - fileName: minimir_A1_v01_faceLift.dxf
     fileType: dxf
     filePath: minimir_a1/minimir_A1_v01_faceLift.dxf
-    fileSize: 1092
+    fileSize: 1076
     createdAt: 2025-08-13T11:04:32.773Z
-    updatedAt: 2025-08-13T11:04:32.773Z
+    updatedAt: 2025-08-29T21:58:42.353Z
   - fileName: minimir_A1_v01_faceFrame.svg
     fileType: svg
     filePath: minimir_a1/minimir_A1_v01_faceFrame.svg
@@ -85,21 +85,21 @@ files:
   - fileName: minimir_A1_v01.scad
     fileType: scad
     filePath: minimir_a1/minimir_A1_v01.scad
-    fileSize: 17991
+    fileSize: 16531
     createdAt: 2025-08-13T11:04:32.777Z
-    updatedAt: 2025-08-13T11:04:32.777Z
+    updatedAt: 2025-08-29T21:58:42.356Z
   - fileName: minimir_A1_v01.py
     fileType: pyFreecad
     filePath: minimir_a1/minimir_A1_v01.py
-    fileSize: 18274
+    fileSize: 18184
     createdAt: 2025-08-13T11:04:32.777Z
-    updatedAt: 2025-08-13T11:04:32.777Z
+    updatedAt: 2025-08-29T21:58:42.357Z
   - fileName: minimir_A1_v01.pax.json
     fileType: paxJson
     filePath: minimir_a1/minimir_A1_v01.pax.json
-    fileSize: 24708
+    fileSize: 24670
     createdAt: 2025-08-13T11:04:32.778Z
-    updatedAt: 2025-08-13T11:04:32.778Z
+    updatedAt: 2025-08-29T21:58:42.358Z
   - fileName: minimir_A1_v01.log.txt
     fileType: txtLog
     filePath: minimir_a1/minimir_A1_v01.log.txt
@@ -109,48 +109,54 @@ files:
   - fileName: minimir_A1_v01.js
     fileType: jsCad
     filePath: minimir_a1/minimir_A1_v01.js
-    fileSize: 17695
+    fileSize: 16384
     createdAt: 2025-08-13T11:04:32.779Z
-    updatedAt: 2025-08-13T11:04:32.779Z
+    updatedAt: 2025-08-29T21:58:42.360Z
+  - fileName: f08.png
+    fileType: image
+    filePath: minimir_a1/f08.png
+    fileSize: 14184
+    createdAt: 2025-08-29T21:58:42.361Z
+    updatedAt: 2025-08-29T21:58:42.361Z
   - fileName: f07.png
     fileType: image
     filePath: minimir_a1/f07.png
-    fileSize: 17618
+    fileSize: 9577
     createdAt: 2025-08-13T11:04:32.779Z
-    updatedAt: 2025-08-13T11:04:32.779Z
+    updatedAt: 2025-08-29T21:58:42.362Z
   - fileName: f06.png
     fileType: image
     filePath: minimir_a1/f06.png
-    fileSize: 16396
+    fileSize: 14428
     createdAt: 2025-08-13T11:04:32.780Z
-    updatedAt: 2025-08-13T11:04:32.780Z
+    updatedAt: 2025-08-29T21:58:42.363Z
   - fileName: f05.png
     fileType: image
     filePath: minimir_a1/f05.png
-    fileSize: 15904
+    fileSize: 16905
     createdAt: 2025-08-13T11:04:32.781Z
-    updatedAt: 2025-08-13T11:04:32.781Z
+    updatedAt: 2025-08-29T21:58:42.364Z
   - fileName: f04.png
     fileType: image
     filePath: minimir_a1/f04.png
-    fileSize: 15416
+    fileSize: 11380
     createdAt: 2025-08-13T11:04:32.781Z
-    updatedAt: 2025-08-13T11:04:32.781Z
+    updatedAt: 2025-08-29T21:58:42.365Z
   - fileName: f03.png
     fileType: image
     filePath: minimir_a1/f03.png
-    fileSize: 13012
+    fileSize: 14998
     createdAt: 2025-08-13T11:04:32.782Z
-    updatedAt: 2025-08-13T11:04:32.782Z
+    updatedAt: 2025-08-29T21:58:42.366Z
   - fileName: f02.png
     fileType: image
     filePath: minimir_a1/f02.png
-    fileSize: 14606
+    fileSize: 14660
     createdAt: 2025-08-13T11:04:32.782Z
-    updatedAt: 2025-08-13T11:04:32.782Z
+    updatedAt: 2025-08-29T21:58:42.367Z
   - fileName: f01.png
     fileType: image
     filePath: minimir_a1/f01.png
-    fileSize: 10788
+    fileSize: 15580
     createdAt: 2025-08-13T11:04:32.783Z
-    updatedAt: 2025-08-13T11:04:32.783Z
+    updatedAt: 2025-08-29T21:58:42.368Z
