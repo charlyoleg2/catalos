@@ -6,8 +6,8 @@ tags:
   - model
 owner: makeda
 createdAt: 2025-10-30T10:59:36.236Z
-updatedAt: 2025-10-30T11:14:30.512Z
-updateCount: 2
+updatedAt: 2025-10-30T11:21:16.212Z
+updateCount: 3
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame76/desi76/abri
 linkToSrc: https://github.com/charlyoleg2/parame76
@@ -29,6 +29,24 @@ files:
     fileSize: 5172
     createdAt: 2025-10-30T10:59:36.239Z
     updatedAt: 2025-10-30T11:14:30.488Z
+  - fileName: f03.png
+    fileType: image
+    filePath: abri_a1/f03.png
+    fileSize: 2577
+    createdAt: 2025-10-30T11:21:16.199Z
+    updatedAt: 2025-10-30T11:21:16.199Z
+  - fileName: f02.png
+    fileType: image
+    filePath: abri_a1/f02.png
+    fileSize: 7533
+    createdAt: 2025-10-30T11:21:16.200Z
+    updatedAt: 2025-10-30T11:21:16.200Z
+  - fileName: f01.png
+    fileType: image
+    filePath: abri_a1/f01.png
+    fileSize: 8237
+    createdAt: 2025-10-30T11:21:16.201Z
+    updatedAt: 2025-10-30T11:21:16.201Z
   - fileName: abri_A1_pldt_x4_oscad.stl
     fileType: stl
     filePath: abri_a1/abri_A1_pldt_x4_oscad.stl
