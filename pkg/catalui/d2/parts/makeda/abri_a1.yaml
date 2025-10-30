@@ -1,0 +1,31 @@
+description: A shelter made out of wood beam for supporting photovoltaic panels
+tags:
+  - wood
+  - shelter
+  - carpenter
+  - model
+owner: makeda
+createdAt: 2025-10-30T10:59:36.236Z
+updatedAt: 2025-10-30T10:59:36.239Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame76/desi76/abri
+linkToSrc: https://github.com/charlyoleg2/parame76
+linkToPkg: https://www.npmjs.com/package/desi76
+linkToCli: https://www.npmjs.com/package/desi76-cli
+linkToUis: https://www.npmjs.com/package/desi76-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame76
+linkOthers: []
+files:
+  - fileName: px_abri_A1_v01.json
+    fileType: pxJson
+    filePath: abri_a1/px_abri_A1_v01.json
+    fileSize: 1823
+    createdAt: 2025-10-30T10:59:36.238Z
+    updatedAt: 2025-10-30T10:59:36.238Z
+  - fileName: make_abri.js
+    fileType: jsCad
+    filePath: abri_a1/make_abri.js
+    fileSize: 5082
+    createdAt: 2025-10-30T10:59:36.239Z
+    updatedAt: 2025-10-30T10:59:36.239Z
