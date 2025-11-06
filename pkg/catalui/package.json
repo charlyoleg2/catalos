@@ -27,14 +27,14 @@
 	"dependencies": {
 		"@astrojs/node": "^9.5.0",
 		"@astrojs/sitemap": "^3.6.0",
-		"astro": "^5.15.2",
+		"astro": "^5.15.4",
 		"astro-seo-meta": "^5.2.0",
 		"yargs": "^18.0.0"
 	},
 	"devDependencies": {
 		"@astrojs/check": "^0.9.5",
 		"@colinaut/action-table": "^2.4.22",
-		"@types/node": "^24.9.2",
+		"@types/node": "^24.10.0",
 		"degit": "^2.8.4",
 		"fs-extra": "^11.3.2",
 		"glob": "^11.0.3",
@@ -42,7 +42,7 @@
 		"pagefind": "^1.4.0",
 		"prettier": "^3.6.2",
 		"prettier-plugin-astro": "^0.14.1",
-		"rimraf": "^6.0.1",
+		"rimraf": "^6.1.0",
 		"typescript": "^5.9.3",
 		"yaml": "^2.8.1"
 	}
