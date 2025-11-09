@@ -1,0 +1,235 @@
+description: A shelter made out of wood beam for supporting photovoltaic panels with 3 poles per facade
+tags:
+  - wood
+  - shelter
+  - carpenter
+  - model
+owner: makeda
+createdAt: 2025-11-09T21:20:03.659Z
+updatedAt: 2025-11-09T21:20:03.684Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame76/desi76/abri
+linkToSrc: https://github.com/charlyoleg2/parame76
+linkToPkg: https://www.npmjs.com/package/desi76
+linkToCli: https://www.npmjs.com/package/desi76-cli
+linkToUis: https://www.npmjs.com/package/desi76-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame76
+linkOthers: []
+files:
+  - fileName: px_abri_B1_v01.json
+    fileType: pxJson
+    filePath: abri_b1/px_abri_B1_v01.json
+    fileSize: 1823
+    createdAt: 2025-11-09T21:20:03.661Z
+    updatedAt: 2025-11-09T21:20:03.662Z
+  - fileName: make_abri.js
+    fileType: jsCad
+    filePath: abri_b1/make_abri.js
+    fileSize: 5172
+    createdAt: 2025-11-09T21:20:03.662Z
+    updatedAt: 2025-11-09T21:20:03.662Z
+  - fileName: abri_B1_pldt_x2_oscad.stl
+    fileType: stl
+    filePath: abri_b1/abri_B1_pldt_x2_oscad.stl
+    fileSize: 5337
+    createdAt: 2025-11-09T21:20:03.663Z
+    updatedAt: 2025-11-09T21:20:03.663Z
+  - fileName: abri_B1_pldt_x2.scad
+    fileType: scad
+    filePath: abri_b1/abri_B1_pldt_x2.scad
+    fileSize: 63607
+    createdAt: 2025-11-09T21:20:03.663Z
+    updatedAt: 2025-11-09T21:20:03.663Z
+  - fileName: abri_B1_pldb_x4_oscad.stl
+    fileType: stl
+    filePath: abri_b1/abri_B1_pldb_x4_oscad.stl
+    fileSize: 23329
+    createdAt: 2025-11-09T21:20:03.664Z
+    updatedAt: 2025-11-09T21:20:03.664Z
+  - fileName: abri_B1_pldb_x4.scad
+    fileType: scad
+    filePath: abri_b1/abri_B1_pldb_x4.scad
+    fileSize: 63607
+    createdAt: 2025-11-09T21:20:03.665Z
+    updatedAt: 2025-11-09T21:20:03.665Z
+  - fileName: abri_B1_plda_x8_oscad.stl
+    fileType: stl
+    filePath: abri_b1/abri_B1_plda_x8_oscad.stl
+    fileSize: 23358
+    createdAt: 2025-11-09T21:20:03.665Z
+    updatedAt: 2025-11-09T21:20:03.665Z
+  - fileName: abri_B1_plda_x8.scad
+    fileType: scad
+    filePath: abri_b1/abri_B1_plda_x8.scad
+    fileSize: 63607
+    createdAt: 2025-11-09T21:20:03.666Z
+    updatedAt: 2025-11-09T21:20:03.666Z
+  - fileName: abri_B1_pl8S_x2_oscad.stl
+    fileType: stl
+    filePath: abri_b1/abri_B1_pl8S_x2_oscad.stl
+    fileSize: 3397
+    createdAt: 2025-11-09T21:20:03.666Z
+    updatedAt: 2025-11-09T21:20:03.666Z
+  - fileName: abri_B1_pl8S_x2.scad
+    fileType: scad
+    filePath: abri_b1/abri_B1_pl8S_x2.scad
+    fileSize: 63607
+    createdAt: 2025-11-09T21:20:03.667Z
+    updatedAt: 2025-11-09T21:20:03.667Z
+  - fileName: abri_B1_pl8N_x2_oscad.stl
+    fileType: stl
+    filePath: abri_b1/abri_B1_pl8N_x2_oscad.stl
+    fileSize: 3421
+    createdAt: 2025-11-09T21:20:03.668Z
+    updatedAt: 2025-11-09T21:20:03.668Z
+  - fileName: abri_B1_pl8N_x2.scad
+    fileType: scad
+    filePath: abri_b1/abri_B1_pl8N_x2.scad
+    fileSize: 63607
+    createdAt: 2025-11-09T21:20:03.668Z
+    updatedAt: 2025-11-09T21:20:03.668Z
+  - fileName: abri_B1_pl6_x1_oscad.stl
+    fileType: stl
+    filePath: abri_b1/abri_B1_pl6_x1_oscad.stl
+    fileSize: 10588
+    createdAt: 2025-11-09T21:20:03.669Z
+    updatedAt: 2025-11-09T21:20:03.669Z
+  - fileName: abri_B1_pl6_x1.scad
+    fileType: scad
+    filePath: abri_b1/abri_B1_pl6_x1.scad
+    fileSize: 63603
+    createdAt: 2025-11-09T21:20:03.670Z
+    updatedAt: 2025-11-09T21:20:03.670Z
+  - fileName: abri_B1_pl5_x2_oscad.stl
+    fileType: stl
+    filePath: abri_b1/abri_B1_pl5_x2_oscad.stl
+    fileSize: 54387
+    createdAt: 2025-11-09T21:20:03.670Z
+    updatedAt: 2025-11-09T21:20:03.670Z
+  - fileName: abri_B1_pl5_x2.scad
+    fileType: scad
+    filePath: abri_b1/abri_B1_pl5_x2.scad
+    fileSize: 63603
+    createdAt: 2025-11-09T21:20:03.671Z
+    updatedAt: 2025-11-09T21:20:03.671Z
+  - fileName: abri_B1_pl4S_x2_oscad.stl
+    fileType: stl
+    filePath: abri_b1/abri_B1_pl4S_x2_oscad.stl
+    fileSize: 69095
+    createdAt: 2025-11-09T21:20:03.672Z
+    updatedAt: 2025-11-09T21:20:03.672Z
+  - fileName: abri_B1_pl4S_x2.scad
+    fileType: scad
+    filePath: abri_b1/abri_B1_pl4S_x2.scad
+    fileSize: 63607
+    createdAt: 2025-11-09T21:20:03.672Z
+    updatedAt: 2025-11-09T21:20:03.672Z
+  - fileName: abri_B1_pl4N_x2_oscad.stl
+    fileType: stl
+    filePath: abri_b1/abri_B1_pl4N_x2_oscad.stl
+    fileSize: 76830
+    createdAt: 2025-11-09T21:20:03.673Z
+    updatedAt: 2025-11-09T21:20:03.673Z
+  - fileName: abri_B1_pl4N_x2.scad
+    fileType: scad
+    filePath: abri_b1/abri_B1_pl4N_x2.scad
+    fileSize: 63607
+    createdAt: 2025-11-09T21:20:03.673Z
+    updatedAt: 2025-11-09T21:20:03.673Z
+  - fileName: abri_B1_pl3EE_x4_oscad.stl
+    fileType: stl
+    filePath: abri_b1/abri_B1_pl3EE_x4_oscad.stl
+    fileSize: 207706
+    createdAt: 2025-11-09T21:20:03.674Z
+    updatedAt: 2025-11-09T21:20:03.674Z
+  - fileName: abri_B1_pl3EE_x4.scad
+    fileType: scad
+    filePath: abri_b1/abri_B1_pl3EE_x4.scad
+    fileSize: 63608
+    createdAt: 2025-11-09T21:20:03.675Z
+    updatedAt: 2025-11-09T21:20:03.675Z
+  - fileName: abri_B1_pl2EE_x6_oscad.stl
+    fileType: stl
+    filePath: abri_b1/abri_B1_pl2EE_x6_oscad.stl
+    fileSize: 83010
+    createdAt: 2025-11-09T21:20:03.676Z
+    updatedAt: 2025-11-09T21:20:03.676Z
+  - fileName: abri_B1_pl2EE_x6.scad
+    fileType: scad
+    filePath: abri_b1/abri_B1_pl2EE_x6.scad
+    fileSize: 63608
+    createdAt: 2025-11-09T21:20:03.676Z
+    updatedAt: 2025-11-09T21:20:03.676Z
+  - fileName: abri_B1_pl1_loedp4_x1_oscad.stl
+    fileType: stl
+    filePath: abri_b1/abri_B1_pl1_loedp4_x1_oscad.stl
+    fileSize: 49699
+    createdAt: 2025-11-09T21:20:03.677Z
+    updatedAt: 2025-11-09T21:20:03.677Z
+  - fileName: abri_B1_pl1_loedp4_x1.scad
+    fileType: scad
+    filePath: abri_b1/abri_B1_pl1_loedp4_x1.scad
+    fileSize: 63508
+    createdAt: 2025-11-09T21:20:03.677Z
+    updatedAt: 2025-11-09T21:20:03.677Z
+  - fileName: abri_B1_pl1_loedp3_x1_oscad.stl
+    fileType: stl
+    filePath: abri_b1/abri_B1_pl1_loedp3_x1_oscad.stl
+    fileSize: 51870
+    createdAt: 2025-11-09T21:20:03.678Z
+    updatedAt: 2025-11-09T21:20:03.678Z
+  - fileName: abri_B1_pl1_loedp3_x1.scad
+    fileType: scad
+    filePath: abri_b1/abri_B1_pl1_loedp3_x1.scad
+    fileSize: 63605
+    createdAt: 2025-11-09T21:20:03.679Z
+    updatedAt: 2025-11-09T21:20:03.679Z
+  - fileName: abri_B1_pl1_loedp1_x1_oscad.stl
+    fileType: stl
+    filePath: abri_b1/abri_B1_pl1_loedp1_x1_oscad.stl
+    fileSize: 49702
+    createdAt: 2025-11-09T21:20:03.679Z
+    updatedAt: 2025-11-09T21:20:03.679Z
+  - fileName: abri_B1_pl1_loedp1_x1.scad
+    fileType: scad
+    filePath: abri_b1/abri_B1_pl1_loedp1_x1.scad
+    fileSize: 63507
+    createdAt: 2025-11-09T21:20:03.680Z
+    updatedAt: 2025-11-09T21:20:03.680Z
+  - fileName: abri_B1_pl1_edlop4_x1_oscad.stl
+    fileType: stl
+    filePath: abri_b1/abri_B1_pl1_edlop4_x1_oscad.stl
+    fileSize: 49702
+    createdAt: 2025-11-09T21:20:03.681Z
+    updatedAt: 2025-11-09T21:20:03.681Z
+  - fileName: abri_B1_pl1_edlop4_x1.scad
+    fileType: scad
+    filePath: abri_b1/abri_B1_pl1_edlop4_x1.scad
+    fileSize: 63506
+    createdAt: 2025-11-09T21:20:03.681Z
+    updatedAt: 2025-11-09T21:20:03.681Z
+  - fileName: abri_B1_pl1_edlop3_x1_oscad.stl
+    fileType: stl
+    filePath: abri_b1/abri_B1_pl1_edlop3_x1_oscad.stl
+    fileSize: 51885
+    createdAt: 2025-11-09T21:20:03.682Z
+    updatedAt: 2025-11-09T21:20:03.682Z
+  - fileName: abri_B1_pl1_edlop3_x1.scad
+    fileType: scad
+    filePath: abri_b1/abri_B1_pl1_edlop3_x1.scad
+    fileSize: 63603
+    createdAt: 2025-11-09T21:20:03.682Z
+    updatedAt: 2025-11-09T21:20:03.682Z
+  - fileName: abri_B1_pl1_edlop1_x1_oscad.stl
+    fileType: stl
+    filePath: abri_b1/abri_B1_pl1_edlop1_x1_oscad.stl
+    fileSize: 49704
+    createdAt: 2025-11-09T21:20:03.683Z
+    updatedAt: 2025-11-09T21:20:03.683Z
+  - fileName: abri_B1_pl1_edlop1_x1.scad
+    fileType: scad
+    filePath: abri_b1/abri_B1_pl1_edlop1_x1.scad
+    fileSize: 63505
+    createdAt: 2025-11-09T21:20:03.683Z
+    updatedAt: 2025-11-09T21:20:03.683Z
