@@ -7,8 +7,8 @@ tags:
   - model
 owner: makeda
 createdAt: 2025-11-09T21:20:03.659Z
-updatedAt: 2025-11-09T21:20:03.684Z
-updateCount: 1
+updatedAt: 2025-11-12T19:45:32.324Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame76/desi76/abri
 linkToSrc: https://github.com/charlyoleg2/parame76
@@ -234,3 +234,75 @@ files:
     fileSize: 63505
     createdAt: 2025-11-09T21:20:03.683Z
     updatedAt: 2025-11-09T21:20:03.683Z
+  - fileName: a12.jpg
+    fileType: image
+    filePath: abri_b1/a12.jpg
+    fileSize: 60143
+    createdAt: 2025-11-12T19:45:32.315Z
+    updatedAt: 2025-11-12T19:45:32.315Z
+  - fileName: a11.jpg
+    fileType: image
+    filePath: abri_b1/a11.jpg
+    fileSize: 63183
+    createdAt: 2025-11-12T19:45:32.316Z
+    updatedAt: 2025-11-12T19:45:32.316Z
+  - fileName: a10.jpg
+    fileType: image
+    filePath: abri_b1/a10.jpg
+    fileSize: 76507
+    createdAt: 2025-11-12T19:45:32.317Z
+    updatedAt: 2025-11-12T19:45:32.317Z
+  - fileName: a09.jpg
+    fileType: image
+    filePath: abri_b1/a09.jpg
+    fileSize: 37155
+    createdAt: 2025-11-12T19:45:32.318Z
+    updatedAt: 2025-11-12T19:45:32.318Z
+  - fileName: a08.jpg
+    fileType: image
+    filePath: abri_b1/a08.jpg
+    fileSize: 62077
+    createdAt: 2025-11-12T19:45:32.318Z
+    updatedAt: 2025-11-12T19:45:32.318Z
+  - fileName: a07.jpg
+    fileType: image
+    filePath: abri_b1/a07.jpg
+    fileSize: 71815
+    createdAt: 2025-11-12T19:45:32.319Z
+    updatedAt: 2025-11-12T19:45:32.319Z
+  - fileName: a06.jpg
+    fileType: image
+    filePath: abri_b1/a06.jpg
+    fileSize: 75783
+    createdAt: 2025-11-12T19:45:32.320Z
+    updatedAt: 2025-11-12T19:45:32.320Z
+  - fileName: a05.jpg
+    fileType: image
+    filePath: abri_b1/a05.jpg
+    fileSize: 67386
+    createdAt: 2025-11-12T19:45:32.321Z
+    updatedAt: 2025-11-12T19:45:32.321Z
+  - fileName: a04.jpg
+    fileType: image
+    filePath: abri_b1/a04.jpg
+    fileSize: 46756
+    createdAt: 2025-11-12T19:45:32.321Z
+    updatedAt: 2025-11-12T19:45:32.321Z
+  - fileName: a03.jpg
+    fileType: image
+    filePath: abri_b1/a03.jpg
+    fileSize: 45853
+    createdAt: 2025-11-12T19:45:32.322Z
+    updatedAt: 2025-11-12T19:45:32.322Z
+  - fileName: a02.jpg
+    fileType: image
+    filePath: abri_b1/a02.jpg
+    fileSize: 59096
+    createdAt: 2025-11-12T19:45:32.323Z
+    updatedAt: 2025-11-12T19:45:32.323Z
+  - fileName: a01.jpg
+    fileType: image
+    filePath: abri_b1/a01.jpg
+    fileSize: 53126
+    createdAt: 2025-11-12T19:45:32.323Z
+    updatedAt: 2025-11-12T19:45:32.323Z
