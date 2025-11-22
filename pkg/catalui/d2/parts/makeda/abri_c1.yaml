@@ -7,8 +7,8 @@ tags:
   - model
 owner: makeda
 createdAt: 2025-11-09T21:20:03.614Z
-updatedAt: 2025-11-09T21:20:03.655Z
-updateCount: 1
+updatedAt: 2025-11-22T17:49:57.607Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame76/desi76/abri
 linkToSrc: https://github.com/charlyoleg2/parame76
@@ -27,9 +27,9 @@ files:
   - fileName: make_abri.js
     fileType: jsCad
     filePath: abri_c1/make_abri.js
-    fileSize: 6136
+    fileSize: 6137
     createdAt: 2025-11-09T21:20:03.622Z
-    updatedAt: 2025-11-09T21:20:03.622Z
+    updatedAt: 2025-11-22T17:49:57.581Z
   - fileName: abri_C1_pldt_x2_oscad.stl
     fileType: stl
     filePath: abri_c1/abri_C1_pldt_x2_oscad.stl
@@ -42,30 +42,30 @@ files:
     fileSize: 75510
     createdAt: 2025-11-09T21:20:03.624Z
     updatedAt: 2025-11-09T21:20:03.624Z
-  - fileName: abri_C1_pldb_x4_oscad.stl
+  - fileName: abri_C1_pldb_x8_oscad.stl
     fileType: stl
-    filePath: abri_c1/abri_C1_pldb_x4_oscad.stl
+    filePath: abri_c1/abri_C1_pldb_x8_oscad.stl
     fileSize: 23263
-    createdAt: 2025-11-09T21:20:03.625Z
-    updatedAt: 2025-11-09T21:20:03.625Z
-  - fileName: abri_C1_pldb_x4.scad
+    createdAt: 2025-11-22T17:49:57.583Z
+    updatedAt: 2025-11-22T17:49:57.583Z
+  - fileName: abri_C1_pldb_x8.scad
     fileType: scad
-    filePath: abri_c1/abri_C1_pldb_x4.scad
+    filePath: abri_c1/abri_C1_pldb_x8.scad
     fileSize: 75510
-    createdAt: 2025-11-09T21:20:03.626Z
-    updatedAt: 2025-11-09T21:20:03.626Z
-  - fileName: abri_C1_plda_x8_oscad.stl
+    createdAt: 2025-11-22T17:49:57.584Z
+    updatedAt: 2025-11-22T17:49:57.584Z
+  - fileName: abri_C1_plda_x12_oscad.stl
     fileType: stl
-    filePath: abri_c1/abri_C1_plda_x8_oscad.stl
+    filePath: abri_c1/abri_C1_plda_x12_oscad.stl
     fileSize: 23361
-    createdAt: 2025-11-09T21:20:03.626Z
-    updatedAt: 2025-11-09T21:20:03.627Z
-  - fileName: abri_C1_plda_x8.scad
+    createdAt: 2025-11-22T17:49:57.584Z
+    updatedAt: 2025-11-22T17:49:57.584Z
+  - fileName: abri_C1_plda_x12.scad
     fileType: scad
-    filePath: abri_c1/abri_C1_plda_x8.scad
+    filePath: abri_c1/abri_C1_plda_x12.scad
     fileSize: 75510
-    createdAt: 2025-11-09T21:20:03.627Z
-    updatedAt: 2025-11-09T21:20:03.627Z
+    createdAt: 2025-11-22T17:49:57.585Z
+    updatedAt: 2025-11-22T17:49:57.585Z
   - fileName: abri_C1_pl8S_x2_oscad.stl
     fileType: stl
     filePath: abri_c1/abri_C1_pl8S_x2_oscad.stl

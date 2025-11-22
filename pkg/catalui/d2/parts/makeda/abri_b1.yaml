@@ -7,8 +7,8 @@ tags:
   - model
 owner: makeda
 createdAt: 2025-11-09T21:20:03.659Z
-updatedAt: 2025-11-12T19:45:32.324Z
-updateCount: 2
+updatedAt: 2025-11-22T17:49:57.648Z
+updateCount: 3
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame76/desi76/abri
 linkToSrc: https://github.com/charlyoleg2/parame76
@@ -42,18 +42,18 @@ files:
     fileSize: 63607
     createdAt: 2025-11-09T21:20:03.663Z
     updatedAt: 2025-11-09T21:20:03.663Z
-  - fileName: abri_B1_pldb_x4_oscad.stl
+  - fileName: abri_B1_pldb_x6_oscad.stl
     fileType: stl
-    filePath: abri_b1/abri_B1_pldb_x4_oscad.stl
+    filePath: abri_b1/abri_B1_pldb_x6_oscad.stl
     fileSize: 23329
-    createdAt: 2025-11-09T21:20:03.664Z
-    updatedAt: 2025-11-09T21:20:03.664Z
-  - fileName: abri_B1_pldb_x4.scad
+    createdAt: 2025-11-22T17:49:57.622Z
+    updatedAt: 2025-11-22T17:49:57.622Z
+  - fileName: abri_B1_pldb_x6.scad
     fileType: scad
-    filePath: abri_b1/abri_B1_pldb_x4.scad
+    filePath: abri_b1/abri_B1_pldb_x6.scad
     fileSize: 63607
-    createdAt: 2025-11-09T21:20:03.665Z
-    updatedAt: 2025-11-09T21:20:03.665Z
+    createdAt: 2025-11-22T17:49:57.622Z
+    updatedAt: 2025-11-22T17:49:57.622Z
   - fileName: abri_B1_plda_x8_oscad.stl
     fileType: stl
     filePath: abri_b1/abri_B1_plda_x8_oscad.stl
