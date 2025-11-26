@@ -7,8 +7,8 @@ tags:
   - model
 owner: makeda
 createdAt: 2025-11-09T21:20:03.614Z
-updatedAt: 2025-11-22T17:49:57.607Z
-updateCount: 2
+updatedAt: 2025-11-26T18:23:44.422Z
+updateCount: 3
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame76/desi76/abri
 linkToSrc: https://github.com/charlyoleg2/parame76
@@ -30,6 +30,60 @@ files:
     fileSize: 6137
     createdAt: 2025-11-09T21:20:03.622Z
     updatedAt: 2025-11-22T17:49:57.581Z
+  - fileName: f09.jpg
+    fileType: image
+    filePath: abri_c1/f09.jpg
+    fileSize: 51254
+    createdAt: 2025-11-26T18:23:44.390Z
+    updatedAt: 2025-11-26T18:23:44.390Z
+  - fileName: f08.jpg
+    fileType: image
+    filePath: abri_c1/f08.jpg
+    fileSize: 39459
+    createdAt: 2025-11-26T18:23:44.391Z
+    updatedAt: 2025-11-26T18:23:44.391Z
+  - fileName: f07.jpg
+    fileType: image
+    filePath: abri_c1/f07.jpg
+    fileSize: 62141
+    createdAt: 2025-11-26T18:23:44.392Z
+    updatedAt: 2025-11-26T18:23:44.392Z
+  - fileName: f06.jpg
+    fileType: image
+    filePath: abri_c1/f06.jpg
+    fileSize: 74521
+    createdAt: 2025-11-26T18:23:44.393Z
+    updatedAt: 2025-11-26T18:23:44.393Z
+  - fileName: f05.jpg
+    fileType: image
+    filePath: abri_c1/f05.jpg
+    fileSize: 58561
+    createdAt: 2025-11-26T18:23:44.393Z
+    updatedAt: 2025-11-26T18:23:44.393Z
+  - fileName: f04.jpg
+    fileType: image
+    filePath: abri_c1/f04.jpg
+    fileSize: 78564
+    createdAt: 2025-11-26T18:23:44.394Z
+    updatedAt: 2025-11-26T18:23:44.394Z
+  - fileName: f03.jpg
+    fileType: image
+    filePath: abri_c1/f03.jpg
+    fileSize: 77382
+    createdAt: 2025-11-26T18:23:44.395Z
+    updatedAt: 2025-11-26T18:23:44.395Z
+  - fileName: f02.jpg
+    fileType: image
+    filePath: abri_c1/f02.jpg
+    fileSize: 80818
+    createdAt: 2025-11-26T18:23:44.396Z
+    updatedAt: 2025-11-26T18:23:44.396Z
+  - fileName: f01.jpg
+    fileType: image
+    filePath: abri_c1/f01.jpg
+    fileSize: 69967
+    createdAt: 2025-11-26T18:23:44.397Z
+    updatedAt: 2025-11-26T18:23:44.397Z
   - fileName: abri_C1_pldt_x2_oscad.stl
     fileType: stl
     filePath: abri_c1/abri_C1_pldt_x2_oscad.stl
