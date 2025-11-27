@@ -4,6 +4,7 @@ import { getEntry } from 'astro:content';
 import { prunePrefix } from '@src/lib/util.ts';
 import { imageList } from '@src/lib/sortedParts';
 import '@src/styles/styling-vars.css';
+import '@src/styles/utils.css';
 
 interface Props {
 	part: CollectionEntry<'parts'>;
@@ -16,7 +17,7 @@ const remainList = imageList(part).slice(0, 2).length;
 ---
 
 <a href={durl}>
-	<article>
+	<article class="activeButton">
 		<h2>by {user.id}</h2>
 		<h1>{prunePrefix(part.id)}</h1>
 		<div>
@@ -42,10 +43,13 @@ const remainList = imageList(part).slice(0, 2).length;
 	}
 	article {
 		width: 20rem;
-		background-color: var(--c5b);
 		padding: 0.2rem;
 		margin: 0;
+		border: 0.2rem;
+		border-style: solid;
 		border-radius: var(--cornerSurface);
+		border-color: var(--c5b);
+		background-color: var(--c5b);
 	}
 	h2 {
 		font-size: 1rem;

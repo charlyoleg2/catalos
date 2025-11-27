@@ -1,0 +1,16 @@
+/* catalos utils.css */
+
+/*
+@import './styling-vars.css';
+
+.activeButton {
+	border: 0.2rem;
+	border-style: solid;
+	border-radius: var(--cornerButton);
+	border-color: var(--c1w);
+	background-color: var(--c1w);
+}
+*/
+.activeButton:hover {
+	border-color: violet;
+}

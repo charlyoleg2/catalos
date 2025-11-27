@@ -4,6 +4,7 @@ import PartCard from '@src/components/PartCard.astro';
 import type { tDSortedKey } from '@src/lib/sortedParts.ts';
 import { dSorted } from '@src/lib/sortedParts.ts';
 import '@src/styles/styling-vars.css';
+import '@src/styles/utils.css';
 
 interface Props {
 	title: string;
@@ -16,7 +17,7 @@ const parts = dSorted[sortKey as tDSortedKey].parts;
 ---
 
 <section>
-	<a href=`sorted-parts/${sortKey}`>
+	<a class="activeButton" href=`sorted-parts/${sortKey}`>
 		<h1>{title}</h1>
 		<p class:list={['subtitle', { withsub: 'newest' === sortKey }]}>
 			Click here to see all parts
@@ -39,12 +40,14 @@ const parts = dSorted[sortKey as tDSortedKey].parts;
 		font-size: 1.1rem;
 		font-weight: bold;
 		color: var(--cLight);
-		background-color: var(--c1w);
-		border: none;
-		border-radius: var(--cornerButton);
-		padding: 0.5rem 1rem;
+		padding: 0.3rem 0.8rem;
 		margin: 1rem 0;
 		width: 85%;
+		border: 0.2rem;
+		border-style: solid;
+		border-radius: var(--cornerButton);
+		border-color: var(--c1w);
+		background-color: var(--c1w);
 	}
 	h1 {
 		margin: 0;
