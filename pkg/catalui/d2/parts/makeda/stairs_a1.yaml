@@ -6,8 +6,8 @@ tags:
   - spiral
 owner: makeda
 createdAt: 2025-08-22T13:10:31.471Z
-updatedAt: 2025-08-22T13:10:31.532Z
-updateCount: 1
+updatedAt: 2025-12-07T18:52:05.019Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame76/desi76/stairs
 linkToSrc: https://github.com/charlyoleg2/parame76
@@ -65,24 +65,30 @@ files:
     fileSize: 8432
     createdAt: 2025-08-22T13:10:31.494Z
     updatedAt: 2025-08-22T13:10:31.494Z
+  - fileName: stairs_A1_v01.stl
+    fileType: stl
+    filePath: stairs_a1/stairs_A1_v01.stl
+    fileSize: 4574684
+    createdAt: 2025-12-07T18:52:04.993Z
+    updatedAt: 2025-12-07T18:52:04.993Z
   - fileName: stairs_A1_v01.scad
     fileType: scad
     filePath: stairs_a1/stairs_A1_v01.scad
-    fileSize: 1640825
+    fileSize: 1640888
     createdAt: 2025-08-22T13:10:31.498Z
-    updatedAt: 2025-08-22T13:10:31.498Z
+    updatedAt: 2025-12-07T18:52:05.003Z
   - fileName: stairs_A1_v01.py
     fileType: pyFreecad
     filePath: stairs_a1/stairs_A1_v01.py
-    fileSize: 113846
+    fileSize: 113845
     createdAt: 2025-08-22T13:10:31.501Z
-    updatedAt: 2025-08-22T13:10:31.501Z
+    updatedAt: 2025-12-07T18:52:05.005Z
   - fileName: stairs_A1_v01.pax.json
     fileType: paxJson
     filePath: stairs_a1/stairs_A1_v01.pax.json
-    fileSize: 115792
+    fileSize: 116128
     createdAt: 2025-08-22T13:10:31.504Z
-    updatedAt: 2025-08-22T13:10:31.504Z
+    updatedAt: 2025-12-07T18:52:05.007Z
   - fileName: stairs_A1_v01.log.txt
     fileType: txtLog
     filePath: stairs_a1/stairs_A1_v01.log.txt
@@ -92,15 +98,15 @@ files:
   - fileName: stairs_A1_v01.js
     fileType: jsCad
     filePath: stairs_a1/stairs_A1_v01.js
-    fileSize: 1459207
+    fileSize: 1459262
     createdAt: 2025-08-22T13:10:31.509Z
-    updatedAt: 2025-08-22T13:10:31.509Z
+    updatedAt: 2025-12-07T18:52:05.015Z
   - fileName: px_stairs_A1_v01.json
     fileType: pxJson
     filePath: stairs_a1/px_stairs_A1_v01.json
-    fileSize: 300
+    fileSize: 316
     createdAt: 2025-08-22T13:10:31.514Z
-    updatedAt: 2025-08-22T13:10:31.514Z
+    updatedAt: 2025-12-07T18:52:05.016Z
   - fileName: f07.png
     fileType: image
     filePath: stairs_a1/f07.png
