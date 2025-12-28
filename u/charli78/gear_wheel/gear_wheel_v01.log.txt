@@ -1,0 +1,16 @@
+gear_wheel simTime: 0
+base-circles: brr1: 102.89  blr1: 102.89  brr2: 85.00  blr2: 85.00
+Pressure angular: right: 26.53 left: 26.53 degree
+Line of Action Maximum length: right: 93.78 left: 93.78 mm
+Line of Action Effective length: right: 38.84 left: 38.84 mm
+Line of Action Effective rotation angle: right-1: 21.63 right-2: 26.18 left-1: 21.63 left-2: 26.18 degree
+Line of Action Effective height: right-1: 17.20 right-2: 16.99 left-1: 17.20 left-2: 16.99 mm
+Line of Action right: step length: 1: 28.11 2: 28.11 mm
+Line of Action right: nb of contact point: 1: 1.38 2: 1.38
+Line of Action left: step length: 1: 28.11 2: 28.11 mm
+Line of Action left: nb of contact point: 1: 1.38 2: 1.38
+speed R1: vx 40.39 vy: 22.02 m/s
+speed L1: vx 40.93 vy: 15.53 m/s
+slack angle: 1: 0.00 2: 0.00 degree
+slack on action line: right-2: 0.00 left-2: 0.00 mm
+gear_wheel drawn successfully!
