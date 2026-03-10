@@ -25,24 +25,24 @@
 		"clean": "run-s clean-astro clean-u clean-d1 clean-tmp"
 	},
 	"dependencies": {
-		"@astrojs/node": "^9.5.1",
-		"@astrojs/sitemap": "^3.6.0",
-		"astro": "^5.16.6",
+		"@astrojs/node": "^9.5.5",
+		"@astrojs/sitemap": "^3.7.1",
+		"astro": "^5.18.1",
 		"astro-seo-meta": "^5.2.0",
 		"yargs": "^18.0.0"
 	},
 	"devDependencies": {
-		"@astrojs/check": "^0.9.6",
+		"@astrojs/check": "^0.9.7",
 		"@colinaut/action-table": "^2.4.22",
-		"@types/node": "^25.0.3",
+		"@types/node": "^25.4.0",
 		"degit": "^2.8.4",
-		"fs-extra": "^11.3.3",
-		"glob": "^13.0.0",
+		"fs-extra": "^11.3.4",
+		"glob": "^13.0.6",
 		"npm-run-all2": "^8.0.4",
 		"pagefind": "^1.4.0",
-		"prettier": "^3.7.4",
+		"prettier": "^3.8.1",
 		"prettier-plugin-astro": "^0.14.1",
-		"rimraf": "^6.1.2",
+		"rimraf": "^6.1.3",
 		"typescript": "^5.9.3",
 		"yaml": "^2.8.2"
 	}
