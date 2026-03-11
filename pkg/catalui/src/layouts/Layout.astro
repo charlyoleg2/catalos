@@ -3,7 +3,7 @@
 import TopMenu from '@src/components/TopMenu.astro';
 import Footy from '@src/components/Footy.astro';
 import '@src/styles/styling-vars.css';
-import { Seo } from 'astro-seo-meta';
+//import { Seo } from 'astro-seo-meta';
 
 interface Props {
 	title: string;
@@ -31,7 +31,7 @@ const base2 = base === '/' ? '/' : `${base}/`;
 		<link rel="icon" type="image/svg+xml" href="favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
 		<link rel="sitemap" href="sitemap-index.xml" />
-		<Seo title={title} description={description} keywords={tags} robots={robots} />
+		<!--Seo title={title} description={description} keywords={tags} robots={robots} /-->
 		<title>{title}</title>
 	</head>
 	<body>
