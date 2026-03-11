@@ -20,11 +20,4 @@ export default defineConfig({
 	//}),
 	site: 'https://parametrix.fr',
 	integrations: [sitemap()],
-	vite: {
-		build: {
-			rollupOptions: {
-				external: ['sharp'],
-			},
-		},
-	},
 });
