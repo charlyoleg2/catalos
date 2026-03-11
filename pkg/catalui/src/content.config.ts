@@ -1,6 +1,7 @@
 // src/content.config.ts
 
-import { defineCollection, reference, z } from 'astro:content';
+import { defineCollection, reference } from 'astro:content';
+import { z } from 'astro/zod';
 //import { glob, file } from 'astro/loaders';
 import { glob } from 'astro/loaders';
 import { DBDIR } from 'astro:env/server';
@@ -16,14 +17,14 @@ const users = defineCollection({
 		country: z.string(),
 		city: z.string(),
 		photoPath: z.string(),
-		email: z.string().email().optional(),
+		email: z.email().optional(),
 		passwd: z.coerce.string().optional(),
 		createdAt: z.coerce.date(),
 		verifiedAt: z.coerce.date().optional(),
 		updatedAt: z.coerce.date().optional(),
 		updateCount: z.number().optional(),
 		lastLoginAt: z.coerce.date().optional(),
-		lastIP: z.string().ip().optional(),
+		lastIP: z.ipv4().optional(),
 		loginCount: z.number().optional(),
 		deletedUserAt: z.coerce.date().optional(),
 		deletedAdminAt: z.coerce.date().optional(),
@@ -48,13 +49,13 @@ const parts = defineCollection({
 		visible: z.boolean(),
 		likeCount: z.number().optional(),
 		likeLastUsers: z.string().array().max(3).optional(),
-		linkToUi: z.string().url(),
-		linkToSrc: z.string().url(),
-		linkToPkg: z.string().url(),
-		linkToCli: z.string().url(),
-		linkToUis: z.string().url(),
-		linkToRepo: z.string().url(),
-		linkOthers: z.string().url().array(),
+		linkToUi: z.url(),
+		linkToSrc: z.url(),
+		linkToPkg: z.url(),
+		linkToCli: z.url(),
+		linkToUis: z.url(),
+		linkToRepo: z.url(),
+		linkOthers: z.url().array(),
 		files: z.array(
 			z.object({
 				fileName: z.string(),
