@@ -25,15 +25,15 @@
 		"clean": "run-s clean-astro clean-u clean-d1 clean-tmp"
 	},
 	"dependencies": {
-		"@astrojs/node": "^10.0.0",
+		"@astrojs/node": "^10.0.1",
 		"@astrojs/sitemap": "^3.7.1",
-		"astro": "^6.0.3",
+		"astro": "^6.0.4",
 		"yargs": "^18.0.0"
 	},
 	"devDependencies": {
 		"@astrojs/check": "^0.9.7",
 		"@colinaut/action-table": "^2.4.22",
-		"@types/node": "^25.4.0",
+		"@types/node": "^25.5.0",
 		"degit": "^2.8.4",
 		"fs-extra": "^11.3.4",
 		"glob": "^13.0.6",
