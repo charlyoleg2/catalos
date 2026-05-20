@@ -1,0 +1,163 @@
+description: "the arm of a scara bot"
+tags:
+  - bot
+  - scara
+  - arm
+  - 2D
+owner: makeda
+createdAt: 2026-05-20T20:11:51.122Z
+updatedAt: 2026-05-20T20:11:51.195Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame76/desi76/stairs
+linkToSrc: https://github.com/charlyoleg2/parame76
+linkToPkg: https://www.npmjs.com/package/desi76
+linkToCli: https://www.npmjs.com/package/desi76-cli
+linkToUis: https://www.npmjs.com/package/desi76-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame76
+linkOthers: []
+files:
+  - fileName: scara_A1_v01_faceSide.svg
+    fileType: svg
+    filePath: scara_a1/scara_A1_v01_faceSide.svg
+    fileSize: 382
+    createdAt: 2026-05-20T20:11:51.129Z
+    updatedAt: 2026-05-20T20:11:51.129Z
+  - fileName: scara_A1_v01_faceSide.dxf
+    fileType: dxf
+    filePath: scara_a1/scara_A1_v01_faceSide.dxf
+    fileSize: 540
+    createdAt: 2026-05-20T20:11:51.134Z
+    updatedAt: 2026-05-20T20:11:51.134Z
+  - fileName: scara_A1_v01_facePlate.svg
+    fileType: svg
+    filePath: scara_a1/scara_A1_v01_facePlate.svg
+    fileSize: 474
+    createdAt: 2026-05-20T20:11:51.138Z
+    updatedAt: 2026-05-20T20:11:51.138Z
+  - fileName: scara_A1_v01_facePlate.dxf
+    fileType: dxf
+    filePath: scara_a1/scara_A1_v01_facePlate.dxf
+    fileSize: 425
+    createdAt: 2026-05-20T20:11:51.143Z
+    updatedAt: 2026-05-20T20:11:51.143Z
+  - fileName: scara_A1_v01_faceIntern.svg
+    fileType: svg
+    filePath: scara_a1/scara_A1_v01_faceIntern.svg
+    fileSize: 1398
+    createdAt: 2026-05-20T20:11:51.147Z
+    updatedAt: 2026-05-20T20:11:51.147Z
+  - fileName: scara_A1_v01_faceIntern.dxf
+    fileType: dxf
+    filePath: scara_a1/scara_A1_v01_faceIntern.dxf
+    fileSize: 2290
+    createdAt: 2026-05-20T20:11:51.151Z
+    updatedAt: 2026-05-20T20:11:51.151Z
+  - fileName: scara_A1_v01_faceH42.svg
+    fileType: svg
+    filePath: scara_a1/scara_A1_v01_faceH42.svg
+    fileSize: 276
+    createdAt: 2026-05-20T20:11:51.153Z
+    updatedAt: 2026-05-20T20:11:51.153Z
+  - fileName: scara_A1_v01_faceH42.dxf
+    fileType: dxf
+    filePath: scara_a1/scara_A1_v01_faceH42.dxf
+    fileSize: 145
+    createdAt: 2026-05-20T20:11:51.156Z
+    updatedAt: 2026-05-20T20:11:51.156Z
+  - fileName: scara_A1_v01_faceH41.svg
+    fileType: svg
+    filePath: scara_a1/scara_A1_v01_faceH41.svg
+    fileSize: 274
+    createdAt: 2026-05-20T20:11:51.159Z
+    updatedAt: 2026-05-20T20:11:51.159Z
+  - fileName: scara_A1_v01_faceH41.dxf
+    fileType: dxf
+    filePath: scara_a1/scara_A1_v01_faceH41.dxf
+    fileSize: 144
+    createdAt: 2026-05-20T20:11:51.162Z
+    updatedAt: 2026-05-20T20:11:51.162Z
+  - fileName: scara_A1_v01_faceExtern.svg
+    fileType: svg
+    filePath: scara_a1/scara_A1_v01_faceExtern.svg
+    fileSize: 1481
+    createdAt: 2026-05-20T20:11:51.164Z
+    updatedAt: 2026-05-20T20:11:51.164Z
+  - fileName: scara_A1_v01_faceExtern.dxf
+    fileType: dxf
+    filePath: scara_a1/scara_A1_v01_faceExtern.dxf
+    fileSize: 2665
+    createdAt: 2026-05-20T20:11:51.167Z
+    updatedAt: 2026-05-20T20:11:51.167Z
+  - fileName: scara_A1_v01.scad
+    fileType: scad
+    filePath: scara_a1/scara_A1_v01.scad
+    fileSize: 27167
+    createdAt: 2026-05-20T20:11:51.169Z
+    updatedAt: 2026-05-20T20:11:51.169Z
+  - fileName: scara_A1_v01.py
+    fileType: pyFreecad
+    filePath: scara_a1/scara_A1_v01.py
+    fileSize: 16934
+    createdAt: 2026-05-20T20:11:51.172Z
+    updatedAt: 2026-05-20T20:11:51.172Z
+  - fileName: scara_A1_v01.pax.json
+    fileType: paxJson
+    filePath: scara_a1/scara_A1_v01.pax.json
+    fileSize: 24656
+    createdAt: 2026-05-20T20:11:51.175Z
+    updatedAt: 2026-05-20T20:11:51.175Z
+  - fileName: scara_A1_v01.log.txt
+    fileType: txtLog
+    filePath: scara_a1/scara_A1_v01.log.txt
+    fileSize: 71
+    createdAt: 2026-05-20T20:11:51.177Z
+    updatedAt: 2026-05-20T20:11:51.177Z
+  - fileName: scara_A1_v01.js
+    fileType: jsCad
+    filePath: scara_a1/scara_A1_v01.js
+    fileSize: 25953
+    createdAt: 2026-05-20T20:11:51.179Z
+    updatedAt: 2026-05-20T20:11:51.180Z
+  - fileName: px_scara_A1_v01.json
+    fileType: pxJson
+    filePath: scara_a1/px_scara_A1_v01.json
+    fileSize: 515
+    createdAt: 2026-05-20T20:11:51.182Z
+    updatedAt: 2026-05-20T20:11:51.182Z
+  - fileName: f06.png
+    fileType: image
+    filePath: scara_a1/f06.png
+    fileSize: 9521
+    createdAt: 2026-05-20T20:11:51.184Z
+    updatedAt: 2026-05-20T20:11:51.184Z
+  - fileName: f05.png
+    fileType: image
+    filePath: scara_a1/f05.png
+    fileSize: 5332
+    createdAt: 2026-05-20T20:11:51.187Z
+    updatedAt: 2026-05-20T20:11:51.187Z
+  - fileName: f04.png
+    fileType: image
+    filePath: scara_a1/f04.png
+    fileSize: 5454
+    createdAt: 2026-05-20T20:11:51.189Z
+    updatedAt: 2026-05-20T20:11:51.189Z
+  - fileName: f03.png
+    fileType: image
+    filePath: scara_a1/f03.png
+    fileSize: 11787
+    createdAt: 2026-05-20T20:11:51.192Z
+    updatedAt: 2026-05-20T20:11:51.192Z
+  - fileName: f02.png
+    fileType: image
+    filePath: scara_a1/f02.png
+    fileSize: 4904
+    createdAt: 2026-05-20T20:11:51.193Z
+    updatedAt: 2026-05-20T20:11:51.193Z
+  - fileName: f01.png
+    fileType: image
+    filePath: scara_a1/f01.png
+    fileSize: 11555
+    createdAt: 2026-05-20T20:11:51.195Z
+    updatedAt: 2026-05-20T20:11:51.195Z
