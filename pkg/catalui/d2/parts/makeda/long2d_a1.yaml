@@ -1,0 +1,230 @@
+description: A long arm with many legs moving in one 2D-plan
+tags:
+  - bot
+  - scara
+  - arm
+  - 2D
+  - assembly
+owner: makeda
+createdAt: 2026-06-09T09:01:39.435Z
+updatedAt: 2026-06-09T09:01:39.462Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame76/desi76/long2d
+linkToSrc: https://github.com/charlyoleg2/parame76
+linkToPkg: https://www.npmjs.com/package/desi76
+linkToCli: https://www.npmjs.com/package/desi76-cli
+linkToUis: https://www.npmjs.com/package/desi76-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame76
+linkOthers: []
+files:
+  - fileName: px_long2d_A1_v01.json
+    fileType: pxJson
+    filePath: long2d_a1/px_long2d_A1_v01.json
+    fileSize: 813
+    createdAt: 2026-06-09T09:01:39.438Z
+    updatedAt: 2026-06-09T09:01:39.438Z
+  - fileName: long2d_A1_v01_printer.scad
+    fileType: scad
+    filePath: long2d_a1/long2d_A1_v01_printer.scad
+    fileSize: 177565
+    createdAt: 2026-06-09T09:01:39.438Z
+    updatedAt: 2026-06-09T09:01:39.438Z
+  - fileName: long2d_A1_v01_printer.py
+    fileType: pyFreecad
+    filePath: long2d_a1/long2d_A1_v01_printer.py
+    fileSize: 97821
+    createdAt: 2026-06-09T09:01:39.439Z
+    updatedAt: 2026-06-09T09:01:39.439Z
+  - fileName: long2d_A1_v01_printer.pax.json
+    fileType: paxJson
+    filePath: long2d_a1/long2d_A1_v01_printer.pax.json
+    fileSize: 598116
+    createdAt: 2026-06-09T09:01:39.441Z
+    updatedAt: 2026-06-09T09:01:39.441Z
+  - fileName: long2d_A1_v01_printer.js
+    fileType: jsCad
+    filePath: long2d_a1/long2d_A1_v01_printer.js
+    fileSize: 165670
+    createdAt: 2026-06-09T09:01:39.442Z
+    updatedAt: 2026-06-09T09:01:39.442Z
+  - fileName: long2d_A1_v01_faceTop.svg
+    fileType: svg
+    filePath: long2d_a1/long2d_A1_v01_faceTop.svg
+    fileSize: 5051
+    createdAt: 2026-06-09T09:01:39.442Z
+    updatedAt: 2026-06-09T09:01:39.442Z
+  - fileName: long2d_A1_v01_faceTop.dxf
+    fileType: dxf
+    filePath: long2d_a1/long2d_A1_v01_faceTop.dxf
+    fileSize: 9324
+    createdAt: 2026-06-09T09:01:39.443Z
+    updatedAt: 2026-06-09T09:01:39.443Z
+  - fileName: long2d_A1_v01_faceSide.svg
+    fileType: svg
+    filePath: long2d_a1/long2d_A1_v01_faceSide.svg
+    fileSize: 2704
+    createdAt: 2026-06-09T09:01:39.444Z
+    updatedAt: 2026-06-09T09:01:39.444Z
+  - fileName: long2d_A1_v01_faceSide.dxf
+    fileType: dxf
+    filePath: long2d_a1/long2d_A1_v01_faceSide.dxf
+    fileSize: 5060
+    createdAt: 2026-06-09T09:01:39.445Z
+    updatedAt: 2026-06-09T09:01:39.445Z
+  - fileName: long2d_A1_v01_faceBack.svg
+    fileType: svg
+    filePath: long2d_a1/long2d_A1_v01_faceBack.svg
+    fileSize: 605
+    createdAt: 2026-06-09T09:01:39.445Z
+    updatedAt: 2026-06-09T09:01:39.445Z
+  - fileName: long2d_A1_v01_faceBack.dxf
+    fileType: dxf
+    filePath: long2d_a1/long2d_A1_v01_faceBack.dxf
+    fileSize: 508
+    createdAt: 2026-06-09T09:01:39.446Z
+    updatedAt: 2026-06-09T09:01:39.446Z
+  - fileName: long2d_A1_v01_faceAxis.svg
+    fileType: svg
+    filePath: long2d_a1/long2d_A1_v01_faceAxis.svg
+    fileSize: 272
+    createdAt: 2026-06-09T09:01:39.447Z
+    updatedAt: 2026-06-09T09:01:39.447Z
+  - fileName: long2d_A1_v01_faceAxis.dxf
+    fileType: dxf
+    filePath: long2d_a1/long2d_A1_v01_faceAxis.dxf
+    fileSize: 141
+    createdAt: 2026-06-09T09:01:39.447Z
+    updatedAt: 2026-06-09T09:01:39.447Z
+  - fileName: long2d_A1_v01.scad
+    fileType: scad
+    filePath: long2d_a1/long2d_A1_v01.scad
+    fileSize: 177781
+    createdAt: 2026-06-09T09:01:39.448Z
+    updatedAt: 2026-06-09T09:01:39.448Z
+  - fileName: long2d_A1_v01.py
+    fileType: pyFreecad
+    filePath: long2d_a1/long2d_A1_v01.py
+    fileSize: 97836
+    createdAt: 2026-06-09T09:01:39.449Z
+    updatedAt: 2026-06-09T09:01:39.449Z
+  - fileName: long2d_A1_v01.pax.json
+    fileType: paxJson
+    filePath: long2d_a1/long2d_A1_v01.pax.json
+    fileSize: 598316
+    createdAt: 2026-06-09T09:01:39.450Z
+    updatedAt: 2026-06-09T09:01:39.450Z
+  - fileName: long2d_A1_v01.log.txt
+    fileType: txtLog
+    filePath: long2d_a1/long2d_A1_v01.log.txt
+    fileSize: 698
+    createdAt: 2026-06-09T09:01:39.450Z
+    updatedAt: 2026-06-09T09:01:39.450Z
+  - fileName: long2d_A1_v01.js
+    fileType: jsCad
+    filePath: long2d_a1/long2d_A1_v01.js
+    fileSize: 165870
+    createdAt: 2026-06-09T09:01:39.451Z
+    updatedAt: 2026-06-09T09:01:39.451Z
+  - fileName: f17.png
+    fileType: image
+    filePath: long2d_a1/f17.png
+    fileSize: 22018
+    createdAt: 2026-06-09T09:01:39.452Z
+    updatedAt: 2026-06-09T09:01:39.452Z
+  - fileName: f16.png
+    fileType: image
+    filePath: long2d_a1/f16.png
+    fileSize: 24473
+    createdAt: 2026-06-09T09:01:39.452Z
+    updatedAt: 2026-06-09T09:01:39.452Z
+  - fileName: f15.png
+    fileType: image
+    filePath: long2d_a1/f15.png
+    fileSize: 15501
+    createdAt: 2026-06-09T09:01:39.453Z
+    updatedAt: 2026-06-09T09:01:39.453Z
+  - fileName: f14.png
+    fileType: image
+    filePath: long2d_a1/f14.png
+    fileSize: 7497
+    createdAt: 2026-06-09T09:01:39.454Z
+    updatedAt: 2026-06-09T09:01:39.454Z
+  - fileName: f13.png
+    fileType: image
+    filePath: long2d_a1/f13.png
+    fileSize: 10587
+    createdAt: 2026-06-09T09:01:39.454Z
+    updatedAt: 2026-06-09T09:01:39.454Z
+  - fileName: f12.png
+    fileType: image
+    filePath: long2d_a1/f12.png
+    fileSize: 12322
+    createdAt: 2026-06-09T09:01:39.455Z
+    updatedAt: 2026-06-09T09:01:39.455Z
+  - fileName: f11.png
+    fileType: image
+    filePath: long2d_a1/f11.png
+    fileSize: 27169
+    createdAt: 2026-06-09T09:01:39.455Z
+    updatedAt: 2026-06-09T09:01:39.455Z
+  - fileName: f10.png
+    fileType: image
+    filePath: long2d_a1/f10.png
+    fileSize: 22167
+    createdAt: 2026-06-09T09:01:39.456Z
+    updatedAt: 2026-06-09T09:01:39.456Z
+  - fileName: f09.png
+    fileType: image
+    filePath: long2d_a1/f09.png
+    fileSize: 17016
+    createdAt: 2026-06-09T09:01:39.457Z
+    updatedAt: 2026-06-09T09:01:39.457Z
+  - fileName: f08.png
+    fileType: image
+    filePath: long2d_a1/f08.png
+    fileSize: 11105
+    createdAt: 2026-06-09T09:01:39.457Z
+    updatedAt: 2026-06-09T09:01:39.457Z
+  - fileName: f07.png
+    fileType: image
+    filePath: long2d_a1/f07.png
+    fileSize: 22381
+    createdAt: 2026-06-09T09:01:39.458Z
+    updatedAt: 2026-06-09T09:01:39.458Z
+  - fileName: f06.png
+    fileType: image
+    filePath: long2d_a1/f06.png
+    fileSize: 22388
+    createdAt: 2026-06-09T09:01:39.459Z
+    updatedAt: 2026-06-09T09:01:39.459Z
+  - fileName: f05.png
+    fileType: image
+    filePath: long2d_a1/f05.png
+    fileSize: 19187
+    createdAt: 2026-06-09T09:01:39.459Z
+    updatedAt: 2026-06-09T09:01:39.459Z
+  - fileName: f04.png
+    fileType: image
+    filePath: long2d_a1/f04.png
+    fileSize: 20188
+    createdAt: 2026-06-09T09:01:39.460Z
+    updatedAt: 2026-06-09T09:01:39.460Z
+  - fileName: f03.png
+    fileType: image
+    filePath: long2d_a1/f03.png
+    fileSize: 18105
+    createdAt: 2026-06-09T09:01:39.460Z
+    updatedAt: 2026-06-09T09:01:39.460Z
+  - fileName: f02.png
+    fileType: image
+    filePath: long2d_a1/f02.png
+    fileSize: 18287
+    createdAt: 2026-06-09T09:01:39.461Z
+    updatedAt: 2026-06-09T09:01:39.461Z
+  - fileName: f01.png
+    fileType: image
+    filePath: long2d_a1/f01.png
+    fileSize: 19551
+    createdAt: 2026-06-09T09:01:39.462Z
+    updatedAt: 2026-06-09T09:01:39.462Z

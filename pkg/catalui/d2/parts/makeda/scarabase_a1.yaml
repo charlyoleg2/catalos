@@ -1,0 +1,133 @@
+description: The base of a Scara arm single
+tags:
+  - bot
+  - scara
+  - arm
+  - 2D
+owner: makeda
+createdAt: 2026-06-09T09:01:39.362Z
+updatedAt: 2026-06-09T09:01:39.395Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame76/desi76/scarabase
+linkToSrc: https://github.com/charlyoleg2/parame76
+linkToPkg: https://www.npmjs.com/package/desi76
+linkToCli: https://www.npmjs.com/package/desi76-cli
+linkToUis: https://www.npmjs.com/package/desi76-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame76
+linkOthers: []
+files:
+  - fileName: scarabase_A1_v01_faceT3.svg
+    fileType: svg
+    filePath: scarabase_a1/scarabase_A1_v01_faceT3.svg
+    fileSize: 760
+    createdAt: 2026-06-09T09:01:39.366Z
+    updatedAt: 2026-06-09T09:01:39.366Z
+  - fileName: scarabase_A1_v01_faceT3.dxf
+    fileType: dxf
+    filePath: scarabase_a1/scarabase_A1_v01_faceT3.dxf
+    fileSize: 1216
+    createdAt: 2026-06-09T09:01:39.367Z
+    updatedAt: 2026-06-09T09:01:39.367Z
+  - fileName: scarabase_A1_v01_faceSide.svg
+    fileType: svg
+    filePath: scarabase_a1/scarabase_A1_v01_faceSide.svg
+    fileSize: 818
+    createdAt: 2026-06-09T09:01:39.369Z
+    updatedAt: 2026-06-09T09:01:39.369Z
+  - fileName: scarabase_A1_v01_faceSide.dxf
+    fileType: dxf
+    filePath: scarabase_a1/scarabase_A1_v01_faceSide.dxf
+    fileSize: 1812
+    createdAt: 2026-06-09T09:01:39.371Z
+    updatedAt: 2026-06-09T09:01:39.371Z
+  - fileName: scarabase_A1_v01_facePlate.svg
+    fileType: svg
+    filePath: scarabase_a1/scarabase_A1_v01_facePlate.svg
+    fileSize: 465
+    createdAt: 2026-06-09T09:01:39.372Z
+    updatedAt: 2026-06-09T09:01:39.372Z
+  - fileName: scarabase_A1_v01_facePlate.dxf
+    fileType: dxf
+    filePath: scarabase_a1/scarabase_A1_v01_facePlate.dxf
+    fileSize: 627
+    createdAt: 2026-06-09T09:01:39.374Z
+    updatedAt: 2026-06-09T09:01:39.374Z
+  - fileName: scarabase_A1_v01_faceBack.svg
+    fileType: svg
+    filePath: scarabase_a1/scarabase_A1_v01_faceBack.svg
+    fileSize: 600
+    createdAt: 2026-06-09T09:01:39.376Z
+    updatedAt: 2026-06-09T09:01:39.376Z
+  - fileName: scarabase_A1_v01_faceBack.dxf
+    fileType: dxf
+    filePath: scarabase_a1/scarabase_A1_v01_faceBack.dxf
+    fileSize: 504
+    createdAt: 2026-06-09T09:01:39.377Z
+    updatedAt: 2026-06-09T09:01:39.377Z
+  - fileName: scarabase_A1_v01.scad
+    fileType: scad
+    filePath: scarabase_a1/scarabase_A1_v01.scad
+    fileSize: 14530
+    createdAt: 2026-06-09T09:01:39.379Z
+    updatedAt: 2026-06-09T09:01:39.379Z
+  - fileName: scarabase_A1_v01.py
+    fileType: pyFreecad
+    filePath: scarabase_a1/scarabase_A1_v01.py
+    fileSize: 12682
+    createdAt: 2026-06-09T09:01:39.380Z
+    updatedAt: 2026-06-09T09:01:39.380Z
+  - fileName: scarabase_A1_v01.pax.json
+    fileType: paxJson
+    filePath: scarabase_a1/scarabase_A1_v01.pax.json
+    fileSize: 15525
+    createdAt: 2026-06-09T09:01:39.382Z
+    updatedAt: 2026-06-09T09:01:39.382Z
+  - fileName: scarabase_A1_v01.log.txt
+    fileType: txtLog
+    filePath: scarabase_a1/scarabase_A1_v01.log.txt
+    fileSize: 87
+    createdAt: 2026-06-09T09:01:39.384Z
+    updatedAt: 2026-06-09T09:01:39.384Z
+  - fileName: scarabase_A1_v01.js
+    fileType: jsCad
+    filePath: scarabase_a1/scarabase_A1_v01.js
+    fileSize: 14354
+    createdAt: 2026-06-09T09:01:39.386Z
+    updatedAt: 2026-06-09T09:01:39.386Z
+  - fileName: px_scarabase_A1_v01.json
+    fileType: pxJson
+    filePath: scarabase_a1/px_scarabase_A1_v01.json
+    fileSize: 383
+    createdAt: 2026-06-09T09:01:39.387Z
+    updatedAt: 2026-06-09T09:01:39.387Z
+  - fileName: f05.png
+    fileType: image
+    filePath: scarabase_a1/f05.png
+    fileSize: 9820
+    createdAt: 2026-06-09T09:01:39.389Z
+    updatedAt: 2026-06-09T09:01:39.389Z
+  - fileName: f04.png
+    fileType: image
+    filePath: scarabase_a1/f04.png
+    fileSize: 6418
+    createdAt: 2026-06-09T09:01:39.391Z
+    updatedAt: 2026-06-09T09:01:39.391Z
+  - fileName: f03.png
+    fileType: image
+    filePath: scarabase_a1/f03.png
+    fileSize: 12694
+    createdAt: 2026-06-09T09:01:39.392Z
+    updatedAt: 2026-06-09T09:01:39.392Z
+  - fileName: f02.png
+    fileType: image
+    filePath: scarabase_a1/f02.png
+    fileSize: 10355
+    createdAt: 2026-06-09T09:01:39.394Z
+    updatedAt: 2026-06-09T09:01:39.394Z
+  - fileName: f01.png
+    fileType: image
+    filePath: scarabase_a1/f01.png
+    fileSize: 13627
+    createdAt: 2026-06-09T09:01:39.395Z
+    updatedAt: 2026-06-09T09:01:39.395Z
