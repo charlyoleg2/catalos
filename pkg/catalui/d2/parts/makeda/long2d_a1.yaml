@@ -7,8 +7,8 @@ tags:
   - assembly
 owner: makeda
 createdAt: 2026-06-09T09:01:39.435Z
-updatedAt: 2026-06-09T09:01:39.462Z
-updateCount: 1
+updatedAt: 2026-06-10T16:21:42.541Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame76/desi76/long2d
 linkToSrc: https://github.com/charlyoleg2/parame76
@@ -21,9 +21,9 @@ files:
   - fileName: px_long2d_A1_v01.json
     fileType: pxJson
     filePath: long2d_a1/px_long2d_A1_v01.json
-    fileSize: 813
+    fileSize: 788
     createdAt: 2026-06-09T09:01:39.438Z
-    updatedAt: 2026-06-09T09:01:39.438Z
+    updatedAt: 2026-06-10T16:21:42.519Z
   - fileName: long2d_A1_v01_printer.scad
     fileType: scad
     filePath: long2d_a1/long2d_A1_v01_printer.scad
@@ -39,9 +39,9 @@ files:
   - fileName: long2d_A1_v01_printer.pax.json
     fileType: paxJson
     filePath: long2d_a1/long2d_A1_v01_printer.pax.json
-    fileSize: 598116
+    fileSize: 597652
     createdAt: 2026-06-09T09:01:39.441Z
-    updatedAt: 2026-06-09T09:01:39.441Z
+    updatedAt: 2026-06-10T16:21:42.524Z
   - fileName: long2d_A1_v01_printer.js
     fileType: jsCad
     filePath: long2d_a1/long2d_A1_v01_printer.js
@@ -111,9 +111,9 @@ files:
   - fileName: long2d_A1_v01.pax.json
     fileType: paxJson
     filePath: long2d_a1/long2d_A1_v01.pax.json
-    fileSize: 598316
+    fileSize: 597852
     createdAt: 2026-06-09T09:01:39.450Z
-    updatedAt: 2026-06-09T09:01:39.450Z
+    updatedAt: 2026-06-10T16:21:42.531Z
   - fileName: long2d_A1_v01.log.txt
     fileType: txtLog
     filePath: long2d_a1/long2d_A1_v01.log.txt
