@@ -1,0 +1,180 @@
+description: A losange geometry for a scara bot
+tags:
+  - bot
+  - scara
+  - 2D
+owner: makeda
+createdAt: 2026-06-24T12:58:25.530Z
+updatedAt: 2026-06-24T12:58:25.551Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame76/desi76/losange
+linkToSrc: https://github.com/charlyoleg2/parame76
+linkToPkg: https://www.npmjs.com/package/desi76
+linkToCli: https://www.npmjs.com/package/desi76-cli
+linkToUis: https://www.npmjs.com/package/desi76-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame76
+linkOthers: []
+files:
+  - fileName: px_losange_A1_v01.json
+    fileType: pxJson
+    filePath: losange_a1/px_losange_A1_v01.json
+    fileSize: 777
+    createdAt: 2026-06-24T12:58:25.532Z
+    updatedAt: 2026-06-24T12:58:25.532Z
+  - fileName: losange_A1_v01_printer.scad
+    fileType: scad
+    filePath: losange_a1/losange_A1_v01_printer.scad
+    fileSize: 349835
+    createdAt: 2026-06-24T12:58:25.533Z
+    updatedAt: 2026-06-24T12:58:25.533Z
+  - fileName: losange_A1_v01_printer.py
+    fileType: pyFreecad
+    filePath: losange_a1/losange_A1_v01_printer.py
+    fileSize: 160361
+    createdAt: 2026-06-24T12:58:25.534Z
+    updatedAt: 2026-06-24T12:58:25.534Z
+  - fileName: losange_A1_v01_printer.pax.json
+    fileType: paxJson
+    filePath: losange_a1/losange_A1_v01_printer.pax.json
+    fileSize: 817502
+    createdAt: 2026-06-24T12:58:25.535Z
+    updatedAt: 2026-06-24T12:58:25.535Z
+  - fileName: losange_A1_v01_printer.js
+    fileType: jsCad
+    filePath: losange_a1/losange_A1_v01_printer.js
+    fileSize: 322200
+    createdAt: 2026-06-24T12:58:25.536Z
+    updatedAt: 2026-06-24T12:58:25.536Z
+  - fileName: losange_A1_v01_faceTopWithAxis.svg
+    fileType: svg
+    filePath: losange_a1/losange_A1_v01_faceTopWithAxis.svg
+    fileSize: 6925
+    createdAt: 2026-06-24T12:58:25.536Z
+    updatedAt: 2026-06-24T12:58:25.536Z
+  - fileName: losange_A1_v01_faceTopWithAxis.dxf
+    fileType: dxf
+    filePath: losange_a1/losange_A1_v01_faceTopWithAxis.dxf
+    fileSize: 11241
+    createdAt: 2026-06-24T12:58:25.537Z
+    updatedAt: 2026-06-24T12:58:25.537Z
+  - fileName: losange_A1_v01_faceTop.svg
+    fileType: svg
+    filePath: losange_a1/losange_A1_v01_faceTop.svg
+    fileSize: 5988
+    createdAt: 2026-06-24T12:58:25.537Z
+    updatedAt: 2026-06-24T12:58:25.537Z
+  - fileName: losange_A1_v01_faceTop.dxf
+    fileType: dxf
+    filePath: losange_a1/losange_A1_v01_faceTop.dxf
+    fileSize: 10676
+    createdAt: 2026-06-24T12:58:25.539Z
+    updatedAt: 2026-06-24T12:58:25.539Z
+  - fileName: losange_A1_v01_faceSide.svg
+    fileType: svg
+    filePath: losange_a1/losange_A1_v01_faceSide.svg
+    fileSize: 5049
+    createdAt: 2026-06-24T12:58:25.539Z
+    updatedAt: 2026-06-24T12:58:25.539Z
+  - fileName: losange_A1_v01_faceSide.dxf
+    fileType: dxf
+    filePath: losange_a1/losange_A1_v01_faceSide.dxf
+    fileSize: 9644
+    createdAt: 2026-06-24T12:58:25.540Z
+    updatedAt: 2026-06-24T12:58:25.540Z
+  - fileName: losange_A1_v01_faceBack.svg
+    fileType: svg
+    filePath: losange_a1/losange_A1_v01_faceBack.svg
+    fileSize: 605
+    createdAt: 2026-06-24T12:58:25.541Z
+    updatedAt: 2026-06-24T12:58:25.541Z
+  - fileName: losange_A1_v01_faceBack.dxf
+    fileType: dxf
+    filePath: losange_a1/losange_A1_v01_faceBack.dxf
+    fileSize: 508
+    createdAt: 2026-06-24T12:58:25.541Z
+    updatedAt: 2026-06-24T12:58:25.541Z
+  - fileName: losange_A1_v01.scad
+    fileType: scad
+    filePath: losange_a1/losange_A1_v01.scad
+    fileSize: 350197
+    createdAt: 2026-06-24T12:58:25.542Z
+    updatedAt: 2026-06-24T12:58:25.542Z
+  - fileName: losange_A1_v01.py
+    fileType: pyFreecad
+    filePath: losange_a1/losange_A1_v01.py
+    fileSize: 160376
+    createdAt: 2026-06-24T12:58:25.543Z
+    updatedAt: 2026-06-24T12:58:25.543Z
+  - fileName: losange_A1_v01.pax.json
+    fileType: paxJson
+    filePath: losange_a1/losange_A1_v01.pax.json
+    fileSize: 817862
+    createdAt: 2026-06-24T12:58:25.544Z
+    updatedAt: 2026-06-24T12:58:25.544Z
+  - fileName: losange_A1_v01.log.txt
+    fileType: txtLog
+    filePath: losange_a1/losange_A1_v01.log.txt
+    fileSize: 806
+    createdAt: 2026-06-24T12:58:25.545Z
+    updatedAt: 2026-06-24T12:58:25.545Z
+  - fileName: losange_A1_v01.js
+    fileType: jsCad
+    filePath: losange_a1/losange_A1_v01.js
+    fileSize: 322560
+    createdAt: 2026-06-24T12:58:25.545Z
+    updatedAt: 2026-06-24T12:58:25.545Z
+  - fileName: f09.png
+    fileType: image
+    filePath: losange_a1/f09.png
+    fileSize: 32664
+    createdAt: 2026-06-24T12:58:25.546Z
+    updatedAt: 2026-06-24T12:58:25.546Z
+  - fileName: f08.png
+    fileType: image
+    filePath: losange_a1/f08.png
+    fileSize: 38549
+    createdAt: 2026-06-24T12:58:25.546Z
+    updatedAt: 2026-06-24T12:58:25.546Z
+  - fileName: f07.png
+    fileType: image
+    filePath: losange_a1/f07.png
+    fileSize: 32615
+    createdAt: 2026-06-24T12:58:25.547Z
+    updatedAt: 2026-06-24T12:58:25.547Z
+  - fileName: f06.png
+    fileType: image
+    filePath: losange_a1/f06.png
+    fileSize: 25647
+    createdAt: 2026-06-24T12:58:25.548Z
+    updatedAt: 2026-06-24T12:58:25.548Z
+  - fileName: f05.png
+    fileType: image
+    filePath: losange_a1/f05.png
+    fileSize: 11710
+    createdAt: 2026-06-24T12:58:25.548Z
+    updatedAt: 2026-06-24T12:58:25.548Z
+  - fileName: f04.png
+    fileType: image
+    filePath: losange_a1/f04.png
+    fileSize: 14247
+    createdAt: 2026-06-24T12:58:25.549Z
+    updatedAt: 2026-06-24T12:58:25.549Z
+  - fileName: f03.png
+    fileType: image
+    filePath: losange_a1/f03.png
+    fileSize: 19302
+    createdAt: 2026-06-24T12:58:25.549Z
+    updatedAt: 2026-06-24T12:58:25.549Z
+  - fileName: f02.png
+    fileType: image
+    filePath: losange_a1/f02.png
+    fileSize: 26659
+    createdAt: 2026-06-24T12:58:25.550Z
+    updatedAt: 2026-06-24T12:58:25.550Z
+  - fileName: f01.png
+    fileType: image
+    filePath: losange_a1/f01.png
+    fileSize: 22904
+    createdAt: 2026-06-24T12:58:25.551Z
+    updatedAt: 2026-06-24T12:58:25.551Z
