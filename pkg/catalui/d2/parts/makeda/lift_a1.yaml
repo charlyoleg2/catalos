@@ -1,0 +1,204 @@
+description: the holder of pivot of rc-car
+tags:
+  - rccar
+  - steering
+  - damper
+owner: makeda
+createdAt: 2026-07-03T06:22:12.812Z
+updatedAt: 2026-07-03T06:22:12.855Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame76/desi76/lift
+linkToSrc: https://github.com/charlyoleg2/parame76
+linkToPkg: https://www.npmjs.com/package/desi76
+linkToCli: https://www.npmjs.com/package/desi76-cli
+linkToUis: https://www.npmjs.com/package/desi76-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame76
+linkOthers: []
+files:
+  - fileName: px_lift_A1_v01.json
+    fileType: pxJson
+    filePath: lift_a1/px_lift_A1_v01.json
+    fileSize: 600
+    createdAt: 2026-07-03T06:22:12.817Z
+    updatedAt: 2026-07-03T06:22:12.818Z
+  - fileName: lift_A1_v01_faceTopPlate.svg
+    fileType: svg
+    filePath: lift_a1/lift_A1_v01_faceTopPlate.svg
+    fileSize: 554
+    createdAt: 2026-07-03T06:22:12.819Z
+    updatedAt: 2026-07-03T06:22:12.819Z
+  - fileName: lift_A1_v01_faceTopPlate.dxf
+    fileType: dxf
+    filePath: lift_a1/lift_A1_v01_faceTopPlate.dxf
+    fileSize: 786
+    createdAt: 2026-07-03T06:22:12.821Z
+    updatedAt: 2026-07-03T06:22:12.821Z
+  - fileName: lift_A1_v01_faceTopEnd.svg
+    fileType: svg
+    filePath: lift_a1/lift_A1_v01_faceTopEnd.svg
+    fileSize: 1242
+    createdAt: 2026-07-03T06:22:12.823Z
+    updatedAt: 2026-07-03T06:22:12.823Z
+  - fileName: lift_A1_v01_faceTopEnd.dxf
+    fileType: dxf
+    filePath: lift_a1/lift_A1_v01_faceTopEnd.dxf
+    fileSize: 2180
+    createdAt: 2026-07-03T06:22:12.825Z
+    updatedAt: 2026-07-03T06:22:12.825Z
+  - fileName: lift_A1_v01_faceTopDisc.svg
+    fileType: svg
+    filePath: lift_a1/lift_A1_v01_faceTopDisc.svg
+    fileSize: 277
+    createdAt: 2026-07-03T06:22:12.826Z
+    updatedAt: 2026-07-03T06:22:12.826Z
+  - fileName: lift_A1_v01_faceTopDisc.dxf
+    fileType: dxf
+    filePath: lift_a1/lift_A1_v01_faceTopDisc.dxf
+    fileSize: 144
+    createdAt: 2026-07-03T06:22:12.828Z
+    updatedAt: 2026-07-03T06:22:12.828Z
+  - fileName: lift_A1_v01_faceTopBack.svg
+    fileType: svg
+    filePath: lift_a1/lift_A1_v01_faceTopBack.svg
+    fileSize: 315
+    createdAt: 2026-07-03T06:22:12.830Z
+    updatedAt: 2026-07-03T06:22:12.830Z
+  - fileName: lift_A1_v01_faceTopBack.dxf
+    fileType: dxf
+    filePath: lift_a1/lift_A1_v01_faceTopBack.dxf
+    fileSize: 435
+    createdAt: 2026-07-03T06:22:12.832Z
+    updatedAt: 2026-07-03T06:22:12.832Z
+  - fileName: lift_A1_v01_faceSideM.svg
+    fileType: svg
+    filePath: lift_a1/lift_A1_v01_faceSideM.svg
+    fileSize: 352
+    createdAt: 2026-07-03T06:22:12.834Z
+    updatedAt: 2026-07-03T06:22:12.834Z
+  - fileName: lift_A1_v01_faceSideM.dxf
+    fileType: dxf
+    filePath: lift_a1/lift_A1_v01_faceSideM.dxf
+    fileSize: 356
+    createdAt: 2026-07-03T06:22:12.836Z
+    updatedAt: 2026-07-03T06:22:12.836Z
+  - fileName: lift_A1_v01_faceSideL.svg
+    fileType: svg
+    filePath: lift_a1/lift_A1_v01_faceSideL.svg
+    fileSize: 570
+    createdAt: 2026-07-03T06:22:12.837Z
+    updatedAt: 2026-07-03T06:22:12.837Z
+  - fileName: lift_A1_v01_faceSideL.dxf
+    fileType: dxf
+    filePath: lift_a1/lift_A1_v01_faceSideL.dxf
+    fileSize: 697
+    createdAt: 2026-07-03T06:22:12.839Z
+    updatedAt: 2026-07-03T06:22:12.839Z
+  - fileName: lift_A1_v01_faceBack.svg
+    fileType: svg
+    filePath: lift_a1/lift_A1_v01_faceBack.svg
+    fileSize: 1151
+    createdAt: 2026-07-03T06:22:12.841Z
+    updatedAt: 2026-07-03T06:22:12.841Z
+  - fileName: lift_A1_v01_faceBack.dxf
+    fileType: dxf
+    filePath: lift_a1/lift_A1_v01_faceBack.dxf
+    fileSize: 1832
+    createdAt: 2026-07-03T06:22:12.842Z
+    updatedAt: 2026-07-03T06:22:12.842Z
+  - fileName: lift_A1_v01.scad
+    fileType: scad
+    filePath: lift_a1/lift_A1_v01.scad
+    fileSize: 38906
+    createdAt: 2026-07-03T06:22:12.843Z
+    updatedAt: 2026-07-03T06:22:12.843Z
+  - fileName: lift_A1_v01.py
+    fileType: pyFreecad
+    filePath: lift_a1/lift_A1_v01.py
+    fileSize: 21851
+    createdAt: 2026-07-03T06:22:12.844Z
+    updatedAt: 2026-07-03T06:22:12.844Z
+  - fileName: lift_A1_v01.pax.json
+    fileType: paxJson
+    filePath: lift_a1/lift_A1_v01.pax.json
+    fileSize: 28872
+    createdAt: 2026-07-03T06:22:12.845Z
+    updatedAt: 2026-07-03T06:22:12.845Z
+  - fileName: lift_A1_v01.log.txt
+    fileType: txtLog
+    filePath: lift_a1/lift_A1_v01.log.txt
+    fileSize: 124
+    createdAt: 2026-07-03T06:22:12.845Z
+    updatedAt: 2026-07-03T06:22:12.845Z
+  - fileName: lift_A1_v01.js
+    fileType: jsCad
+    filePath: lift_a1/lift_A1_v01.js
+    fileSize: 36903
+    createdAt: 2026-07-03T06:22:12.846Z
+    updatedAt: 2026-07-03T06:22:12.846Z
+  - fileName: f11.png
+    fileType: image
+    filePath: lift_a1/f11.png
+    fileSize: 25258
+    createdAt: 2026-07-03T06:22:12.847Z
+    updatedAt: 2026-07-03T06:22:12.847Z
+  - fileName: f10.png
+    fileType: image
+    filePath: lift_a1/f10.png
+    fileSize: 20192
+    createdAt: 2026-07-03T06:22:12.848Z
+    updatedAt: 2026-07-03T06:22:12.848Z
+  - fileName: f09.png
+    fileType: image
+    filePath: lift_a1/f09.png
+    fileSize: 19001
+    createdAt: 2026-07-03T06:22:12.848Z
+    updatedAt: 2026-07-03T06:22:12.848Z
+  - fileName: f08.png
+    fileType: image
+    filePath: lift_a1/f08.png
+    fileSize: 17013
+    createdAt: 2026-07-03T06:22:12.849Z
+    updatedAt: 2026-07-03T06:22:12.849Z
+  - fileName: f07.png
+    fileType: image
+    filePath: lift_a1/f07.png
+    fileSize: 21764
+    createdAt: 2026-07-03T06:22:12.850Z
+    updatedAt: 2026-07-03T06:22:12.850Z
+  - fileName: f06.png
+    fileType: image
+    filePath: lift_a1/f06.png
+    fileSize: 18968
+    createdAt: 2026-07-03T06:22:12.851Z
+    updatedAt: 2026-07-03T06:22:12.851Z
+  - fileName: f05.png
+    fileType: image
+    filePath: lift_a1/f05.png
+    fileSize: 28991
+    createdAt: 2026-07-03T06:22:12.851Z
+    updatedAt: 2026-07-03T06:22:12.851Z
+  - fileName: f04.png
+    fileType: image
+    filePath: lift_a1/f04.png
+    fileSize: 25721
+    createdAt: 2026-07-03T06:22:12.852Z
+    updatedAt: 2026-07-03T06:22:12.852Z
+  - fileName: f03.png
+    fileType: image
+    filePath: lift_a1/f03.png
+    fileSize: 22961
+    createdAt: 2026-07-03T06:22:12.853Z
+    updatedAt: 2026-07-03T06:22:12.853Z
+  - fileName: f02.png
+    fileType: image
+    filePath: lift_a1/f02.png
+    fileSize: 27567
+    createdAt: 2026-07-03T06:22:12.854Z
+    updatedAt: 2026-07-03T06:22:12.854Z
+  - fileName: f01.png
+    fileType: image
+    filePath: lift_a1/f01.png
+    fileSize: 10729
+    createdAt: 2026-07-03T06:22:12.854Z
+    updatedAt: 2026-07-03T06:22:12.854Z
