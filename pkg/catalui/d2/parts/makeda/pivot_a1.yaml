@@ -1,0 +1,262 @@
+description: the motor-wheel block of rc-car
+tags:
+  - rccar
+owner: makeda
+createdAt: 2026-07-11T21:13:36.374Z
+updatedAt: 2026-07-11T21:13:36.453Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame76/desi76/pivot
+linkToSrc: https://github.com/charlyoleg2/parame76
+linkToPkg: https://www.npmjs.com/package/desi76
+linkToCli: https://www.npmjs.com/package/desi76-cli
+linkToUis: https://www.npmjs.com/package/desi76-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame76
+linkOthers: []
+files:
+  - fileName: px_pivot_A1_v01.json
+    fileType: pxJson
+    filePath: pivot_a1/px_pivot_A1_v01.json
+    fileSize: 812
+    createdAt: 2026-07-11T21:13:36.379Z
+    updatedAt: 2026-07-11T21:13:36.379Z
+  - fileName: pivot_A1_v01_faceTopWall2.svg
+    fileType: svg
+    filePath: pivot_a1/pivot_A1_v01_faceTopWall2.svg
+    fileSize: 1134
+    createdAt: 2026-07-11T21:13:36.380Z
+    updatedAt: 2026-07-11T21:13:36.380Z
+  - fileName: pivot_A1_v01_faceTopWall2.dxf
+    fileType: dxf
+    filePath: pivot_a1/pivot_A1_v01_faceTopWall2.dxf
+    fileSize: 1834
+    createdAt: 2026-07-11T21:13:36.381Z
+    updatedAt: 2026-07-11T21:13:36.381Z
+  - fileName: pivot_A1_v01_faceTopWall1.svg
+    fileType: svg
+    filePath: pivot_a1/pivot_A1_v01_faceTopWall1.svg
+    fileSize: 931
+    createdAt: 2026-07-11T21:13:36.382Z
+    updatedAt: 2026-07-11T21:13:36.382Z
+  - fileName: pivot_A1_v01_faceTopWall1.dxf
+    fileType: dxf
+    filePath: pivot_a1/pivot_A1_v01_faceTopWall1.dxf
+    fileSize: 1546
+    createdAt: 2026-07-11T21:13:36.383Z
+    updatedAt: 2026-07-11T21:13:36.383Z
+  - fileName: pivot_A1_v01_faceTopTube.svg
+    fileType: svg
+    filePath: pivot_a1/pivot_A1_v01_faceTopTube.svg
+    fileSize: 931
+    createdAt: 2026-07-11T21:13:36.384Z
+    updatedAt: 2026-07-11T21:13:36.384Z
+  - fileName: pivot_A1_v01_faceTopTube.dxf
+    fileType: dxf
+    filePath: pivot_a1/pivot_A1_v01_faceTopTube.dxf
+    fileSize: 1945
+    createdAt: 2026-07-11T21:13:36.385Z
+    updatedAt: 2026-07-11T21:13:36.385Z
+  - fileName: pivot_A1_v01_faceTopPlate3.svg
+    fileType: svg
+    filePath: pivot_a1/pivot_A1_v01_faceTopPlate3.svg
+    fileSize: 666
+    createdAt: 2026-07-11T21:13:36.387Z
+    updatedAt: 2026-07-11T21:13:36.387Z
+  - fileName: pivot_A1_v01_faceTopPlate3.dxf
+    fileType: dxf
+    filePath: pivot_a1/pivot_A1_v01_faceTopPlate3.dxf
+    fileSize: 1137
+    createdAt: 2026-07-11T21:13:36.389Z
+    updatedAt: 2026-07-11T21:13:36.389Z
+  - fileName: pivot_A1_v01_faceTopPlate2.svg
+    fileType: svg
+    filePath: pivot_a1/pivot_A1_v01_faceTopPlate2.svg
+    fileSize: 1049
+    createdAt: 2026-07-11T21:13:36.390Z
+    updatedAt: 2026-07-11T21:13:36.390Z
+  - fileName: pivot_A1_v01_faceTopPlate2.dxf
+    fileType: dxf
+    filePath: pivot_a1/pivot_A1_v01_faceTopPlate2.dxf
+    fileSize: 1896
+    createdAt: 2026-07-11T21:13:36.390Z
+    updatedAt: 2026-07-11T21:13:36.390Z
+  - fileName: pivot_A1_v01_faceTopPlate1.svg
+    fileType: svg
+    filePath: pivot_a1/pivot_A1_v01_faceTopPlate1.svg
+    fileSize: 971
+    createdAt: 2026-07-11T21:13:36.392Z
+    updatedAt: 2026-07-11T21:13:36.392Z
+  - fileName: pivot_A1_v01_faceTopPlate1.dxf
+    fileType: dxf
+    filePath: pivot_a1/pivot_A1_v01_faceTopPlate1.dxf
+    fileSize: 1628
+    createdAt: 2026-07-11T21:13:36.396Z
+    updatedAt: 2026-07-11T21:13:36.396Z
+  - fileName: pivot_A1_v01_faceSidePlate.svg
+    fileType: svg
+    filePath: pivot_a1/pivot_A1_v01_faceSidePlate.svg
+    fileSize: 472
+    createdAt: 2026-07-11T21:13:36.399Z
+    updatedAt: 2026-07-11T21:13:36.399Z
+  - fileName: pivot_A1_v01_faceSidePlate.dxf
+    fileType: dxf
+    filePath: pivot_a1/pivot_A1_v01_faceSidePlate.dxf
+    fileSize: 645
+    createdAt: 2026-07-11T21:13:36.401Z
+    updatedAt: 2026-07-11T21:13:36.401Z
+  - fileName: pivot_A1_v01_faceSideArc.svg
+    fileType: svg
+    filePath: pivot_a1/pivot_A1_v01_faceSideArc.svg
+    fileSize: 359
+    createdAt: 2026-07-11T21:13:36.403Z
+    updatedAt: 2026-07-11T21:13:36.403Z
+  - fileName: pivot_A1_v01_faceSideArc.dxf
+    fileType: dxf
+    filePath: pivot_a1/pivot_A1_v01_faceSideArc.dxf
+    fileSize: 576
+    createdAt: 2026-07-11T21:13:36.406Z
+    updatedAt: 2026-07-11T21:13:36.406Z
+  - fileName: pivot_A1_v01_faceRelief5.svg
+    fileType: svg
+    filePath: pivot_a1/pivot_A1_v01_faceRelief5.svg
+    fileSize: 1075
+    createdAt: 2026-07-11T21:13:36.408Z
+    updatedAt: 2026-07-11T21:13:36.408Z
+  - fileName: pivot_A1_v01_faceRelief5.dxf
+    fileType: dxf
+    filePath: pivot_a1/pivot_A1_v01_faceRelief5.dxf
+    fileSize: 1910
+    createdAt: 2026-07-11T21:13:36.410Z
+    updatedAt: 2026-07-11T21:13:36.410Z
+  - fileName: pivot_A1_v01_faceRelief4.svg
+    fileType: svg
+    filePath: pivot_a1/pivot_A1_v01_faceRelief4.svg
+    fileSize: 1158
+    createdAt: 2026-07-11T21:13:36.412Z
+    updatedAt: 2026-07-11T21:13:36.412Z
+  - fileName: pivot_A1_v01_faceRelief4.dxf
+    fileType: dxf
+    filePath: pivot_a1/pivot_A1_v01_faceRelief4.dxf
+    fileSize: 2178
+    createdAt: 2026-07-11T21:13:36.415Z
+    updatedAt: 2026-07-11T21:13:36.415Z
+  - fileName: pivot_A1_v01_faceRelief3.svg
+    fileType: svg
+    filePath: pivot_a1/pivot_A1_v01_faceRelief3.svg
+    fileSize: 1260
+    createdAt: 2026-07-11T21:13:36.416Z
+    updatedAt: 2026-07-11T21:13:36.416Z
+  - fileName: pivot_A1_v01_faceRelief3.dxf
+    fileType: dxf
+    filePath: pivot_a1/pivot_A1_v01_faceRelief3.dxf
+    fileSize: 2006
+    createdAt: 2026-07-11T21:13:36.417Z
+    updatedAt: 2026-07-11T21:13:36.417Z
+  - fileName: pivot_A1_v01.scad
+    fileType: scad
+    filePath: pivot_a1/pivot_A1_v01.scad
+    fileSize: 68454
+    createdAt: 2026-07-11T21:13:36.418Z
+    updatedAt: 2026-07-11T21:13:36.418Z
+  - fileName: pivot_A1_v01.py
+    fileType: pyFreecad
+    filePath: pivot_a1/pivot_A1_v01.py
+    fileSize: 41703
+    createdAt: 2026-07-11T21:13:36.419Z
+    updatedAt: 2026-07-11T21:13:36.419Z
+  - fileName: pivot_A1_v01.pax.json
+    fileType: paxJson
+    filePath: pivot_a1/pivot_A1_v01.pax.json
+    fileSize: 58663
+    createdAt: 2026-07-11T21:13:36.420Z
+    updatedAt: 2026-07-11T21:13:36.420Z
+  - fileName: pivot_A1_v01.log.txt
+    fileType: txtLog
+    filePath: pivot_a1/pivot_A1_v01.log.txt
+    fileSize: 200
+    createdAt: 2026-07-11T21:13:36.421Z
+    updatedAt: 2026-07-11T21:13:36.421Z
+  - fileName: pivot_A1_v01.js
+    fileType: jsCad
+    filePath: pivot_a1/pivot_A1_v01.js
+    fileSize: 63693
+    createdAt: 2026-07-11T21:13:36.424Z
+    updatedAt: 2026-07-11T21:13:36.424Z
+  - fileName: f13.png
+    fileType: image
+    filePath: pivot_a1/f13.png
+    fileSize: 13519
+    createdAt: 2026-07-11T21:13:36.428Z
+    updatedAt: 2026-07-11T21:13:36.428Z
+  - fileName: f12.png
+    fileType: image
+    filePath: pivot_a1/f12.png
+    fileSize: 16244
+    createdAt: 2026-07-11T21:13:36.430Z
+    updatedAt: 2026-07-11T21:13:36.430Z
+  - fileName: f11.png
+    fileType: image
+    filePath: pivot_a1/f11.png
+    fileSize: 12638
+    createdAt: 2026-07-11T21:13:36.433Z
+    updatedAt: 2026-07-11T21:13:36.433Z
+  - fileName: f10.png
+    fileType: image
+    filePath: pivot_a1/f10.png
+    fileSize: 15144
+    createdAt: 2026-07-11T21:13:36.436Z
+    updatedAt: 2026-07-11T21:13:36.436Z
+  - fileName: f09.png
+    fileType: image
+    filePath: pivot_a1/f09.png
+    fileSize: 13552
+    createdAt: 2026-07-11T21:13:36.438Z
+    updatedAt: 2026-07-11T21:13:36.438Z
+  - fileName: f08.png
+    fileType: image
+    filePath: pivot_a1/f08.png
+    fileSize: 17844
+    createdAt: 2026-07-11T21:13:36.439Z
+    updatedAt: 2026-07-11T21:13:36.439Z
+  - fileName: f07.png
+    fileType: image
+    filePath: pivot_a1/f07.png
+    fileSize: 12533
+    createdAt: 2026-07-11T21:13:36.440Z
+    updatedAt: 2026-07-11T21:13:36.440Z
+  - fileName: f06.png
+    fileType: image
+    filePath: pivot_a1/f06.png
+    fileSize: 11675
+    createdAt: 2026-07-11T21:13:36.443Z
+    updatedAt: 2026-07-11T21:13:36.443Z
+  - fileName: f05.png
+    fileType: image
+    filePath: pivot_a1/f05.png
+    fileSize: 10367
+    createdAt: 2026-07-11T21:13:36.444Z
+    updatedAt: 2026-07-11T21:13:36.444Z
+  - fileName: f04.png
+    fileType: image
+    filePath: pivot_a1/f04.png
+    fileSize: 15931
+    createdAt: 2026-07-11T21:13:36.446Z
+    updatedAt: 2026-07-11T21:13:36.446Z
+  - fileName: f03.png
+    fileType: image
+    filePath: pivot_a1/f03.png
+    fileSize: 15337
+    createdAt: 2026-07-11T21:13:36.448Z
+    updatedAt: 2026-07-11T21:13:36.448Z
+  - fileName: f02.png
+    fileType: image
+    filePath: pivot_a1/f02.png
+    fileSize: 14149
+    createdAt: 2026-07-11T21:13:36.451Z
+    updatedAt: 2026-07-11T21:13:36.451Z
+  - fileName: f01.png
+    fileType: image
+    filePath: pivot_a1/f01.png
+    fileSize: 14475
+    createdAt: 2026-07-11T21:13:36.453Z
+    updatedAt: 2026-07-11T21:13:36.453Z
