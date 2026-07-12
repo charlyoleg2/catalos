@@ -1,0 +1,143 @@
+description: one wheel of the rc-car
+tags:
+  - rccar
+  - notch
+owner: makeda
+createdAt: 2026-07-12T23:56:07.130Z
+updatedAt: 2026-07-12T23:56:07.190Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame76/desi76/wheel
+linkToSrc: https://github.com/charlyoleg2/parame76
+linkToPkg: https://www.npmjs.com/package/desi76
+linkToCli: https://www.npmjs.com/package/desi76-cli
+linkToUis: https://www.npmjs.com/package/desi76-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame76
+linkOthers: []
+files:
+  - fileName: wheel_A1_v01_faceTube.svg
+    fileType: svg
+    filePath: wheel_a1/wheel_A1_v01_faceTube.svg
+    fileSize: 273
+    createdAt: 2026-07-12T23:56:07.137Z
+    updatedAt: 2026-07-12T23:56:07.137Z
+  - fileName: wheel_A1_v01_faceTube.dxf
+    fileType: dxf
+    filePath: wheel_a1/wheel_A1_v01_faceTube.dxf
+    fileSize: 142
+    createdAt: 2026-07-12T23:56:07.139Z
+    updatedAt: 2026-07-12T23:56:07.139Z
+  - fileName: wheel_A1_v01_faceTrans2.svg
+    fileType: svg
+    filePath: wheel_a1/wheel_A1_v01_faceTrans2.svg
+    fileSize: 273
+    createdAt: 2026-07-12T23:56:07.142Z
+    updatedAt: 2026-07-12T23:56:07.142Z
+  - fileName: wheel_A1_v01_faceTrans2.dxf
+    fileType: dxf
+    filePath: wheel_a1/wheel_A1_v01_faceTrans2.dxf
+    fileSize: 142
+    createdAt: 2026-07-12T23:56:07.145Z
+    updatedAt: 2026-07-12T23:56:07.145Z
+  - fileName: wheel_A1_v01_faceTrans1.svg
+    fileType: svg
+    filePath: wheel_a1/wheel_A1_v01_faceTrans1.svg
+    fileSize: 273
+    createdAt: 2026-07-12T23:56:07.148Z
+    updatedAt: 2026-07-12T23:56:07.148Z
+  - fileName: wheel_A1_v01_faceTrans1.dxf
+    fileType: dxf
+    filePath: wheel_a1/wheel_A1_v01_faceTrans1.dxf
+    fileSize: 142
+    createdAt: 2026-07-12T23:56:07.149Z
+    updatedAt: 2026-07-12T23:56:07.149Z
+  - fileName: wheel_A1_v01_facePneu.svg
+    fileType: svg
+    filePath: wheel_a1/wheel_A1_v01_facePneu.svg
+    fileSize: 8014
+    createdAt: 2026-07-12T23:56:07.152Z
+    updatedAt: 2026-07-12T23:56:07.152Z
+  - fileName: wheel_A1_v01_facePneu.dxf
+    fileType: dxf
+    filePath: wheel_a1/wheel_A1_v01_facePneu.dxf
+    fileSize: 15116
+    createdAt: 2026-07-12T23:56:07.154Z
+    updatedAt: 2026-07-12T23:56:07.154Z
+  - fileName: wheel_A1_v01_faceCut.svg
+    fileType: svg
+    filePath: wheel_a1/wheel_A1_v01_faceCut.svg
+    fileSize: 755
+    createdAt: 2026-07-12T23:56:07.156Z
+    updatedAt: 2026-07-12T23:56:07.156Z
+  - fileName: wheel_A1_v01_faceCut.dxf
+    fileType: dxf
+    filePath: wheel_a1/wheel_A1_v01_faceCut.dxf
+    fileSize: 1840
+    createdAt: 2026-07-12T23:56:07.159Z
+    updatedAt: 2026-07-12T23:56:07.159Z
+  - fileName: wheel_A1_v01.scad
+    fileType: scad
+    filePath: wheel_a1/wheel_A1_v01.scad
+    fileSize: 61593
+    createdAt: 2026-07-12T23:56:07.161Z
+    updatedAt: 2026-07-12T23:56:07.161Z
+  - fileName: wheel_A1_v01.py
+    fileType: pyFreecad
+    filePath: wheel_a1/wheel_A1_v01.py
+    fileSize: 33486
+    createdAt: 2026-07-12T23:56:07.163Z
+    updatedAt: 2026-07-12T23:56:07.163Z
+  - fileName: wheel_A1_v01.pax.json
+    fileType: paxJson
+    filePath: wheel_a1/wheel_A1_v01.pax.json
+    fileSize: 56176
+    createdAt: 2026-07-12T23:56:07.166Z
+    updatedAt: 2026-07-12T23:56:07.166Z
+  - fileName: wheel_A1_v01.log.txt
+    fileType: txtLog
+    filePath: wheel_a1/wheel_A1_v01.log.txt
+    fileSize: 105
+    createdAt: 2026-07-12T23:56:07.169Z
+    updatedAt: 2026-07-12T23:56:07.169Z
+  - fileName: wheel_A1_v01.js
+    fileType: jsCad
+    filePath: wheel_a1/wheel_A1_v01.js
+    fileSize: 55235
+    createdAt: 2026-07-12T23:56:07.171Z
+    updatedAt: 2026-07-12T23:56:07.171Z
+  - fileName: px_wheel_A1_v01.json
+    fileType: pxJson
+    filePath: wheel_a1/px_wheel_A1_v01.json
+    fileSize: 287
+    createdAt: 2026-07-12T23:56:07.174Z
+    updatedAt: 2026-07-12T23:56:07.174Z
+  - fileName: f05.png
+    fileType: image
+    filePath: wheel_a1/f05.png
+    fileSize: 17297
+    createdAt: 2026-07-12T23:56:07.177Z
+    updatedAt: 2026-07-12T23:56:07.177Z
+  - fileName: f04.png
+    fileType: image
+    filePath: wheel_a1/f04.png
+    fileSize: 17076
+    createdAt: 2026-07-12T23:56:07.179Z
+    updatedAt: 2026-07-12T23:56:07.179Z
+  - fileName: f03.png
+    fileType: image
+    filePath: wheel_a1/f03.png
+    fileSize: 7839
+    createdAt: 2026-07-12T23:56:07.183Z
+    updatedAt: 2026-07-12T23:56:07.183Z
+  - fileName: f02.png
+    fileType: image
+    filePath: wheel_a1/f02.png
+    fileSize: 18447
+    createdAt: 2026-07-12T23:56:07.187Z
+    updatedAt: 2026-07-12T23:56:07.187Z
+  - fileName: f01.png
+    fileType: image
+    filePath: wheel_a1/f01.png
+    fileSize: 16094
+    createdAt: 2026-07-12T23:56:07.189Z
+    updatedAt: 2026-07-12T23:56:07.189Z
