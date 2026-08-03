@@ -1,0 +1,169 @@
+description: sub-system lift-pivot-wheel of rc-car
+tags:
+  - rccar
+  - assembly
+  - one wheel
+  - 3d-printing
+owner: makeda
+createdAt: 2026-08-03T01:02:05.456Z
+updatedAt: 2026-08-03T01:02:05.512Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame76/desi76/foot
+linkToSrc: https://github.com/charlyoleg2/parame76
+linkToPkg: https://www.npmjs.com/package/desi76
+linkToCli: https://www.npmjs.com/package/desi76-cli
+linkToUis: https://www.npmjs.com/package/desi76-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame76
+linkOthers: []
+files:
+  - fileName: px_foot_A1_v01.json
+    fileType: pxJson
+    filePath: foot_a1/px_foot_A1_v01.json
+    fileSize: 1872
+    createdAt: 2026-08-03T01:02:05.460Z
+    updatedAt: 2026-08-03T01:02:05.460Z
+  - fileName: foot_A1_v01_faceTop.svg
+    fileType: svg
+    filePath: foot_a1/foot_A1_v01_faceTop.svg
+    fileSize: 1937
+    createdAt: 2026-08-03T01:02:05.462Z
+    updatedAt: 2026-08-03T01:02:05.462Z
+  - fileName: foot_A1_v01_faceTop.dxf
+    fileType: dxf
+    filePath: foot_a1/foot_A1_v01_faceTop.dxf
+    fileSize: 3882
+    createdAt: 2026-08-03T01:02:05.464Z
+    updatedAt: 2026-08-03T01:02:05.464Z
+  - fileName: foot_A1_v01_faceSideInt.svg
+    fileType: svg
+    filePath: foot_a1/foot_A1_v01_faceSideInt.svg
+    fileSize: 10759
+    createdAt: 2026-08-03T01:02:05.466Z
+    updatedAt: 2026-08-03T01:02:05.466Z
+  - fileName: foot_A1_v01_faceSideInt.dxf
+    fileType: dxf
+    filePath: foot_a1/foot_A1_v01_faceSideInt.dxf
+    fileSize: 19705
+    createdAt: 2026-08-03T01:02:05.467Z
+    updatedAt: 2026-08-03T01:02:05.467Z
+  - fileName: foot_A1_v01_faceSideExt.svg
+    fileType: svg
+    filePath: foot_a1/foot_A1_v01_faceSideExt.svg
+    fileSize: 10836
+    createdAt: 2026-08-03T01:02:05.469Z
+    updatedAt: 2026-08-03T01:02:05.469Z
+  - fileName: foot_A1_v01_faceSideExt.dxf
+    fileType: dxf
+    filePath: foot_a1/foot_A1_v01_faceSideExt.dxf
+    fileSize: 19972
+    createdAt: 2026-08-03T01:02:05.471Z
+    updatedAt: 2026-08-03T01:02:05.471Z
+  - fileName: foot_A1_v01_faceSideArc.svg
+    fileType: svg
+    filePath: foot_a1/foot_A1_v01_faceSideArc.svg
+    fileSize: 1745
+    createdAt: 2026-08-03T01:02:05.473Z
+    updatedAt: 2026-08-03T01:02:05.473Z
+  - fileName: foot_A1_v01_faceSideArc.dxf
+    fileType: dxf
+    filePath: foot_a1/foot_A1_v01_faceSideArc.dxf
+    fileSize: 3719
+    createdAt: 2026-08-03T01:02:05.475Z
+    updatedAt: 2026-08-03T01:02:05.475Z
+  - fileName: foot_A1_v01_faceAxis3.svg
+    fileType: svg
+    filePath: foot_a1/foot_A1_v01_faceAxis3.svg
+    fileSize: 272
+    createdAt: 2026-08-03T01:02:05.477Z
+    updatedAt: 2026-08-03T01:02:05.477Z
+  - fileName: foot_A1_v01_faceAxis3.dxf
+    fileType: dxf
+    filePath: foot_a1/foot_A1_v01_faceAxis3.dxf
+    fileSize: 141
+    createdAt: 2026-08-03T01:02:05.479Z
+    updatedAt: 2026-08-03T01:02:05.479Z
+  - fileName: foot_A1_v01_faceAxis1.svg
+    fileType: svg
+    filePath: foot_a1/foot_A1_v01_faceAxis1.svg
+    fileSize: 277
+    createdAt: 2026-08-03T01:02:05.481Z
+    updatedAt: 2026-08-03T01:02:05.481Z
+  - fileName: foot_A1_v01_faceAxis1.dxf
+    fileType: dxf
+    filePath: foot_a1/foot_A1_v01_faceAxis1.dxf
+    fileSize: 142
+    createdAt: 2026-08-03T01:02:05.483Z
+    updatedAt: 2026-08-03T01:02:05.483Z
+  - fileName: foot_A1_v01.scad
+    fileType: scad
+    filePath: foot_a1/foot_A1_v01.scad
+    fileSize: 326107
+    createdAt: 2026-08-03T01:02:05.486Z
+    updatedAt: 2026-08-03T01:02:05.486Z
+  - fileName: foot_A1_v01.py
+    fileType: pyFreecad
+    filePath: foot_a1/foot_A1_v01.py
+    fileSize: 189512
+    createdAt: 2026-08-03T01:02:05.488Z
+    updatedAt: 2026-08-03T01:02:05.488Z
+  - fileName: foot_A1_v01.pax.json
+    fileType: paxJson
+    filePath: foot_a1/foot_A1_v01.pax.json
+    fileSize: 2204973
+    createdAt: 2026-08-03T01:02:05.492Z
+    updatedAt: 2026-08-03T01:02:05.492Z
+  - fileName: foot_A1_v01.log.txt
+    fileType: txtLog
+    filePath: foot_a1/foot_A1_v01.log.txt
+    fileSize: 802
+    createdAt: 2026-08-03T01:02:05.494Z
+    updatedAt: 2026-08-03T01:02:05.494Z
+  - fileName: foot_A1_v01.js
+    fileType: jsCad
+    filePath: foot_a1/foot_A1_v01.js
+    fileSize: 299368
+    createdAt: 2026-08-03T01:02:05.497Z
+    updatedAt: 2026-08-03T01:02:05.497Z
+  - fileName: f07.png
+    fileType: image
+    filePath: foot_a1/f07.png
+    fileSize: 22515
+    createdAt: 2026-08-03T01:02:05.499Z
+    updatedAt: 2026-08-03T01:02:05.499Z
+  - fileName: f06.png
+    fileType: image
+    filePath: foot_a1/f06.png
+    fileSize: 19413
+    createdAt: 2026-08-03T01:02:05.501Z
+    updatedAt: 2026-08-03T01:02:05.501Z
+  - fileName: f05.png
+    fileType: image
+    filePath: foot_a1/f05.png
+    fileSize: 25643
+    createdAt: 2026-08-03T01:02:05.503Z
+    updatedAt: 2026-08-03T01:02:05.503Z
+  - fileName: f04.png
+    fileType: image
+    filePath: foot_a1/f04.png
+    fileSize: 22907
+    createdAt: 2026-08-03T01:02:05.505Z
+    updatedAt: 2026-08-03T01:02:05.505Z
+  - fileName: f03.png
+    fileType: image
+    filePath: foot_a1/f03.png
+    fileSize: 30086
+    createdAt: 2026-08-03T01:02:05.508Z
+    updatedAt: 2026-08-03T01:02:05.508Z
+  - fileName: f02.png
+    fileType: image
+    filePath: foot_a1/f02.png
+    fileSize: 30716
+    createdAt: 2026-08-03T01:02:05.510Z
+    updatedAt: 2026-08-03T01:02:05.510Z
+  - fileName: f01.png
+    fileType: image
+    filePath: foot_a1/f01.png
+    fileSize: 34497
+    createdAt: 2026-08-03T01:02:05.512Z
+    updatedAt: 2026-08-03T01:02:05.512Z

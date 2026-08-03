@@ -5,8 +5,8 @@ tags:
   - 2D
 owner: makeda
 createdAt: 2026-06-24T12:58:25.530Z
-updatedAt: 2026-06-24T12:58:25.551Z
-updateCount: 1
+updatedAt: 2026-08-03T01:02:05.376Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame76/desi76/losange
 linkToSrc: https://github.com/charlyoleg2/parame76
@@ -37,9 +37,9 @@ files:
   - fileName: losange_A1_v01_printer.pax.json
     fileType: paxJson
     filePath: losange_a1/losange_A1_v01_printer.pax.json
-    fileSize: 817502
+    fileSize: 817503
     createdAt: 2026-06-24T12:58:25.535Z
-    updatedAt: 2026-06-24T12:58:25.535Z
+    updatedAt: 2026-08-03T01:02:05.357Z
   - fileName: losange_A1_v01_printer.js
     fileType: jsCad
     filePath: losange_a1/losange_A1_v01_printer.js
@@ -109,15 +109,15 @@ files:
   - fileName: losange_A1_v01.pax.json
     fileType: paxJson
     filePath: losange_a1/losange_A1_v01.pax.json
-    fileSize: 817862
+    fileSize: 817863
     createdAt: 2026-06-24T12:58:25.544Z
-    updatedAt: 2026-06-24T12:58:25.544Z
+    updatedAt: 2026-08-03T01:02:05.369Z
   - fileName: losange_A1_v01.log.txt
     fileType: txtLog
     filePath: losange_a1/losange_A1_v01.log.txt
-    fileSize: 806
+    fileSize: 807
     createdAt: 2026-06-24T12:58:25.545Z
-    updatedAt: 2026-06-24T12:58:25.545Z
+    updatedAt: 2026-08-03T01:02:05.370Z
   - fileName: losange_A1_v01.js
     fileType: jsCad
     filePath: losange_a1/losange_A1_v01.js

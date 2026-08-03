@@ -4,8 +4,8 @@ tags:
   - notch
 owner: makeda
 createdAt: 2026-07-12T23:56:07.130Z
-updatedAt: 2026-07-12T23:56:07.190Z
-updateCount: 1
+updatedAt: 2026-08-03T01:02:05.119Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame76/desi76/wheel
 linkToSrc: https://github.com/charlyoleg2/parame76
@@ -54,45 +54,45 @@ files:
   - fileName: wheel_A1_v01_facePneu.svg
     fileType: svg
     filePath: wheel_a1/wheel_A1_v01_facePneu.svg
-    fileSize: 8014
+    fileSize: 8205
     createdAt: 2026-07-12T23:56:07.152Z
-    updatedAt: 2026-07-12T23:56:07.152Z
+    updatedAt: 2026-08-03T01:02:05.083Z
   - fileName: wheel_A1_v01_facePneu.dxf
     fileType: dxf
     filePath: wheel_a1/wheel_A1_v01_facePneu.dxf
-    fileSize: 15116
+    fileSize: 15309
     createdAt: 2026-07-12T23:56:07.154Z
-    updatedAt: 2026-07-12T23:56:07.154Z
+    updatedAt: 2026-08-03T01:02:05.087Z
   - fileName: wheel_A1_v01_faceCut.svg
     fileType: svg
     filePath: wheel_a1/wheel_A1_v01_faceCut.svg
-    fileSize: 755
+    fileSize: 760
     createdAt: 2026-07-12T23:56:07.156Z
-    updatedAt: 2026-07-12T23:56:07.156Z
+    updatedAt: 2026-08-03T01:02:05.090Z
   - fileName: wheel_A1_v01_faceCut.dxf
     fileType: dxf
     filePath: wheel_a1/wheel_A1_v01_faceCut.dxf
-    fileSize: 1840
+    fileSize: 1848
     createdAt: 2026-07-12T23:56:07.159Z
-    updatedAt: 2026-07-12T23:56:07.159Z
+    updatedAt: 2026-08-03T01:02:05.094Z
   - fileName: wheel_A1_v01.scad
     fileType: scad
     filePath: wheel_a1/wheel_A1_v01.scad
-    fileSize: 61593
+    fileSize: 37550
     createdAt: 2026-07-12T23:56:07.161Z
-    updatedAt: 2026-07-12T23:56:07.161Z
+    updatedAt: 2026-08-03T01:02:05.097Z
   - fileName: wheel_A1_v01.py
     fileType: pyFreecad
     filePath: wheel_a1/wheel_A1_v01.py
-    fileSize: 33486
+    fileSize: 33859
     createdAt: 2026-07-12T23:56:07.163Z
-    updatedAt: 2026-07-12T23:56:07.163Z
+    updatedAt: 2026-08-03T01:02:05.101Z
   - fileName: wheel_A1_v01.pax.json
     fileType: paxJson
     filePath: wheel_a1/wheel_A1_v01.pax.json
-    fileSize: 56176
+    fileSize: 56106
     createdAt: 2026-07-12T23:56:07.166Z
-    updatedAt: 2026-07-12T23:56:07.166Z
+    updatedAt: 2026-08-03T01:02:05.104Z
   - fileName: wheel_A1_v01.log.txt
     fileType: txtLog
     filePath: wheel_a1/wheel_A1_v01.log.txt
@@ -102,15 +102,15 @@ files:
   - fileName: wheel_A1_v01.js
     fileType: jsCad
     filePath: wheel_a1/wheel_A1_v01.js
-    fileSize: 55235
+    fileSize: 34792
     createdAt: 2026-07-12T23:56:07.171Z
-    updatedAt: 2026-07-12T23:56:07.171Z
+    updatedAt: 2026-08-03T01:02:05.111Z
   - fileName: px_wheel_A1_v01.json
     fileType: pxJson
     filePath: wheel_a1/px_wheel_A1_v01.json
-    fileSize: 287
+    fileSize: 288
     createdAt: 2026-07-12T23:56:07.174Z
-    updatedAt: 2026-07-12T23:56:07.174Z
+    updatedAt: 2026-08-03T01:02:05.114Z
   - fileName: f05.png
     fileType: image
     filePath: wheel_a1/f05.png
