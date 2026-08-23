@@ -1,0 +1,131 @@
+description: A tool to empty your toothpaste tube
+tags:
+  - Voncq
+  - tube de dentifrice
+owner: zenobie
+createdAt: 2026-08-23T01:04:56.277Z
+updatedAt: 2026-08-23T01:04:56.330Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame75/desi75/pastePusher
+linkToSrc: https://github.com/charlyoleg2/parame75
+linkToPkg: https://www.npmjs.com/package/desi75
+linkToCli: https://www.npmjs.com/package/desi75-cli
+linkToUis: https://www.npmjs.com/package/desi75-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame75
+linkOthers: []
+files:
+  - fileName: px_pastePusher_A1_v01.json
+    fileType: pxJson
+    filePath: pastepusher_a1/px_pastePusher_A1_v01.json
+    fileSize: 320
+    createdAt: 2026-08-23T01:04:56.286Z
+    updatedAt: 2026-08-23T01:04:56.286Z
+  - fileName: pastePusher_A1_v01_faceSideB.svg
+    fileType: svg
+    filePath: pastepusher_a1/pastePusher_A1_v01_faceSideB.svg
+    fileSize: 588
+    createdAt: 2026-08-23T01:04:56.291Z
+    updatedAt: 2026-08-23T01:04:56.291Z
+  - fileName: pastePusher_A1_v01_faceSideB.dxf
+    fileType: dxf
+    filePath: pastepusher_a1/pastePusher_A1_v01_faceSideB.dxf
+    fileSize: 1068
+    createdAt: 2026-08-23T01:04:56.295Z
+    updatedAt: 2026-08-23T01:04:56.295Z
+  - fileName: pastePusher_A1_v01_faceSide.svg
+    fileType: svg
+    filePath: pastepusher_a1/pastePusher_A1_v01_faceSide.svg
+    fileSize: 696
+    createdAt: 2026-08-23T01:04:56.299Z
+    updatedAt: 2026-08-23T01:04:56.299Z
+  - fileName: pastePusher_A1_v01_faceSide.dxf
+    fileType: dxf
+    filePath: pastepusher_a1/pastePusher_A1_v01_faceSide.dxf
+    fileSize: 1339
+    createdAt: 2026-08-23T01:04:56.302Z
+    updatedAt: 2026-08-23T01:04:56.302Z
+  - fileName: pastePusher_A1_v01_faceMid.svg
+    fileType: svg
+    filePath: pastepusher_a1/pastePusher_A1_v01_faceMid.svg
+    fileSize: 452
+    createdAt: 2026-08-23T01:04:56.305Z
+    updatedAt: 2026-08-23T01:04:56.305Z
+  - fileName: pastePusher_A1_v01_faceMid.dxf
+    fileType: dxf
+    filePath: pastepusher_a1/pastePusher_A1_v01_faceMid.dxf
+    fileSize: 569
+    createdAt: 2026-08-23T01:04:56.307Z
+    updatedAt: 2026-08-23T01:04:56.307Z
+  - fileName: pastePusher_A1_v01_faceFace.svg
+    fileType: svg
+    filePath: pastepusher_a1/pastePusher_A1_v01_faceFace.svg
+    fileSize: 342
+    createdAt: 2026-08-23T01:04:56.309Z
+    updatedAt: 2026-08-23T01:04:56.309Z
+  - fileName: pastePusher_A1_v01_faceFace.dxf
+    fileType: dxf
+    filePath: pastepusher_a1/pastePusher_A1_v01_faceFace.dxf
+    fileSize: 556
+    createdAt: 2026-08-23T01:04:56.312Z
+    updatedAt: 2026-08-23T01:04:56.312Z
+  - fileName: pastePusher_A1_v01.scad
+    fileType: scad
+    filePath: pastepusher_a1/pastePusher_A1_v01.scad
+    fileSize: 8901
+    createdAt: 2026-08-23T01:04:56.314Z
+    updatedAt: 2026-08-23T01:04:56.314Z
+  - fileName: pastePusher_A1_v01.py
+    fileType: pyFreecad
+    filePath: pastepusher_a1/pastePusher_A1_v01.py
+    fileSize: 11317
+    createdAt: 2026-08-23T01:04:56.316Z
+    updatedAt: 2026-08-23T01:04:56.316Z
+  - fileName: pastePusher_A1_v01.pax.json
+    fileType: paxJson
+    filePath: pastepusher_a1/pastePusher_A1_v01.pax.json
+    fileSize: 14947
+    createdAt: 2026-08-23T01:04:56.318Z
+    updatedAt: 2026-08-23T01:04:56.318Z
+  - fileName: pastePusher_A1_v01.log.txt
+    fileType: txtLog
+    filePath: pastepusher_a1/pastePusher_A1_v01.log.txt
+    fileSize: 93
+    createdAt: 2026-08-23T01:04:56.321Z
+    updatedAt: 2026-08-23T01:04:56.321Z
+  - fileName: pastePusher_A1_v01.js
+    fileType: jsCad
+    filePath: pastepusher_a1/pastePusher_A1_v01.js
+    fileSize: 9209
+    createdAt: 2026-08-23T01:04:56.323Z
+    updatedAt: 2026-08-23T01:04:56.323Z
+  - fileName: f05.png
+    fileType: image
+    filePath: pastepusher_a1/f05.png
+    fileSize: 13072
+    createdAt: 2026-08-23T01:04:56.326Z
+    updatedAt: 2026-08-23T01:04:56.326Z
+  - fileName: f04.png
+    fileType: image
+    filePath: pastepusher_a1/f04.png
+    fileSize: 15625
+    createdAt: 2026-08-23T01:04:56.327Z
+    updatedAt: 2026-08-23T01:04:56.327Z
+  - fileName: f03.png
+    fileType: image
+    filePath: pastepusher_a1/f03.png
+    fileSize: 10349
+    createdAt: 2026-08-23T01:04:56.328Z
+    updatedAt: 2026-08-23T01:04:56.328Z
+  - fileName: f02.png
+    fileType: image
+    filePath: pastepusher_a1/f02.png
+    fileSize: 10496
+    createdAt: 2026-08-23T01:04:56.329Z
+    updatedAt: 2026-08-23T01:04:56.329Z
+  - fileName: f01.png
+    fileType: image
+    filePath: pastepusher_a1/f01.png
+    fileSize: 13831
+    createdAt: 2026-08-23T01:04:56.330Z
+    updatedAt: 2026-08-23T01:04:56.330Z
