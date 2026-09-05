@@ -1,0 +1,138 @@
+description: a low-board bookshelf
+tags:
+  - carpentry
+  - wood
+  - shelf
+owner: zenobie
+createdAt: 2026-09-05T15:54:35.163Z
+updatedAt: 2026-09-05T15:54:35.213Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame75/desi75/bookshelf
+linkToSrc: https://github.com/charlyoleg2/parame75
+linkToPkg: https://www.npmjs.com/package/desi75
+linkToCli: https://www.npmjs.com/package/desi75-cli
+linkToUis: https://www.npmjs.com/package/desi75-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame75
+linkOthers: []
+files:
+  - fileName: px_bookshelf_A1_v01.json
+    fileType: pxJson
+    filePath: bookshelf_a1/px_bookshelf_A1_v01.json
+    fileSize: 275
+    createdAt: 2026-09-05T15:54:35.170Z
+    updatedAt: 2026-09-05T15:54:35.170Z
+  - fileName: bookshelf_A1_v01_faceTop.svg
+    fileType: svg
+    filePath: bookshelf_a1/bookshelf_A1_v01_faceTop.svg
+    fileSize: 249
+    createdAt: 2026-09-05T15:54:35.173Z
+    updatedAt: 2026-09-05T15:54:35.173Z
+  - fileName: bookshelf_A1_v01_faceTop.dxf
+    fileType: dxf
+    filePath: bookshelf_a1/bookshelf_A1_v01_faceTop.dxf
+    fileSize: 296
+    createdAt: 2026-09-05T15:54:35.176Z
+    updatedAt: 2026-09-05T15:54:35.176Z
+  - fileName: bookshelf_A1_v01_faceSideMid.svg
+    fileType: svg
+    filePath: bookshelf_a1/bookshelf_A1_v01_faceSideMid.svg
+    fileSize: 285
+    createdAt: 2026-09-05T15:54:35.179Z
+    updatedAt: 2026-09-05T15:54:35.179Z
+  - fileName: bookshelf_A1_v01_faceSideMid.dxf
+    fileType: dxf
+    filePath: bookshelf_a1/bookshelf_A1_v01_faceSideMid.dxf
+    fileSize: 424
+    createdAt: 2026-09-05T15:54:35.181Z
+    updatedAt: 2026-09-05T15:54:35.181Z
+  - fileName: bookshelf_A1_v01_faceSide.svg
+    fileType: svg
+    filePath: bookshelf_a1/bookshelf_A1_v01_faceSide.svg
+    fileSize: 285
+    createdAt: 2026-09-05T15:54:35.184Z
+    updatedAt: 2026-09-05T15:54:35.184Z
+  - fileName: bookshelf_A1_v01_faceSide.dxf
+    fileType: dxf
+    filePath: bookshelf_a1/bookshelf_A1_v01_faceSide.dxf
+    fileSize: 420
+    createdAt: 2026-09-05T15:54:35.186Z
+    updatedAt: 2026-09-05T15:54:35.186Z
+  - fileName: bookshelf_A1_v01_facePlateau.svg
+    fileType: svg
+    filePath: bookshelf_a1/bookshelf_A1_v01_facePlateau.svg
+    fileSize: 408
+    createdAt: 2026-09-05T15:54:35.189Z
+    updatedAt: 2026-09-05T15:54:35.189Z
+  - fileName: bookshelf_A1_v01_facePlateau.dxf
+    fileType: dxf
+    filePath: bookshelf_a1/bookshelf_A1_v01_facePlateau.dxf
+    fileSize: 572
+    createdAt: 2026-09-05T15:54:35.191Z
+    updatedAt: 2026-09-05T15:54:35.191Z
+  - fileName: bookshelf_A1_v01_faceFace.svg
+    fileType: svg
+    filePath: bookshelf_a1/bookshelf_A1_v01_faceFace.svg
+    fileSize: 253
+    createdAt: 2026-09-05T15:54:35.194Z
+    updatedAt: 2026-09-05T15:54:35.194Z
+  - fileName: bookshelf_A1_v01_faceFace.dxf
+    fileType: dxf
+    filePath: bookshelf_a1/bookshelf_A1_v01_faceFace.dxf
+    fileSize: 304
+    createdAt: 2026-09-05T15:54:35.196Z
+    updatedAt: 2026-09-05T15:54:35.196Z
+  - fileName: bookshelf_A1_v01_faceBeamTop.svg
+    fileType: svg
+    filePath: bookshelf_a1/bookshelf_A1_v01_faceBeamTop.svg
+    fileSize: 722
+    createdAt: 2026-09-05T15:54:35.199Z
+    updatedAt: 2026-09-05T15:54:35.199Z
+  - fileName: bookshelf_A1_v01_faceBeamTop.dxf
+    fileType: dxf
+    filePath: bookshelf_a1/bookshelf_A1_v01_faceBeamTop.dxf
+    fileSize: 1108
+    createdAt: 2026-09-05T15:54:35.201Z
+    updatedAt: 2026-09-05T15:54:35.201Z
+  - fileName: bookshelf_A1_v01_faceBeamFace.svg
+    fileType: svg
+    filePath: bookshelf_a1/bookshelf_A1_v01_faceBeamFace.svg
+    fileSize: 2303
+    createdAt: 2026-09-05T15:54:35.203Z
+    updatedAt: 2026-09-05T15:54:35.203Z
+  - fileName: bookshelf_A1_v01_faceBeamFace.dxf
+    fileType: dxf
+    filePath: bookshelf_a1/bookshelf_A1_v01_faceBeamFace.dxf
+    fileSize: 3836
+    createdAt: 2026-09-05T15:54:35.205Z
+    updatedAt: 2026-09-05T15:54:35.205Z
+  - fileName: bookshelf_A1_v01.scad
+    fileType: scad
+    filePath: bookshelf_a1/bookshelf_A1_v01.scad
+    fileSize: 9190
+    createdAt: 2026-09-05T15:54:35.206Z
+    updatedAt: 2026-09-05T15:54:35.206Z
+  - fileName: bookshelf_A1_v01.py
+    fileType: pyFreecad
+    filePath: bookshelf_a1/bookshelf_A1_v01.py
+    fileSize: 24416
+    createdAt: 2026-09-05T15:54:35.208Z
+    updatedAt: 2026-09-05T15:54:35.208Z
+  - fileName: bookshelf_A1_v01.pax.json
+    fileType: paxJson
+    filePath: bookshelf_a1/bookshelf_A1_v01.pax.json
+    fileSize: 22072
+    createdAt: 2026-09-05T15:54:35.210Z
+    updatedAt: 2026-09-05T15:54:35.210Z
+  - fileName: bookshelf_A1_v01.log.txt
+    fileType: txtLog
+    filePath: bookshelf_a1/bookshelf_A1_v01.log.txt
+    fileSize: 83
+    createdAt: 2026-09-05T15:54:35.212Z
+    updatedAt: 2026-09-05T15:54:35.212Z
+  - fileName: bookshelf_A1_v01.js
+    fileType: jsCad
+    filePath: bookshelf_a1/bookshelf_A1_v01.js
+    fileSize: 10912
+    createdAt: 2026-09-05T15:54:35.213Z
+    updatedAt: 2026-09-05T15:54:35.213Z
