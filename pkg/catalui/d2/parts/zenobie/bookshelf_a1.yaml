@@ -5,8 +5,8 @@ tags:
   - shelf
 owner: zenobie
 createdAt: 2026-09-05T15:54:35.163Z
-updatedAt: 2026-09-05T16:03:03.965Z
-updateCount: 2
+updatedAt: 2026-09-05T16:09:54.817Z
+updateCount: 3
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame75/desi75/bookshelf
 linkToSrc: https://github.com/charlyoleg2/parame75
@@ -136,6 +136,12 @@ files:
     fileSize: 3836
     createdAt: 2026-09-05T15:54:35.205Z
     updatedAt: 2026-09-05T15:54:35.205Z
+  - fileName: bookshelf_A1_v01.stl
+    fileType: stl
+    filePath: bookshelf_a1/bookshelf_A1_v01.stl
+    fileSize: 13884
+    createdAt: 2026-09-05T16:09:54.811Z
+    updatedAt: 2026-09-05T16:09:54.811Z
   - fileName: bookshelf_A1_v01.scad
     fileType: scad
     filePath: bookshelf_a1/bookshelf_A1_v01.scad
