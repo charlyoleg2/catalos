@@ -5,8 +5,8 @@ tags:
   - shelf
 owner: zenobie
 createdAt: 2026-09-05T15:54:35.163Z
-updatedAt: 2026-09-05T15:54:35.213Z
-updateCount: 1
+updatedAt: 2026-09-05T16:03:03.965Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame75/desi75/bookshelf
 linkToSrc: https://github.com/charlyoleg2/parame75
@@ -22,6 +22,36 @@ files:
     fileSize: 275
     createdAt: 2026-09-05T15:54:35.170Z
     updatedAt: 2026-09-05T15:54:35.170Z
+  - fileName: f05.png
+    fileType: image
+    filePath: bookshelf_a1/f05.png
+    fileSize: 3123
+    createdAt: 2026-09-05T16:03:03.934Z
+    updatedAt: 2026-09-05T16:03:03.934Z
+  - fileName: f04.png
+    fileType: image
+    filePath: bookshelf_a1/f04.png
+    fileSize: 7318
+    createdAt: 2026-09-05T16:03:03.938Z
+    updatedAt: 2026-09-05T16:03:03.938Z
+  - fileName: f03.png
+    fileType: image
+    filePath: bookshelf_a1/f03.png
+    fileSize: 6877
+    createdAt: 2026-09-05T16:03:03.943Z
+    updatedAt: 2026-09-05T16:03:03.943Z
+  - fileName: f02.png
+    fileType: image
+    filePath: bookshelf_a1/f02.png
+    fileSize: 3964
+    createdAt: 2026-09-05T16:03:03.947Z
+    updatedAt: 2026-09-05T16:03:03.947Z
+  - fileName: f01.png
+    fileType: image
+    filePath: bookshelf_a1/f01.png
+    fileSize: 4204
+    createdAt: 2026-09-05T16:03:03.951Z
+    updatedAt: 2026-09-05T16:03:03.952Z
   - fileName: bookshelf_A1_v01_faceTop.svg
     fileType: svg
     filePath: bookshelf_a1/bookshelf_A1_v01_faceTop.svg
