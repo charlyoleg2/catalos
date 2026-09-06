@@ -5,8 +5,8 @@ tags:
   - shelf
 owner: zenobie
 createdAt: 2026-09-05T15:54:35.163Z
-updatedAt: 2026-09-05T16:09:54.817Z
-updateCount: 3
+updatedAt: 2026-09-06T20:42:44.505Z
+updateCount: 4
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame75/desi75/bookshelf
 linkToSrc: https://github.com/charlyoleg2/parame75
@@ -157,15 +157,15 @@ files:
   - fileName: bookshelf_A1_v01.pax.json
     fileType: paxJson
     filePath: bookshelf_a1/bookshelf_A1_v01.pax.json
-    fileSize: 22072
+    fileSize: 22375
     createdAt: 2026-09-05T15:54:35.210Z
-    updatedAt: 2026-09-05T15:54:35.210Z
+    updatedAt: 2026-09-06T20:42:44.500Z
   - fileName: bookshelf_A1_v01.log.txt
     fileType: txtLog
     filePath: bookshelf_a1/bookshelf_A1_v01.log.txt
-    fileSize: 83
+    fileSize: 375
     createdAt: 2026-09-05T15:54:35.212Z
-    updatedAt: 2026-09-05T15:54:35.212Z
+    updatedAt: 2026-09-06T20:42:44.504Z
   - fileName: bookshelf_A1_v01.js
     fileType: jsCad
     filePath: bookshelf_a1/bookshelf_A1_v01.js

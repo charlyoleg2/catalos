@@ -1,0 +1,144 @@
+description: a U-shape bookshelf
+tags:
+  - carpentry
+  - wood
+  - shelf
+owner: zenobie
+createdAt: 2026-09-06T20:42:44.329Z
+updatedAt: 2026-09-06T20:42:44.384Z
+updateCount: 1
+visible: true
+linkToUi: https://charlyoleg2.github.io/parame75/desi75/ushelf
+linkToSrc: https://github.com/charlyoleg2/parame75
+linkToPkg: https://www.npmjs.com/package/desi75
+linkToCli: https://www.npmjs.com/package/desi75-cli
+linkToUis: https://www.npmjs.com/package/desi75-uis
+linkToRepo: https://github.com/charlyoleg2/maker_parame75
+linkOthers: []
+files:
+  - fileName: ushelf_A1_v01_faceTop.svg
+    fileType: svg
+    filePath: ushelf_a1/ushelf_A1_v01_faceTop.svg
+    fileSize: 248
+    createdAt: 2026-09-06T20:42:44.336Z
+    updatedAt: 2026-09-06T20:42:44.336Z
+  - fileName: ushelf_A1_v01_faceTop.dxf
+    fileType: dxf
+    filePath: ushelf_a1/ushelf_A1_v01_faceTop.dxf
+    fileSize: 300
+    createdAt: 2026-09-06T20:42:44.339Z
+    updatedAt: 2026-09-06T20:42:44.339Z
+  - fileName: ushelf_A1_v01_faceSideR.svg
+    fileType: svg
+    filePath: ushelf_a1/ushelf_A1_v01_faceSideR.svg
+    fileSize: 285
+    createdAt: 2026-09-06T20:42:44.341Z
+    updatedAt: 2026-09-06T20:42:44.341Z
+  - fileName: ushelf_A1_v01_faceSideR.dxf
+    fileType: dxf
+    filePath: ushelf_a1/ushelf_A1_v01_faceSideR.dxf
+    fileSize: 420
+    createdAt: 2026-09-06T20:42:44.344Z
+    updatedAt: 2026-09-06T20:42:44.344Z
+  - fileName: ushelf_A1_v01_faceSide.svg
+    fileType: svg
+    filePath: ushelf_a1/ushelf_A1_v01_faceSide.svg
+    fileSize: 285
+    createdAt: 2026-09-06T20:42:44.347Z
+    updatedAt: 2026-09-06T20:42:44.347Z
+  - fileName: ushelf_A1_v01_faceSide.dxf
+    fileType: dxf
+    filePath: ushelf_a1/ushelf_A1_v01_faceSide.dxf
+    fileSize: 420
+    createdAt: 2026-09-06T20:42:44.351Z
+    updatedAt: 2026-09-06T20:42:44.351Z
+  - fileName: ushelf_A1_v01_faceFace.svg
+    fileType: svg
+    filePath: ushelf_a1/ushelf_A1_v01_faceFace.svg
+    fileSize: 249
+    createdAt: 2026-09-06T20:42:44.353Z
+    updatedAt: 2026-09-06T20:42:44.353Z
+  - fileName: ushelf_A1_v01_faceFace.dxf
+    fileType: dxf
+    filePath: ushelf_a1/ushelf_A1_v01_faceFace.dxf
+    fileSize: 300
+    createdAt: 2026-09-06T20:42:44.356Z
+    updatedAt: 2026-09-06T20:42:44.356Z
+  - fileName: ushelf_A1_v01_faceBeamTop.svg
+    fileType: svg
+    filePath: ushelf_a1/ushelf_A1_v01_faceBeamTop.svg
+    fileSize: 558
+    createdAt: 2026-09-06T20:42:44.358Z
+    updatedAt: 2026-09-06T20:42:44.358Z
+  - fileName: ushelf_A1_v01_faceBeamTop.dxf
+    fileType: dxf
+    filePath: ushelf_a1/ushelf_A1_v01_faceBeamTop.dxf
+    fileSize: 824
+    createdAt: 2026-09-06T20:42:44.361Z
+    updatedAt: 2026-09-06T20:42:44.361Z
+  - fileName: ushelf_A1_v01.scad
+    fileType: scad
+    filePath: ushelf_a1/ushelf_A1_v01.scad
+    fileSize: 3046
+    createdAt: 2026-09-06T20:42:44.363Z
+    updatedAt: 2026-09-06T20:42:44.363Z
+  - fileName: ushelf_A1_v01.py
+    fileType: pyFreecad
+    filePath: ushelf_a1/ushelf_A1_v01.py
+    fileSize: 8516
+    createdAt: 2026-09-06T20:42:44.365Z
+    updatedAt: 2026-09-06T20:42:44.365Z
+  - fileName: ushelf_A1_v01.pax.json
+    fileType: paxJson
+    filePath: ushelf_a1/ushelf_A1_v01.pax.json
+    fileSize: 9821
+    createdAt: 2026-09-06T20:42:44.367Z
+    updatedAt: 2026-09-06T20:42:44.367Z
+  - fileName: ushelf_A1_v01.log.txt
+    fileType: txtLog
+    filePath: ushelf_a1/ushelf_A1_v01.log.txt
+    fileSize: 289
+    createdAt: 2026-09-06T20:42:44.369Z
+    updatedAt: 2026-09-06T20:42:44.369Z
+  - fileName: ushelf_A1_v01.js
+    fileType: jsCad
+    filePath: ushelf_a1/ushelf_A1_v01.js
+    fileSize: 3840
+    createdAt: 2026-09-06T20:42:44.370Z
+    updatedAt: 2026-09-06T20:42:44.370Z
+  - fileName: px_ushelf_A1_v01.json
+    fileType: pxJson
+    filePath: ushelf_a1/px_ushelf_A1_v01.json
+    fileSize: 271
+    createdAt: 2026-09-06T20:42:44.373Z
+    updatedAt: 2026-09-06T20:42:44.373Z
+  - fileName: f05.png
+    fileType: image
+    filePath: ushelf_a1/f05.png
+    fileSize: 6415
+    createdAt: 2026-09-06T20:42:44.375Z
+    updatedAt: 2026-09-06T20:42:44.375Z
+  - fileName: f04.png
+    fileType: image
+    filePath: ushelf_a1/f04.png
+    fileSize: 4688
+    createdAt: 2026-09-06T20:42:44.378Z
+    updatedAt: 2026-09-06T20:42:44.378Z
+  - fileName: f03.png
+    fileType: image
+    filePath: ushelf_a1/f03.png
+    fileSize: 4925
+    createdAt: 2026-09-06T20:42:44.379Z
+    updatedAt: 2026-09-06T20:42:44.379Z
+  - fileName: f02.png
+    fileType: image
+    filePath: ushelf_a1/f02.png
+    fileSize: 4936
+    createdAt: 2026-09-06T20:42:44.381Z
+    updatedAt: 2026-09-06T20:42:44.381Z
+  - fileName: f01.png
+    fileType: image
+    filePath: ushelf_a1/f01.png
+    fileSize: 4447
+    createdAt: 2026-09-06T20:42:44.384Z
+    updatedAt: 2026-09-06T20:42:44.384Z
