@@ -1,0 +1,6 @@
+# .htaccess for clever-cloud Apache configuration
+
+# enable CORS (cross-origin-request)
+<IfModule mod_headers.c>
+  Header set Access-Control-Allow-Origin "*"
+</IfModule>
