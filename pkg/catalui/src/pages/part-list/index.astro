@@ -10,7 +10,9 @@ const parts = await getCollection('parts');
 <Layout title="All part list">
 	<h1>List of all parts</h1>
 	<section>
-		{parts.map((part) => <PartMicroCard part={part} />)}
+		{parts.map((part) => (
+			<PartMicroCard part={part} />
+		))}
 	</section>
 </Layout>
 

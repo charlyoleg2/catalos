@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.784Z
-updatedAt: 2025-01-15T23:11:50.950Z
-updateCount: 2
+updatedAt: 2026-10-18T06:46:38.614Z
+updateCount: 3
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/heliostat
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -72,15 +72,15 @@ files:
   - fileName: heliostat_v01.py
     fileType: pyFreecad
     filePath: heliostat/heliostat_v01.py
-    fileSize: 112938
+    fileSize: 112941
     createdAt: 2025-01-14T19:40:44.845Z
-    updatedAt: 2025-01-14T19:40:44.845Z
+    updatedAt: 2026-10-18T06:46:38.601Z
   - fileName: heliostat_v01.pax.json
     fileType: paxJson
     filePath: heliostat/heliostat_v01.pax.json
-    fileSize: 1271061
+    fileSize: 1305357
     createdAt: 2025-01-14T19:40:44.847Z
-    updatedAt: 2025-01-14T19:40:44.847Z
+    updatedAt: 2026-10-18T06:46:38.604Z
   - fileName: heliostat_v01.log.txt
     fileType: txtLog
     filePath: heliostat/heliostat_v01.log.txt

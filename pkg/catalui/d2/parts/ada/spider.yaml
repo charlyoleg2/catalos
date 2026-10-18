@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.595Z
-updatedAt: 2025-01-15T23:11:50.726Z
-updateCount: 2
+updatedAt: 2026-10-18T06:46:38.213Z
+updateCount: 3
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/spider
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -78,9 +78,9 @@ files:
   - fileName: spider_v01.py
     fileType: pyFreecad
     filePath: spider/spider_v01.py
-    fileSize: 9249
+    fileSize: 9250
     createdAt: 2025-01-14T19:40:44.605Z
-    updatedAt: 2025-01-14T19:40:44.605Z
+    updatedAt: 2026-10-18T06:46:38.206Z
   - fileName: spider_v01.pax.json
     fileType: paxJson
     filePath: spider/spider_v01.pax.json

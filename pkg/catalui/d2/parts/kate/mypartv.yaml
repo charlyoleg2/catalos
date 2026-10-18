@@ -4,8 +4,8 @@ tags:
   - re-export design
 owner: kate
 createdAt: 2025-01-18T14:39:38.650Z
-updatedAt: 2025-01-18T14:39:38.661Z
-updateCount: 1
+updatedAt: 2026-10-18T06:46:48.867Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame53/desi53b/myPartV
 linkToSrc: https://github.com/charlyoleg2/parame53
@@ -114,9 +114,9 @@ files:
   - fileName: myPartV_v01.pax.json
     fileType: paxJson
     filePath: mypartv/myPartV_v01.pax.json
-    fileSize: 124825
+    fileSize: 128277
     createdAt: 2025-01-18T14:39:38.659Z
-    updatedAt: 2025-01-18T14:39:38.659Z
+    updatedAt: 2026-10-18T06:46:48.865Z
   - fileName: myPartV_v01.log.txt
     fileType: txtLog
     filePath: mypartv/myPartV_v01.log.txt

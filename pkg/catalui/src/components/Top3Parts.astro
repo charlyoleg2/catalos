@@ -23,7 +23,9 @@ const parts = dSorted[sortKey as tDSortedKey].parts;
 			Click here to see all parts
 		</p>
 	</a>
-	{parts.slice(0, 3).map((part) => <PartCard part={part} />)}
+	{parts.slice(0, 3).map((part) => (
+		<PartCard part={part} />
+	))}
 </section>
 
 <style>

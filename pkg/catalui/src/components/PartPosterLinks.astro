@@ -19,14 +19,23 @@ const userPhoto = path.join('u', user.data.photoPath);
 	<section>
 		<img alt={userPhoto} src={userPhoto} />
 		<div>
-			<h2>by {user.id} <span>( {user.data.city} - {user.data.country} )</span></h2>
+			<h2>
+				by {user.id}{' '}
+				<span>
+					( {user.data.city} - {user.data.country} )
+				</span>
+			</h2>
 			<h1>{prunePrefix(part.id)}</h1>
 		</div>
 	</section>
 	<dl>
-		<dt><i>Description:</i></dt>
+		<dt>
+			<i>Description:</i>
+		</dt>
 		<dd>{part.data.description}</dd>
-		<dt><i>Tags:</i></dt>
+		<dt>
+			<i>Tags:</i>
+		</dt>
 		<dd>{part.data.tags.join(', ')}</dd>
 	</dl>
 	<table>
@@ -39,38 +48,48 @@ const userPhoto = path.join('u', user.data.photoPath);
 		<tbody>
 			<tr>
 				<td>UI</td>
-				<td><Surl url={part.data.linkToUi} /> </td>
+				<td>
+					<Surl url={part.data.linkToUi} />
+				</td>
 			</tr>
 			<tr>
 				<td>Sources</td>
-				<td><Surl url={part.data.linkToSrc} /> </td>
+				<td>
+					<Surl url={part.data.linkToSrc} />
+				</td>
 			</tr>
 			<tr>
 				<td>npm package</td>
-				<td><Surl url={part.data.linkToPkg} /> </td>
+				<td>
+					<Surl url={part.data.linkToPkg} />
+				</td>
 			</tr>
 			<tr>
 				<td>npx cli</td>
-				<td><Surl url={part.data.linkToCli} /> </td>
+				<td>
+					<Surl url={part.data.linkToCli} />
+				</td>
 			</tr>
 			<tr>
 				<td>npx UI-server</td>
-				<td><Surl url={part.data.linkToUis} /> </td>
+				<td>
+					<Surl url={part.data.linkToUis} />
+				</td>
 			</tr>
 			<tr>
 				<td>Maker repo</td>
-				<td><Surl url={part.data.linkToRepo} /> </td>
+				<td>
+					<Surl url={part.data.linkToRepo} />
+				</td>
 			</tr>
-			{
-				part.data.linkOthers.map((item) => (
-					<tr>
-						<td />
-						<td>
-							<Surl url={item} />
-						</td>
-					</tr>
-				))
-			}
+			{part.data.linkOthers.map((item) => (
+				<tr>
+					<td />
+					<td>
+						<Surl url={item} />
+					</td>
+				</tr>
+			))}
 		</tbody>
 	</table>
 </article>

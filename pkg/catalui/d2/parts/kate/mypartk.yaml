@@ -4,8 +4,8 @@ tags:
   - import part
 owner: kate
 createdAt: 2025-01-18T14:39:38.757Z
-updatedAt: 2025-01-18T14:39:38.765Z
-updateCount: 1
+updatedAt: 2026-10-18T06:46:49.203Z
+updateCount: 2
 visible: true
 linkToUi: https://charlyoleg2.github.io/parame51/desi51/myGroup2/myPartK
 linkToSrc: https://github.com/charlyoleg2/parame51
@@ -78,9 +78,9 @@ files:
   - fileName: myPartK_v01.pax.json
     fileType: paxJson
     filePath: mypartk/myPartK_v01.pax.json
-    fileSize: 124825
+    fileSize: 128277
     createdAt: 2025-01-18T14:39:38.762Z
-    updatedAt: 2025-01-18T14:39:38.762Z
+    updatedAt: 2026-10-18T06:46:49.194Z
   - fileName: myPartK_v01.log.txt
     fileType: txtLog
     filePath: mypartk/myPartK_v01.log.txt

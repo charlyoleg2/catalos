@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.262Z
-updatedAt: 2025-01-15T23:11:50.570Z
-updateCount: 2
+updatedAt: 2026-10-18T06:46:37.858Z
+updateCount: 3
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/vaxis_holder
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -126,9 +126,9 @@ files:
   - fileName: vaxis_holder_B2_v01.py
     fileType: pyFreecad
     filePath: vaxis_holder_b2/vaxis_holder_B2_v01.py
-    fileSize: 14840
+    fileSize: 14841
     createdAt: 2025-01-14T19:40:44.314Z
-    updatedAt: 2025-01-14T19:40:44.314Z
+    updatedAt: 2026-10-18T06:46:37.852Z
   - fileName: vaxis_holder_B2_v01.pax.json
     fileType: paxJson
     filePath: vaxis_holder_b2/vaxis_holder_B2_v01.pax.json

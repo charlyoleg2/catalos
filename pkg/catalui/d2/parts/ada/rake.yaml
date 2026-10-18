@@ -4,8 +4,8 @@ tags:
   - model 50cm
 owner: ada
 createdAt: 2025-01-14T19:40:44.693Z
-updatedAt: 2025-01-15T23:11:50.823Z
-updateCount: 2
+updatedAt: 2026-10-18T06:46:38.419Z
+updateCount: 3
 visible: true
 linkToUi: https://charlyoleg2.github.io/parametrix/heliostat/rake
 linkToSrc: https://github.com/charlyoleg2/parametrix
@@ -150,9 +150,9 @@ files:
   - fileName: rake_v01.py
     fileType: pyFreecad
     filePath: rake/rake_v01.py
-    fileSize: 21664
+    fileSize: 21665
     createdAt: 2025-01-14T19:40:44.719Z
-    updatedAt: 2025-01-14T19:40:44.719Z
+    updatedAt: 2026-10-18T06:46:38.411Z
   - fileName: rake_v01.pax.json
     fileType: paxJson
     filePath: rake/rake_v01.pax.json

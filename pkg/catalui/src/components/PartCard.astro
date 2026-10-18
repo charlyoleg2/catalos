@@ -21,18 +21,18 @@ const remainList = imageList(part).slice(0, 2).length;
 		<h2>by {user.id}</h2>
 		<h1>{prunePrefix(part.id)}</h1>
 		<div>
-			{
-				imageList(part)
-					.slice(0, 2)
-					.map((item) => (
-						<img
-							alt={`u/${part.id}/${item.fileName}`}
-							src={`u/${part.id}/${item.fileName}`}
-							class="vignette"
-						/>
-					))
-			}
-			{[0, 1].slice(remainList).map(() => <div class="vignette" />)}
+			{imageList(part)
+				.slice(0, 2)
+				.map((item) => (
+					<img
+						alt={`u/${part.id}/${item.fileName}`}
+						src={`u/${part.id}/${item.fileName}`}
+						class="vignette"
+					/>
+				))}
+			{[0, 1].slice(remainList).map(() => (
+				<div class="vignette" />
+			))}
 		</div>
 	</article>
 </a>

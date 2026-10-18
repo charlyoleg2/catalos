@@ -13,13 +13,19 @@ const imgL = imageList(part).map((item) => `u/${part.id}/${item.fileName}`);
 ---
 
 <article>
-	{imgL.map((item, idx) => <img alt={item} src={item} class="vignette" data-idx={idx} />)}
+	{imgL.map((item, idx) => (
+		<img alt={item} src={item} class="vignette" data-idx={idx} />
+	))}
 </article>
 <dialog id="dCview" data-imgl={JSON.stringify(imgL)}>
 	<section>
-		<button id="bPrev" class="cside">&lt;</button>
+		<button id="bPrev" class="cside">
+			&lt;
+		</button>
 		<div></div>
-		<button id="bNext" class="cside">&gt;</button>
+		<button id="bNext" class="cside">
+			&gt;
+		</button>
 	</section>
 	<button class="cback">close - back - escape</button>
 </dialog>
