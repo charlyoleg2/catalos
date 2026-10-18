@@ -40,11 +40,13 @@
 	"engines": {
 		"node": ">=22.0.0"
 	},
-	"tsup": {
+	"tsdown": {
 		"entry": [
 			"src/catal-uis.ts"
 		],
 		"format": "esm",
+		"target": "esnext",
+		"fixedExtension": false,
 		"splitting": false,
 		"dts": false,
 		"sourcemap": false,
@@ -59,8 +61,8 @@
 		"overrides": []
 	},
 	"scripts": {
-		"dev": "tsup --watch",
-		"build": "tsup",
+		"dev": "tsdown --watch",
+		"build": "tsdown",
 		"check": "tsc --noEmit",
 		"pretty": "prettier --check .",
 		"format": "prettier --write .",
