@@ -1,0 +1,457 @@
+{
+  "partName": "spiral",
+  "pDef": {
+    "partName": "spiral",
+    "params": [
+      {
+        "name": "QuadrantNb",
+        "unit": "quadrant",
+        "init": 9,
+        "min": 1,
+        "max": 100,
+        "step": 1,
+        "dropdown": [],
+        "pType": 0
+      },
+      {
+        "name": "W1",
+        "unit": "mm",
+        "init": 10,
+        "min": 1,
+        "max": 100,
+        "step": 1,
+        "dropdown": [],
+        "pType": 0
+      },
+      {
+        "name": "E1",
+        "unit": "mm",
+        "init": 30,
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "dropdown": [],
+        "pType": 0
+      },
+      {
+        "name": "E2",
+        "unit": "mm",
+        "init": 5,
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "dropdown": [],
+        "pType": 0
+      },
+      {
+        "name": "Height",
+        "unit": "section-separator",
+        "init": 0,
+        "min": 0,
+        "max": 0,
+        "step": 0,
+        "dropdown": [],
+        "pType": 3
+      },
+      {
+        "name": "H1",
+        "unit": "mm",
+        "init": 50,
+        "min": 1,
+        "max": 200,
+        "step": 1,
+        "dropdown": [],
+        "pType": 0
+      }
+    ],
+    "paramSvg": {
+      "QuadrantNb": "spiral_top.svg",
+      "W1": "spiral_top.svg",
+      "E1": "spiral_top.svg",
+      "E2": "spiral_top.svg",
+      "H1": "spiral_top.svg"
+    },
+    "sim": {
+      "tMax": 720,
+      "tStep": 0.5,
+      "tUpdate": 500
+    }
+  },
+  "params": {
+    "QuadrantNb": 9,
+    "W1": 10,
+    "E1": 30,
+    "E2": 5,
+    "Height": 0,
+    "H1": 50
+  },
+  "figures": {
+    "faceTop": [
+      [
+        {
+          "circle": false,
+          "seg": [
+            {
+              "typ": 0,
+              "px": -30,
+              "py": 3.67394039744206e-15
+            },
+            {
+              "typ": 2,
+              "px": -40,
+              "py": 4.898587196589413e-15,
+              "radius": 5,
+              "large": false,
+              "ccw": true
+            },
+            {
+              "typ": 2,
+              "px": -1.53142747957078e-14,
+              "py": -40,
+              "radius": 40,
+              "large": false,
+              "ccw": true
+            },
+            {
+              "typ": 2,
+              "px": 43.75,
+              "py": 3.749999999999989,
+              "radius": 43.75,
+              "large": false,
+              "ccw": true
+            },
+            {
+              "typ": 2,
+              "px": -3.7499999999999907,
+              "py": 51.25,
+              "radius": 47.5,
+              "large": false,
+              "ccw": true
+            },
+            {
+              "typ": 2,
+              "px": -55,
+              "py": 6.735557395310443e-15,
+              "radius": 51.25,
+              "large": false,
+              "ccw": true
+            },
+            {
+              "typ": 2,
+              "px": -3.326958111497494e-14,
+              "py": -55,
+              "radius": 55,
+              "large": false,
+              "ccw": true
+            },
+            {
+              "typ": 2,
+              "px": 58.75,
+              "py": 3.749999999999971,
+              "radius": 58.75,
+              "large": false,
+              "ccw": true
+            },
+            {
+              "typ": 2,
+              "px": -3.749999999999971,
+              "py": 66.25,
+              "radius": 62.5,
+              "large": false,
+              "ccw": true
+            },
+            {
+              "typ": 2,
+              "px": -70,
+              "py": 3.9658772283535856e-14,
+              "radius": 66.25,
+              "large": false,
+              "ccw": true
+            },
+            {
+              "typ": 2,
+              "px": -1.8223120434001057e-13,
+              "py": -70,
+              "radius": 70,
+              "large": false,
+              "ccw": true
+            },
+            {
+              "typ": 2,
+              "px": -1.5619817514858049e-13,
+              "py": -60,
+              "radius": 5,
+              "large": false,
+              "ccw": true
+            },
+            {
+              "typ": 2,
+              "px": -60,
+              "py": 1.405746437499029e-13,
+              "radius": 60,
+              "large": false,
+              "ccw": false
+            },
+            {
+              "typ": 2,
+              "px": -3.7499999999998805,
+              "py": 56.25,
+              "radius": 56.25,
+              "large": false,
+              "ccw": false
+            },
+            {
+              "typ": 2,
+              "px": 48.75,
+              "py": 3.7499999999998805,
+              "radius": 52.5,
+              "large": false,
+              "ccw": false
+            },
+            {
+              "typ": 2,
+              "px": -1.0715662413980896e-13,
+              "py": -45,
+              "radius": 48.75,
+              "large": false,
+              "ccw": false
+            },
+            {
+              "typ": 2,
+              "px": -45,
+              "py": 1.0543098281242717e-13,
+              "radius": 45,
+              "large": false,
+              "ccw": false
+            },
+            {
+              "typ": 2,
+              "px": -3.749999999999915,
+              "py": 41.25,
+              "radius": 41.25,
+              "large": false,
+              "ccw": false
+            },
+            {
+              "typ": 2,
+              "px": 33.75,
+              "py": 3.7499999999999236,
+              "radius": 37.5,
+              "large": false,
+              "ccw": false
+            },
+            {
+              "typ": 2,
+              "px": -7.14377494265393e-14,
+              "py": -30,
+              "radius": 33.75,
+              "large": false,
+              "ccw": false
+            },
+            {
+              "typ": 2,
+              "px": -30,
+              "py": 5.696464557944957e-14,
+              "radius": 30,
+              "large": false,
+              "ccw": false
+            }
+          ]
+        }
+      ]
+    ],
+    "faceSide": [
+      [
+        {
+          "circle": false,
+          "seg": [
+            {
+              "typ": 0,
+              "px": -40,
+              "py": 0
+            },
+            {
+              "typ": 1,
+              "px": -30,
+              "py": 0
+            },
+            {
+              "typ": 1,
+              "px": -30,
+              "py": 50
+            },
+            {
+              "typ": 1,
+              "px": -40,
+              "py": 50
+            },
+            {
+              "typ": 1,
+              "px": -40,
+              "py": 0
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "circle": false,
+          "seg": [
+            {
+              "typ": 0,
+              "px": 33.75,
+              "py": 0
+            },
+            {
+              "typ": 1,
+              "px": 43.75,
+              "py": 0
+            },
+            {
+              "typ": 1,
+              "px": 43.75,
+              "py": 50
+            },
+            {
+              "typ": 1,
+              "px": 33.75,
+              "py": 50
+            },
+            {
+              "typ": 1,
+              "px": 33.75,
+              "py": 0
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "circle": false,
+          "seg": [
+            {
+              "typ": 0,
+              "px": -55,
+              "py": 0
+            },
+            {
+              "typ": 1,
+              "px": -45,
+              "py": 0
+            },
+            {
+              "typ": 1,
+              "px": -45,
+              "py": 50
+            },
+            {
+              "typ": 1,
+              "px": -55,
+              "py": 50
+            },
+            {
+              "typ": 1,
+              "px": -55,
+              "py": 0
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "circle": false,
+          "seg": [
+            {
+              "typ": 0,
+              "px": 48.75,
+              "py": 0
+            },
+            {
+              "typ": 1,
+              "px": 58.75,
+              "py": 0
+            },
+            {
+              "typ": 1,
+              "px": 58.75,
+              "py": 50
+            },
+            {
+              "typ": 1,
+              "px": 48.75,
+              "py": 50
+            },
+            {
+              "typ": 1,
+              "px": 48.75,
+              "py": 0
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "circle": false,
+          "seg": [
+            {
+              "typ": 0,
+              "px": -70,
+              "py": 0
+            },
+            {
+              "typ": 1,
+              "px": -60,
+              "py": 0
+            },
+            {
+              "typ": 1,
+              "px": -60,
+              "py": 50
+            },
+            {
+              "typ": 1,
+              "px": -70,
+              "py": 50
+            },
+            {
+              "typ": 1,
+              "px": -70,
+              "py": 0
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  "volume": {
+    "extrudes": [
+      {
+        "outName": "subpax_spiral",
+        "face": "spiral_faceTop",
+        "extrudeMethod": 0,
+        "length": 50,
+        "rotate": [
+          0,
+          0,
+          0
+        ],
+        "translate": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "volumes": [
+      {
+        "outName": "pax_spiral",
+        "boolMethod": 0,
+        "inList": [
+          "subpax_spiral"
+        ]
+      }
+    ]
+  },
+  "subs": {},
+  "log": "spiral simTime: 0\nspiral step 3.75 mm\npi -40 4.898587196589413e-15\nspiral drawn successfully!\n"
+}
